@@ -1,0 +1,2651 @@
+
+
+Fig. 17-13		Electro Hydraulic Braking System（BOSCH） 图 17-13	电液制动系统（博世）
+
+
+SBC electro hydraulic braking system 电子感应制动控制电液制动系统SBC=sensotronic brake control 电子传感制动控制
+active wheel speed sensor with rota- tional direction sensing  带转动方向感应的主动式轮速传感器
+engine management control unit 发 动机管理模块
+SBC control unit 电子感应制动控制
+
+模块
+yaw-rate and lateral acceleration sensor
+横摆率和横向加速度传感器
+hydraulic  modulator  （for  SBC，  ABS， TCS，  ESP）    液压调制器（用于 SBC， ABS， TCS， ESP）
+actuation unit with pedal-travel sensor
+带踏板行程传感器的作动模块
+steering-angle sensor 转向角度传感器
+
+
+
+Fig. 17-14	Compressed-Air Braking System（Truck） 图 17-14	气压制动系统（载货车）
+
+
+air brake[braking] system， pneumatic brake system 气压制动系统，气制动系统
+dual-circuit two-line power-brake system with pneumatic transmission  device 双回路双管路气压制动系统
+dual-circuit two-line power-brake system with hydraulic transmission device 双回路双管路液压制动系统air-assisted   hydraulic   brake   system， air-over-hydraulic braking system 气 压 - 液压制动系统，气顶油制动系统
+modern compressed-air power-brake system 现代气压动力制动系统
+dual-circuit single-line power-brake system 双回路单管路动力制动系统
+two-line braking system for trailer/ semitrailer 挂车/半挂车双管路制动系统
+energy supply device 供能装置
+reservoir， air storage reservoir， air tank
+储气罐[筒]
+brake （control， activation， application） valve 制动阀
+trailer control and supply device 挂 车
+控制和供能装置
+braking-force control 制动力控制装置
+wheel brake 车轮制动器
+aircompressor 空气压缩机，压气机
+pressure regulating valve， pressure regu- lator 压力调节阀
+antifreeze pump 防冻剂泵
+anti-freezer 防冻器
+four-circuit protection valve 四通路保护阀
+reservoir， air storage reservoir 储气筒
+coupling head with automatic closing element    自动关闭式连接器头jumper hose connection （挂车）跨接软管连接器
+pneumatic braking connection 气 制动管连接器
+drain valve 排泄阀
+
+water-drain valve  放水阀
+non-return valve， check valve， back. pressure valve 止回阀，单向阀
+verification valve 检验阀
+parking-brake valve   驻车制动阀
+trailer braking valve   挂车制动阀
+coupling head without closing element
+无关闭元件连接头
+6， 12    brake hose coupler   制动软管连接器
+spring-brake actuator  弹簧储能制动作动器
+front axle 前 桥
+ALB = automatic load-sensitive braking force  metering	自动感载制动力调节装置
+rear axle 后 桥
+service brake valve， driver's brake valve 行车制动阀
+brake chamber 制动气室
+BC=brake cylinder 制动缸
+relay valve 继动阀
+combination brake chamber[cylinder]
+组合式制动气室
+service brake valve with pressure limit- ing 限压式行车制动阀
+pressure limiting valve 限压阀
+parking-brake valve with pressure limit- ing 限压式驻车制动阀
+air hydraulic power unit， air over hydr- aulic  intensifier[booster]	气压- 液压增压器，气顶油助力器
+double pressure gauge 双针气压表
+dual-circuit  protection  valve	双通路保护阀
+parking brake control device 驻 车 制动机构操纵装置
+parking-brake mechanism  驻车制动机构
+load/empty valve 负载/空载阀
+secondary consumer 第二消耗装置
+（如排气制动）
+
+
+
+Fig. 17-15	Basic Components of Air Braking System for Truck
+图 17-15	货车气压制动系统主要零部件
+
+
+air compressor 空气压缩机
+pressure regulator 调压器
+air drier 空气干燥器
+four-circuit protection valve 四 通 路保护阀
+air reservoir[tank] for rear  axle 后 桥制动器储气筒
+air reservoir[tank] for parking brake
+驻车制动器储气筒
+air reservoir[tank] for front axle 前 桥制动器储气筒
+coupling head for trailer air brake hose
+挂车气压制动管连接器
+electric supply socket for  trailer 挂 车电源插座
+low-pressure indicator for trailer brake
+挂车制动气压过低指示器
+combination vehicle air brake connect- ing valve 汽车气压制动器连接阀coupling head for trailer air brake hose 挂车气压制动管连接器
+
+trailer brake control valve    挂车制动阀
+check valve with one way   单通单向阀
+air pressure gauge  气压表
+low-pressure indicator 压力不足警告灯
+safety valve 安全阀
+ECU = electronic control unit 电控单元
+service-brake valve   行车制动阀
+parking brake valve   驻车制动阀
+rear pressure regulator 后压力调节器
+spring brake chamber 储能弹簧制动气室
+load sensing proportioning valve 感载比例阀
+relay valve 继动阀
+front pressure regulator 前压力调节器
+brake chamber  制动气室
+wheel speed sensor 轮速传感器
+wheel brake 车轮制动器
+
+
+
+
+
+
+Fig. 17-16	Basic Components of Air Braking System for Bus
+图 17-16	客车气压制动系统主要零部件
+
+
+energy supply 供能装置
+actuating device 执行装置
+transmission device 传能[动]装置
+quick release valve 快放阀
+tee joint[coupling] 三通接头
+brake hoseⅠ 1 号制动软管
+rear brake chamber 后制动气室
+brake hose  Ⅱ 2 号制动软管
+EBCM =electronic brake control module
+电子制动电控单元
+relay valve 继动阀
+4-circuit protection  valve  四通路保护阀
+condensator 冷凝器
+air drier 空气干燥器
+rear air bag   后气囊
+height valve   高度阀
+
+front air bag 前气囊
+overflow valve 溢流阀
+front brake chamber 前制动气室
+brake hose  Ⅲ 3 号制动软管
+manual brake valve 手动制动阀
+service-brake valve 行车制动阀
+stop lamp switch  制动灯开关
+air reservoir [tank]	储气筒
+air compressor 空气压缩机，压气机
+pressure regulator  压力调节器
+regeneration-air tank 回收储气筒
+drain valve 排放阀
+ISPV=load sensing proportioning valve
+感载比例阀
+parking-brake valve 驻车制动阀
+to brake 至制动器
+
+
+
+Fig. 17-17	Drum Brake for CV
+图 17-17	商用车鼓式制动器
+
+
+CV = commercial vehicle   商用车
+“S”cam “S”凸轮式
+drum brake with S-cam S 形凸轮张开式鼓式制动器
+simplex wedge 领从蹄式楔形
+drum brake with wedge 楔块鼓式制动器
+wedge brake 楔式制动器
+A， B one leading shoe brake 单领蹄式制动器
+low self-energization  brake  低助势式制动器
+simplex brake 领从蹄制动器
+duplex brake， two leading shoe brake
+
+双领蹄式制动器
+duo-duplex wedge    双向双领蹄式楔形
+duo-duplex brake   双向双领蹄式制动器
+direction of rotation （制动鼓）转动方向
+self-energization    增势，（自）助势
+self-reduction 减势，自减势
+torque 转 矩
+5a S-cam S 形凸轮
+5b wedge 楔
+leading shoe 领 蹄
+trailing shoe 从 蹄
+support point 支 点
+wheel-brake cylinder 制动轮缸
+wedge-type shoe 楔形蹄
+
+
+
+Fig. 17-18	Main Components of Air Braking System（1）
+图 17-18	气压制动系统主要零部件（1）
+
+
+air compressor 空（气）压（缩）机，压气机
+pressure regulating valve 调压阀，压力调节阀
+pressure governor， pressure regulator
+调压器，压力调节器
+air brake valve  气制动阀
+service-brake valve 行车制动阀dual-chamber air brake valve 双腔气制动阀
+series dual-chamber air brake valve
+串列式双腔气制动阀
+air drier[dryer] 空气干燥器
+single-box air drier 单室空气干燥器 E brake chamber， brake cylinder  制动气室 combination brake chamber[cylinder]
+组合式制动气室
+F    trailer brake （control） valve  挂车制动阀
+cylinder head 气缸盖
+intake valve 进气门
+intermediate  plate	中间板（ 带进排气阀）
+cylinder 气 缸
+piston 活 塞
+connecting rod 连 杆
+crankcase 曲轴箱
+crankshaft 曲 轴
+to compressed air system 至压缩空气系统
+from air compressor 来自空压机
+bleeder valve  溢流阀，放气阀
+diaphragm 膜 片
+blow-off port， exhaust   放气口，排气口
+hollow rod 空心杆
+to air reservoir 至储气筒
+check valve， single check valve   单向阀
+blow-off 排 出
+travel spring 行程弹簧
+supply circuit 1 1 号供能回路
+
+control valve 控制阀
+supply circuit 2 2 号供能回路
+brake circuit 2 2 号制动回路
+rocking piston 摆动活塞
+brake circuit l 1 号制动回路
+reaction piston 反作用活塞
+balance piston  平衡活塞
+desiccant box 干燥剂室
+from pressure  regulating  valve  来自调压阀
+from air compressor 来自空压机
+heating element 加热元件
+to regeneration air reservoir  至 再生储气筒
+to supply-air reservoir 至供气储气筒
+diaphragm chamber  膜片室
+control line （膜片式制动气室）控制管路
+control line （储能弹簧气室）控制管路
+energy storage spring brake chamber
+储能弹簧制动室
+energy （storage） spring    储能弹簧
+release screw 放松螺杆
+piston rod  活塞杆
+push rod 推 杆
+pressure rod  压力杆
+service-brake circuit l 1 号行车制动回路
+parking-brake circuit  驻车制动回路
+service-brake circuit 2 2 号行车制动回路
+pilot spring 引导弹簧
+control piston 1  1 号控制活塞
+control line to trailer 至挂车的控制管路
+control piston unit  控制活塞组件
+supply line to trailer 至挂车的供气管路
+control piston 2 2 号控制活塞
+
+
+
+Fig. 17-19	Main Components of Air Braking System（2）
+图 17-19	气压制动系统主要零部件（2）
+
+
+safety valve   安全阀
+3 way valve   三通阀
+double check valve 双通单向阀
+relief valve 安全阀，泄压阀
+
+air limiting valve 空气限止阀
+relay emergency valve  紧急继动阀G  trailer protection valve  挂车安全阀H hydraulic relief valve 液压继动阀
+
+
+
+
+Fig. 17-20	Retarder
+图 17-20	缓速器
+
+
+参考：GB/T 5620-2002《道路车辆 汽车和挂车制动名词术语及其定义》retarder brake system 缓速制动装置additional retarding braking  system  辅助缓速制动系统
+exhaust[engine]  retarder，  exhaust  brake
+排气缓速[制动]器
+retarder by combustion engine 发 动机缓速装置
+A1 exhaust brake with exhaust flap and constant throttle 带排气阀片和恒定节流阀的排气缓速器
+A2 intake shutter  进气节流板
+hydrodynamic retarder  液力缓速器C electrodynamic retarder， electric re- tarder， electric brake 电力缓速器
+electromagnetic retarder 电磁缓速器
+boost retarder    加强型缓速器d1 separate oil circuit  分开的油路d2 heat exchanger 热交换器
+d3 retarder circuit 缓速器回路
+exhaust shutter 排气节流板
+compressed air 压缩空气
+control cylinder  控制缸
+exhaust brake cylinder 排气制动缸
+constant throttle 恒定节流阀
+air intake 进 气
+exhaust shutter valve 排气节流阀
+exhaust flap  排气阀片
+
+bypass 旁通气道
+regulator valve （排气压力）调节阀
+exhaust valve  排气门
+exhaust 排 气
+braking stator  制动定子
+drive shaft 驱动轴
+braking rotor  制动转子
+mounting flange  安装法兰
+heat exchanger  热交换器
+star-shaped bracket  星形支架
+rotor on  transmission  side  变速器侧转子
+discal rotor 盘形转子
+shim rings 垫片束
+stator with coil 带线圈的定子stationary electromagnet 定子电磁铁组stationary torus 环形定子
+intermediate flange 中间法兰
+rotor on rear axle 后桥侧转子
+air gap 气 隙
+transmission output shaft 变速器输出轴
+transmission cover  变速器盖
+wiring plug 电线插头
+proportional valve  比例阀
+compressed air cylinder 压缩空气缸
+stator 定 子
+rotor 转 子
+gear box flange 变速器法兰
+spur gears   直齿轮组
+transmission   变速器
+
+Passenger Car Body
+乘用车车身
+参考：GB/T 4780-2000《汽车车身术语》
+QC/T  514-1999《轿车车身名词术语》（说明，此标准已经作废，被 GB/T 4780-2000 替代，但 GB/T    4780-2000 中没有的术语，本单元仍然采用了此标准）
+JASO B802-1988《（日本汽车标准组织）乘用车车身词汇》
+
+Fig. 18-1	Body Class（ification） of Passenger Car
+图 18-1	乘用车车身分类
+
+
+
+
+Fig. 18-2	Illustrated Index of Car Body Structure（1）
+图 18-2	乘用车车身结构图解索引（1）
+
+caution plate  警告牌，注意事项牌
+front fender apron  前挡泥板（参阅图
+18-15）
+engine hood lock 发动机罩锁（参阅图 18-8）
+front molding 前装饰条，前风窗玻璃装饰条（参阅图 18-18 和 18-19）
+armrest， arm support    肘靠
+assist grip 扶 手
+5a    sun   visor，   sun   vizor，   visor，   vizor， sunshade 遮阳板（参阅图 20-1）
+5b    hand pull， grip， grab handle    拉手
+（参阅图 20-2）
+windshield glass 前风窗玻璃，前风挡玻璃（参阅图 18-18）
+6a cowl panel 前围盖板，前风窗下框
+（参阅图 18-18）
+cowl top  前围上盖板
+roof headlining[headliner] 顶盖内衬，车顶内衬
+roof panel 顶盖，车顶（参阅图 18-11） 8a rear window glass 后窗玻璃
+lock cylinder （ & key） set    锁芯筒组件
+quarter window 后角窗
+
+door ventilation glass 角 窗
+side member 侧构件（参阅图 18-9）
+rear bumper  后保险杠
+fuel tank 燃油箱
+rear door    后门（参阅图 18-16）
+side mo（u）lding    侧装饰条
+front door 前门（参阅图 18-16）
+floor heat insulator[shield]  地板隔热罩
+engine  hood	发动机罩（ 参阅图 
+18-15）
+18a    front （wing） fender    前翼子板（参阅图 18-15）
+floor  side  member（rail，  frame）	地板纵梁（参阅图 18-4 中 31）
+crossmember and under cover 横 梁和下罩
+20a suspension cross member 悬架横梁
+20b engine under cover  发动机下罩
+battery carrier 蓄电池支架
+radiator grille 散热器格栅
+front  bumper	前保险杠（ 参阅图
+18-6）
+
+
+
+Fig. 18-3	Illustrated Index of Car Body Structure（2）
+图 18-3	乘用车车身结构图解索引（2）
+
+
+accelerator （pedal）    加速踏板
+front seat 前座椅（参阅图 20-3）
+I/P = instrument panel， dash， dash-board， fascia    仪表板（参阅图 18-21）
+front door window regulator 前门玻
+璃升降器（参阅图 18-16 中 13）
+seat belt， safety belt 安全带（参阅图
+20-15）
+rear door window regulator 后 门 玻璃升降器（参阅图 18-16 中 13）
+trim board 装饰板（参阅图 18-12）
+rear seat    后座椅（参阅图 20-2 中 2）
+luggage compartment mat   行李箱垫
+9a    package  tray  （panel）  trim panel    后窗板装饰板
+rear mo（u）lding    后装饰条，后嵌条
+emblem， badge， mark， insignia  车标
+name plate， emblem， badge    铭牌
+luggage compartment lid 行李箱盖
+spare wheel carrier  备胎架
+
+floor  pan，  floor  panel，  floor  board
+地板
+lower back panel 下后板
+roof side ventilator 车顶侧方通风器
+（说明：老式车此通风器都在后侧窗处或后侧窗上方，现在的车装在下方的较多）
+spoiler & mudguard 扰流器和挡泥板
+16a    spoiler    扰流板（参阅图 18-22） 16b rubber mudguard 橡胶挡泥板
+rear door lock 后门锁
+console  （box），  floor  console    副仪表板（这是国标名称，国标中的注解是： 位于驾驶人旁，用于安装辅助指示器和操纵件的部件），落地操纵台，中央控制台
+ashtray[receiver， receptacle]    烟灰盒
+front door lock 前门锁（参阅图 18-16）
+carpet， floor carpet（ing）    地毯
+floor mat 地板衬垫
+
+
+
+Fig. 18-4	Body Exploded View
+图 18-4	车身分解图
+
+
+参考：2014 通用汽车配件目录和美国“碰撞评估培训手册”2003 年版
+4 door passenger car unibody  四 门乘用车承载式车身
+unibody 承载式车身
+pick up truck full frame body  皮 卡全车架车身
+body over （chassis） frame construction， separate frame construction 非 承 载式车身
+radiator support 散热器固定框
+upper rail 上 梁
+apron assembly 挡泥板分总成
+lower rail 下 梁
+RAIL， F/CMPT SI = front compartment side rail 前舱纵梁
+rail reinforcement 加强梁
+cowl panel 前围上盖板
+hinge pillar， outer    外铰链柱
+hinge pillar，    inner    内铰链柱
+7+8    A  pillar，  windshield  pillar    A 柱，前窗柱
+roof panel[skin] 顶 盖
+windshield header  风窗上框
+bow， roof bow    顶盖横梁（见图 18-5-2）
+side rail， outer    外边[纵]梁
+roof outer side rail 顶盖外边[纵]梁
+side rail， inner    内边[纵]梁
+roof inner side rail 顶盖内边[纵]梁
+center pillar， B pillar    中柱，B 柱
+pillar reinforcement 门柱加强件
+outer rocker panel  门框外下边梁
+inner rocker  门框内下边梁PANEL， RKR INR =rocker inner panel门框内下边梁
+16， 17    rock（er） panel， side sill， rocker   门框下边梁
+rocker  reinforcement	门框下边梁加强件
+front floor panel 前地板
+
+front floor pan  前地板盘
+passenger compartment  pan  乘客区地板盘
+front cross member 前横梁
+floor cross member 地板横梁
+quarter panel 后侧围外板（车身后部两侧转角处的外板）
+lock pillar 装锁立柱
+C pillar C 柱
+inner panel， upper    上内板
+outer wheelhouse   外轮口[室]
+inner wheelhouse   内轮口[室]
+rear body panel， back panel    后围板
+rear cross member 后横梁
+rear floor panel    后地板rear floor pan 后地板盘trunk floor pan 行李箱地板
+floor extension  地板接板
+side rail 纵梁，侧梁
+rear side rail 后纵梁
+package tray  后窗台板（参阅图 18-11）
+frame assembly 车架总成
+front cross member   前横梁
+fender， wing fender  翼子板
+wheelhouse 轮口（美式英语）， wheel opening[arch] 轮 口
+dash panel 前围（挡）扳
+side rail   边梁，纵梁
+roof side rail    顶盖边[纵]梁
+side bed panel 底板侧板
+floor 地 板
+tail gate 后板，后栏板
+rear cross member 后横梁
+rear corner pillar 后角（撑）板
+cross rail 横 梁
+front bed panel 前板，前底板
+rear cab panel   驾驶室后板，后围板
+cab side panel， outer    驾驶室外侧围板
+cab side panel， inner    驾驶室内侧围板
+hinge pillar， inner， lower    内下铰链柱
+
+
+
+Fig. 18-5	Body Structure
+图 18-5	车身结构
+
+
+main body 车身本体（结构件与覆盖件焊接或铆接后不可拆卸的总成）
+cross member under windshield[wind- screen] 风窗玻璃下横梁
+front  roof  bow[panel  member]，  front panel reinforcement， front panel rein- forcement cross piece， front roof frame顶盖前横梁，车顶前骨架
+roof rail， side roof frame， roof side rail
+上边梁，顶盖纵梁
+rear  roof  bow  [panel  member]，  rear roof frame 顶盖后横梁，车顶后骨架
+rear pillar， rear post， C-pillar， C-post
+后柱，C 柱
+rear  end  [skirt，  facing]  panel，  lower back panel 后围板
+7， 14    wheel  opening[cutout，  arch，  house， well] 轮口（车身裙部供车轮装卸与转向回旋的开口部分）
+rear side member， rear floor side frame， floor  side  member[rail]	后纵梁，后侧构件
+
+center pillar[post]， B-pillar[post]   中柱，B 柱
+cross member under seat 后座下横梁
+front pillar[post]， A-pillar[post]   前柱，A 柱
+cross member under driver’s  seat  驾驶人座下横梁
+longitudinal[side] member 纵 梁rocker panel， sill panel， side sill， step board， foot board， running    board
+门槛，下边梁
+engine-support cross member 发 动机支撑横梁
+front  side  member  [rail，  frame]    前纵梁
+front cross member[rail] 前横梁
+front  end  panel，  nose  panel    发动机罩前支撑板
+radiator cross member， radiator upper support	散热器上横梁
+
+
+
+Fig. 18-6	Bumper
+图 18-6	保险杠
+
+
+shock-absorber type   缓冲器式
+energy-absorbing type   吸能式
+rubstrip （保险杠）防擦条，橡胶条
+bumper fascia， bumper cover， bumper face 保险杠罩面
+bumper 保险杠
+2a    front  spoiler，  air  dam，  air  deflector
+前扰流板，前阻风板
+upper  reinforcement	（保险杠）上加强件
+
+energy absorber （保险杠）吸能元件
+bumper reinforcement    保险杠加强件
+bumper beam 保险杠梁
+molding 装饰条
+6a right molding 右装饰条
+6b left molding 左装饰条
+bumper  end  cap，  bumper  extension
+保险杠端帽[延伸段]
+bumper bar  保险杠主杆
+piston （缓冲器）活塞
+
+Fig. 18-7	Bumper Parts’ Names for Parts’ Catalog
+图 18-7	保险杠配件目录所用零件名称
+
+
+说明：参考图 18-6
+RUBSTRIP，  FRONT  BUMPER	前保险杠橡胶条
+COVER，  FRONT BUMPER    前保险杠罩
+FACE， FR. BUMPER    前保险杠罩
+FR. = FRONT
+2b    SPOILER，  FR.  AIR    前阻风板，前扰流板
+REINFORCEMENT SUB-ASSY， FRONT  BUMPER，  UPPER    前保险杠上加强件分总成
+ABSORBER，  FR.  BUMPER    前保险杠吸能件
+BEAM， FR. BUMPER    前保险杠梁
+MOULDING， FRONT BUMPER    前保险杠装饰条
+
+6a    MOULDING， FR. BUMPER EXTEN-
+SION， RH  前保险杠右延伸段装饰条
+RH = RIGHT-HAND 右 侧
+6b    MOULDING， FRONT BUMPER
+EXTENSION，  LH    前保险杠左延伸段装饰条
+LH = LEFT-HAND 左 侧
+EXTENSION， FRONT BUMPER
+前保险杠延伸段
+BAR，  FRONT  BUMPER    前保险杠主杆
+PISTON， ENERGY ABSORBING DEVICE 缓冲器活塞
+
+注：国外汽车配件目录英文词组常用全大写印刷体、倒装词序。本图中词条选自丰田汽车配件目录，可作示例。
+
+
+
+
+Fig. 18-8	Hood Lock & Hinge
+图 18-8	发动机罩锁和铰链
+
+
+hood support rod， engine hood support [rod， stay]， hood rod    发动机罩撑杆
+hood lock striker 发动机罩锁扣
+hood latch  发动机罩锁闩
+spring 弹 簧
+hinge 铰 链
+hood lock control lever 发动机罩锁操纵拉杆
+
+hinge 铰 链
+hood lock control cable 发动机罩锁控制拉索
+safety hook， safety catch， auxiliary catch hook， secondary latch    安全拉钩
+tension spring 拉紧弹簧
+hood lock assy. 发动机罩锁总成
+
+
+
+Fig. 18-9	Body Side Member
+图 18-9	车身侧构件
+
+
+body side panel 车身侧板件
+front body inner pillar 前柱内板，内前柱
+roof drip channel 流水槽
+front body pillar reinforcement 前 柱加强件
+roof （side） inner rail    内上边梁，顶盖内纵梁
+roof side rail reinforcement 上边梁加强件
+roof side inner panel  顶盖内侧板
+roof side inner rear panel 顶盖后内侧板
+rear （wing） fender， rear wing   后翼子板 quarter   panel，   side   panel（ing），   rear outside panel 后顶盖侧板，后侧围板，四分之一面板
+wheel house outer panel， quarter wheel
+
+house outer panel， quarter rear wheel- house 轮口外板，车轮外挡泥罩
+wheelhouse  inner  panel，  inner  rear wheelhouse，   quarter   wheel   house inner panel 轮口内板，车轮内挡泥罩
+10a strut tower （挡泥罩）减振器滑柱塔
+形支撑
+9+10 wheel house panel 车轮挡泥罩
+center body outer pillar[post]  中 柱外板，外中柱
+sill reinforcement  门槛加强件
+center body inner pillar， inner center pillar 中柱内板，内中柱
+front body outer pillar 前柱外板，
+外前柱
+roof （side outer） rail， outer side roof rail 上边梁，车门上框
+center reinforcement 中柱加强
+
+
+
+Fig. 18-10	Trunk[Deck] Lid
+图 18-10	行李箱盖
+
+
+boot  lid，  baggage[stowage]  compartment lid，  stowage  lid，  rear  deck[compartment] lid 行李箱盖
+luggage compartment lid 行李箱盖
+luggage compartment door 行李舱门
+hinge  （行李箱盖）铰链
+hinge bar   铰链扭力杆
+trunk lid torsion bar 行李箱盖扭力杆
+luggage compartment door panel 行李舱门板
+
+trunk lid panel 行李箱盖板
+lock （assy.）	（行李箱盖）锁
+4a power lock assy. 电动锁总成
+lock striker， latch striker （行李箱盖）
+锁闩，锁扣
+control cable assy. （行李箱盖锁）控制拉索总成
+lock opener （行李箱盖）锁开启器
+weather-strip   （行李箱盖）密封条
+
+
+
+
+Fig. 18-11	Roof Panel & Rear Window Glass
+图 18-11	顶盖和后窗玻璃
+
+
+windshield header panel 前窗顶板
+roof panel 顶 盖
+2a    roof panel with （sliding） roof    带（滑动）天窗的顶盖
+sun roof 太阳天窗（天窗玻璃是无色透明的）
+moon roof 月亮天窗（天窗玻璃是有色或不透明的）
+back[rear]   window   glass，   backlight glass， backlite glass    后窗玻璃
+（back  window）  upper  frame    （后窗）
+顶梁
+roof panel reinforcement， roof bow， roof   panel   member，   roof   cross   rail顶盖横梁
+
+rear （window，  parcel） shelf，  rear pack- age  tray，  package  tray  （panel），  rear deck，  shelf  panel，  parcel  shelf  panel， back light shelf， backlite shelf， rear lug- gage shelf panel， upper back panel   后窗台板（客舱内后座靠背与后窗连接的板件。“upper back panel”原指“后围上盖板”，现因多数轿车“后围上盖板” 与“后窗台板”连为一体，所以也称为“后窗台板”）
+6a    upper  back  panel，  rear  waist  panel， back window  lower panel，  rear deck panel 后围上盖板（后窗下部与行李箱盖连接的外层盖板）
+trim cover 装饰罩
+
+
+
+Fig. 18-12	Inside Trim Board & Door Opening Trim Moulding
+图 18-12	内装饰板和门孔装饰
+
+
+cowl side trim （panel）， dash side trim
+前围侧装饰板
+door opening trim weather  strip  门孔装饰密封条
+door opening seal 门孔密封条
+front pillar garnish[trim] 前柱装饰板
+center pillar upper garnish [trim] 中柱上装饰板
+roof side rail weather strip， upper door
+
+opening seal 上边梁密封条，顶盖纵梁密封条
+roof side inner garnish 顶盖侧方内装饰板
+door （sill） scuff plate    门槛防磨板
+door （sill） outer scuff plate    门槛外侧防磨板
+center pillar lower garnish[trim]  中柱下装饰板
+
+
+
+Fig. 18-13	Package Tray Trim Panel & Luggage Compartment Mat
+图 18-13	后窗台装饰板和行李舱垫
+
+
+package tray trim panel 后窗台装饰板（参阅图 18-11 中 6）
+trunk lid cover    行李箱盖衬板luggage compartment door cover 行李舱门衬板
+luggage compartment  floor  mat  行李舱地毯
+
+inner trim cover （行李舱）内装饰罩
+spare wheel cover  备胎室罩
+rear floor finish plate   后地板装饰板
+trim rear cover （行李箱）后装饰罩
+side tray （行李箱）侧托盘
+trim front cover （行李箱）前装饰罩
+back panel silencer 背板隔声板
+
+
+
+Fig. 18-14	Unitized Body Front & Rear Structural Components
+图 18-14	承载式车身前、后部结构件
+
+
+注：选自美国《碰撞评估培训手册》2003 版。
+front body   车身前部
+rear body   车身后部
+cowl 前围板
+windshield  pillar，  A  pillar	前窗立柱，A 柱
+strut  tower[dome]	（悬）滑柱塔形支
+（撑）座
+
+upper rail 上 梁
+lower front rail 前下（纵）梁
+front compartment side rail 前舱纵梁
+apron panel 挡泥板
+passenger rear seat floor pan 后座椅盘形地板
+rear floor pan 后盘形地板
+spare tire well 备胎槽[坑]
+floor extension 地板延伸件
+
+
+
+Fig. 18-15	Hood & Front Fender
+图 18-15	发动机罩和前翼板
+
+
+hood， engine hood， engine bonnet， bonnet
+发动机罩
+hood panel 罩 板
+seal 密封条
+hood insulator   发动机罩隔声垫
+front fender， front wing    前翼板
+4a wheel opening[arch]  轮口（车身裙部供车轮装卸与转向回旋的开口部分）
+
+front fender[wing] liner 前翼板衬板
+splash liner 防溅衬板
+wheel house panel 车轮挡泥罩
+pad， seal （轮口外接板）衬垫
+wheel opening flare[extension] 轮 口外接板
+
+
+
+Fig. 18-16	Components of Door
+图 18-16	车门零部件
+
+
+door  lock  striker，  door  striker    门锁锁销（1a）  ，门锁锁环（1b）
+注：此件固定在车身中柱或后柱上，仅使用 1a 或 1b 其中一种。
+door  weatherstrip，  door  seal    车门密封条
+door 车 门
+door panel sub-assy. 门板分总成
+door panel[skin] 门 板
+door glass run， glass run （channel）   车门玻璃导槽
+lower frame bracket garnish 下框架支架装饰件
+outer rear view mirror 外后视镜
+door hinge 门铰链
+door check， door stop， door catch， door arrester， door check arm， door balancer车门开度限止器
+lower frame （车门玻璃导槽）下框架
+channel 夹 槽
+service hole cover 维修孔盖
+door belt moulding 车门腰线装饰条
+door inner  weatherstrip  车门内密封条
+window  regulator，  window  lift（er）   车门玻璃升降机
+window power regulator 车门玻璃电动升降机
+cable drive type window regulator
+拉索驱动式玻璃升降机
+
+13a window  regulator guide  车门玻璃升降机导槽
+13b sector-lever type window regulator
+齿扇杠杆式玻璃升降机
+13c glass channel 车门玻璃夹槽
+window regulator  motor  玻璃升降机电动机
+trim pocket 装饰罩小袋
+courtesy  light，  courtesy  lamp，  step lamp 踏步灯（门控上下车照明灯）
+door armrest 车门肘靠
+power window  switch  电动玻璃升降机开关
+upper armrest base panel 肘靠上底板
+door trim panel [board]  门装饰罩
+inside handle bezel  内手柄框
+inside （door） handle， door inside han- dle， interior[inside] release handle
+门内手柄
+door lock， door latch    门锁 23a door lock cable 门 锁 拉 索 23b door lock rod[link] 门锁拉杆
+door lock control knob， door lock（ing） knob[button] 门锁提钮
+door speaker board   门内扬声器盖板
+key cylinder， lock cylinder  锁芯筒
+door  handle，  outside  （door）  handle， door outside handle， exterior release handle 车门外手柄
+door（-window）    glass    车门玻璃
+
+
+
+Fig. 18-17		Front Fender Apron & Dash Panel 18-17	前翼子板挡泥板和前围挡板
+
+
+insulator （前围板）隔热板
+dash panel， dash board， toe board， fire wall 前围挡板
+outer insulator （前围板）外隔热板
+apron sub-assy. （前翼子板）挡泥板分总成（右侧）
+strut  tower，  strut  dome，  strut  turret， shock tower （悬架）滑柱塔形支撑
+front fender apron   前翼子板挡泥板
+fender	挡泥板（按照 GB/T	4780-
+
+2000 汽车车身术语中 5.48，但实际中，常用作：翼子板）
+wheel apron， fender skirt， hood ledge， wing skirt， mudguard skirt    挡泥板
+radiator （core） support    散热器固定框
+radiator upper support 散热器上支架
+front cross member  前横梁
+hood lock brace[support] 发动机罩锁支撑件
+gusset 角撑件，角板
+
+
+
+
+Fig. 18-18	Cowl Panel & Windshield Class
+图 18-18	前围上盖板和风窗玻璃
+
+
+windshield （glass）， windscreen （glass）
+风窗玻璃
+dam kit （风窗玻璃）密封坝组件（参阅图 18-19 中 14）
+rubber seal[weather seal， molding， weather strip] （风窗玻璃）橡胶密封条weatherseal， weatherstrip    密封条
+cowl top grille， cowl top ventilator louver [louvre]， cowl （vent） grille	前围板上通风栅板
+
+cowl panel[top， upper， shroud]    前围上盖板
+dash  cowl，  dashboard  cowl    前围上盖板
+cowl top side panel 前围上侧板
+windshield moulding 风窗玻璃装饰条
+windshield fastener mo（u）lding    风窗玻璃固定嵌条
+
+
+
+Fig. 18-19	Body Seal and Battery Bracket[Carrier]
+图 18-19	车身密封件和蓄电池托架
+
+
+section through an A-pillar with trim
+带装饰件的前（A）柱剖面图
+windshield seal 前风窗玻璃密封（注： 与“A”图不是同一车型）
+battery carrier 蓄电池托架
+core 芯 子
+foam （ plastics ） 泡沫塑料
+film 薄 膜
+weather-strip （前门）密封条
+window glass run 车门玻璃导槽
+door（-window） glass    车门玻璃
+door panel 门 板
+front pillar， A-pillar    前柱，A 柱
+weather strip （风窗玻璃）密封条
+
+molding 装饰条，嵌条
+reveal molding 外露嵌条
+windshield glass 前窗玻璃
+body panel 车身板件
+windshield  header  （inner）  panel    前窗顶板（参阅图 18-11 中 1）
+adhesive 密封胶
+dam 密封坝
+dam kit 密封坝组件
+clamp bolt 压紧螺栓
+bold down clamp  压紧板，压具
+battery tray 蓄电池托盘
+battery carrier support 蓄电池托架支架
+
+
+
+Fig. 18-20	Body Safe Design
+图 18-20	车身安全结构
+
+
+side  impact  （door）  beam，  door  beam， side door beam 车门防侧撞杆
+impact-absorbing body  碰撞吸收车身以下不同名称，实为同类车身
+energy absorbing body   吸能型车身
+Zone body （日产）区域车身
+G-CON body = G-force control tech- nology body （本田）可控碰撞力技术车身GOA = Global Outstanding Assessment body （丰田）全球杰出评价车身
+NCAP = New Car Assessment Program
+（美）新车评价规程（主要是安全、碰撞方面） C-NCAP = China-New Car Assessment Program 中国新车评价规程（ 按照比我国现有强制性标准更严格和更全面的要求进行碰撞安全性能测试）
+B1   crush zone，  crumpling  zone，  deforma-
+
+tion zone， deformable zone 挤压区， 折皱区
+CIAS = crash impact absorbing
+碰撞吸能结构
+rollover protection  system  滚动翻车保护装置
+C1 normal position 正常位置
+C2 rollover 翻滚，滚动翻车
+impact absorbing  structure  碰撞吸能结构
+D1  front  impact  absorbing  structure  前碰撞吸能结构
+D2 side impact  absorbing  structure  侧碰撞吸收[能]结构
+
+
+
+Fig. 18-21	Instrument Panel & Glove Compartment
+图 18-21	仪表板和杂物箱
+
+
+instrument panel reinforcement  仪 表板加强件
+passenger air bag assy. （仪表板处的）
+乘客安全气囊总成
+door （乘客安全气囊）盖
+passenger air bag  乘客安全气囊
+vent（ilator）  air  outlet    （仪表板）通风器，出风口
+register 可调出风口
+lap deflector  叠式导风器
+I/P = instrument panel 仪表板
+board dash， dash panel    仪表板 instrument panel safety pad 仪 表 板安全垫（丰田汽车配件目录中名称）
+garnish （除霜器喷嘴）装饰件
+defroster nozzle  除霜器喷嘴
+duct （除霜器喷嘴）风管[道]
+
+finish[trim] panel 装饰板
+glove compartment， glove box    杂物箱
+door （杂物箱）盖
+center  finish[trim]  panel	（ 组合仪表）中间装饰板
+14～17 instrument panel fascia 仪 表 板装饰板
+14，15 finish[trim] panel （组合仪表）装饰板
+lower finish panel （仪表板）下装饰板
+lower center finish panel （仪表板）
+下中装饰板
+stereo 立体声收放机
+opening cover 开口盖
+hole cover 孔 盖
+airbag caution label 安全气囊警告标签
+
+
+
+Fig. 18-22	Aerodynamic Attachments
+图 18-22	空气动力附加装置
+
+
+air-dam skirt， front spoiler， front air dam 前阻风板，前扰流器
+1a built-in air spoiler 内装式前阻风板，
+与保险杠一体式前扰流器
+rear spoiler 后扰流板[器]
+wind deflector， deflector shield    导流罩
+
+nose cone 头 锥
+gap seal 间隙密封罩
+vortex stabilizer 稳涡装置
+guide vane 导流片
+side skirt 侧裙板
+
+Body of Commercial Vehicle
+商用车车身
+
+
+Fig. 19-1	General Layout of Bus
+图 19-1	客车的总体布置
+
+
+rear window 后风窗
+rear window glass 后风窗玻璃
+lateral ventilator   侧方通气孔
+roof ventilator   车顶通风装置
+roof panel 顶 盖
+windscreen [windshield] 风窗玻璃
+front door 前 门
+luggage compartment[hold] lid 行 李箱盖
+side window 侧 窗
+side window glass 侧窗玻璃emergency window   安全窗（GB/T 4780-2000 中 5.54）
+rear door 后 门
+graduation between seats 座位间距
+
+passenger seat 乘客座椅
+driver seat 驾驶员座椅
+gang way width  通道宽度
+side panel 侧围板
+roof （longitudinal） rail    顶盖纵梁
+interior lamp 车内照明灯
+luggage rack[shelf] 行李架parcel rack   行李架baggage holder 行李架
+floor （panel， board）    地板
+luggage compartment[hold] 行李箱
+chassis panel 车身底板
+longitudinal floor beam 地板纵梁
+seat pedestal 座椅支柱
+
+
+
+Fig. 19-2	Body Skeleton [Frame] for Bus
+图 19-2	客车车身骨架
+
+unitized [integral] bus body 客车承载式车身
+front wall pillar 前围立柱
+front end cross sill， front skirt rail， front wall apron beam 前围裙边梁
+front  end  shelf  beam，  front  wall  shelf rail 前围搁梁
+front wall frame[skeleton] 前围骨架
+door pillar 门立柱
+waist [belt] rail 腰 梁
+skirt pillar 裙立柱
+side wall shelf rail[beam] 侧围搁梁
+side wall pillar 侧围立柱
+side skirt rail 侧围裙边梁
+side window pillar 侧窗立柱
+side wall frame[skeleton] 侧围骨架
+
+back[rear] wall pillar 后围立柱
+rear end cross sill， rear wall apron beam
+后围裙边梁
+rear end shelf， back wall shelf rail
+后围搁梁
+rear  end  frame[skeleton]，  rear  wall frame[skeleton] 后围骨架
+rear window cross sill 后窗框下横梁
+rear window header cross bar 后 窗框上横梁
+roof cross bar  顶盖横梁
+roof frame[skeleton] 顶盖骨架
+roof rail 顶盖纵梁
+windshield header cross bar 风窗上横梁
+
+
+
+Fig. 19-3	Bus Baggage-compartment Door
+图 19-3	客车行李舱门
+
+
+1，6，9 gas[air] spring 气弹簧
+2 swing joint 铰 链
+3，7，10 sealing strip 密封条
+rear maintenance door 后检修门
+handle 手 柄
+
+outer door handle 外开手柄
+8   fuel tank door   燃油箱门
+8a   baggage door   行李舱门
+11 battery door 蓄电池门
+
+
+
+Fig. 19-4	Body Front Wall and Body Rear Wall（Bus）
+图 19-4	前围和后围系统（客车）
+
+front wall outer skin 前围蒙皮
+front wall frame[skeleton] 前围骨架a+b    body front wall， front face   前围系统 a1，d1 bumper 保险杠
+a2，d2    outer panel， skin    蒙皮 b1   lower crossbeam   下横梁b2 front door pillar 前门立柱
+b3 windshield  header  crossbar  风窗上横梁
+b4 accessory fixed beam 附件固定梁
+b5 window up cross member[beam] 风
+
+窗下横梁
+b6 center cross member  中横梁
+c1 gas[air] spring 气弹簧
+c2 engine maintenance door  发动机检修门
+c3 hinge 铰 链
+d+c+e body rear wall 后围系统
+e1 rear pillar 后立柱
+e2 rear window up beam 后窗上梁
+e1+e2 rear  wall  frame[skeleton]  后 围骨架
+
+
+
+Fig. 19-5	Bus Double Swing Door
+图 19-5	客车双扇转门
+
+
+inward swinging door 内转门
+door frame rubber strip 1 门 框 1 号胶条
+door glass （right） 车门玻璃（右）
+door turning axle 门 轴
+swing arm with joint 带铰接头的转臂
+pneumatic cylinder  气动缸
+direction wheel   导向轮
+right door body   右门体
+door rubber strip 1 门 1 号胶条
+connecting panel 连接板
+lower brush   下毛刷
+upper brush   上毛刷
+
+guide rail 导 轨
+door frame rubber strip 2  门框 2 号胶条
+assist grip， handrail 扶 手
+compressed-air switch 气压开关
+oil and water separator 油水分离器
+anti-pinch switch	防夹开关
+control solenoid valve for pneumatic cylinder     气动缸控制电磁阀electric pneumatic distributor 电 动气压分配器
+air pressure gauge  气压表
+
+
+
+
+Fig. 19-6	Cab Types of Truck
+图 19-6	货车驾驶室类型
+
+
+types of truck body 货车车身类型cabin， front body， driver cab    驾驶室 A conventional cab
+CBE=cab-behind-engine，  bonneted  cab
+长头驾驶室
+COE=cab over engine， forward control cab
+平头驾驶室
+semi-forward  control  cab	半平头驾驶室
+offset cab  侧置驾驶室
+centered cab  中置驾驶室
+sleeper cab， cab with bed， sleeping cab（in）
+带卧铺的驾驶室
+club cab  球棒形驾驶室
+G1 space for parcels 放包空间
+extended cab  加长驾驶室
+crew cab， double cab    双排座驾驶室
+I， J van body 厢式货箱
+door less panel cab 无门驾驶室
+roof less cab 无顶盖驾驶室
+windshield cab 带风窗玻璃驾驶室
+pick（-）up cab    皮卡型驾驶室
+
+N1 utility cab 多用途驾驶室
+N2 suburban cab 城郊驾驶室
+G， H ， N    light truck cab    轻型货车驾驶室
+O， P cowl cab 带前围板驾驶室
+tilt （type） cab， tilting cab， movable cab
+翻转式驾驶室
+tilt cab type engine hood 翻转驾驶室式发动机罩
+Q～W engine hood type 发动机罩类型
+engine cover opening type 发动机盖板开启型
+opening type engine cover 开启式发动机罩
+tilt bonnet type   发动机罩翻转式
+tilt type bonnet   翻转式发动机罩
+T，U hood opening type cab  发动机罩开启型驾驶室
+butterfly type hood    蝶式发动机罩U    alligator type hood    鳄式发动机罩V back less panel cab  无后围板驾驶室W flap type cab  垂盖型驾驶室
+flap type hood 垂盖型发动机罩
+
+
+
+
+Fig. 19-7	Components of Truck Forward Control Cab
+图 19-7	货车平头驾驶室零部件
+
+
+参考：JASO   Z216-1990《载货汽车车身词汇》图 6
+front valance panel 前下罩板
+front panel 前围板
+windshield  header  crossbar，  window upper header  前窗上横梁
+roof bow 顶盖横梁
+roof panel 顶盖板
+roof （side） rail    上边梁
+back panel 后围板
+rear corner [closing] panel 后包角板
+door sash 门窗框
+door 门
+side sill， rock panel 门框下边梁
+
+step （panel）    踏步板
+door direct sight window 门直接观察窗
+riser 拱 板
+toe board  搁脚板
+A post 前 柱
+A post inner panel 前柱内板
+front corner （panel）， front closing  前包角
+A post upper closing[corner] 前 柱上包角
+floor panel[pan] 地 板
+pillar 立 柱
+
+
+
+Fig. 19-8	Components of Truck Conventional Cab
+图 19-8	货车长头驾驶室零部件
+
+
+参考：JASO   Z216-1990《载货汽车车身词汇》图 5
+front valance panel 前下罩板
+front apron 前挡泥板
+front skirt panel 前裙板
+front end panel 前端板
+hood 发动机罩
+cowl top （panel）    前围上盖板
+roof panel 顶盖板
+roof drip （channel）    流水槽
+cowl side panel 前围侧板
+dash panel 前围挡板
+
+floor tunnel 地板通道
+back panel 后围板
+pillar 立 柱
+side sill， rock panel 门框下边梁
+cross member [rail] 横 梁
+door sash  门窗框
+door 门
+F/front （wing） fender    前翼子板
+longitudinal  member，  side  member [rail] 纵 梁
+front fender apron 前翼子板挡泥板
+radiator support 散热器支架
+
+
+
+Fig. 19-9	Components of Crew Cab
+图 19-9	双排座驾驶室零部件
+
+
+参考：JASO   Z216-1990《载货汽车车身词汇》图 7
+slide door 滑 门
+engine cover  发动机盖
+pillar 立 柱
+pillar trim[garnish] 立柱饰板
+longitudinal member， side rail    纵梁
+slide door rail 滑门梁
+roof panel 顶盖板
+bulkhead （横）隔板
+
+floor panel 地 板
+wheel house[arch] panel 轮口板
+rear corner panel 后包角
+quarter panel 后围外侧板
+side member 纵 梁
+cross member 横 梁
+outrigger 悬臂式支架
+fuel filler lid 加油口盖
+side panel 侧围板
+roof bow 顶盖横梁
+
+
+
+
+
+Fig. 19-10	Functional Parts of Cab and Types of Tail Gate
+图 19-10	驾驶室功能件和背门类型
+
+
+参考：JASO   Z216-1990《载货汽车车身词汇》图 8-11
+van body 厢式车身
+cab-behind-engine 长头驾驶室
+types of tail gate  背门类型
+types of back door 背门类型C1 double swing door 双扇转门C2  double flap door   双扇翻门C3  single swing door  单扇转门C4 single flap door 单扇翻门
+front bumper 前保险杠
+front door window glass 前门玻璃
+windshield glass  风窗玻璃
+sunroof， sun roof    天窗
+upper sliding door roller  滑门上滚子
+rear door window glass 后门玻璃
+side window sash[frame] 侧窗窗框
+tail gate window glass 背门玻璃
+door stationary glass 车门固定玻璃
+2，6，8  door glass  车门玻璃
+door hinge   门铰链
+
+balancer 平衡器（现在不大用在此）
+gas spring 气弹簧
+side window glass  侧窗玻璃
+rear bumper  后保险杠
+fuel filler lid 加油口盖
+sliding door roller 滑门滚子
+outside door handle 外开手柄
+sliding door arm 滑门臂
+hood safety[secondary] latch （ 发 动机）盖安全锁闩
+hood safety lock （发动机）盖安全锁闩
+auxiliary catch （hook）    保险钩
+striker 锁 扣
+back window glass   背窗玻璃
+door window glass   车门玻璃
+door ventilator glass 角窗（玻璃）
+belt[waist] line， door belt    腰线
+door opening line 门开缝线
+wheel opening 轮 口
+hood hinge  发动机盖铰链
+hood opening line 发动机盖开缝线
+
+
+
+
+
+
+
+chassis frame， chassis    车架
+ladder-type frame 梯形车架
+
+Fig. 19-11	Frame
+图 19-11	车架
+chassis，  spine（-type）  chassis    脊骨[中梁]式车架
+
+heavy-duty truck frame 重型货车车架
+perimeter frame  周边式车架
+H frame H 形车架
+kick-up frame， drop （ped） frame   上弯式车架
+B1 platform type frame 平台式车架
+X frame， cross[diagonally] braced frame
+X 形车架
+B， C light-truck frame 轻型货车车架light-commercial-vehicle frame 轻型商用车车架
+backbone（-type） frame， backbone（-type）
+
+cross member， cross rail， transverse member 横 梁
+side member， side rail， frame side mem- ber[rail]， longitudinal member [rail]纵梁
+“C” section， ] section    槽形断面
+box section   箱形断面
+cap section   帽形断面
+tube section 管形断面
+support bracket （悬架弹簧）支撑架
+kick-up 上弯处
+cab mounting bracket 驾驶室安装支架
+
+
+Fig. 19-12	Parts Concerning Floor of Rear Body
+图 19-12	货箱地板有关零部件
+
+
+参考： JIS  D0105-1987《载货汽车货箱类型术语》
+drain 流水槽
+floor hook 地板钩
+floor frame 地板边梁
+floor stick 地板立柱
+sill bolt 梁螺栓
+cross sill joining stringer 连接纵梁的横梁
+floor frame bolt  地板边梁螺栓
+floor panel 地板板件
+main[side] sill 纵 梁main bolster 纵 梁longitudinal rail 纵 梁
+
+main sill end cover 纵梁端盖板
+bolster [sill] end cover   梁端盖板
+main sill spacer   纵梁垫片
+rear cross sill panel 后横梁面板
+cross joiner 横梁连接支架
+cross sill[member] 横 梁
+bolster 横 梁
+short cross sill 短横梁
+floor support 地板支架
+cross sill end cover  横梁端盖板
+rope hook 绳 钩
+rope protector  绳索保护套
+floor board  地板面板
+floor frame bolt  地板边梁螺栓
+
+
+
+Fig. 19-13	General Layout of Rear Body（Truck）
+图 19-13	货箱的总体布置（货车）
+
+
+cargo body， high deck body， conventional type rear body， truck body    货箱
+front board， header board    前（栏）板
+gate top rail 栏板上梁
+gate hinge inside strip 栏板铰链内压条
+cargo floor 货箱地板
+floor board  地板面板
+side gate 边板，侧栏板
+rear gate， tailgate    后（栏）板
+cushion rubber bumper 缓冲胶垫
+bolster[sill] end cover  梁端盖板
+brace （货箱）定位拉条
+U-bolt wood filler block U 形螺栓垫块
+U-blot U 形螺栓
+U-blot plate U 形螺栓垫板
+side sill， main sill， main bolster   纵梁
+cross sill， bolster    横梁
+wood filler block 垫 木
+main sill liner 纵梁垫木
+
+support post 栏板立柱
+floor frame 底板边梁
+gate hinge 栏板铰链
+guard frame lower gusset  plate  边柱下角板
+side gate outside panel 边板外板
+gate hook 栏板锁闩
+board edge iron 包边（立柱边缘的加强护板）
+outside post （货架）边柱
+assist handle （货架）拉手
+vertical cleat （货架）立档
+horizontal cleat （货架）横挡
+inside post （货架）立柱
+guard frame rail 货架横梁
+upper side stopper （货架）边柱上挡23～29    front guard frame， guard frame
+（assy.）    货架
+
+
+
+Fig. 19-14	Parts Concerning Guard Frame and Block Gate
+图 19-14	货架和分段式栏板有关零部件（货箱）
+
+
+参考： JIS  D0105-1987《载货汽车货箱类型术语》
+guard frame outside post 货架边柱
+guard frame stopper  边柱挡块
+guard frame upper rail 货架上横梁
+guard frame inside post   货架立柱
+guard frame guard bar   货架护栏
+guard frame sleeper 货架轨枕
+guard frame upper gusset  货架上角板
+header board 前 板
+front board 前 板
+guard frame （cross） rail    货架横梁
+corner rail 角 梁
+
+trim rail 装饰梁
+guard frame lower gusset （plate）    货架下角板
+front handle bracket 前手柄支架
+header board outside panel  前板外侧板
+upper rail 上栏杆
+middle rail 中栏杆
+lower rail  下栏杆
+15+16+17 block gate 分段式栏板
+end pillar 边立柱
+side gate hinge bar 边板铰链销
+tail gate hinge bar 后板铰链销
+
+
+
+Fig. 19-15	Parts Concerning Gate
+图 19-15	栏板有关零部件
+
+
+参考： JIS  D0105-1987《载货汽车货箱类型术语》
+side gate board （货箱）边板条板
+side gate 边（栏）板
+gate hinge inside strip 栏板铰链内压条
+rear handle bracket  后手柄支架
+tail gate board 后板条板
+tail[rear] gate 后 板
+gate latch rear handle 栏板锁闩后拉手
+tail gate end pillar   后板边立柱
+tail gate upper rail   后板上横梁
+tail gate hinge bar   后板铰链杆
+tail gate lower rail   后板下横梁
+gate corner gusset   栏板角撑件
+
+side gate rear latch  边板后锁闩
+gate hinge pin 栏板铰链销
+gate hinge bolt 栏板铰链螺栓
+side gate center post 边板中柱
+side gate lower rail 边板下栏杆
+gate panel 货箱栏板面板
+side gate hinge bar 边板铰链杆
+gate lower hinge 栏板下铰链
+side gate upper rail   边板上栏杆
+side gate end pillar   边板边立柱
+handle cap  拉手盖
+gate latch front handle 栏板锁闩前拉手
+side gate front latch  边板前锁闩
+
+
+
+Fig. 19-16	Parts Concerning Equipment Parts of Rear Body
+图 19-16	货箱附件有关零部件
+
+
+参考： JIS  D0105-1987《载货汽车货箱类型术语》
+front fender 前护板
+side gate cushion 边板垫
+corner protector 拐角保护装置
+gate rope hole 栏板绳孔
+U-bolt U 形螺栓
+side gate holder 边板固定件
+loading capacity plate 承载能力牌
+step 脚踏板
+tail gate cushion 后板垫
+spare tire carrier 备胎架
+
+rear bumper   后保险杠
+brace  （货箱）定位拉条
+U-bolt block U 形螺栓垫块
+wood filler block U 形螺栓垫块
+U-bolt set plate  U 形螺栓垫板
+mud guard  挡泥板
+fender apron[mudguard] 挡泥板
+fender stay	挡泥板支架
+rear fender 后挡泥板
+side guard  侧护栏
+tool box stay  工具箱支架
+tool box 工具箱
+
+Body Accessories
+车身附件
+
+Fig. 20-1	Mirror and Visor [Vizor]
+图 20-1	后视镜和双遮阳板
+
+
+
+
+
+
+Fig. 20-2	Seats（1）
+图 20-2	座椅（1）
+
+参考：QC/T 47-2013《汽车座椅术语》
+driver seat   驾驶座椅
+1+3   front row seat   前排座椅
+1，3 front seat 前座椅
+single seat 单人座椅
+rear seat 后排座椅bench seat， bench    长座椅 multiple seat 多人座椅double seat 双人座椅
+2a side seat 边座椅
+2b center seat 中座椅
+front passenger seat 前排乘员座椅reclining  seat，  tilting  seat    靠背倾角可调式座椅
+infant seat 婴儿座椅
+toddler seat 学步幼儿座椅
+child （restraint） seat 儿童座椅
+built-in child seat 埋[嵌]入式儿童座椅
+6a full open position 全开位置
+6b closed position 关拢位置
+power seat 电动座椅
+6-way power seat   六向电动座椅
+motor for slide 前后调节电动机longitudinal displacement adjustable seat 前后可调式座椅
+motor for up and down 上下调节电动机
+height[vertical displacement] adjustable
+
+seat 高度可调式座椅
+motor for reclining 倾角电动机
+interior （rear， rear view） mirror， inside
+（rear， rear view， back） mirror， back- light mirror  车内后视镜
+（sun） visor[vizor]    遮阳板
+assist grip， assist handle    扶手
+arm rest， arm support    肘靠
+seat back 靠 背
+15+21   full bench   长座椅
+center arm rest 中间肘靠
+back cover 靠背护面
+back pad  靠背软垫
+cushion cover 座垫护面
+cushion pad  座垫软垫
+cushion assy. 座垫总成
+front vertical lever 前竖向调节杆
+vertical lifter adjust lever 竖向举升调节杆
+reclining adjust lever 靠背角度调节杆
+seat slide 座椅前后调节
+seat front lift  座椅前部竖直升降
+seat vertical lift  座椅竖直升降
+seat reclining	座椅倾角调节
+seat slide， vertical lifter and reclining adjusting switch 座椅前后、竖向升降和倾角调节开关
+
+
+
+Fig. 20-3	Seats（Cont.）
+图 20-3	座椅（续）
+
+
+power （adjustable） seat    电动座椅
+single seat， individual seat， separate seat， divided seat 单人座椅，独立式座椅high-back seat 高靠背座椅
+split-bench seat   分开式长座椅
+split back full bench    座靠分开式长座椅
+headrest 头 枕
+adjustable headrest 可调式头枕
+side support air mat 侧支撑气垫
+lumbar support air mat 腰托支撑气垫
+lumbar 腰 托
+reclining  adjuster，  back  tilt  adjuster
+靠背倾角调节器
+seat switches 座椅调节开关
+
+5a track slide switch 前后调节开关
+5b legrest adjuster switch 腿托调节开关
+5c  seat lift adjuster switch  座椅升降调节开关
+5d  reclining adjuster switch  靠背倾角调节器开关
+lifting motor  升降电动机
+sliding motor  滑动[前后]电动机
+legrest， thigh support    腿托
+air pump 气 泵
+seat adjuster switches 座椅调节开关10a lumbar support  腰椎支撑，腰靠10b side support 侧支撑
+
+
+
+Fig. 20-4	Front Seat Components
+图 20-4	前座椅零部件
+
+manual  （adjuster  type）  front  seat    手动调节式前座椅
+seat （cushion） pad    座椅软垫
+seat cushion （trim） cover， seat cushion trim 座垫护面
+zigzag spring Z 字形弹簧
+（seat） cushion frame 座垫骨架
+stamped[rolled] frame 板材骨架
+1～4    seat cushion， cushion， seat bolster   座垫
+seat  back  （trim）  cover，  seat  back  trim
+靠背护面
+seat back pad， seat back cushion， seat back foam 靠背软垫
+headrest guide （sleeve）    头枕导套
+HR = headrest 头 枕
+seat back panel[board] 座椅背板
+seat back frame 靠背骨架
+tubular frame 管材骨架
+shield （座垫）护板
+
+trim cover 装饰罩
+inner belt （前座椅）内安全带
+inner cover （调节器）内罩
+reclining[tilt]  connecting  pipe	（ 靠背）倾角调整连接管
+track slide 滑 轨
+seat track slide adjuster 座椅前后调节器
+reclining[tilt] adjuster release handle
+（靠背）倾角调节器释放手柄
+16a reclining adjuster， recliner 靠背调角器
+height [vertical] adjuster dial [knob]
+高度调节手轮
+track release handle[towel bar] 滑 道解锁手柄
+track slide adjuster handle 滑 道 调节手柄
+track cover 滑道盖
+
+
+Fig. 20-5	Components in Instrument Panel （2014-Y Cadillac）
+图 20-5	仪表板上部件（2014 款凯迪拉克）
+
+
+参考：GB/T 4782-2001《道路车辆 操纵件、指示器及信号装置 词汇》
+air vents 通风口
+DIC buttons = driver information center buttons 驾驶员信息中心按钮
+turn and lane-change lever 转向/变道信号操纵杆
+windshield wiper/washer switch 前 风窗玻璃刮水器/洗涤器开关
+windshield wiper/washer lever 前 风 窗玻璃刮水器/洗涤器操纵杆
+hazard warning flashers 危险警告闪光器
+hazard switch  危险警告开关
+instrument cluster 组合仪表
+shift lever 换档杆
+manual mode  手动模式
+climate control system 气候控制系统control panel of climate control system 气候控制系统控制面板
+infotainment （system）    信息娱乐系统
+exterior lamp control 外部灯光控制器
+instrument panel illumination control
+仪表板照明控制器
+dome lamp override 顶灯手控装置[开关]
+cruise control 巡航控制器
+fast  idle  system  （if  equipped）   快怠速装置（如果装备）
+
+
+steering wheel adjustment （if equipped）
+转向盘调整装置（如果装备）
+DLC = data link connector （out of view）
+故障诊断插座（图中未显示）
+horn 喇 叭
+steering  wheel  control  （if  equipped）
+转向盘处的控制装置（如果装备）
+tow/haul mode button 拖曳/牵引模式按钮
+power outlets 电源插口
+StabiliTrak® system  （通用公司商品名）稳定性控制装置，同 vehicle stability control 车辆稳定性控制装置
+passenger air bag on-off switch 乘 客安全气囊开关（如果装备）
+front storage 前储物盒（如果装备）
+passenger air bag status indicator （if equipped）    乘客安全气囊状态指示器
+（如果装备）
+OnStar® system button （if equipped）
+安吉星装置按钮（如果装备）
+rear  heating  system  （if  equipped）   后取暖装置（如果装备）
+USB port USB 插 口
+
+
+
+Fig. 20-6	Instrument Cluster （English Shown）
+图 20-6	组合仪表（英制显示）
+
+INST CSTR = instrument cluster 组合仪表
+IPC =instrument panel cluster 组合仪表
+tachometer 转速表
+tow/haul mode light   牵引模式指示灯
+RPM = revolutions per minute    转每分
+brake system warning  light  制动系统警告灯
+voltmeter gauge  电压表
+charging system light 充电系统指示灯
+engine coolant temperature gauge 发动机冷却液温度表
+front fog lamp light 前雾灯指示灯
+high-beam on light 远光接通指示灯
+low fuel warning light 燃油不足警告灯
+fuel level tell-tale 燃油警报装置
+fuel gauge 燃油表F=full   满 E=empty 空
+oil pressure gauge   机油压力表
+turn indicator light   转向信号灯
+speedometer 车速表
+MPH = miles per hour 英里每时
+hill descent control light 下坡控制指示灯
+traction off light 牵引力控制装置关断指示灯
+power on / off light 动力接通/关断指示灯
+
+tire pressure light 轮胎压力指示灯
+security light 安全指示灯
+traction  control  system  （TCS）/Stabili- Trak® light  牵引力控制系统/车辆稳定性控制装置指示灯（通用汽车公司）
+driver safety belt reminder light 驾 驶员安全带提示灯
+anti-lock brake system （ABS） warning light 防抱死制动系统警告灯
+lane departure warning （LDW） light
+车道偏移警告灯
+four-wheel-drive light 四驱指示灯
+NW = north-west （当前方位）西北
+P = park brake light  驻车制动指示灯
+driver information center （DIC）    驾驶员信息中心
+shift position indicator （light） 档位指示灯
+air bag readiness light 安全气囊准备就绪灯
+malfunction indicator lamp 故障警告灯
+StabiliTrak® OFF  light  车辆稳定性控制装置关断指示灯（通用汽车公司）
+lamps on reminder 灯接通提醒器
+vehicle ahead indicator 车前方指示灯
+
+
+
+
+
+Fig. 20-7	Symbols for Controls， Indicators and Tell-tales（1）
+图 20-7	操纵件、指示器及信号装置标志（1）
+
+
+参考：SAE  J2402-2010《道路车辆  指示器、控制器和信号装置的符号》
+GB/T  4782-2001《道路车辆操纵件、指示器及信号装置词汇》
+Lighting and signalling devices 照 明和信号装置
+High beam， main beam    远光
+Low beam， dipped beam    近光
+Headlamp cleaner 前照灯清洗器
+Headlamp levelling control 前 照灯水平调节
+Front fog light 前雾灯
+Rear fog light 后雾灯
+Long-range lamp 远光灯
+Parking lights 驻车灯
+Position lights， side lights   位置灯，侧灯
+Loading light 装载灯
+Elevated headlights 高置前照灯
+Roof sign illumination  车顶信号照明
+Master lighting switch 灯光总开关
+Braking systems 制动系统
+Brake failure 制动故障
+Parking brake 驻车制动
+Brake system first circuit 制动系统第一回路
+Brake system second circuit 制 动系统第二回路
+Failure of anti-lock brake system
+防抱死制动系统故障
+Anti-lock  brake  system  （ABS），  trailer
+防抱死制动系统，挂车
+B.08    ABS Anti-lock brake system （ABS） off  or  not  available，  trailer    防抱死制动系统断开或不采用，挂车
+
+Worn brake linings 制动衬片磨损
+Brake temperature 制动器温度
+Brake system pressure 制动系统压力
+Brake fluid level 制动液位
+Visibility 能见度
+Windscreen wiper 前风窗玻璃刮水器
+Windscreen wiper， intermittent 风窗玻璃刮水器，间歇式
+Windscreen  washer	风窗玻璃洗涤器
+Windscreen washer and wiper 前风窗玻璃洗涤器和刮水器
+Windscreen washer fluid level 前风窗玻璃洗涤液位
+Windscreen demisting and defrosting
+前风窗玻璃除雾和除霜
+Windscreen，  electrically  heated    前风窗玻璃，电加热式
+Rear window  wiper  后窗玻璃刮水器
+Rear  window  wiper，  intermittent
+后窗玻璃刮水器，间歇式
+Rear window washer 后窗玻璃洗涤器
+Rear window washer and wiper
+后窗玻璃洗涤器和刮水器
+Rear window washer fluid  后 窗玻璃洗涤液
+Rear window demisting and defro- sting 后窗玻璃除雾和除霜
+Cab environment and comfort 驾 驶
+室环境和舒适性
+Air-conditioning system 空调系统
+Ventilating fan  换气扇
+Interior heating 内部加热
+
+Upper air outlet   上排气口
+Lower air outlet   下排气口
+Upper air outlet and lower air outlet
+上排气口和下排气口
+Defrost and lower air outlet 除 霜和下排气口
+Road vehicle passenger compartment air filter  道路车辆乘客区空气滤清器
+Ventilation open   通风打开
+Ventilation closed   通风关闭
+Fresh air 新鲜空气
+Recirculated air 再循环空气
+Fresh air， truck    新鲜空气，货车
+Maintenance and load  functions  维护和载荷操作过程
+Load tipping 自 卸
+Load tipping trailer 自卸挂车
+Diverging flap  release  卸货挡板释放
+Diverging  flap  release，  trailer    卸货挡板释放，挂车
+Height control， truck    高度控制，货车
+Front  height  control，  truck    前部高度控制，货车
+Rear  height  control，  truck    后部高度控制，货车
+Fifth wheel longitudinal adjustment
+牵引座纵向调节
+Fifth wheel height adjustment 牵 引座高度调节
+Snowplow 扫雪车
+Central lubrication 集中润滑
+Trailer towing mode 挂车被牵引模式
+Height control 高度控制
+Engine 发动机
+Engine 发动机
+
+Engine failure  发动机故障
+Engine coolant temperature 发 动机冷却液温度
+Engine oil 机 油
+Engine oil temperature 机油温度
+Engine oil level 机油液面
+Engine oil filter   机油滤清器
+Engine heating   发动机加热
+Electronic diesel  control  柴油机电子控制
+Diesel pre-heat 柴油机预热
+Choke 阻风门
+Hand throttle 手动节气门
+Engine start 发动机起动
+Fuel system 燃油系统
+Fuel 燃 料
+Unleaded fuel 无铅燃料
+Fuel economy 燃料经济性
+G.0 4 Fuel temperature  燃料温度
+G.05   Fuel filter   燃油滤清器
+G.0 6  Fuel heating   燃料加热
+Fuel system failure 燃油系统故障
+Fuel shut-off 燃料关断
+Fuel type 燃料类型
+Moisture in fuel system 燃料系统中水分
+Secondary interior heating fuel level
+二次内部加热燃油液面
+Fuel cap unfastened 燃油箱盖松开
+Fuel pressure  燃油压力
+Transmission 变速器
+Park （automatic transmission）    驻车档（自动变速器）
+Reverse   （automatic   transmission）
+倒档（自动变速器）
+Neutral   （automatic   transmission）
+空档（自动变速器）
+Drive	（automatic	transmission）
+前进档（自动变速器）
+
+Transmission failure   变速器故障
+Transmission  fluid  level	变速器油液面
+Transmission  temperature	变速器温度
+Transmission converter temperature
+变速器变矩器温度
+Transmission converter fluid level
+变速器变矩器油液液面
+Transmission converter failure  变速器变矩器故障
+Transmission 变速器
+Transmission fluid  filter  变速器油滤清器
+Clutch 离合器
+Power drive 动力驱动
+All wheel drive 4×4   4×4 全轮驱动
+Rear axle drive 4×4   4×4 后桥驱动
+Front axle drive 4×4 4×4 前 桥驱动
+All wheel drive 6×6   6×6 全轮驱动
+Rear axle drive 6×6   6×6 后桥驱动
+Front axle drive 6×6 6×6 前 桥驱动
+Differential   lock，   one   drive   axle
+差速器锁，单驱动桥
+Differential  lock，  rear  axle  4 × 4
+差速器锁，4×4 后桥
+Differential  lock，  transfer  case  4×4
+差速器锁，4×4 分动器
+Differential  lock，  front  axle  4×4
+差速器锁，4×4 前桥
+Differential lock，  bogie   差速器锁，双轴并装车桥
+Differential  lock，  rear  axle  6 ×6
+差速器锁，6×6 后桥
+Differential  lock，  front  axle  6×6
+差速器锁，6×6 前桥
+
+Vehicle handling and cruise control
+车辆操作和巡航控制
+Steering circuit number 1 转向盘
+1 号回路
+Steering circuit number 2 转 向 盘
+2 号回路
+Steering fluid level 转向液位
+Steering failure 转向故障
+4 - wheel steer	4 轮转向
+Traction control 牵引力控制
+Traction control off or not available
+牵引力控制关断或未采用
+Cruise control 巡航控制
+Adaptive cruise control 自适应巡航控制
+Adaptive cruise control failure 自适应巡航控制故障
+Parking aid 辅助驻车装置
+Traction control failure 牵引力控制故障
+Hill descent control  下坡控制
+Active and passive safety  systems 主动和被动安全系统
+Seat belt   安全带
+Air bag 安全气囊
+Driver air bag off or not available
+驾驶员安全气囊关断或未采用
+Passenger air bag 乘员安全气囊
+Passenger air bag off or not available
+乘员安全气囊关断或未采用
+Side impact air bag 侧面碰撞安全气囊
+Child seat 儿童座椅
+Door（s） ajar    门微开[未关紧]
+Cab lock 驾驶室锁止
+Low tire pressure 轮胎低压
+Tire pressure 轮胎压力
+Tire temperature  轮胎温度
+
+Fire extinguisher	灭火器
+Security 安 全
+Bonnet （front hood）	机罩（前盖）
+Boot （rear trunk）	盖（后行李箱）
+Door lock control 门锁操纵
+Lock 锁 止
+Unlock 未 锁
+Double door lock 两道锁
+Immobilizer， theft prevention 防盗阻断器， 防盗
+Power window  lock （disable）	电动车窗锁止（损坏）
+Child lock， locked    儿童门锁，锁止
+Child  lock，  unlocked    儿童门锁，未锁
+Panic alarm system 紧急警报系统
+Motion sensor  运动传感器
+Motion sensor off or not available
+运动传感器关断或未采用
+Electric functions in general and electric road vehicles  普通和电动汽车中的电子功能
+Battery charging condition 蓄 电池充电状况
+Battery failure 蓄电池故障
+Battery fluid level 蓄电池液位
+Battery shut-off   蓄电池关断
+Fuse box access   熔丝盒检修
+High voltage warning， risk of electric shock 高电压警告，触电危险
+State of charge propulsion  battery
+动力蓄电池充电状态
+Propulsion  battery  failure	动力蓄电池故障
+Electric motor failure 电动机故障
+M.10  External  cord  connect  电线外部连接
+M.12 Electric motor enabled  电动机允许启用
+
+Information and communication  信息和通信
+Phone 耳 机
+Speak，  voice  activation    讲话，语音激活
+Operator’s manual， operation inst- ructions 操作者手册
+Destination home   目的地家
+Antenna 天 线
+North indicator  指北针
+Generic vehicle shapes 普通汽车外形
+W01    Passenger vehicle type 1， side view
+1 型乘用车，侧视图
+W02    Passenger vehicle type 2， side view 2 型乘用车，侧视图
+W03    Passenger vehicle type 3， side view 3 型乘用车，侧视图
+W04    Passenger vehicle， rear view    乘用
+车，后视图
+W05    Passenger  vehicle，  front  view    乘用车，前视图
+W06    Passenger  vehicle，  top  view    乘用车，俯视图
+W07    Commercial vehicle type 1， side view
+型商用车，侧视图
+W08    Commercial vehicle type 2， side view
+型商用车，侧视图
+W09 Commercial vehicle， rear view 商用车，后视图
+W10    Commercial vehicle and bus， front view 商用车和客车，前视图
+W12    Commercial  vehicle，  top  view    商
+用车，俯视图
+W13    Full trailer， side view    全挂车，侧视图
+Miscellaneous 综 合
+X.01 Power on / off 动力接通/切断
+Front externally open step， platform， or lid 外开放式前踏板、平台或盖
+
+Side externally open step， platform， or lid 外开放式侧踏板、平台或盖
+Jack 千斤顶
+Service，  call  for  maintenance    服务，呼叫维修
+Failure 故 障
+Special symbols 专用符号
+OFF 关 断
+Automatic function 自动功能
+ON 接 通
+START 起 动
+STOP 停 止
+Special signs 专用标记
+Z.01A Child seat prohibition  禁用儿童座椅
+Z.01B Child seat prohibition  禁用儿童座椅（ 说明：黑色的图，红色的圆圈和斜杠）
+
+Recommended minimum octane number 建议最低辛烷值
+Fuel type 燃料类型
+Child seat attachment-ISOFIX/Latch system 儿童座椅附件-  ISOFIX/ 锁止系统
+ISOFIX 国际通用的儿童约束系统固定装置
+Child seat lower anchorage / atta- chment 儿童座椅下固定/连接
+Child seat upper tether anchor 儿
+童座椅上系紧锚定器
+Keep hands off 请勿动手
+Air bag 安全气囊
+No stepping on surface 表面禁止蹬踏
+Do not walk or stand here  禁止通
+行或站立
+
+
+
+
+
+
+Fig. 20-8	Symbols for Controls， Indicators and Tell-tales（2）
+图 20-8	操纵件、指示器及信号装置标志（2）
+
+
+Lighting and signalling devices 照 明和信号装置
+Exterior bulb failure 外部灯泡故障
+Instrument panel illumination 仪表板照明
+Turn signals 转向信号
+Turn  signal  trailer，  road  vehicles
+挂车转向信号，道路车辆
+Hazard warning 危险[急]报警
+Horn 喇 叭
+Interior compartment illumination
+舱内照明
+Interior directed illumination  舱内直接照明
+reading/map light 阅读灯
+Working light   工作灯
+Beacon   圆塔形信号灯
+Taxi sign light 出租车信号灯
+Medical assistance sign light 医 疗救护信号灯
+Daytime running lights 日间行车灯
+Night vision 夜间视觉，夜视
+Footwell  illumination	脚部空间照明
+A .30 Low-level  interior  illumination  低亮度内照明
+A .31 Sleeper compartment illumination
+卧铺舱照明
+A .32 Bend lighting 弯道照明灯
+Braking systems 制动系统
+Retarder （下坡）缓速器
+Spring brake release 弹簧制动器释放
+Exhaust gas brake 排气制动器
+Retarder failure 缓速器故障
+
+B. 18   Anti-lock brake system （ABS） off or not available  防抱死制动系统关断或未用
+Trailer brake  挂车制动器
+Hill holding 坡道保持制动器
+Visibility 能见度
+Side window demisting and defrost
+-ting 侧窗玻璃除雾和除霜
+Exterior rear view mirror adjust- ment，  horizontal  type     外后视镜调节，水平型
+Exterior rear view mirror adjust- ment，  vertical  type     外后视镜调节，垂直型
+Exterior rear view mirror heating， horizontal type 外后视镜加热，水平型
+Exterior rear view mirror heating， vertical type 外后视镜加热，垂直型
+Power  folding  exterior  mirror，  hor- izontal type 电动折叠外后视镜， 水平型
+Power folding exterior mirror， ver- tical type 电动折叠外后视镜，垂直型
+Glare  prevention，  exterior  mirror， horizontal   防眩，外后视镜，水平
+Glare  prevention，  exterior  mirror， vertical 防眩，外后视镜，垂直
+Front wiper de-ice electric heating system   前刮水器电加热除冰系统
+Windscreen washer fluid heating
+前风窗玻璃洗涤液加热
+Cab environment and comfort 驾 驶室环境和舒适性
+
+Recirculated  air，  truck    再循环空气，货车
+Roof   ventilation，   truck	车顶通风，货车
+Sunshade 遮阳帘
+Roof  ventilation，  passenger car    天窗通风，乘用车
+Rear  window  lift，  power  operated
+后窗玻璃升起，电动
+Window  lift，  power  operated    窗玻璃升起，电动
+Seat  adjustment，  longitudinal    座椅调节，纵向
+Seat  adjustment，  seat  back  recline
+座椅调节，靠背倾斜
+Seat height adjustment 座椅高度调节
+Seat height adjustment， cushion front 座椅高度调节，座垫朝前
+Seat height adjustment， cushion rear 座椅高度调节，座垫朝后
+Seat height adjustment， headrest
+座椅高度调节，头枕
+Seat lumbar  adjustment  座椅腰托调节
+Heated seat 加[电]热式座椅
+Lighter 点烟器
+Cup holder 杯 托
+Ventilated seat 通风式座椅
+Secondary interior heating 二 次内部加热
+Convertible top 活 顶
+Pedal adjustment  踏板调节
+Air-conditioning system， off or not available 空调装置，关断或未使用
+Wind draught deflector 导风板
+Active seat 主动式座椅
+Sleeper compartment air circulation
+卧铺舱空调
+
+Refrigerator 冷藏箱
+Body/cargo  heater	车身/ 货物加热器
+F Engine 发动机
+Engine shut-off 发动机关断
+Engine coolant  level 发动机冷却液液面
+Engine coolant heating 发动机冷却液加热
+Engine coolant fan 发动机冷却液风扇
+Engine inlet air filter 发动机进气空气滤清器
+Engine inlet air pre-heat 发 动 机进气预热
+Turbo 涡轮增压器
+Engine emission  filter  发动机排放滤清器
+Engine emission system failure
+发动机排放系统故障
+Turbocharger  temperature	涡轮增压器温度
+NOx reduction agent 降 低 NOx
+添加剂
+Engine  status  information	发动机状态信息
+Engine emission  system temperature
+发动机排放系统温度
+H Transmission 变速器
+Transmission  system pressure，  road vehicles 变速器系统压力，道路车辆
+Automatic  mode	自动模式（指变
+速器）
+Manual  mode	手动模式（指变速器）
+I	Power drive 动力驱动
+Differential lock bogie 6×6 6×6
+双轴并装车桥差速器锁
+Differential lock， transfer case 6×6
+
+差速器锁，6×6 分动器
+Differential lock， transfer case and bogie 6×6 差速器锁，分动器和6×6 双轴并装车桥
+Power take off， number 1    1 号取力器
+Power take off， number 2    2 号取力器
+Axle fluid level 驱动桥液面
+Axle failure 车桥故障
+Axle lifting 车桥举升
+Winch 绞 盘
+Fifth wheel coupling locked / secure
+牵引座连接器锁止/安全
+Fifth wheel coupling unlocked / unsecure 牵引座连接器未锁止/ 不安全
+Robson drive  罗布森驱动
+Axle fluid  temperature  驱动桥液温度
+Drawbar coupling locked / secure
+牵引杆连接锁止/安全
+Drawbar coupling open / unsecure
+牵引杆连接开启/不安全
+Drawbar angle warning 牵 引 杆角度报警
+Vehicle handling and cruise control 车辆操作和巡航控制
+Stability control system 稳定性控制系统
+Stability control off or not available
+稳定性控制关断或未使用
+Icy road condition 冰路状态
+Limited performance mode 限 制性能模式
+
+Steering wheel lock 转向盘锁止
+Active and passive safety systems 主动和被动安全系统
+Protective roll bar 防翻滚杆
+Forward collision warning system
+（FCWS）    正向碰撞警告系统
+Lane departure warning system
+（LDWS）    车道偏离警告系统
+Obstacle warning system， side rear
+障碍物警告系统，侧后
+Side impact air bag off 侧 面 碰撞安全气囊关闭
+Passenger side impact airbag off
+乘客位安全气囊关闭
+Camera 摄像头
+Drowsiness 瞌 睡
+Security 安 全
+Emergency first aid vehicle  医 疗救援车
+Tow truck	清障车，救援车
+Rear lift glass 后上翻式玻璃
+Rear lift gate 后上翻式门
+Sliding door 滑 门
+Smart card， smart key    智能卡，智能钥匙
+W Generic vehicle shapes 普通汽车外形
+W14    Semi trailer， side view    半挂车，侧视图
+W15 Trailer， rear view 挂车，后视图
+W16    Bus type 1， side view    1 型客车，侧视图
+W17    Bus type 2， side view    2 型客车，侧视图
+W20    Bus， rear view    客车，后视图
+
+
+
+Fig. 20-9	Design and Schematic of Instrument Cluster
+图 20-9	组合仪表结构和原理图
+
+
+indicator lamp 指示灯
+printed-circuit board 印制电路板
+stepping motor 步进电动机
+reflector 反射镜
+view cover 图像罩
+needle 指 针
+LED=light emitting diode 发光二极管
+dial face  刻度表盘
+optical waveguide 光学波导器
+LCD=liquid crystal display 液 晶 显示器
+connector 插接器
+power supply 电 源
+discrete signal inputs  离散信号输入
+bus interface （CAN etc.）	（CAN 等）总线接口
+
+microcontroller 微控制器
+typical  software  fuctions	软件典型功能
+signal acquisition 信号获取
+filtering 过 滤
+diagnostic function 诊断功能
+activation of warning lamps and stepping motors 激活警告灯和步进电动机
+calculation algorithms 预测运算法则
+stepping-motor driver 步进电动机驱动器
+LED driver 发光二极管驱动器
+display driver  显示屏驱动器
+warning lamps  警告灯
+lighting 照明灯
+
+
+
+Fig. 20-10	Wiper and Washer
+图 20-10	刮水器和洗涤器
+
+
+WSW = windshield [windscreen] wiper 前风窗玻璃刮水器
+rear（-window）  wiper    后风窗玻璃刮水器
+wiper motor  刮水器电动机
+electric   pump   for   washing   system， washer  motor  and  pump   assy.  洗涤装置电动泵
+tandem system 同向制（两刮片同向摆动）
+opposed system 对向制（两刮片逆向摆动）
+controlled single-arm wiper  system  可控单臂刮水装置
+
+wiper motor  刮水器电动机
+wiper link 刮水器连杆
+wiper blade assy. 刮水器刮片总成
+claw bracket 爪形托架
+wiper arm 刮水器臂
+DC motor with permanent  magnets 永磁直流电动机
+worm gear 蜗杆传动装置
+output end  输出端
+inlet connection 进液接头
+impeller 叶 轮
+pump housing 泵 体
+output connection 出液接头
+
+
+
+Fig. 20-11	Wiper Blade and Wiper Arm
+图 20-11	刮水器刮片和刮水器臂
+
+
+wiper arm 刮水器臂
+attachment of wiper blade to wiper arm
+刮片到刮水器臂的安装
+wiper-blade element in working position
+在工作位置的刮水器刮片组件
+conventional wiper blade 传统的刮水器刮片
+D1 wiper blade under load  在载荷下的刮水器刮片
+D2 at zero load 零载荷下
+D3 cross-section 横截面
+flat wiper blade （aero-wiper blade）   刮水器平刮片（气动刮水器刮片）
+E1 wiper blade under  load  在载荷下的刮水器刮片
+E2 at zero load 零负载
+E3 cross-section 横截面
+steel strip with hook-type  fastening  带拖钩式固定的钢片
+joint section   连接面
+tension spring 拉 簧
+
+attachment part with taper for mounting on wiper bearing shaft  用于安装刮水器轴承杆的带锥度固定件
+hook-type fastening 拖钩式固定
+side fastening 侧面固定
+front fastening 前面固定
+claw 钩 爪
+spring strip 弹簧片
+wiper-element lip 刮水器刮片唇
+windshield 前风窗玻璃
+double microedge 双微棱边
+wiper-blade element 刮片元件
+claw bracket 爪形托架
+joint 铰接头
+center bracket 中间支架
+adapter 转接板
+spring strip 弹簧条
+end clip  端部夹片
+spoiler 阻流片
+wiper arm	刮水器臂
+
+
+
+Fig. 20-12	Wiper Drive and Linkage Mechanism
+图 20-12	刮水器传动和连杆机构
+
+
+wiper-system linkage mechanism 刮 水器系统连杆机构
+A1 conventional linkage 传统连接
+A2 cross lay linkage 交叉连接
+rear drive with oscillating mechanism
+带摆动机构的后传动装置
+articulated rod 铰接杆
+oscillating crank link as ball pivot 球销摆动曲柄连杆
+oscillating crank   摆动曲柄
+wiper bearing   刮水器轴承
+wiper arm 刮水器臂
+cross lay 交叉连接
+
+bearing 轴 承
+magnet 磁 铁
+armature 电 枢
+commutator with carbon brushes
+带碳刷的换向器
+helical gear 螺旋齿轮
+worm 蜗 杆
+oscillating 摆动件
+output shaft 输出轴
+γ	wiping angle 刮水器角度
+→ The arrows indicate the direction of motion 指示运动方向的箭头
+
+
+
+Fig. 20-13	Cleaning System
+图 20-13	清洁装置
+
+
+wipe/wash system for headlamp[head- light] and  windscreen  前照灯和前风窗玻璃刮水/洗涤装置
+washer fluid reservoir 洗涤液罐
+front water reservoir 前水罐
+washing pump 洗涤泵
+windscreen nozzle 前风窗喷嘴
+rear window wiper 后风窗玻璃刮水器
+rear window nozzle 后风窗喷嘴
+wipe/wash system for rear window
+后风窗玻璃刮水/洗涤装置
+
+rear water reservoir  后水罐
+high-pressure pump 高压水泵
+water reservoir[tank] 水 罐
+headlamp wiper  前照灯刮水器
+high-pressure washing nozzle 高 压清洗喷嘴
+high-pressure headlamp washer system
+前照灯高压清洗装置
+headlamp  washing  nozzle	前照灯清洗喷嘴
+
+
+
+Fig. 20-14	Headlamp Cleaning System
+图 20-14	前照灯清洗装置
+
+
+wipe/wash system 刮水/洗涤装置
+high-pressure washer system with fixed nozzle 固定喷嘴式高压洗涤装置
+high-pressure washer system with tel- escopic nozzle holder 伸缩喷嘴支架式高压洗涤装置
+washer nozzle and spray pattern 洗 涤喷嘴和喷射式样
+wiper arm 刮水器臂
+washer reservoir 洗涤液罐
+
+washing pump 洗涤泵
+non-return valve 单向阀
+T-joint 三通接头
+fixed nozzle holder 固定式喷嘴支架
+hose 软 管
+from washer reservoir 来自洗涤液罐
+telescopic nozzle holder 伸缩式喷嘴支架
+headlamp lens 前照灯配光镜
+
+
+
+Fig. 20-15	Seat Belt
+图 20-15	安全带
+
+
+参考：GB/T 14166-2013《机动车乘员用安全带、约束系统、儿童约束系统和ISOFIX 儿童约束系统》
+JASO   Z 217-1991《汽车安全带词汇》A three-point （seat） belt 三点式安全带lap-shoulder belt 腰肩式安全带
+lap belt 腰（式安全）带
+type 1 seat belt， pelvic restraint    1 型安全带
+diagonal belt 肩 带
+child seat[restraint] belt， child belt
+儿童安全带
+harness belt 全背带式安全带
+retractor 卷收器
+ELR = emergency locking retractor， emergency locking （seat） belt  retractor紧急锁止式卷收器
+
+anchor， anchor fitting， anchor plate    固定器
+shoulder anchor 肩带固定器
+cover （调节装置）盖
+anchor adjuster  固定器调节器
+belt adjustment device for height 安 全带高度调节器
+shoulder belt 肩 带
+5，8    strap    织带
+latch plate （安全带）锁止板
+tongue 插 舌
+buckle， latch （mechanism）    带扣
+inner belt 内安全带
+detachable lap belt anchor 灵活的腰带固定器
+lap belt 腰 带
+belt end 带 端
+
+
+
+
+
+Fig. 20-16	Seat Belt Retractor
+图 20-16	安全带卷收器
+
+
+参考：GB/T 14166-2013《机动车乘员用安全带、约束系统、儿童约束系统和ISOFIX 儿童约束系统》
+safety-belt retractor 安全带卷收器
+inertia-reel retractor [device] 惯性卷轴式卷收器
+ELR = emergency locking retractor 紧急锁止式收卷收器
+ELR seat belt 紧急锁止卷收式安全带
+pretensioner 预卷收器
+shoulder-belt tightener 肩式安全带卷收器
+pyrotechnic pretensioning device 烟 火式预加载装置
+tightener 收[张]紧器
+seat belt  安全带
+belt strap 带
+ratchet wheel 棘 轮
+inertia-reel shaft 惯性卷轴
+
+pendulum 摆 锤
+pawl 棘爪（在锁止位置）
+from airbag control unit 来自安全气囊控制单元
+sensor connection 传感器接线
+initiator    触发器（GB/T 19949.1- 2005 中 2.66）
+squib 点火器（GB/T 19949.1-2005
+中 2.66）
+igniter tube    点火管（GB/T 19949.1- 2005 中 2.59）
+solid propellant 固体推进剂
+propellant charge 发射药
+tensioning cable 收[张]紧拉索
+wire rope 钢 缆
+cylinder 缸 筒
+piston 活 塞
+belt reel 安全带卷轴
+
+
+
+
+
+Fig. 20-17	SRS = Supplemental Restraint System
+图 20-17	辅助约束系统
+
+
+I-SRS=intelligent-supplemental restraint system airbag 智能型安全气囊（可控制安全气囊张开速度）
+SIR system=supplemental inflatable restraint system 充气式辅助约束系统（包括安全气囊装置和充气式安全带预卷收器） airbag system 安全气囊装置
+AB = airbag 安全气囊
+driver airbag 驾驶员安全气囊
+D SRS airbag = driver airbag 驾 驶人安全气囊
+front passenger airbag， passenger （side） airbag 前排乘员安全气囊
+1， 2    frontal airbag    前排安全气囊
+seat belt pretensioner 安全带预卷收器pyrotechnic seat belt retractor 烟 火式安全带卷收器
+buckle pretensioner 带扣预卷收器pyrotechnic pretensioning device 烟火式预卷收器
+knee airbag 膝部气囊
+curtain shield airbag 窗帘式安全气囊combination side-impact head and roll-over （air） bag    侧面撞头和翻滚组合式安全气囊
+side airbag 侧方安全气囊
+
+front airbag sensor（s）   安全气囊前传感器
+center floor airbag sensor 中部地板安全气囊传感器
+side airbag sensor for front side 侧方安全气囊前传感器
+side airbag sensor for rear side 侧方安全气囊后传感器
+rear airbag sensor 安全气囊后传感器
+rear floor airbag sensor 后部地板安全气囊传感器
+airbag sensor assembly 安全气囊传感器总成（丰田汽车公司用语）
+impact sensing unit 碰撞感知模块SRS unit    辅助约束系统模块center airbag sensor assembly 安 全气囊中央传感器总成
+combination ECU 组合式电控单元diagnostic and energy reserve module 诊断和储能模块
+occupant detection sensor 探测乘客
+传感器（探测座席上乘客的重量）
+electrode sheet 电极片
+spacer 隔离物
+inflator， gas generator    充气机
+（test） dummy 假人，试验用假人
+
+
+
+
+
+
+Fig. 20-18	Components of Airbag
+图 20-18	安全气囊部件
+
+
+参考：GB/T 14166-2013《机动车乘员用安全带、约束系统、儿童约束系统和ISOFIX 儿童约束系统》
+airbag module 安全气囊模块
+clock spring 时钟弹簧
+spiral cable 螺旋电缆
+gas inflator [generator] 气体发生器all-solid （gas） generator， chemical [py- rotechnic] gas generator 固体式气体发生器，烟火式气体发生器
+inflator （assembly）    气体发生器总成
+crash [impact] sensor 碰撞传感器
+front airbag sensor   前安全气囊传感器
+driver airbag   驾驶员安全气囊
+passenger airbag 乘员安全气囊
+steering wheel 转向盘
+wiring shield 线路屏蔽盖
+airbag module and trim cover 安 全气囊模块和装饰盖
+steering wheel pad with airbag 带 安
+
+
+全气囊的转向盘盖
+cover 罩 盖
+steering wheel pad 转向盘垫板
+4a deployment door 展开盖
+module liner 模块衬垫
+bag 气 袋
+retainer ring 保持环
+mounting plate 安装板
+inflator （assembly）    气体发生器总成
+igniter tube 点火管
+enhancer， intensifier    增强剂
+1la ignition propellant 引燃药柱
+generant housing 气体发生剂壳
+（gas） generant    气体发生剂
+disk 药剂单元
+filter assembly 过滤器总成
+bias magnet 偏置磁铁
+ball 钢 球
+can 罩，盒
+electrical contact 电触点
+
+
+
+Fig. 20-19	Power Window
+图 20-19	电动车窗
+
+
+power window with regulator 升降机式电动车窗
+power window with flexible Bowden cable 挠性拉索式电动车窗
+power-window motor with integrated electronics 集成有电子装置的电动车窗电动机
+power-window control unit with electronic force-limitation device  带电子防夹装置的电动车窗控制单元
+electric gear motor 传动机构电动机
+
+door glass channel   门玻璃夹槽
+regulator roller guide   升降机滚轮导架
+control rod 控制杆
+window regulator （lifter）   门玻璃升降机
+flexible drive cable 挠性传动拉索
+guide rail 导 轨
+microcomputer 微处理器
+relay output stage 输出延迟级
+control commands 控制指令
+multiplex bus  多路通信总线
+Hall effect sensor 霍尔效应传感器
+
+
+
+Fig. 20-20	Door Locks
+图 20-20	门锁
+
+
+locking system for side door 侧门门锁系统
+locking mechanism with lock holder
+带锁扣夹的门锁机构
+A，B mechanical door lock 机械门锁
+pawl mechanism 棘爪机构
+i-close power-assisted door lock 智 能电动门锁
+outer locking （to lock barrel）    外部锁止
+（到锁芯）
+lock case 锁 壳
+lock holder 锁扣夹
+
+cable with outside door handle  外侧门扶手拉索
+electrical plug-in connection 电插座
+cable to inside opener 内侧开启装置拉索
+rotary latch 旋转锁销
+locking pawl  锁棘爪
+open-by-wire door lock 线控门锁
+motor with gear set 带齿轮装置的电动机
+drive lever for rotary latch 旋转锁销驱动杆
+mechanical release 机械式释放杆
+
+
+
+Fig. 20-21	Central Locking System
+图 20-21  中控门锁系统
+
+
+
+
+Fig. 20-22	Remote Control Door Lock Transmitter
+图 20-22	遥控门锁发射器
+
+
+A ， B door control transmitter 门锁控制发射器
+A1，A2，A3， C    three button remote key    三
+按钮式遥控钥匙
+A2，B    without mechanical key    非机械式钥匙
+remote keyless entry（RKE） transmitter遥控门锁发射器（通用汽车公司用语） five button transmitter 五按钮式发射器
+intelligent key 智能钥匙（日产用语）
+trunk （lid）    行李箱盖
+trunk lid open button  行李箱盖开启按钮
+unlock 开 锁
+door unlock button 门开锁按钮
+
+lock 锁 止
+door lock button 门锁止按钮
+remote vehicle start  车辆遥控起动
+power lift gate 电动背门
+vehicle locator/panic alarm 车辆定位器/紧急警报
+transmitter body 发射器本体
+mechanical key 机械钥匙（图为日产汽车所用）
+inside intelligent key 内装式智能钥匙
+vehicle locator/panic alarm 车辆定位器/紧急警报
+personal panic alarm button 个人紧急警报铵钮
+key number plate 钥匙号码牌
+
+HVAC=Heater， Ventilation and Air Conditioning
+供暖、通风和空调
+参考：QC/T 720-2004《汽车空调术语》 JASO B802-2001《汽车空调词汇》
+
+
+Fig. 21-1	Arrangement Plan of Saloon HVAC System
+图 21-1	供暖、通风和空调系统布置图
+
+
+A/C= air conditioner 空调（一般包括供暖、通风和制冷，但美国汽车英语也常专指制冷部分）
+本图还符合：
+air regulate type A/C 空气调节型空调manual air conditioner 手动（控制式）空调in-dashboard type A/C 内藏仪表板式空调main engine drive type （空调压缩机）主机驱动型
+blower unit 风机模块
+
+rear heat duct 后暖风管
+A/C unit 空调模块
+refrigerant line  制冷剂管路
+5，9 high pressure line 高压管路
+condenser 冷凝器
+low pressure line 低压管路
+A/C compressor  空调压缩机
+heater hose 加热器软管
+（clean） air filter    空气滤清器
+
+
+
+Fig. 21-2	Refrigerating Cycle of Air Conditioning
+图 21-2	空调制冷循环
+
+
+refrigerating system 制冷系统A/C=AC=air conditioning 空调（器） A/C=AC=air conditioner 空调器
+A CCTEV=cycling-clutch thermostatic ex- pansion valve  system  热力膨胀阀控制系统
+receiver/dryer system  储液干燥器系统 B CCOT = cycling-clutch orifice tube system循环离合器节流管系统，孔管制冷系统 accumulator/drier system 集液干燥器
+系统
+compressor 压缩机
+cycling clutch 循环离合器
+magnetic clutch 电磁离合器
+condenser 冷凝器
+condenser fan 冷凝器风扇
+high-pressure （cutoff） switch 高压（切断）开关
+
+receiver drier  储液干燥器
+low-pressure （cutoff） switch 低压（切断） 开关
+temperature switch 温度开关
+temperature sensor （蒸发器）温度传感器
+condensate drip pan  冷凝滴[泄]水盘
+evaporator 蒸发器
+blower 风机，鼓风机
+blower switch   风机开关
+expansion valve   膨胀阀
+low side 低压侧
+high side 高压侧
+relief valve 安全阀，释压阀
+service valve  维修阀，灌充阀
+expansion （orifice） tube    膨胀节流管
+accumulator-drier 集液干燥器
+accumulator 集液器
+
+
+
+Fig. 21-3	Typical Arrangement Plan of Bus A/C
+图 21-3	典型客车空调布置图
+
+
+A new roof type cooling unit  新型顶置式冷风装置
+compressor 压缩机
+evaporator blower 蒸发器风机
+evaporator 蒸发器
+air duct 风管[道]
+vent 出风口
+
+condenser 冷凝器
+fresh air 新鲜空气
+condenser blower 冷凝器风机
+roof 车 顶
+recirculation air   循环空气
+air inlet damper   进气风门
+cooling air 冷空气
+
+
+
+Fig. 21-4	Main Components of Bus Air Condition
+图 21-4	客车空调主要部件
+
+
+evaporator core unit 蒸发器组件
+condenser fan 冷凝器风扇
+condenser housing 冷凝器壳体
+receiver 储液器
+evaporator housing	蒸发器壳体
+electric control unit   电控模块
+condenser grille   冷凝器格栅
+
+evaporator cover 蒸发器盖
+evaporator blower 蒸发器鼓风机
+drier 干燥器
+condenser 冷凝器
+compressor of air condition 空调压缩机
+
+
+
+Fig. 21-5	Receiver/Drier and Accumulator
+图 21-5	储液干燥器和集液器
+
+
+
+Fig. 21-6	Expansion Valve and Service Valve
+图 21-6	膨胀阀和维修阀
+

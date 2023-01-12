@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea97b35c-4e62-414b-9615-48b97d2f6e3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2E6JSxTS0gjW0idh2fTbDvov4YW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../00-Mask-Align-main" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ENOCH-2022\NLP_MODEL\07_machine_transformer\word_align_giza\english_chinese_align_processor\data" />
+      <recent name="E:\ENOCH-2022\NLP_MODEL\07_machine_transformer\word_align_giza\english_chinese_align_processor" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\model\fast_align-master" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\english_chinese_align_processor" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\model\fast_align-master" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\data\new_data" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\model\WordAlignment-master\data" />
+      <recent name="E:\NLP_MODEL\07_machine_transformer\word_align_giza\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.get_data_from_xlsx (1)">
+    <configuration name="维修手册对齐代码 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="word_align_giza" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/english_chinese_align_processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/english_chinese_align_processor/维修手册对齐代码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="维修手册对齐代码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="word_align_giza" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/english_chinese_align_processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\ENOCH-2022\NLP_MODEL\07_machine_transformer\word_align_giza\english_chinese_align_processor\维修手册对齐代码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="align_sym" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="word_align_giza" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/smt-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/smt-master/align_sym.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_data_from_xlsx (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="word_align_giza" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/english_chinese_align_processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/english_chinese_align_processor/get_data_from_xlsx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_mysql_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="word_align_giza" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_mysql_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_data_from_xlsx (1)" />
+        <item itemvalue="Python.维修手册对齐代码 (1)" />
+        <item itemvalue="Python.get_mysql_data" />
+        <item itemvalue="Python.维修手册对齐代码" />
+        <item itemvalue="Python.align_sym" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea97b35c-4e62-414b-9615-48b97d2f6e3f" name="Default Changelist" comment="" />
+      <created>1661910103375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661910103375</updated>
+      <workItem from="1661910104418" duration="26243000" />
+      <workItem from="1661947664585" duration="12169000" />
+      <workItem from="1662008206036" duration="935000" />
+      <workItem from="1662009582364" duration="2434000" />
+      <workItem from="1662015016016" duration="16185000" />
+      <workItem from="1662034862975" duration="30000" />
+      <workItem from="1662362128414" duration="15914000" />
+      <workItem from="1662433276210" duration="1658000" />
+      <workItem from="1662442324531" duration="4707000" />
+      <workItem from="1662544034791" duration="512000" />
+      <workItem from="1662554486796" duration="4769000" />
+      <workItem from="1662617851113" duration="1445000" />
+      <workItem from="1663060176499" duration="137000" />
+      <workItem from="1663160838697" duration="1215000" />
+      <workItem from="1663203068520" duration="617000" />
+      <workItem from="1664013869993" duration="84000" />
+      <workItem from="1664014400932" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1594" y="357" key="#SQL_Dialects" timestamp="1662427226026">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1594" y="357" key="#SQL_Dialects/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662427226026" />
+    <state x="1159" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662001035979">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1159" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1662001035979" />
+    <state width="1918" height="440" key="DebuggerActiveHint" timestamp="1662023059275">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1918" height="440" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1662023059275" />
+    <state x="322" y="361" key="FileChooserDialogImpl" timestamp="1664013951881">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1598" y="361" key="FileChooserDialogImpl/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662427774353" />
+    <state x="322" y="361" key="FileChooserDialogImpl/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1663211620685" />
+    <state x="322" y="361" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1664013951881" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1662451200296">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150667" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200296" />
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1662025279715" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1662451200296">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150667" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200296" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1662025279714" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1662451200296">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150667" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200296" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1662025279714" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1662451200296">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150667" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200296" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1662025279714" />
+    <state width="1858" height="291" key="GridCell.Tab.1.bottom" timestamp="1662451200293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150668" />
+    <state width="1858" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200293" />
+    <state width="1877" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1662023307567" />
+    <state width="1858" height="291" key="GridCell.Tab.1.center" timestamp="1662451200293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.1.center/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150668" />
+    <state width="1858" height="291" key="GridCell.Tab.1.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200293" />
+    <state width="1877" height="260" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1662023307567" />
+    <state width="1858" height="291" key="GridCell.Tab.1.left" timestamp="1662451200293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.1.left/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150668" />
+    <state width="1858" height="291" key="GridCell.Tab.1.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200293" />
+    <state width="1877" height="260" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1662023307567" />
+    <state width="1858" height="291" key="GridCell.Tab.1.right" timestamp="1662451200293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1858" height="291" key="GridCell.Tab.1.right/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662444150668" />
+    <state width="1858" height="291" key="GridCell.Tab.1.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1662451200293" />
+    <state width="1877" height="260" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1662023307567" />
+    <state x="-1828" y="125" key="SettingsEditor" timestamp="1662427583851">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1828" y="125" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662427583851" />
+    <state x="92" y="125" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1662015553691" />
+    <state width="968" height="524" key="XDebugger.FullValuePopup" timestamp="1661996454247">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="968" height="524" key="XDebugger.FullValuePopup/0.0.1920.1032@0.0.1920.1032" timestamp="1661996454247" />
+    <state x="662" y="117" width="596" height="798" key="find.popup" timestamp="1663060216596">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1258" y="117" width="596" height="798" key="find.popup/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662613639769" />
+    <state x="662" y="117" width="596" height="798" key="find.popup/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1663060216596" />
+    <state x="-1297" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1662431340573">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1297" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1662431340573" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/smt-master/align_sym.py</url>
+          <line>213</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/smt-master/align_sym.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/smt-master/align_sym.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/smt-master/align_sym.py</url>
+          <line>209</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/word_align_giza$score_alignments.coverage" NAME="score-alignments Coverage Results" MODIFIED="1661945532453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/WordAlignment-master" />
+    <SUITE FILE_PATH="coverage/word_align_giza$get_chinese_english_noun_verb_align.coverage" NAME="get_chinese_english_noun_verb_align Coverage Results" MODIFIED="1661995105015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/word_align_giza$jieba_cutword_pos.coverage" NAME="jieba_cutword_pos Coverage Results" MODIFIED="1661925261152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/word_align_giza$align_sym.coverage" NAME="align_sym Coverage Results" MODIFIED="1662001693164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/smt-master" />
+    <SUITE FILE_PATH="coverage/word_align_giza$__1_.coverage" NAME="维修手册对齐代码 (1) Coverage Results" MODIFIED="1662033909394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/english_chinese_align_processor" />
+    <SUITE FILE_PATH="coverage/word_align_giza$align.coverage" NAME="align Coverage Results" MODIFIED="1661944924169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/WordAlignment-master" />
+    <SUITE FILE_PATH="coverage/word_align_giza$tools.coverage" NAME="tools Coverage Results" MODIFIED="1661921743260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/word_align_giza$hmm.coverage" NAME="hmm Coverage Results" MODIFIED="1661944919095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/WordAlignment-master" />
+    <SUITE FILE_PATH="coverage/word_align_giza$modelAgreement.coverage" NAME="modelAgreement Coverage Results" MODIFIED="1661945327242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/WordAlignment-master" />
+    <SUITE FILE_PATH="coverage/word_align_giza$fast_align_data_processor.coverage" NAME="fast_align_data_processor Coverage Results" MODIFIED="1661996596259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/word_align_giza$test.coverage" NAME="test Coverage Results" MODIFIED="1662023367998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/english_chinese_align_processor" />
+    <SUITE FILE_PATH="coverage/word_align_giza$get_mysql_data.coverage" NAME="get_mysql_data Coverage Results" MODIFIED="1662026715126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/word_align_giza$get_align_data.coverage" NAME="get_align_data Coverage Results" MODIFIED="1661948696530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/word_align_giza$get_data_from_xlsx__1_.coverage" NAME="get_data_from_xlsx (1) Coverage Results" MODIFIED="1662450095044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/english_chinese_align_processor" />
+    <SUITE FILE_PATH="coverage/word_align_giza$ibm1.coverage" NAME="ibm1 Coverage Results" MODIFIED="1661945402315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/WordAlignment-master" />
+    <SUITE FILE_PATH="coverage/word_align_giza$get_data_from_xlsx.coverage" NAME="get_data_from_xlsx Coverage Results" MODIFIED="1661997788455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

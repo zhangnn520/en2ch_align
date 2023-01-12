@@ -1,0 +1,254 @@
+使用 卸扣 将 驱动单元吊索工具 固定 到 前驱动单元 。 ||| use the shackles to attach the drive unit sling tool to the front drive unit .
+拆下 并弃 用 前驱动单元反相盖板标签 。 ||| remove and discard the front drive unit phase out cover label .
+安装 左后轮毂盖 或 轮毂帽 。 ||| install the LH rear wheel center cap or the hub cap .
+松开 将 后驱动单元接地带 固定 到 后副框架 的 夹子 。 ||| release the clip that attaches the rear drive unit ground strap to the rear subframe .
+拆下 左后车轮 。 请参阅 轮毂 。 ||| remove the LH rear wheel . see wheel .
+松开 左 和 右前驱动单元半轴螺母 。 ||| loosen the LH and RH front drive unit halfshaft nuts .
+拆下 将 制动踏板 固定 到 机电制动助力器 的 制动器叉杆销 。 ||| remove the brake clevis pin that attaches the brake pedal to the electromechanical brake booster .
+拆下 雨刮器臂 。 请参阅 雨刮器臂 。 ||| remove the wiper arms . see wiper arms .
+拆下 12v辅助电池 。 请参阅 12v/低压电池 。 ||| remove the 12v auxiliary battery . see 12v/lv battery .
+拆下 将 前驱动单元反相盖板 固定 到 前驱动单元 的 螺栓 。 ||| remove the bolts that attach the front drive unit phase out cover to the front drive unit ..
+降下 驱动单元吊索工具 ， 释放 拉索 上 的 张力 。 ||| lower the drive unit sling tool to release the tension on the cables .
+从 气门嘴 上 拆下 气动卡盘 ， 然后 安装 阀芯 。 ||| remove the air chuck from the valve stem , then install the valve core .
+断开 左后制动钳连接器 上 的 电气线束 。 ||| disconnect the electrical harness from the LH rear brake caliper connector .
+将 电气线束 连接 到 制动灯开关连接器 ， 然后 执行 推拉 推 检查 ， 确保 连接 牢靠 。 ||| connect the electrical harness to the brake light switch connector , and then perform a pushpullpush check to make sure the connection is secure .
+松开 将 电气线束 固定 到 制动踏板总成 的 夹子 。 ||| release the clips that attach the electrical harness to the brake pedal assembly .
+使用 起重机架 升起 驱动单元吊索工具 ， 使 拉索 处于 轻度 张紧 状态 。 ||| use the gantry to raise the drive unit sling tool so that there is slight tension in the cables .
+从 起重机架 上 拆下 驱动单元吊索工具 。 ||| remove the drive unit sling tool from the gantry .
+拆下 将 电气线束支架 固定 到 左后制动钳 的 螺栓 。 ||| remove the bolt that attaches the electrical harness bracket to the LH rear brake caliper .
+排放 左后制动钳 的 制动管路 。 请参阅 制动液 排放 一个 制动钳 。 ||| bleed the brake line for the rear LH caliper . see brake fluid bleed one caliper .
+将 轮胎拆卸机操作臂 移入 位 ， 以便 安装 上部 轮胎胎圈 。 ||| move the tire machine arm into position to install the upper tire bead .
+断开 电气线束连接器 与 机电制动助力器连接器 的 连接 。 ||| disconnect the electrical harness connectors from the electromechanical brake booster connector .
+拆下 将 前驱动单元电机三相端子 固定 到 前驱动单元逆变器三相端子 的 螺栓 。 ||| remove the bolts that attach the front drive unit motor 3phase terminals to the front drive unit inverter 3phase terminals .
+拆下 将 后驱动单元左支座 固定 到 后驱动单元 的 螺栓 。 ||| remove the bolts that attach the rear drive unit LH mount to the rear drive unit .
+平衡 轮胎 。 请参阅 轮胎 前 左 。 ||| balance the tire . see tire front LH .
+将 epb释放工具 与 左后制动钳连接器 相连 。 ||| connect the epb release tool to the LH rear brake caliper connector .
+排放 右后制动钳 的 制动管路 。 请参阅 制动液 排放 一个 制动钳 。 ||| bleed the brake line for the rear RH caliper . see brake fluid bleed one caliper .
+将 制动踏板 和 加速踏板 作为 总成 从 车上 拆下 。 ||| remove the brake pedal and the accelerator pedal as an assembly from the vehicle .
+断开 制动液储液罐 上 的 电气连接器 。 ||| disconnect the electrical connector from the brake fluid reservoir .
+在 储液罐 和 助力器 下方 放置 吸收性材料 。 ||| place absorbent material under the reservoir and booster .
+断开 电气线束 与 制动液储液罐连接器 的 连接 。 ||| disconnect the electrical harness from the brake fluid reservoir connector .
+如果 要 安装 新 制动踏板总成 ， 请 向 该 总成 中 安装 一个 新 的 制动开关夹 。 ||| if a new brake pedal assembly is to be installed , install a new brake switch clip into the assembly .
+在 制动液储液罐 下方 放置 吸水毛巾 。 ||| place absorbent towels under the brake fluid reservoir .
+清除 储液罐 中 的 制动液 。 ||| remove brake fluid from the reservoir .
+断 开机 电气线束 与 电制动助力器连接器 的 连接 。 ||| disconnect the electrical harness from the electromechanical brake booster connector .
+将 前副框架 和 副框架千斤顶 从 前驱动单元 下方 移出 。 ||| move the front subframe and subframe lift out from underneath the front drive unit .
+小心 地 从 前驱动单元 上 拆下 逆变器总成 ， 拆下 塞子 ， 让 冷却液 排出 。 ||| carefully remove the inverter assembly from the front drive unit , remove the plugs , and allow the coolant to drain .
+将 电气线束 连接 到 机油泵连接器 。 ||| connect the electrical harness to the oil pump connector .
+戴上 静电放电腕带 并 将 其 固定 到 后驱动单元逆变器外壳 上 。 ||| put on the esd wrist strap and attach it to the rear drive unit inverter housing .
+拆下 将 g098 和 g099 固定 到 车身 的 螺栓 。 ||| remove the bolts that attach g098 and g099 to the body .
+将 制动踏板总成 安装 到 车身 的 螺柱 上 。 ||| install the brake pedal assembly onto the studs of the body .
+清洁 制动液储液罐 周围 的 区域 ， 然后 拆下 制动液储液罐盖 。 ||| clean the area around the brake fluid reservoir and then remove the brake fluid reservoir cap .
+使用 阀芯工具 安装 阀芯 。 ||| use a valve core tool to install the valve core .
+将 电气线束 连接 到 解析器连接器 。 ||| connect the electrical harness to the resolver connector .
+拆下 并弃 用 后驱动单元反相盖板标签 ， 以 操作 后面 的 螺栓 。 ||| remove and discard the rear drive unit phase out cover label to access the bolts behind .
+松开 将 前部主线束 固定 到 车身 的 白色夹子 。 ||| release the white clip that attaches the main front harness to the body .
+在 左后制动钳 下方 放置 机油排放容器 。 ||| position an oil drain underneath the LH rear brake caliper .
+检查 排放器维修工具外观 。 ||| review the bleeder service tool profile .
+使用 制动液注射器 清除 储液罐 中 的 制动液 。 ||| use a brake fluid syringe to remove the brake fluid from the reservoir .
+清除 储液罐 中 的 液体 。 ||| remove fluid from the reservoir .
+松开 将 前部主线束 固定 到 车身 的 黑色夹子 。 ||| release the black clip that attaches the main front harness to the body .
+拆下 高压电池 。 请参阅 高压电池 。 ||| remove the hv battery . see hv battery .
+清洁 制动液储液罐 周围 的 区域 ， 然后 拆下 制动液储液罐盖 。 ||| clean the area around the brake fluid reservoir and then remove the brake fluid reservoir cap .
+升起 车辆 并 拆下 全部四个 车轮 。 请参阅 轮毂 。 ||| raise the vehicle and remove all four wheels . see wheel .
+紧固 将 电气线束 固定 到 制动踏板总成 的 夹子 。 ||| fasten the clips that attach the electrical harness to the brake pedal assembly .
+安装 制动液储液罐盖 。 ||| install the brake fluid reservoir cap .
+平衡 轮毂 和 轮胎 。 请参阅 轮胎 前 左 。 ||| balance the wheel and tire . see tire front LH .
+将 起重机架 移至 新 的 前驱动单元 。 ||| move the gantry to the new front drive unit .
+将 静电放电带 固定 到 新 的 逆变器外壳 ||| secure esd strap to new inverter housing
+摆正 方向盘 并 将 其 锁定 到位 。 ||| set the steering wheel straight ahead and lock it into position .
+松开 车轮 的 轮毂螺母 。 ||| loosen the wheel lugnuts .
+断开 防抱死制动系统调制器 上 的 电气连接器 。 ||| disconnect the electrical connector from the abs modulator .
+升起 车辆 并 拆下 左后车轮 。 请参阅 轮毂 。 ||| raise the vehicle and remove the LH rear wheel . see wheel .
+拆下 高压电池前部滑板 。 请参阅 滑板 高压电池 前 。 ||| remove the front hv battery skid plate . see skid plate hv battery front .
+将 车辆 降低 至 作业高度 。 ||| lower the vehicle to a working height .
+点击 actions 并 向 搜索字段 中 输入 brakeswitch 。 ||| click on `` actions '' and type `` brake switch '' into the search field .
+安装 将 制动踏板 固定 到 机电制动助力器 的 制动器叉杆销 。 ||| install the brake clevis pin that attaches the brake pedal to the electromechanical brake booster .
+拆下 制动开关 。 请参阅 开关 制动 灯 。 ||| remove the brake switch . see switch brake light .
+使用 卸扣 将 驱动单元吊索工具 固定 到 新 的 前驱动单元 。 ||| use the shackles to attach the drive unit sling tool to the new front drive unit .
+将 左半轴 安装 到 轮毂 和 万向节总成 上 。 ||| install the LH halfshaft to the hub and knuckle assembly .
+升起 车辆 并 拆下 车轮 以便 进行 制动钳 排放 。 请参阅 轮毂 。 ||| raise the vehicle and remove the wheel for the caliper to be bled . see wheel .
+用 双柱举升机 将 车辆 举 升至 车轮 不再 接触 地面 为止 。 ||| raise the vehicle on a 2post lift only enough that the wheels no longer contact the floor .
+松开 在 左车架纵梁 附近 固定 前部主线束 的 夹子 。 ||| release the clips that attach the main front harness near the LH frame rail .
+从 防抱死制动系统单元连接器 上 断开 电气线束 。 ||| disconnect the electrical harness from the abs unit connector .
+松开 将 电气线束 固定 到 车架左纵梁 的 夹子 。 ||| release the clips that attach the electrical harness to the LH frame rail .
+将 放油盘 放在 左前制动软管 下方 。 ||| position the oil drain under the front LH brake hose .
+从 右前制动钳 的 外部制动排放阀 上 拆下 盖子 。 ||| remove the cover from the outer brake bleed valve of the front RH caliper .
+将 车辆 与 toolbox3 相连 。 ||| connect the vehicle to toolbox 3 .
+安装 制动器叉杆销 的 开口销 。 ||| install the brake clevis pin cotter pin .
+在 防抱死制动系统调制器 下方 放置 放油盘 。 ||| place the oil drain under the abs modulator .
+将 放油盘 放在 前制动管路接线盒 下方 。 ||| position the oil drain under the front brake line junction block .
+从 左后制动钳连接器 上 断开 epb释放工具 。 ||| disconnect the epb release tool from the LH rear brake caliper connector .
+在 轮辐 上放 一块 抹布 ， 以防 制动液 造成 损坏 。 ||| position a shop towel over the wheel spokes so as to protect from brake fluid .
+拆下 将 新 的 前驱动单元 固定 到 前驱动单元箱 的 螺栓 。 ||| remove the bolts that attach the new front drive unit to the front drive unit crate .
+将 新 的 前驱动单元逆变器垫圈 安装 到 逆变器 上 。 ||| install a new front drive unit inverter gasket onto the inverter .
+将 车辆 举 升至 作业高度 。 ||| raise the vehicle to a working height .
+从 防抱死制动系统调制器 上 拆下 右前部制动管螺母 。 ||| remove the RH front brake line pipe nut from the abs modulator .
+将 放油盘 放在 制动钳 下方 。 ||| position the oil drain under the brake caliper .
+适当 松开 制动液排放阀 ， 使 制动液 只 渗出 一滴 ， 然后 关闭 阀门 。 ||| loosen the brake bleed valve only enough to allow a drop of brake fluid to seep out , and then close the valve .
+连接 制动踏板 和 加速踏板电气连接器 。 ||| connect the brake pedal and the accelerator pedal electrical connector s .
+松开 叉杆销 上 的 夹子 ， 然后 从 制动踏板臂 上 拆下 叉杆销 。 ||| release the clip from the clevis pin , and then remove the clevis pin from the brake pedal arm .
+将 新 的 前驱动单元 从 前驱动单元箱 中 取出 。 ||| raise the new front drive unit out of the front drive unit crate .
+从 逆变器 上 拆下 接头 并排 净 冷却液 。 ||| remove the plugs from the inverter and drain the coolant .
+清洁 制动液储液罐通风盖 周围 的 区域 ， 然后 拆下 此盖 。 ||| clean the area around the brake fluid reservoir breather cap and remove the cap .
+拆下 全部四个 车轮 。 ||| remove all four wheels .
+从 防抱死制动系统调制器 上 拆下 左后向制动管螺母 。 ||| remove the LH rear brake line pipe nut from the abs modulator .
+利用 卡钳扩张器工具 将 卡钳活塞 推至 完全 打开 位置 。 ||| use the caliper spreader tool to push the caliper pistons to the fully open position .
+将 放油盘 放在 防抱死制动系统单元 下方 。 ||| position the oil drain under the abs unit .
+将 放油盘 放在 后制动管路接线盒 下方 。 ||| position the oil drain under the rear brake line junction block .
+从 容器 中 取出 制动液测试条 ， 然后 闭合 容器 。 ||| remove a brake test strip from the container , and then close the container .
+断开 冷却器 与 exv总成软管 冷却液温度传感器连接器 上 的 电气线束 。 ||| disconnect the electrical harness from the chiller and exv assembly hose coolant temperature sensor connector .
+将 前副框架 和 副框架千斤顶 移动 到 新 的 前驱动单元 下方 。 ||| move the front subframe and subframe lift to underneath the new front drive unit .
+安装 并用 手 拧紧 将 前驱动单元逆变器 固定 到 前驱动单元变速箱 的 新螺栓 。 ||| install and handtighten the bolts that attach the front drive unit inverter to the front drive unit gearbox .
+在 储液罐 中 添加 清洁 的 制动液 至 最大 液位 。 ||| add clean brake fluid to the max level in the reservoir .
+拆下 并弃 用 左后驱动单元半轴螺母 。 ||| remove and discard the LH rear drive unit halfshaft nut .
+转动 前轮轮毂 ， 使 其 完全 朝向 右侧 。 ||| turn the front wheel hubs to point fully right .
+从 防抱死制动系统调制器 上 拆下 右后向制动管螺母 。 ||| remove the RH rear brake line pipe nut from the abs modulator .
+从 防抱死制动系统单元 上 拆下 制动管路管束螺母 ， 使 制动液 排空 。 ||| remove the brake line tube nuts from the abs unit , and allow the fluid to drain .
+从 制动主缸 上 拆下 制动管路塞 。 ||| remove the brake line plugs from the brake master cylinder .
+充注 制动液储液罐 。 ||| fill the brake fluid reservoir .
+盖上 储液罐 的 压力盖 。 ||| attach the pressure cap to the reservoir .
+更换 所有 耐落螺栓 。 ||| replace all patchbolts .
+松开 将 制动管路 固定 到 防抱死制动系统单元 的 夹子 。 ||| release the clip that attaches the brake lines to the abs unit .
+安装 左后车轮 。 请参阅 轮毂 。 ||| install the LH rear wheel . see wheel .
+安装 将 制动管路 固定 到 主缸 的 螺母 。 16nm ||| install the nuts that attach the brake lines to the master cylinder . 16 nm
+将 压力 设置 到 30psi 。 ||| set the pressure to 30 psi .
+使用 卡钳扩张器 展开 制动片 ， 将 活塞 压 回到 左前制动钳 中 。 ||| use a caliper spreader to expand the brake pads and compress the pistons back into the front LH caliper .
+从 防抱死制动系统调制器 上 拆下 主缸辅助管螺母 。 ||| remove the master cylinder secondary pipe nut from the abs modulator .
+松开 将 电气线束 固定 到 主缸处制动管路 的 夹子 。 ||| release the clip that attaches the electrical harness to the brake line at the master cylinder .
+松开 将 制动管路 连接 到 车身 的 夹子 。 ||| release the clips that attach the brake lines to the body .
+在 冷却器 下方 放 一块 吸水毛巾 。 ||| place an absorbent towel under the chiller .
+取出 制动液储液罐 下方 的 吸水毛巾 。 ||| remove the absorbent towels from under the brake fluid reservoir .
+安装 制动开关 。 请参阅 开关 制动 灯 。 ||| install the brake switch . see switch brake light .
+验证 机电制动助力器 的 工况 。 ||| verify the operation of the electromechanical brake booster .
+降低 驱动单元吊索工具 ， 使 驱动单元吊索工具 拉索 松弛 。 ||| lower the drive unit sling tool to put slack into the drive sling tool cables .
+从 防抱死制动系统调制器 上 拆下 主缸主管螺母 。 ||| remove the master cylinder primary pipe nut from the abs modulator .
+从 车上 拆下 制动管路 。 ||| remove the brake lines from the vehicle .
+松开 将 制动管路 固定 到 前 车身 的 夹子 。 ||| release the clips that attach the brake lines to the front body .
+移走 车辆 下方 的 放油盘 。 ||| remove the oil drain from under the vehicle .
+紧固 制动液排放阀 。 18 . 5nm ||| tighten the brake bleed valve . 18.5 nm
+先 排放 左前制动钳 。 ||| bleed the front LH brake caliper first .
+打开 卸扣 并 从 新 的 前驱动单元 上 拆下 驱动单元吊索工具 。 ||| open the shackles and remove the drive unit sling tool from the new front drive unit .
+从 冷却器 至 电池冷却液软管 上 断开 冷却液温度传感器连接器 。 ||| disconnect the coolant temperatur sensor connector from the chiller to battery coolant hose .
+降下 车辆 ， 然后 将 车辆 换入 驻车挡 。 ||| lower the vehicle , and then shift the vehicle into park .
+磨合 制动片 。 请参阅 制动片 磨合 。 ||| burnish the brake pads . see brake pads burnishing .
+松开 将 温度系统横梁软管 固定 到 车身 的 夹子 。 ||| release the clips that attach the thermal beam hose to the body .
+用 抹布 擦 去 制动液排放阀 和 制动钳 上 残留 的 制动液 。 ||| use the shop towel to wipe any excess brake fluid from the brake bleed valve and the caliper .
+将 起重机架 移回 旧驱动单元 。 ||| move the gantry back to the old drive unit .
+松开 将 线束 固定 到 冷却器冷却液软管 的 夹子 。 ||| release clip that attaches the harness to the chiller coolant hose .
+拧紧 左后轮毂螺母 。 请参阅 轮毂 。 ||| tighten LH rear wheel lug nuts . see wheel .
+连接 12v/低压电源 。 请参阅 12v/低压电源 。 ||| connect 12v/lv power . see 12v/lv power .
+在 冷却器 的 冷却液软管 下方 放置 吸收性材料 。 ||| put absorbent material below the coolant hose at the chiller .
+打开 外部排放阀 ， 观察 制动液 从 制动钳 中 流出 。 ||| open the outer bleed valve and watch the fluid as it flows out of the caliper .
+松开 将 电池软管 固定 到 冷却器 的 夹子 ， 然后 断开 软管 。 ||| release the clip that attaches the battery hose to the chiller , and then disconnect the hose .
+塞住 冷却器接头 。 ||| plug the chiller coupling .
+在 车载电脑冷却液软管连接点 下方 放置 吸收性材料 ， 以 收集 溢出 的 冷却液 。 ||| put absorbent material below the car computer coolant hose connection points to collect any spilled coolant .
+断开 车载电脑支座 的 内侧 冷却液软管 ， 然后 塞住 软管 。 ||| disconnect the inner coolant hose to the car computer mount , and then plug the hose .
+断开 车载电脑支座 的 外侧 冷却液软管 ， 塞住 软管 ， 然后 清除 车载 电脑 中 的 冷却液 。 ||| disconnect the outer coolant hose to the car computer mount , plug the hose and remove the coolant from the car computer .
+打开 左前车门 。 ||| open the front LH door .
+安装 车载电脑冷却液塞 。 ||| install the car computer coolant plug .
+降下 左前车窗 。 ||| lower the front LH window .
+启用 制动踏板抑压器 。 注 确认 完全 踩下 制动踏板 以 避免 车轮 打转 。 ||| apply the brake pedal depressor . note verify brake pedal is fully pressed to avoid wheels from spinning .
+从车 身上 松开 白色线束夹 。 ||| release the white harness clip from the body .
+将 装有 toolbox 的 笔记本电脑 与 车辆 相连 。 ||| connect a laptop with toolbox to the vehicle .
+从车 身上 松开 黑色线束夹 。 ||| release the black harness clip from the body .
+松开 左车架纵梁 区域 周围 的 前部线束夹 。 ||| release the front harness clips around the LH frame rail area .
+将 车辆 降低 至 合适 的 高度 ， 然后 拆下 制动踏板抑压器 。 ||| lower the vehicle to suitable height , and then remove the brake pedal depressor .
+部分 升起 车辆 。 注将 车辆 置于 适宜 的 作业高度 。 ||| raise the vehicle partially . note set the vehicle to a comfortable working height .
+塞住 冷却器 的 冷却液 出口 。 ||| plug the chiller coolant outlet .
+安装 将 驾驶位膝部气囊罩壳 固定 到 通风槽 的 夹子 。 ||| install the clip that attaches the driver knee airbag cover to the air duct .
+松开 将 冷却器 至 电池冷却液软管 固定 到 支架 的 夹子 ， 然后 将 软管 移 到 一旁 。 ||| release the clip that attaches the chillertobattery coolant hose to the bracket , and move the hose aside .
+将 盖子 装 到 外部制动液排放阀 上 。 ||| install the cover onto the outer brake bleed valve .
+使用 卸扣 将 驱动单元吊索工具 固定 到 旧 的 前驱动单元 上 。 ||| use the shackles to attach the drive unit sling tool to the old front drive unit .
+贴 上 新 的 前驱动单元逆变器 反相盖板标签 。 ||| apply a new front drive unit inverter phase out cover label .
+拆下 将 防抱死制动系统调制器 固定 到 车架纵梁 的 螺栓 。 ||| remove the bolts that attach the abs modulator to the frame rail .
+从 接线盒 上 拆下 制动管路管束螺母 ， 使 制动液 排空 。 ||| remove the brake line tube nuts from the junction block , and allow the fluid to drain .
+安装 雨刮器臂 。 请参阅 雨刮器臂 。 ||| install the wiper arms . see wiper arms .
+安装 所有 已 拆下 的 轮毂盖 。 ||| install any wheel caps or covers that were removed .
+拆下 将 前接线盒 固定 到 车身 的 螺母 。 ||| remove the nut that attaches the front junction block to the body .
+清洁 制动液储液罐 和 盖 周围 的 区域 ， 然后 充注 储液罐 。 ||| clean the area around the brake fluid reservioir and cap , and then fill the reservoir .
+小心 地 将 旧 的 前驱动单元 降至箱 中 。 ||| carefully lower the old front drive unit into the crate .
+使用 磁场观察卡 检查 左后轮毂 的 调节环 。 ||| use a magnetic field viewing card to check the LH rear hub 's tone ring .
+将 制动管路 放到 防抱死制动系统单元 和 主缸 适当 位置 。 ||| bring the brake lines to the abs unit and master cylinder .
+塞住 车载电脑冷却液端口 。 ||| plug the car computer coolant ports .
+取出 制动液储液罐 下方 的 吸收性材料 。 ||| remove the absorbent material from under the brake fluid reservoir .
+安装 并用 手 拧紧 将 旧 的 前驱动单元 固定 到 前驱动单元箱 的 螺栓 。 ||| install and handtighten the bolts that attach the old front drive unit to the front drive unit crate .
+将 防抱死制动系统调制器 安装 到 支架 中 。 ||| install the abs modulator into the bracket .
+紧固 将 制动管路 连接 到 车身 的 夹子 。 ||| fasten the clips that attach the brake lines to the body .
+安装 前备箱盖锁盖 。 请参阅 盖板 前备箱盖锁 。 ||| install the hood latch cover . see cover hood latch .
+将 电气线束连接器 连接 到 机电制动助力器连接器 。 ||| connect the electrical harness connectors to the electromechanical brake booster connector .
+降低 驱动单元吊索工具 以 释放 拉索 中 的 张力 ， 然后 从 起重机架 上 拆下 吊索工具 。 ||| lower the drive unit sling tool to release tension in the cables , and then remove the sling tool from the gantry .
+取下 集液瓶 ， 并 安装 排放阀 盖 。 ||| remove the catch bottle and install the bleed valve cap .
+打开 卸扣 并 从 旧 的 前驱动单元 上 拆下 驱动单元吊索工具 。 ||| open the shackles and remove the drive unit sling tool from the old front drive unit .
+紧固 将 副框架电气线束 固定 到 前驱动单元逆变器 的 夹子 。 ||| fasten the clips that attach the subframe electrical harness to the front drive unit inverter .
+手动 拧紧 左半轴 上 的 新后驱动单元半轴螺母 。 ||| handtighten a new rear drive unit halfshaft nut on the LH halfshaft .
+使 前轮轮毂 朝向 中间 。 ||| point the front wheel hubs to center .
+紧固 将 电气线束 固定 到 主缸处制动管路 的 夹子 。 ||| fasten the clip that attaches the electrical harness to the brake line at the master cylinder .
+关闭 箱 并 准备 运送 到 材料 审查 委员会 。 ||| close the crate and prepare for shipment to mrb .
+安装 将 高压线束支架 固定 到 逆变器 的 螺栓 。 6nm ||| install the bolt that attaches the hv harness bracket to the inverter . 6 nm
+升起 车辆 并 拆下 左前车轮 。 请参阅 轮毂 。 ||| raise the vehicle and remove the front LH wheel . see wheel .
+拧紧 排放阀 。 18 . 5nm ||| tighten the bleed valves . 18.5 nm
+启用 维护模式 。 ||| enable service mode .
+将 放油盘 放在 右前制动软管 下方 。 ||| position the oil drain under the front RH brake hose .
+在 防抱死制动系统调制器 区域 下方 放 一个 机油排放容器 。 ||| place an oil drain container under the abs modulator area .
+安装 新 的 反相盖板标签 。 ||| install a new phase out cover label .
+将 防抱死制动系统调制器 移入 车内 的 适当 位置 ， 以便 安装 。 ||| move the abs modulator into position within the vehicle for installation .
+紧固 将 制动管路 固定 到 防抱死制动系统单元 的 夹子 。 ||| fasten the clip that attaches the brake lines to the abs unit .
+将 储液罐 再 充注 至 最高 液位 ， 正确 地 处理 集液瓶 中 的 液体 。 ||| refill the reservoir to max , and properly dispose of the catch bottle contents .
+安装 雨刮器电机 。 请参阅 雨刮器模块 。 ||| install the wiper motor . see wiper module .
+紧固 将 后驱动单元入口软管 固定 到 高压线束支架 的 夹子 。 ||| fasten the clip that attaches the rear drive unit inlet hose to the hv harness bracket .
+使 车辆 前轮 朝向 正前方 ， 方向盘 居中 。 ||| set the vehicle 's front wheels straight and the steering wheel centered .
+拆下 方向盘 。 请参阅 方向盘 。 ||| remove the steering wheel . see steering wheel .
+打开 两个 前车门 并 降下 车窗 。 ||| open both front doors and lower the windows .
+从 左前制动钳 上 拆下 前制动片 。 ||| remove the front brake pads from the LH front brake caliper .
+启用 制动踏板抑压器 。 注 确认 完全 踩下 制动踏板 以 避免 车轮 打转 。 ||| apply the brake pedal depressor . note verify brake pedal is fully pressed to avoid wheels from spinning .
+将 左后制动钳 向外 移动 ， 以 部分 压住 制动钳活塞 。 ||| move the rear LH caliper outward to partially compress the caliper piston .
+将 电气线束 连接 到 逆变器低压连接器 。 ||| connect the electrical harness to the inverter low voltage connector .
+安装 方向盘 。 请参阅 方向盘 。 ||| install the steering wheel . see steering wheel .
+在 触摸屏 上 ， 将 转向柱 移至 最 下部 、 最 外侧 的 位置 。 ||| from the touchscreen , move the steering column to the lowest and most outward position .
+使用 一字螺丝刀 ， 小心 地 将 卡钳 推离 制动盘 ， 以便 下压 制动器活塞 。 ||| using a flat head screwdriver , compress the brake piston by carefully pushing the caliper away from the brake rotor .
+利用 卡钳扩张器组件 或 类似 工具 ， 轻轻地 将 活塞 推回 卡钳 。 ||| use the caliper spreader kit or similar tool to gently push the piston back into the caliper .
+下降 车辆 高度 ， 然后 将 车辆 换入 驻车挡 。 ||| lower the vehicle , and then shift the vehicle into park .
+紧固 将 主缸制动管 固定 到 支架 的 夹子 。 ||| fasten the clip that attaches the master cylinder brake lines to the bracket .
+移走 放油盘 。 ||| remove the oil drain .
+再 排放 右后制动钳 。 ||| bleed the rear RH brake caliper next .
+摆正 方向盘 。 ||| set the steering wheel straight ahead .
+更换 耐落螺栓 ||| replace patchbolts
+从 左后制动钳支架 上 拆下 制动片 。 ||| remove the brake pad from the LH rear brake caliper bracket .
+利用 肥皂水 和 手刷 清洁 卡钳销 和 减振弹簧 。 ||| clean the caliper pins and antirattle spring with soapy water and a hand brush .
+打开 排放阀 ， 观察 制动液 从 制动钳 中 流出 。 ||| open the bleed valve and watch the fluid as it flows out of the caliper .
+使用 卡钳扩张器 将 活塞 压入 左后制动钳 。 ||| use the caliper spreader to compress the piston into the rear LH caliper .
+执行 试驾 。 ||| perform a test drive .
+将 副框架电气线束 连接 到 油泵连接器 ， 然后 将 红色锁片 按到 连接器 中 。 ||| connect the subframe electrical harness to the oil pump connector , and then press the red locking tab into the connector .
+在 左前制动钳 区域 下方 放置 放油盘 。 ||| position the oil drain under the LH front brake caliper area .
+将 右前座椅 向 后移 ， 然后 倾斜 座椅靠背 。 ||| move the RH front seat backward and recline the seatback .
+拧紧 后 ， 使用 油性记号笔 标记 紧固件 。 ||| mark the fastener with a paint pen after torquing .
+从 左后制动钳支架 上 拆下 制动钳相接面夹子 。 ||| remove the caliper abutment clips from the LH rear brake caliper bracket .
+使用 卡钳扩张器组件 或 类似 工具 ， 缓慢 地 分开 制动片 。 ||| use a caliper spreader kit or similar tool to gently spread the brake pads apart .
+将 主缸主管螺母 安装 到 防抱死制动系统调制器 上 。 16nm ||| install the master cylinder primary pipe nut to the abs modulator . 16 nm
+安装 前副框架 。 请参阅 副框架总成 前 。 ||| install the front subframe . see subframe assembly front .
+断开 电气连接器 与 左后制动钳 的 连接 。 ||| disconnect the electrical connector from the LH rear brake caliper .
+使用 塑料饰板工具 ， 小心 地 从 左前制动钳 上 拆下 制动片 。 ||| gently use a plastic trim tool to remove the brake pads from the LH front brake caliper .
+向 制动钳滑块 上 均匀 涂抹 一层 silaramic润滑剂 。 ||| apply an even layer of silaramic lubricant to the brake caliper slides .
+将 主缸辅助管螺母 安装 到 防抱死制动系统调制器 上 。 16nm ||| install the master cylinder secondary pipe nut to the abs modulator . 16 nm
+紧固 将 副框架电气线束 固定 到 逆变器 的 夹子 。 ||| fasten the clips that attach the subframe electrical harness to the inverter .
+安装 前饰板 。 请参阅 饰板 前部 。 ||| install the front fascia . see fascia front .
+拆下 将 电气线束支架 固定 到 左后制动钳 的 螺栓 。 ||| remove the bolt that attaches the electrical harness bracket to the LH rear brake caliper .
+拆下 驾驶位气囊 。 请参阅 气囊 驾驶位 。 ||| remove the driver air bag . see airbag driver .
+将 前部线束左侧 移 到 一旁 ， 以便 于 检修 。 ||| move the LH side of the front harness aside for access .
+拆下 固定 驾驶室上部进气槽总成 的 夹子 。 ||| remove the clips that attach the cabin intake upper duct assembly .
+将 左前制动片 安装 到 左前制动钳 上 。 ||| install the LH front brake pads to the LH front brake caliper .
+从 后驱动单元 与 副框架固定装置 之间 拆下 块 。 ||| remove the block from between the rear drive unit and the subframe fixture .
+在 左后制动钳 区域 下方 放置 放油盘 。 ||| position the oil drain under the LH rear brake caliper area .
+断开 方向盘电气线束连接器 。 ||| disconnect the steering wheel electrical wiring harness connector .
+断开 防抱死制动系统单元 上 的 连接器 。 ||| disconnect the connector from the abs unit .
+从 左后制动钳 上 拆下 制动片 。 ||| remove the brake pad from the LH rear brake caliper .
+安装 制动钳相接面夹子 。 ||| install the caliper abutment clips .
+使用 肥皂水 冲刷 左前制动钳 和 防震弹簧 。 ||| brush the LH front brake caliper and anti rattle springs with soapy water .
+安装 固定 减振弹簧 的 制动片定位销 。 ||| install the brake pad retaining pins that attach the antirattle spring .
+将 制动盘偏转挠性杆 安装 到 前横拉杆螺母 上 并 设置 用于 读取 。 ||| install the brake rotor run out flex bar onto the front tie rod nut and setup for reading .
+从 左后制动钳支架 上 拆下 制动片 。 ||| remove the brake pad from the LH rear brake caliper bracket .
+安装 左前车轮 。 请参阅 轮毂 。 ||| install LH front wheel . see wheel .
+取 走 车辆 下方 的 机油排放容器 。 ||| remove the oil drain container from beneath the vehicle .
+从 车辆 底部 取 走 放油盘 。 ||| remove the oil drain from underneath the vehicle .
+从 转向柱 上 拆下 方向盘 。 ||| remove the steering wheel from the steering column .

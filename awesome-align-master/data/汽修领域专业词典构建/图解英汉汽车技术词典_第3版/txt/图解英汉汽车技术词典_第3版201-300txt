@@ -1,0 +1,2396 @@
+
+Fig. 11-8	Plunger In-Line Piston Pump
+图 11-8	直列式柱塞泵
+
+
+2 [two]-plunger inline piston  pump  直列式 2 柱塞泵
+speed sensor  转速传感器
+pump speed sensor 泵转速传感器
+metering unit 计量单元
+fuel supply port for  metering unit 计量单元供油口
+fuel return port 回油口
+high-pressure port 高压口
+valve body 阀 体
+valve holder [seat] 阀 座
+outlet valve with valve spring 带 阀 弹簧的出油阀
+inlet valve with valve spring  带阀弹簧的进油阀
+fuel supply to pump element 到 泵送元件的供油
+
+7+8+9+10 two-part intake/high pressure
+valve 两件式进油/高压阀
+plunger spring 柱塞弹簧
+fuel supply port from fuel tank 来自燃油箱的供油口
+fuel outlet to fuel filter 到燃油滤清器的出油口
+gear pre-supply pump 齿轮式预供给泵
+overflow valve   溢流阀
+concave cam   凹形凸轮
+camshaft 凸轮轴
+roller bolt with roller 滚子式滚轮销
+roller tappet 滚轮挺柱
+C-coated plunger C 涂层柱塞
+mounting flange 安装法兰
+
+
+
+Fig. 11-9	CR [Cоmmоn Rail] Injector
+图 11-9	共轨喷油器
+
+
+А solenoid valve injector  电磁阀式喷油器
+B piezo injectors 压电式喷油器
+fuel return 回 油
+solenoid coil 电磁线圈
+over-lift spring 行程限制弹簧
+solenoid armature 电磁阀衔铁
+valve ball 阀 球
+valve control chamber 阀控制室
+nozzle spring 喷油嘴弹簧
+nozzle needle pressure shoulder 喷 油嘴针阀压力肩
+chamber volume  腔容积
+
+spray hole 喷 孔
+solenoid valve spring 电磁阀弹簧
+outlet throttle   流出节流孔
+high pressure port   高压口
+inlet throttle 流入节流孔
+valve control piston 阀控制柱塞
+nozzle needle 喷油嘴针阀
+intake passage	进油道
+piezo actuator module 压电驱动模块
+hydraulic coupler	液压连接器
+hydraulic amplifier 液压放大器
+servo valve 伺服阀
+control valve  控制阀
+
+
+Fig. 11-10	Metering Unit， Safety Valve and Pressure Regulator Valve
+图 11-10	计量单元、安全阀和调压阀
+
+metering unit 计量单元，配剂量装置
+safety valve 安全阀
+pressure limiting valve 限压阀
+C，D pressure regulator valve 调压阀
+DRV （德语）燃油压力调节阀C    DRV1（Bosch）    （博世）DRV1 型 D    DRV2（Bosch）    （博世） DRV2 型
+plug with electrical interface 电气插座
+solenoid housing [casing] 电磁阀壳体
+bearing 轴 承
+armature with tappet 带推杆的衔铁
+winding 绕 组
+cup 杯形件
+residual air gap  残留气隙
+magnetic core 磁 芯
+
+O-ring O 形 圈
+piston with control slots 带控制槽的柱塞
+spring 弹 簧
+retaining element 保持元件
+diaphragm disk 膜片盘
+casing 壳 体
+low-pressure stage  低压级
+valve plunger 阀柱塞
+valve seat 阀 座
+armature 衔 铁
+valve ball 阀 球
+filter 滤清器
+connection edge 连接棱边
+fitting part with retaining ring 带 挡圈的配合部分
+
+
+
+Fig. 11-11	Unit Injector
+图 11-11	泵喷嘴
+
+
+参考：GBT 10826.3-2008《燃油喷射装置 词汇 第 3 部分：泵喷嘴》
+UI = unit injector （柴油机）泵喷嘴
+sliding disk 滑动盘
+return spring 回位弹簧
+pump plunger 泵柱塞
+pump body 泵 体
+electrical connector 电气连接器
+high pressure chamber 高压腔
+cylinder head 气缸盖
+fuel return 燃油回流，回油
+fuel feed[supply] 供 油
+
+spring retainer  弹簧座
+pressure pin  压紧销
+intermediate ring 中间环
+injection nozzle   喷油嘴
+retaining nut   锁止螺母
+armature 衔 铁
+electromagnet coli 电磁线圈
+solenoid valve needle   电磁阀针阀
+solenoid valve spring   电磁阀弹簧
+drive cam shaft	驱动凸轮轴
+solenoid valve 电磁阀
+
+
+Fig. 11-12	Electronic Control for In-Line Fuel-Injection Pump
+图 11-12	电控直列喷油泵
+
+
+in-line fuel-injection pump with electronic governor 电子调速器直列式喷油泵
+in-line fuel injection pump with electronic diesel control 电控柴油直列喷油泵
+in-line adjusting sleeve fuel injection pump
+调节套式直列喷油泵
+plunger barrel 柱塞套
+（fuel） adjusting sleeve    （油量）调节套
+control rack   调节齿杆
+pump plunger   泵柱塞
+camshaft 凸轮轴
+actuator for timing 正时执行器
+
+adjusting sleeve control link 调 节 套控制拉杆
+actuator for fuelling 加油执行器solenoid actuator    电磁执行器stroke actuator for  control  rack  调节齿杆行程执行器
+control rack stroke sensor 调节齿杆行程传感器
+electric（al） connector    电气连接器
+fuel return plate 回油盘
+fuel supply pump 供油泵
+
+
+
+
+Fig. 11-13	Solenoid-Valve-Controlled Distributor Pump（Bosch）
+图 11-13	电磁阀控制式分配泵（博世）
+
+
+distributor-type fuel-injection pump with radial plunger and  solenoid  control  电磁控制径向柱塞分配式喷油泵
+View A  A 向视图
+angle/time sensor 角度/时间传感器angle  of  rotation  sensor	转动角度传感器
+electronic control unit 电控单元
+distributor shaft 分配器轴
+delivery valve holder 出油阀压紧座
+solenoid valve needle 电磁阀阀针
+distributor casing[housing] 分配器壳体
+valve body 阀 体
+pressure solenoid 压力电磁阀
+timing device  正时装置
+
+advance device  喷油提前器
+radial piston pump 径向柱塞泵
+cam ring 凸轮圈
+roller 滚 子
+distributor shaft   分配器轴
+delivery plunger   供油柱塞
+roller support 滚子支撑
+timing-device pulse  valve  正时装置脉冲阀
+timing device  clock valve 正时装置时钟阀
+TCV = timing control valve 正时控制阀
+delivery valve  出油阀
+high-pressure solenoid  valve  高压电磁阀
+drive shaft 驱动轴
+
+
+
+Fig. 11-14	Electronically Controlled Unit Pump Injection System
+图 11-14	电子控制分列式泵喷射系统
+
+
+UPS = unit pump system 分列式泵系统， 单体泵系统
+UP = unit pump （不含 1～3 及 13）分列式喷油泵，单体喷油泵
+unit fuel injection pump （不含1～3 及13）
+分列式泵， 单体泵
+nozzle holder 喷油器体
+pressure fitting 压力接头
+high  pressure  delivery  line	高压供油管
+connection 连接头
+solenoid valve needle  travel  stop  电磁阀阀针行程限制器
+stroke stop  行程限制器
+solenoid valve needle 电磁阀针阀
+plate 板
+pump body， pump housing    泵体
+high pressure chamber 高压腔
+pump plunger  泵柱塞
+cylinder head 气缸盖
+
+roller tappet pin 滚子式挺柱销
+cam 凸 轮
+spring seat 弹簧座
+solenoid valve spring   电磁阀弹簧
+valve housing with coil and magnet core 带线圈和磁铁心的阀壳
+armature plate 衔铁板
+intermediate plate  中间板
+seal 密封圈
+fuel  inlet（low   pressure）	燃油进口
+（低压）
+fuel return 回 油
+pump plunger retention（retaining） device
+泵柱塞保持装置
+tappet spring 挺柱弹簧
+tappet body 挺柱体
+spring seal 弹簧座
+roller tappet   滚子挺柱
+tappet roller   挺柱滚子
+
+
+
+Fig. 11-15	HCI System and Ceramic Particulate Filter
+图 11-15	HCI系统和陶瓷微粒过滤器
+
+
+Actuators 执行器
+Sensors 传感器
+HCI system = hydrocarbon injection system 碳氢化合物喷射系统
+DPF= diesel particulate filter 柴油机
+微粒过滤器
+ceramic particulate  filter  陶瓷微粒过滤器
+fuel pump  燃油泵
+fuel tank 燃油箱
+temperature sensor 温度传感器
+HCDM = HC dosing module 碳 氢 化合物配量模块
+HC metering unit 碳氢化合物计量单元
+
+fuel filter 燃油滤清器
+engine ECU 发动机电控单元
+diesel oxidation catalytic converter
+柴油机氧化催化转化器
+diesel particulate  filter  柴油机微粒过滤器
+differential-pressure sensor 压差传感器
+housing 外 壳
+extruded honeycomb ceramic 挤 出式蜂窝陶瓷
+ceramic plug 陶瓷塞
+square channel  cross-section  方形通道横剖面
+octosquare design octagonal 八角形结构
+
+
+
+Fig. 11-16	Electronic-Controlled Glow-Plug System and Glow Plug
+图 11-16	电子控制电热塞系统和电热塞
+
+
+conventional shape glow plug  传 统电热塞
+EDC=electronic diesel control 柴油机电子控制装置
+self-control type glow plug （温度）自控型电热塞
+glow plug 电热塞
+glow control unit 预热控制单元
+glow plug and starter switch 电热塞和起动机开关
+pre-glow indicator 预热指示灯
+to battery 到蓄电池
+control	控制
+diagnosis	诊断
+pin terminal 接线端子
+
+insulating washer  绝缘垫圈
+glow plug shell 电热塞壳
+glow tube 电热塞管
+regulation coil （加热）调节线圈
+insulated powder 绝缘粉
+heating coil 加热线圈
+heater shim 加热元件衬垫
+sealing ring 密封圈
+round nut	圆螺母
+terminal stud	端子螺柱
+contact element 接触元件
+insulating layer  绝缘层
+semiconducting layer 半导体层
+hot spot	热点
+
+
+
+Fig. 11-17	EDC-Controlled Glow-plug System and New Glow Plug
+图 11-17	柴油机电子控制电热塞系统和新型电热塞
+
+
+A Rapiterm ceramic sheathed-element glow plug Rapiterm 型陶瓷封装式电热塞
+EDC=electronic diesel  control  柴油机电子控制装置
+glow plug 电热塞
+glow control unit 预热控制单元
+glow plug and starter switch 电热塞和起动机开关
+pre-glow indicator 预热指示灯
+to battery 到蓄电池
+
+control 控 制
+diagnosis 诊 断
+pin terminal 接线端子
+insulating washer  绝缘垫圈
+10，14 sealing ring 密封圈
+terminal stud 端子螺柱
+glow plug shell 预热塞壳
+contact element 接触元件
+insulating layer  绝缘层
+semiconducting layer 半导体层
+hot spot 热 点
+
+12. Clutch， Driveshaft and Axle
+离合器、传动轴和车桥
+参考：GB	5728-1985《汽车离合器术语及其定义》（已作废，但无新标准替代，仅供参考）
+GB/T	5333-1985《汽车驱动桥术语及定义》
+
+
+Fig. 12-1	Drivetrain Configurations and Engine Position
+图 12-1	传动系统布置和发动机位置
+
+
+A， B FF = front engine front drive = front engine with front wheel drive 前 置
+发动机前轮驱动，前置前驱
+FWD = front wheel drive 前轮驱动
+front transverse engine with front wheel drive 前横置发动机前轮驱动
+front longitudinal engine with front wheel drive 前纵置发动机前轮驱动
+FR  =  front  engine  （with）  rear  drive    前
+置发动机后轮驱动
+C，  D，  E    RWD  =  rear  wheel  drive    后轮驱动
+
+MERWD = mid-engine rear-wheel drive
+中置发动机后轮驱动
+ME  =  mid-engine，  midship  engine，  cen- tral engine 中置发动机
+RE/RD = rear engine/rear drive 后 置 发
+动机/后轮驱动，后置/后驱
+RE  =  rear  engine，  back  engine    后置发动机
+engine， motor    发动机
+transaxle   变速驱动桥
+transmission 变速器
+drive axle 驱动桥
+
+
+Fig. 12-2	Friction Clutch
+图 12-2	摩擦式离合器
+
+
+single plate[disk， disc] clutch 单盘离合器
+diaphragm spring  clutch  膜片弹簧离合器
+double  plate[disk，  disc]  clutch，  twin plate [disk， disc] clutch    双盘离合器 coil spring clutch 螺旋弹簧离合器
+driven  plate[disk，  disc]，  clutch  plate [disk， disc]    从动盘
+diaphragm spring 膜片弹簧
+clutch spring 离合器弹簧
+release fork， throw-out fork    分离叉 clutch yoke [fork， operating fork]    离合器叉
+release  bearing，  throw-out  bearing   分离轴承
+
+4a release sleeve[clutch] 分离套筒
+4+4a	release bearing and sleeve 分 离 轴承和分离套筒总成
+pressure plate 压 盘
+5a   intermediate （pressure） plate [disk， disc]， center  （pressure）  plate    中间压盘，前压盘
+release[declutching]  lever，  release  pad
+分离杠杆
+coil spring， helical spring， spiral spring
+螺旋弹簧
+clutch spring   离合器弹簧
+pressure spring   压紧弹簧
+clutch shaft    离合器轴，变速器第一轴
+pilot [guide， direct] bearing    导向轴承
+
+
+
+
+
+Fig. 12-3	Diaphragm Spring C1utch
+图 12-3	膜片弹簧离合器
+
+
+single-plate diaphragm spring clutch
+单盘式膜片弹簧离合器
+twin-plate diaphragm spring clutch
+双盘式膜片弹簧离合器
+pull-type clutch 拉式离合器
+C，  D    clutch  cover  assy.，  pressure  plate assy. 离合器盖总成（注：两词条为同一部件，都是带压板的盖总成） assy.=assembly 总 成
+clutch with tangential drive strap 切向传动带型离合器
+clutch with radial drive  strap 径 向传动带型离合器
+self-adjusting type clutch cover 自 调型离合器盖
+conventional type clutch cover 普 通型离合器盖
+retracting  spring，  return  spring    回位弹簧
+retraction clip  回位卡子
+pivot  ring，  fulcrum  ring    （膜片弹簧）
+支撑环
+pressure plate， driving plate 压盘
+
+diaphragm spring 膜片弹簧
+driven plate 从动盘
+retaining bolt （支撑环）固定螺栓
+retaining rivet 固定铆钉
+clutch cover， back plate    离合器盖
+flywheel 飞 轮
+blunted location hole 圆形定位孔
+diaphragm release finger 膜片分离指
+drive strap， strap （压盘）传动带11a	tangential （drive） strap    切向传动带 11b    radial （drive） strap    径向传动带
+release sleeve， release hub    分离套筒
+release bearing 分离轴承
+clutch brake 离合器制动器
+input shaft brake （变速器）输入轴制动器
+ball stud （分离叉）球头销
+clutch housing	离 合 器 壳 transaxle housing		变速驱动桥壳flywheel case [casing， housing]   飞轮壳
+adjust ring 调节环
+sensor spring 传感器弹簧
+
+
+
+Fig. 12-4	Coil Spring Clutch
+图 12-4	螺旋弹簧离合器
+
+
+A   multi coil spring clutch   多簧式离合器 B   semi-centrifugal clutch    半离心式离合器C central spring clutch 中央弹簧离合器three-plate clutch 三盘式离合器
+pressure plate 压 盘
+pressure disc[disk] 压 盘
+plate  clutch  pressure，  clutch  pressure plate 离合器压盘
+clutch （plate） cover， clutch back plate
+离合器盖
+1， 2    pressure plate （and cover） assy.    压盘总成
+pressure disk comp.	（离合器）压盘组件（包括离合器盖和压盘）
+pressure spring 压紧弹簧
+clutch  pressure  spring	离合器压紧弹簧
+coil[spiral-coiled，  spiral，  helical，  helical extension] spring 螺旋弹簧
+annular plate， ring plate    环形板
+carbon-impregnated ring 碳浸渍环
+（注：代替分离轴承）
+retained[restricted，    retainer]    spring
+保持弹簧
+torsion spring， torsional spring    扭转弹簧
+anti-rattle  spring，  anti-squeal  spring
+消声弹簧
+release lever spring， disengaging lever spring， tripping lever spring   分离杆弹簧
+
+eye bolt 环眼螺栓
+adjusting  nut，  regulating  nut，  setting nut 调节螺母
+retaining[standing] nut， hold-down nut， fixing nut 固定螺母
+strut   支撑片
+pressure plate lug 压盘凸耳
+pivot pin， pin， pivot shaft 枢销
+release[declutching]  lever，  withdrawal lever， tripping lever， disengaging lever分离杆
+pressure plate lever 离合器压盘（分
+离）杠杆
+recess[dimple] seat （枢销）凹座
+roller 滚 子
+driven  plate[disk，disc]，  clutch  plate
+从动盘
+weight 重 块
+counter weight， balance weight    配重，平衡重块
+C. F = centrifugal force 离心力
+centrifugal pull 离心力
+inertial centrifugal force 惯性离心力
+square-headed peg 方头栓钉
+central spring 中央弹簧
+single coil spring， single spiral spring， single helical spring  单螺旋弹簧
+bracket， support， holder    支架
+pressed steel cup 承压钢杯
+plunger 柱 销
+
+
+
+
+
+
+Fig. 12-5	Clutch with Dual-Mass Flywheel
+图 12-5	双质量飞轮离合器
+
+
+clutch with dual-mass flywheel 双 质量飞轮离合器
+clutch with flywheel absorber  飞 轮阻尼器式离合器
+flexible clutch  挠性离合器
+release fork， withdrawal fork，  operating fork， clutch fork 分离叉
+diaphragm spring 膜片弹簧
+throw-out   bearing，   release   bearing， release thrust bearing 分离轴承release  bearing  assembly，  release  bear- ing carrier assembly 分离轴承总成
+input shaft	输入轴
+
+transaxle case   变速驱动桥壳
+secondary flywheel   次级飞轮
+primary flywheel 初级飞轮
+crankshaft 曲 轴
+driven  plate[disk，  disc]，  clutch  plate
+从动盘
+pressure plate[disk， disc] 压盘plate clutch pressure， clutch pressure plate 离合器压盘
+flexible element 挠性元件
+DMF=dual-mass flywheel 双质量飞轮
+twin mass flying wheel 双质量飞轮
+
+
+
+Fig. 12-6	Operated Clutch Arrangement
+图 12-6	离合器操纵机构
+
+
+clutch operation 离合器操纵机构hydraulic-operated clutch arrangement [operation]，  hydraulic  clutch  linkage离合器液压操纵机构
+cable-operated clutch arrangement
+离合器拉索操纵机构
+mechanical clutch arrangement[oper- ation] 离合器机械操纵机构
+automatic clutch cable adjusting mecha- nism 离合器拉索自动调节机构
+clutch cover	离合器盖
+clutch master cylinder 离合器主缸
+2a reservoir 储液罐
+return spring 回位弹簧
+slave cylinder piston return spring
+工作缸活塞回位弹簧
+
+clutch pedal 离合器踏板
+hydraulic line 液压管路
+flexible （hydraulic）  pipe   （液压）连接软管
+release fork， withdrawal fork， operat- ing fork， clutch fork 分离叉
+slave  cylinder，  release  cylinder    工作
+缸，分离缸
+clutch pedal linkage 离合器踏板拉杆
+pedal shaft 踏板轴
+release cable  分离拉索
+clutch release cable 离合器分离拉索
+tension spring 拉伸弹簧
+toothed  segment[quadrant]，  notched quadrant 齿 扇
+pawl 棘 爪
+
+
+Fig. 12-7	Clutch Master Cylinder
+图 12-7	离合器主缸
+
+
+clutch release master cylinder 离 合器操纵机构主缸
+compensating （port） master cylinder
+有补偿孔式主缸
+portless master cylinder 无补偿孔式主缸
+clevis， clevice    连接叉，U 形夹
+pushrod 推 杆
+piston stop plate  活塞止动板
+inlet port， oil inlet    进油孔
+reservoir （tank）， fluid reservoir    储液罐
+
+cap， cup （储液罐）盖
+reservoir cup	储液罐盖
+compensating port （bore， orifice）   补偿孔
+cylinder housing[body] 主缸缸体
+piston return spring 活塞回位弹簧
+primary cup  主皮碗
+piston， plunger 活塞，柱塞
+secondary cup 副皮碗
+boot 防尘罩
+snap ring 挡 圈
+inlet valve 进油阀
+
+
+Fig. 12-8	Clutch Release[Slave， Secondary] Cylinder
+图 12-8	离合器工作缸[分离缸、随动缸]
+
+
+adjustable slave cylinder 可调式工作缸
+automatic adjustable slave cylinder
+自动调整式工作缸
+hydraulic throw-out bearing assy. 液压式分离轴承总成
+bleeder valve   放气阀
+bleeding plug， bleeder screw    放气塞，放气螺钉
+slave[release] cylinder body  工作缸缸体
+pushrod boot 推杆防尘罩
+push bar boot 推杆防尘罩
+
+adjusting nut 调整螺母
+push rod[bar] 推 杆
+retaining ring， snap ring    卡环，挡圈
+piston， plunger 活塞，柱塞
+cup， seal cup    皮碗
+seal ring， seal    密封圈
+fluid entry port 进油口
+spring 弹 簧
+hydraulic throw-out bearing， hydraulic release bearing 液压式分离轴承
+hydraulic line[pipe] 液压管
+slave cylinder 工作缸
+
+
+
+Fig. 12-9	Clutch Driven Plate
+图 12-9	离合器从动盘
+
+
+clutch  （driven）  disc，  clutch  plate    离合器从动盘，从动盘
+plate friction lining， clutch plate lining， driven  plate lining，  disc  facing，  clutch facing 摩擦衬片
+rivet 铆 钉
+lining rivet， facing rivet    衬片铆钉
+spring segment   扇形弹簧片
+cushion spring   缓冲弹簧片
+locating dowel pin 限位销
+stop pin  止动销
+limiting slot 限止槽
+hub flange （从动盘）毂法兰
+
+splined hub  花键毂
+driven plate[disc] hub 从动盘毂
+friction washer， friction ring   摩擦垫圈
+lugged thrust washer 凸耳推力板
+Belleville spring 贝氏弹簧，盘形弹簧
+torsional damper spring 扭转减振器弹簧
+torsional[damping] spring 减振弹簧
+side plate 侧 盘retainer plate 保持板drive washer 传动圈
+segment rivet 扇形弹簧片铆钉
+
+
+
+Fig. 12-10	Drive Shaft
+图 12-10	传动轴
+
+
+参考：1.  JASO   C  803-1986《汽车传动轴词汇》
+2.    SAE    J 901-2007《万向节及传动轴术语定义-应用》
+slip yoke 滑动叉
+sleeve yoke 套筒叉
+1a transmission yoke  变速器叉
+U-joint = universal joint 万向节Cardan （universal） joint， Hooke’s uni- versal joint， cross and roller universal joint 十字轴式万向节
+nonconstant  velocity  （type）  universal joint 非等速万向节
+tube 轴 管
+front drive shaft  前传动轴
+center support bearing 中间支撑轴承
+support bearing 支承轴承
+rear drive shaft  后传动轴
+slip 允许滑动量
+drive shaft length 传动轴特征长度
+8a over-all length of component （ 传 动外延长度
+slip spline 滑动花键
+（说明：4～9 对应图 12-11）
+torsional damper， vibration absorber
+扭振减振器
+damper 阻尼器
+cross 十字轴
+cross spider， universal-joint pin， center cross 十字轴
+round bearing 转动轴承
+needle roller and bearing cup 滚 针和轴承杯
+11+12 cross assembly 十字轴总成
+retaining ring， snap ring    挡圈，卡环
+
+13a    externally locating type    外部定位式
+13b    internally locating type    内部定位式
+weld yoke， tube yoke    轴管叉
+liner 衬管，内衬
+rubber element 橡胶元件
+internal vibration absorber 内置式扭振减振器
+strap 夹 板
+U-bolt U 形螺栓
+end yoke   叉形凸缘
+flange yoke   凸缘叉
+companion flange   接合凸缘
+retainer plate （轴承）保持板
+lock plate 锁止板
+bearing seal   轴承油封
+tube shaft   管端花键轴
+spline seal 花键油封
+multiple keys seal 花键油封
+balance weight 平衡重块counterweight 配重，平衡重weight 配重，平衡重块
+lubrication fitting  润滑加注口，黄油嘴
+flexible universal joint 挠性万向节
+adjusting[adjust，  adjustment] nut    调节螺母
+flexible  coupling，  rubber  doughnut， flexible  disc[disk]，  rubber  universal joint 挠性联轴器
+front differential side   前差速器侧
+shell-cap type joint   壳盖式万向节
+rear differential side   后差速器侧
+tripod type CVJ 三球销式等速万向节CVJ = constant  velocity joint  等速万向节
+
+
+
+Fig. 12-11	Types of Drive Shaft
+图 12-11	传动轴类型
+
+
+one-piece driveshaft 单根式传动轴outboard slip  drive  shaft  外侧滑动传动轴
+two-joint outboard slip drive  shaft  两万向节外侧滑动传动轴
+two-piece drive shaft 两段式传动轴
+inboard slip drive shaft 内侧滑动传动轴
+two-joint inboard slip drive shaft  两万向节间滑动传动轴
+single joint coupling shaft 单万向节传动轴
+
+1，2，3 见图 12-10
+front drive shaft 前传动轴
+center support bearing 中间支撑轴承
+support bearing 支承轴承
+rear drive shaft 后传动轴
+slip 允许滑动量
+drive shaft length 传动轴特征长度
+8a over-all length of component （ 传 动外延长度
+slip spline 滑动花键
+
+
+
+
+Fig. 12-12	Drive Halfshaft and CVJ of FF Passenger Car
+图 12-12	前驱乘用车传动轴和等速万向节
+
+
+differential side 差速器侧
+tripod type CVJ[constant velocity joint]
+三球销等速万向节
+outboard joint 外侧万向节
+inboard end motion universal  joint 可轴向移动式内侧万向节
+dynamic damper 动态减振器
+mass damper 质量[惯性]型减振器
+Rzeppa universal joint 球笼式万向节
+inboard joint 内侧万向节
+wheel side 车轮侧
+1，4    snap ring    挡圈
+tripod housing 三销槽壳
+screw plug 螺 塞
+
+tripod assembly 三销架总成
+spacing ring 间隔圈
+retaining clamp （防尘套）保持夹
+outer race， bell type housing   钟形壳，外球座
+boot， boot seal    防尘套
+clamp 夹 子
+axle shaft 半 轴
+retaining ring 保持圈
+ball 钢 球
+inner race 内球座，星形套
+cage 球笼，保持架
+outer race 钟形壳，外球座
+stub axle （车桥）短轴
+
+
+
+Fig. 12-13	Cross Groove CVJ and Double Offset Joint
+图 12-13	交叉槽式等速万向节和双效补偿万向节
+
+CVJ = CV joint = constant velocity universal joint 等速万向节
+constant-velocity Cardan joint 等速万向节
+fixed center type cross groove CVJ 定中心式交叉槽等速万向节
+A， C    inboard joint    内侧万向节
+end motion type  cross groove CVJ 轴向滑动式交叉槽等速万向节
+outboard joint 外侧万向节
+double  offset  （universal）  joint    双效补偿万向节
+B， C    motion universal joint， stroking universal joint （主动和被动件间
+
+容许） 相对轴向运动的万向节，可轴向移动式万向节
+solid bar 实心轴
+outer  race，  bell  type  housing	钟形壳，外球座
+inner race 星形套，内球座
+ball 钢 球
+gasket 衬 垫
+cage 保持架，球笼
+cap 盖
+seal adapter   密封配接盘
+retaining ring 挡 圈
+
+
+
+Fig. 12-14	Tripod Univenrsal Joint
+图 12-14	三球销万向节
+
+
+flange tripod 凸缘三球销式
+tripod 三球销式
+fixed tripod 固定三球销式
+plunge tripod 插入三球销式
+A， B   end motion type   轴向滑动式
+C， D   fixed center type   固定中心式
+clamp 夹 箍
+band 箍 带
+
+boot seal 密封罩
+needle roller retainer 滚针保持器
+spider， tripod    三销架
+retaining ring 挡 圈
+needle roller 滚 针
+ball 球 环
+tripod housing 三柱槽壳
+shaft 轴，传动轴
+
+
+
+Fig. 12-15	Double Cardan （Universal） Joint
+图 12-15	双联万向节
+
+
+near CVJ = near constant velocity universal joint 准等速万向节
+gasket 密封垫
+socket slip yoke 套筒滑叉
+retaining ring 挡圈，保持环
+bushing 衬 套
+shield 护 套
+coupling yoke 连接叉
+ball stud tube yoke 球头销轴管叉
+round bearing cup 转动轴承杯
+seal washer 油封垫圈
+needle thrust washer 滚针止推垫圈
+needle roller 滚 针
+bearing seal 轴承油封
+tube 轴 管
+
+ball stud seal 球头销油封
+washer 垫 圈
+ball seat 球 座
+spring 弹 簧
+cross 十字轴
+seal retainer 油封保持架
+plug 塞 板
+centering ball 定心球
+socket 承 窝
+lubrication plug 润滑螺塞
+ball outer seal   球外油封
+ball inner seal   球内油封
+centering stud  tube  yoke  定心销管座叉
+
+
+
+Fig. 12-16	Axle Shaft Mounted Damper
+图 12-16	减振器式半轴
+
+
+axle  shaft  mounted  mass  damper  质量型减振器式半轴
+axle shaft mounted torsional damper
+扭振减振器式半轴
+
+split axle shaft mounted isolation damper
+隔离减振器式分开式半轴
+CV joint mounted isolation  damper  隔离减振器式等速万向节
+
+
+
+
+Fig. 12-17	Rigid Suspension Drive Axle and Axle Shaft
+图 12-17	非独立悬架式驱动桥和半轴
+
+
+参考：SAE   J923-2012《货车和客车驱动桥名称和术语》
+unitized carrier-housing construction drive axle 组合式桥壳结构驱动桥
+single  speed  carrier    单速减速机构（SAE
+J923-2012 中 6）
+注：单速减速机构包括以下两种：
+single speed single reduction carrier 单 级单速减速机构（SAE    J923-2012 中 6a） single speed single reduction carrier 双 级单速减速机构（SAE    J923-2012 中 6b）
+A   full-floating axle shaft    全浮式半轴B   semi-floating axle shaft   半浮式半轴C three-quarter floating axle shaft 四 分
+之三浮式半轴
+gasket 衬 垫
+axle shaft seal 半轴油封
+wheel seal 车轮油封
+differential shaft[pin] 行星齿轮轴
+bearing retainer ring 轴承固定圈
+axle shaft retainer 半轴保持圈
+wheel bearing    车轮轴承rear wheel bearing 后轮轴承axle shaft bearing 半轴轴承
+bearing retainer 轴承保持盘，轴承固定板
+axle shaft， half shaft    半轴
+semi-floating axle shaft 半浮式半轴
+bearing cap （差速器）轴承盖
+adjusting nut lock 调整螺母锁片
+inner bearing （主动小齿轮）内轴承
+locating[adjusting] shim （主动小齿轮）调整垫圈
+
+pinion， drive pinion 主动小齿轮overhung-mounted drive pinion 悬 臂安装式主动小齿轮
+adjusting nut （差速器轴承）调整螺母
+bearing cup 轴承座圈
+differential （side） bearing    差速器轴承
+ring gear， tooth gear    齿圈
+differential case   差速器壳
+cover （差速器壳）盖
+thrust washer 止推垫圈
+differential  pinion shaft lock （pin）   行星齿轮轴锁销
+shaft retainer 轴锁销，轴固定器
+（differential） pinion shaft   行星齿轮轴
+differential （side） pinion， planet gear
+行星齿轮
+differential （side） gear， side gear   半轴齿轮
+vent （轿壳）通风器
+axle housing 桥 壳
+unitized carrier （axle） housing    组合式桥壳
+filler plug 加注塞
+outer bearing （主动小齿轮）外轴承
+pinion  flange，  pinion  yoke    主动齿轮法兰
+dust deflector， deflector    防尘罩
+seal， oil seal    油封
+spacer （sleeve）    （轴承）隔套
+bearing preload spacer    轴承预紧隔套
+30a    collapsible  （preload）  spacer    可伸缩
+（预紧）隔套
+
+
+
+Fig. 12-18	Final Drive
+图 12-18	主减速器[最终传动装置]
+
+
+参考：GB  /T  5333-1985《汽车驱动桥术语及语义》
+spiral  bevel  gears[gearset，  pair]    弧齿锥齿轮副
+hypoid  gears[gearset，  pair]    准双曲面齿轮副
+worm and worm wheel gearset 蜗杆蜗轮副
+A， B， C    single （reduction） final drive
+单级主减速器
+single speed single reduction carrier 单级单速减速机构
+D， E single-speed double-reduction con- struction 双级单速减速机构的结构
+hypoid-helical single-speed double-reduc- tion  gear  train   双级单速准双曲面螺旋齿轮减速机构
+single-speed double-reduction gear train
+双级单速减速齿轮机构
+
+double reduction final drive 双级主减速器
+planetary double reduction final drive
+行星齿轮式双级主减速器
+double-reduction planetary differential gearing 行星齿轮式双级减速差速器齿轮机构
+spur geared wheel reductor 外啮合圆柱齿轮式轮边减速器
+pinion， drive pinion （gear）     主动齿轮
+1a    overhung （mounted） drive pinion  悬臂式主动齿轮
+1b    straddle （mounted）  drive  pinion    跨式主动齿轮
+crown gear[wheel] 冠[盆]形齿轮
+ring gear 齿 圈
+helical  gear，  single-helical  gear    斜齿圆柱齿轮
+
+
+
+Fig. 12-19	Two Speed Double-Reduction Carrier
+图 12-19	双速双级减速器
+
+
+two speed double-reduction gear  train  双级双速齿轮减速机构
+two speed carrier structure 双速减速器架结构
+two-speed  step-down  gear	双速减速器
+〔齿轮机构〕
+double reduction final drive 双级主减速器front mounted double reduction final drive 前置式双级主减速器
+gear-helical high speed 斜齿轮-高速
+high speed helical gear 高速斜齿轮
+helical gear （wheel）    斜齿轮
+case-differential   壳-差速器
+differential casing[box]   差速器壳
+side gear-differential 半轴齿轮-差速器side  gear，  differential  （side）  gear    半轴齿轮
+pinion-differential 行星齿轮-差速器differential pinion 差速器行星齿轮pinion[spider] gear    行星齿轮spider pinion  行星齿轮
+spider-differential 十字轴-差速器differential spider 差速器十字轴spider 十字轴
+pinion spider   行星齿轮十字轴
+thrust washer   止推垫圈
+case-differential 差速器壳
+
+gear-helical low speed 斜齿轮-低速
+low speed helical gear 低速斜齿轮
+bearing-cross shaft  横轴轴承
+pinion-helical low speed 斜齿轮-低速
+helical pinion 螺旋齿轮
+shaft-cross 横 轴
+collar-cross shaft shift 啮合套-横轴换档
+collar shift 啮合套换档
+shift fork[arm] 换档拨叉
+pinion-helical high speed 斜齿齿轮- 高速
+gear-ring/drive 齿圈/主动，主动齿圈
+ring gear	齿圈
+bearing-cross shaft 轴承-横轴
+carrier-differential 座架-差速器
+pinion-drive overhung mounted 悬臂安装式主动齿轮（参考图 12-18a） drive pinion  主动齿轮
+bearing-pinion inner 齿轮内轴承， 轴承-齿轮内
+cage-pinion bearing 外壳-齿轮轴承， 齿轮轴承外壳
+bearing-pinion outer 齿轮外轴承， 轴承-齿轮外
+yoke/flange-pinion 叉/凸缘-齿轮
+pinion flange yoke 齿轮凸缘叉
+
+
+
+Fig. 12-20	Tandem Forward Top-Mounted Double Reduction Drive Axle
+图 12-20	串列前向上置式双级减速驱动桥
+
+
+参考： SAE  J923-2012《商用车驱动桥》中图 6C
+GB/T 5333-1985《汽车驱动桥术语及语义》JASO Z212-1976《汽车主减速器术语》
+yoke/flange-output 叉/凸缘-输出端
+output flange yoke 输出端凸缘叉
+seal 油 封
+bearing-output 轴承-输出端
+output bearing 输出端轴承
+bearing 轴 承
+cover-top 盖-上部
+top cover 上 盖
+gear-drive ring 齿圈-传动
+drive ring gear 传动齿圈
+carrier-differential 座架-差速器
+shaft-thru = through shaft 贯穿轴
+pinion-input drive 齿轮-输入主动
+cage-drive pinion bearing 外壳-主动齿轮轴承
+drive pinion bearing cage 主动齿轮轴承外壳
+bearing 轴 承
+shim 垫 片
+spacer，washer 垫 片
+seal 油 封
+yoke/flange-input 叉/凸缘-输入端
+input flange yoke 输入端凸缘叉
+
+housing-axle    壳-（车）桥
+axle housing 桥 壳
+bearing 轴 承
+17， 22    case-differential    壳-差速器
+differential case 差速器壳
+side gear-differential 半轴齿轮-差速器
+differential side gear 差速器半轴齿轮
+gear-helical driven 齿轮-斜齿从动
+helical driven gear   斜齿从动齿轮
+spider-differential   十字轴-差速器
+differential spider 差速器十字轴
+pinion-differential 行星齿轮-差速器
+bearing-differential  support	轴承- 差速器支承
+differential support bearing 差速器支承轴承
+adjuster-differential  bearing	调节装置-差速器轴承
+differential bearing adjuster 差速器轴承调节装置
+cap-differential bearing 盖-差速器轴承
+differential bearing cap 差速器轴承盖
+26，27 bearing-cross shaft 轴承-横轴
+cross shaft bearing 横轴轴承
+28 pinion-cross shaft helical 斜齿轮-横轴
+cross shaft helical pinion 横轴斜齿
+
+
+
+Fig. 12-21	Planetary Wheel Hub Reductor
+图 12-21	行星圆柱齿轮式轮边减速器
+
+
+参考： SAE  J923-2012《商用车驱动桥》中图 9A
+nut 螺 母
+gear support case-planet 支承壳体- 行星齿轮
+bearing-wheel 车轮轴承
+wheel 车 轮
+brake drum 制动鼓
+bearing-wheel 轴承-车轮
+seal-oil 油 封
+
+slinger-oil 挡油环
+spindle-bolt-on 螺栓紧固的主轴
+shaft-axle 半 轴
+gear-sun 太阳轮
+gear-planet ring 行星齿圈
+pinion-planet， planet gear   行星齿轮
+carrier-planetary 架-行星齿轮
+planet carrier 行星齿轮架
+pin-planetary 行星齿轮销轴
+cover 盖
+
+
+
+
+
+Fig. 12-22	Types of Differential
+图 12-22	差速器类型
+
+
+参考：SAE J923-2012《商用车驱动桥》GB/T 5333-1985《汽车驱动桥术语及语义》JASO Z212-1976《汽车主减速器术语》diff = differential 差速器
+A bevel gear differential 锥齿轮式差速器 B    spur gear differential， planetary （gear type） differential    圆柱齿轮式差速器
+clutch pack LSD  离合器组片式防滑差速器
+LSD = limited-slip differential， CSD = controlled-slip differential 防滑差速器
+automatic positive locking differential
+自动强制锁止式差速器
+Torsen type differential 托森式差速器torque sensitive LSD 转矩敏感式防滑差速器
+case [housing， casing]    壳体
+clutch plate 离合器片
+thrust washer 止推垫片
+2， 3    friction disc    摩擦片
+side gear 半轴齿轮
+
+RH   retainer   右保持板
+RH = right-hand    右边的
+compression spring 压缩弹簧
+preload spring 预紧弹簧
+thrust washer 止推垫圈
+differential （side） pinion    差速器行星齿轮
+LH retainer 左保持板
+LH = left-hand 左边的，左置外
+axle shaft 半 轴
+ring gear， crownwheel    齿圈
+collapsible  （preload）  spacer    可折叠隔套
+clutch-driven 从动离合器
+retainer （ring）    挡圈
+spider 十字轴
+spur gear 直齿轮
+worm wheel [gear] 蜗 轮
+16+17 element gear 单元齿轮
+thrust needle roller bearing 推力滚针轴承
+
+
+Fig. 12-23	Drive Axle of Bus
+图 12-23	客车用驱动桥
+
+
+direct drive axle 直接驱动桥
+wheel reductor axle 轮边减速驱动桥
+wheel hub， hub 轮 毂
+hub [wheel] bearing 车轮轴承
+air-operated  brake  caliper	气动制动钳
+final drive 主减速器
+ring gear 齿 圈
+
+single reduction final drive 单级主减速器
+differential gears， differential    差速器
+half shaft， axle shaft    半轴
+brake disc[disk] 制动盘
+reduction gearing	减速机构
+pinion   主动齿轮
+
+
+
+Fig. 12-24	Hub of Passenger Car（front wheel drive）
+图 12-24	乘用车轮毂（前轮驱动）
+
+
+front wheel hub   前轮毂
+rear wheel hub   后轮毂
+new type rear wheel hub 新型后轮毂
+steering knuckle 转向节
+braking disc 制动盘
+hub bolt 轮毂螺栓
+（axle， wheel） hub    轮毂
+axle hub nut   轮毂螺母
+double[two]-row angular bearing 调 心
+
+球轴承
+oil seal 油 封
+rear axle carrier 后桥托架
+ABS-rotor 防抱死制动系统传感器转子
+unit bearing 整体式轴承
+one-piece wheel  bearing  单件式轮毂轴承
+rear axle shaft 后桥心轴
+wheel speed sensor 轮速传感器
+
+
+
+Fig. 12-25	Rear Wheel Hub of Truck
+图 12-25	货车后轮毂
+
+
+tapered roller bearing 锥形滚子轴承
+hub bearing 轮毂轴承
+outer bearing 外轴承
+hub bearing nut  轮毂轴承螺母
+lock washer， lock plate    锁止垫圈
+axle [half] shaft 半 轴
+oil seal for axle shaft   半轴油封
+lock bolt， lock screw    锁止螺栓
+O-ring O 形 圈
+hub  bolt，  wheel  stud，  wheel  hub  bolt
+
+轮毂螺栓
+inner nut 内螺母
+outer nut 外螺母
+oil catcher 挡油罩，集油罩
+axle housing 桥 壳
+hub seal   轮毂油封
+inner bearing 内轴承
+（axle， wheel） hub    轮毂
+axle spindle 车桥支撑轴
+brake flange 制动器法兰
+
+
+
+Fig. 12-26	Axle Housing
+图 12-26	桥壳
+
+
+axle casing， axle body， axle box    桥壳
+separable carrier-type axle housing， banjo axle housing， one-piece banjo style axle housing， removable carrier axle housing整体式桥壳
+split [trumpet-type] housing， divided- housing 可分式桥壳
+three-piece axle housing 三件式桥壳
+unitized[integral] carrier-type axle housing
+组合式桥壳
+drain plug 排放塞
+filler plug 加注（孔）塞
+vent plug 通风塞
+
+3a breather cap 通风器盖
+3b    breather， vent （ilator）    通风器
+axle tube 半轴套管，桥壳钢管
+control arm bracket （悬架）控制臂支架
+service cover mounting flange 维修盖安装法兰
+breather vent 通风器口
+coil spring seat （悬架）螺旋弹簧座
+cast center section   铸造中段
+mounting flange   安装法兰
+brake  assembly  mounting  flange  制动器总成安装法兰
+
+13. Manual Transmission and Transfer Case
+手动变速器和分动器
+参考：QC/T	465-2010《汽车机械式变速器分类的术语及定义》
+
+
+Fig. 13-1	MT=M/T=Manual Transaxle
+图 13-1	手动变速驱动桥
+
+
+final driving transmission 带主减速器的变速器（参考： QC/T    465-2010）
+1st = first    第一，（变速器）一档 2nd = second    第二，（变速器）二档 3rd = third    第三，（变速器）三档 4th= fourth    第四，（变速器）四档 5th = fifth    第五，（变速器）五档 6th = sixth    第六，（变速器）六档 R = reverse 倒 档
+4th speed gear pair[sets]	四档齿轮副
+3rd/4th synchronizer    三～四档同步器
+3rd speed gear pair [sets]   三档齿轮副
+input shaft	输入轴
+6th speed gear sets 六档齿轮副
+
+5th/6th  gears synchronizer  五～六档同步器
+5th speed gear sets 五档齿轮副
+reverse driven gear 倒档从动齿轮
+reverse gear shaft	倒档齿轮轴
+reverse gear synchronizer 倒档同步器
+reverse gear 倒档齿轮
+differential gears 差速机构
+differential  housing， differential box， differential casing 差速器壳体
+1st driven gear  一档从动齿轮
+1st/2nd synchronizer 一～二档同步器
+2nd driven gear 二档从动齿轮
+output shaft 输出轴
+
+
+
+Fig. 13-2	Gears and Case of Five-Speed M/T
+图 13-2	五档手动变速驱动桥的齿轮和壳体
+
+
+components of five-speed M/T 五档手动变速驱动桥零部件
+roller bearing 滚子轴承
+main shaft 主 轴
+thrust washer 止推垫圈
+4， 28， 30， 33， 45， 49    retaining[closing] ring
+挡圈
+4th speed gear   4 档齿轮
+needle cage   滚针保持架
+needle bearing 滚针轴承
+7， 36    synchronizer ring    锁环
+shift [synchronizer， clutch] sleeve    接合套
+synchronizer kit  同步器套件
+synchronizer key 同步器滑块
+3rd & 4th synchronizer spring 3～4
+档同步器弹簧
+11， 14， 24， 32， 50    washer    垫圈
+circlip 弹性挡圈，开口弹性卡环
+3rd speed gear 3 档齿轮
+washer retaining ring  垫圈挡圈
+2nd speed gear   2 档齿轮
+17， 27， 35    needle cage    滚针保持架
+inside synchronizer ring 内锁环
+inner cone ring 内锥环
+intermediate ring 中锁环
+intermediate cone ring 中锥环
+outside synchronizer ring 外锁环
+
+sliding gear 滑动齿轮
+1st/2nd synchronizer  key  1～2  档同步器滑块
+1st/2nd  synchronizer  spring	1 ～ 2
+档同步器弹簧
+circlip 弹性挡圈，开口弹性卡环
+1st speed gear 1 档齿轮
+29 main shaft disc 主轴止推盘
+main bearing  shaft  disc  主轴止推轴承盘
+31， 47    groove ball bearing    深沟球轴承
+34    5th speed gear    （主轴）5 档齿轮
+5th shift sleeve 5 档接合套
+5th synchronizer spring 5 档同步器弹簧
+5th synchronizer key 5 档同步器滑块
+thrust bearing 推力轴承
+needle sleeve 滚针外圈
+input drive shaft 驱动输入轴
+input shaft cluster gear 输入轴齿轮组
+bolt 螺 栓
+46 cluster bearing ring  齿轮组轴承挡圈
+48 cluster 5th speed gear （输入轴）齿轮组 5 档齿轮
+reverse idle gear  倒档惰轮
+reverse idle gear shaft  倒档惰轮轴
+（steel） ball	钢球
+
+
+
+Fig. 13-3	External （Gear） Shift Linkage
+图 13-3	外部换档操纵机构
+
+
+external gearshift system 外部换档操纵机构
+remote control type shift linkage 远距离换档操纵机构
+shift mechanism of 5-speed gearbox for front-transverse mounting 前横置 5 档变速换档机构
+5th gear shift fork 5 档变速叉
+selector shaft detent  换档轴掣子
+5th gear lock 5 档锁止器
+connecting bar  连接杆
+front selector [shift] rod   前选档杆
+rear selector [shift] rod   后选档杆
+
+selector lever 选档杠杆
+relay lever 中继杠杆
+selector bar[rod] bearing bush 选 档杆支撑套
+bearing plate  支撑板
+selector bar [rod] 选档杆
+5th gear end stop  5 档端头止挡
+1st/2nd gear end stop 1/2 档端头止挡
+gear shift lever bearing  housing 换档杆支撑壳
+shift housing 换档装置壳
+shift lever 换档杆
+knob 球形把手
+
+
+
+Fig. 13-4	Direct Control Type Shift Linkage
+图 13-4	直接操纵式换档机构
+
+
+direct shifting mechanism 直接换档机构
+select 选 档
+shift 换 档
+（gear） shift lever    换档杆
+ball joint 球接头
+selector finger  选档杆指销
+
+selector bar  变速叉轴，变速轨
+detent 止动装置
+shift fork = shift arm 换档拨叉
+gearshift sleeve  换档啮合套
+synchronizer = synchronizator 同步器
+idler gear [ pulley， wheel ] idler    惰轮
+
+
+
+Fig. 13-5	M/T=Manual Transmission
+图 13-5	手动变速器
+
+
+direct control transmission 直接操纵变速器manual gearbox， manually shifted [oper- ated]   transmission[gearbox]，   conventional transmission[gearbox]， standard trans- mission[gearbox] 手动换档变速器mechanical transmission  机械式变速器本图也符合以下术语：
+① synchromesh  transmission	同步器
+式变速器
+② direct drive transmission 直接档变速器
+
+③ direct control transmission 直接操纵变速器
+④ constant mesh transmission 常 啮 式变速器
+⑤  four-speed[gear]  transmission	四档变速器
+⑥  fixedshaft  transmission  固定轴式变速器（所有轴的旋转中心固定不变）
+⑦ single countershaft  transmission 单 中间轴式变速器
+
+⑧ three-shaft  transmission	三轴式变速器
+input shaft， drive shaft    输入轴
+primary shaft 第一轴
+bearing retainer （输入轴）轴承盖
+front bearing retainer 前轴承盖
+3-4[third and fourth， 3rd-4th] speed synchronizer   三～四档同步器inertia lock pin type  synchronizer  惯性锁销式同步器
+shift lever 换档杆
+gear  shift[control]  housing	换档装置壳体
+shim 垫 片
+third （speed） gear， 3rd speed gear   三档齿轮
+second gear， 2nd speed gear   二档齿轮
+first gear， 1st speed gear  一档齿轮
+second speed  synchronizer  二档同步器
+spacer 隔 套
+rear bearing （主轴）后轴承
+speedometer drive gear 车速表主动齿轮
+extension housing 延伸壳
+companion yoke 结合叉
+
+output shaft， secondary shaft    输出轴
+ball 钢 球
+snap ring 挡 圈
+bearing cap  轴承盖
+end yoke 叉形凸缘，接头叉
+main shaft 主 轴
+shaft （倒档惰轮）轴
+reverse idler gear 倒档惰轮
+roller bearing 滚针轴承
+third counter gear 三档中间齿轮
+countershaft gear cluster 中间轴齿轮组
+countershaft， intermediary shaft， inter- mediate shaft， jack shaft 中间轴
+drive gear （中间轴）传动齿轮
+transmission housing 变速器壳
+front bearing 前轴承
+input shaft gear 输入齿轮，第一轴齿轮
+main drive gear 主动齿轮
+说明：“transmission（变速器）”在实际使用中有以下两种含意：一是专指后桥驱动或全轮驱动用的手动变速器和自动变速器；二是包括上述变速器的同时，也包括手动变速驱动桥和自动变速驱动桥。本图为第一种含意。
+
+
+
+Fig. 13-6	Gear Shift Mechanism
+图 13-6 换档机构（手动变速器）
+
+
+shift（ing） mechanism， gear control （mech- anism）， shifting    换档机构
+本图也符合下列术语：
+① internal shift linkage 内置换档传动机构
+② direct transmission shift mechanism
+变速器直接换档机构
+③ floor shift mechanism 地板式换档机构
+shift lever， gear （shift） lever， gear change[changing] lever， gearshifting [control] lever 换档杆，变速杆
+knob， grip， ball （换档杆）手柄
+cap （换档杆）罩
+spring seat 弹簧座
+shift lever cover[housing] 换档杆壳 6，9，10    shift （ing） rod[bar， rail]， gearshift rod [bar， rail]， shift （ing） fork shaft，
+shift shaft 变速叉轴，变速轨
+first-second shift rail 一～二档变速叉轴
+interlock plug[plunger， pin]    互锁销
+plug （变速叉轴孔）塞片
+reverse shift rail 倒档变速叉轴
+third-fourth  shift  rail	三～四档变速叉轴
+reversing light[lamp] switch 倒车灯开关
+
+roll pin  圆柱销，卷制销
+13，19    shift（ing） fork， gearshift fork， gear control [selector] fork， gear shift
+（ing） yoke， shift（ing） yoke， trans- mission  fork，  gearbox  fork   变速叉
+first-second  shift  fork    一～二档变
+速叉
+shift  fork  pad[insert，  bushing]    变速叉衬垫
+spring （自锁钢球）弹簧
+poppet ball， checking ball， locking ball
+（变速叉和轴）自锁钢球
+17，20，21     shift（ing）  gate，  gearshift  gate， shift  lever  gate，  gate，  shift  lug， shift head， striker jaw 换 档导块
+reverse gate， reverse shift head[lug]
+倒档换档导块
+reverse plunger and spring 倒 档 锁销和弹簧
+third-fourth shift  fork  三～四档变速叉
+third-fourth （shift） gate	三～四档变速导块
+first-second gate 一～二档变速导块
+pin 销
+
+
+
+Fig. 13-7	Typical Five-Speed Over Drive Transmission
+图 13-7	典型五档超速档变速器
+
+over drive transmission 超速档变速器fully constant mesh all helical gear trans- mission 全斜齿常啮式变速器
+all  synchromesh  transmission	全同步器式变速器
+input shaft 输入轴
+front bearing retainer 前轴承盖
+main drive pinion 主动齿轮
+3-4 speed synchronizer assy. 三 ～ 四档同步器总成
+shift fork shaft 变速叉轴
+shift lever housing 变速杆壳
+dust boot 防尘套
+shift lever 换档杆，变速杆
+1-2 speed synchronizer assy. 一 ～ 二档同步器总成
+triple-cone type synchronizer assy.
+三锥式同步器总成
+reverse gear  倒档齿轮
+
+
+reverse gear synchronizer assy. 倒档同步器总成
+output shaft 输出轴
+mainshaft， main shaft    主轴
+oil pump assy. 油泵总成
+extension housing 延伸壳
+rear housing 后 壳
+transfer adaptor  分动器接合器
+（分动器直接装于变速器后端）
+intermediate plate  中间板
+1st gear 一档齿轮
+2nd gear   二档齿轮
+5th gear    五档齿轮
+5th synchronizer assy. 五档同步器总成
+3rd gear 三档齿轮
+counter gear 中间齿轮
+transmission case 变速器壳
+drive gear 传动齿轮
+clutch housing 离合器壳
+
+
+
+Fig. 13-8	Components of Output Shaft
+图 13-8	输出轴零部件
+
+
+
+
+Fig. 13-9	Synchronizer
+图 13-9	同步器
+
+
+A1，  A2    block（er）  synchronizer    锁环式同步器
+inertia lock key type synchronizer 惯 性锁环式同步器
+A1 one cone type 单锥式
+three-piece blocking ring type 三 件锁环式
+triple-cone type 三锥式
+multi  cone  （type）  synchronizer    多锥式同步器
+keyless type synchronizer 无键式同步器
+clutch sleeve， synchronizer sleeve 接合套
+synchronizer spring 同步器弹簧
+insert spring 滑块弹簧
+input gear  输入齿轮
+insert， key    滑块
+synchronizer shifting key 同步器换档滑块
+
+cylindrical insert spring 圆柱形滑块弹簧
+hub 齿 毂
+clutch hub  接合齿毂
+dog teeth， clutch teeth    接合齿
+blocking ring， blocker ring， synchron- izer ring， synchronizing ring    锁环
+key spring 键弹簧
+external [outer] cone ring 外锥环
+external ring 外（锁）环
+intermediate[middle] cone ring 中锥环
+intermediate ring 中（锁）环
+inner cone ring  内锥环
+inner ring 内（锁）环
+10+11+12   synchronizer  ring  set	同步器锁环套件
+
+
+
+Fig. 13-10	Locking Pin Synchronizer and External Cone Synchronizer
+图 13-10	锁销式同步器和外锥式同步器
+
+engaged 接 合
+locking mechanism 锁止机构
+A-A section A-A 剖面（图）
+locking pin synchronizer   锁销式同步器
+external cone synchronizer   外锥式同步器
+idler   gear  with  dog[engaging]  gearing
+带接合齿的惰轮
+synchronizer ring 同步器锁环
+
+gearshift sleeve  换档啮合套
+locking pin 锁 销
+compression spring 压缩弹簧
+annular spring 环形弹簧
+synchronizer body 同步器齿毂
+locking lug 闭锁凸耳
+groove in idler gear 惰轮槽
+
+
+Fig. 13-11	Internal Shifting Elements in Transmission
+图 13-11	变速器内换档元件
+
+
+sliding gear 滑动齿轮
+dog-clutch engagement 牙嵌离合器接合（牙嵌式常啮合中间轴变速器）
+pin engagement 销式接合
+synchronizer without locking mechanism
+无锁止机构同步器
+synchronizer with locking mechanism
+有锁止机构同步器
+
+servo lock synchronizer mechanism  同步器伺服锁止机构
+hydraulic activated multi-plate clutch for powershift  transmission  动力换档变速器用液压作用多盘离合器
+hydraulic activated multi-plate clutch for planetary gear 行星齿轮传动装置
+用液压作用多盘制动器
+
+
+
+Fig. 13-12	Combinatory Transmission
+图 13-12	组合式变速器
+
+split[multiple]-range transmission 组 合式变速器
+combinatory integral transmission 组 合式整体变速器
+16-speed gearbox 16 档变速器
+Ⅰ front mounted splitter group 前置副变速器
+splitter unit 前置副变速器Ⅱ main gearbox  主变速器
+basic[main， standard] transmission 主变速器
+Ⅰ，  Ⅲ	integral  front  mounted  splitter group 整体式前置副变速器
+Ⅲ rear mounted gear group 后置副变速器range-change unit  后置副变速器integral rear mounted gear group 整体后置副变速器
+planetary-gear group 行星齿轮副变速器splitter  （group），  gear  group，  range- change  transmission，  auxiliary-range transmission 副变速器
+input shaft 输入轴
+
+main shaft 主 轴
+countershaft，  layshaft，  secondary  shaft
+中间轴，副轴
+countershaft brake 中间轴制动器
+planetary-gear set   行星齿轮机构
+range-change unit   后置副变速器
+6+7 oil pump 油 泵
+range-change unit shift cylinder  后 置副变速器换档油缸
+piston rod  活塞杆
+range-change unit swing fork 后 置 副变速器摆叉
+range-change unit sliding sleeve 后 置副变速器滑套
+12， 13， 14    main transmission sliding sleeve
+主变速器滑动接合套
+15， 16， 17    main gearbox[transmission] sw- ing fork 主变速器摆叉
+selector shift with selector fingers
+带选档指的选档轴
+output shaft 输出轴
+
+
+
+Fig. 13-13	All-Wheel Drive Systems Classification
+图 13-13	全轮驱动分类
+
+
+参考：SAE  J1952-2003《全轮驱动术语》说明： 对仅有四轮的四轮驱动也常称为全轮驱动。
+AWD= all-wheel drive 全轮驱动
+4WD Types = 4 wheel drive Types 四 轮驱动类型
+part-time AWD system 短时全轮驱动系统
+full-time AWD  system  全时全轮驱动系统
+B1 based FF 基于前置发动机前轮驱动FF=front engine  front  drive  前置发动机前轮驱动
+B2 based FR 基于前置发动机后轮驱动
+V-flex clutch full time 4WD 黏液离合器式全时四轮驱动
+V-flex = viscous flex coupling 黏液柔性离合器
+C1 normal drive  正常行驶
+C2   a drive wheel	单个驱动轮旋转
+
+on-demand AWD  system  按需全轮驱动系统（通用汽车公司用语）
+transfer case   分动器
+transmission   变速器
+centre differential 中间[轴间]差速器
+4， 6   drive axle    驱动桥
+5 viscous flex coupling 黏液柔性离合器
+engine 发动机
+front wheel drive shaft 前轮传动轴
+PTU=power transfer unit 动力传递单元
+transfer case flange 分动器法兰
+center bearing 中间轴承
+propeller shaft 传动轴
+RDM=rear drive module    后驱动模块
+rear wheel drive shaft   后轮驱动轴
+electromagnetic coupling    电磁离合器
+GMLAN=General Motors local area network 通用汽车公司局域网
+CCM=coupling  control  module	离
+合器控制模块
+
+
+
+Fig. 13-14	Transfer Case with Centre Differential
+图 13-14	带轴间差速器的分动器
+
+
+transfer input shaft 分动器输入轴
+shift fork 1 1 号换档拨叉
+low speed idler gear  低档惰轮
+oil pump 油 泵
+low speed output gear 低档输出齿轮
+differential rear casing  差速器后壳
+rear output shaft 后输出轴
+differential side gear   差速器侧齿轮
+differential pinion   差速器行星齿轮
+clutch hub  接合齿毂
+synchronizer ring 同步器锁环
+high speed output gear part 高档输出齿轮件
+differential front casing 差速器前壳
+
+front wheel drive part 前驱动件
+drive clutch hub 传动接合毂
+front 前
+front output shaft 前输出轴
+front wheel drive clutch sleeve 前 驱动接合套
+high  speed  output  gear	高档输出齿轮
+high /low speed clutch sleeve 高 / 低档接合套
+high-speed idler gear 高档惰轮
+high-speed idler gear clutch sleeve
+高档惰轮接合套
+
+
+
+Fig. 13-15	Planet Centre Differential Type Transfer （Case）
+图 13-15 行星齿轮轴间差速器型分动器
+
+
+input shaft 输入轴
+planet（ary） gear    行星齿轮
+planet（ary） ring gear    行星齿轮齿圈
+sun gear 太阳轮
+high/low  speed  clutch  sleeve	高/低档接合套
+rear-wheel drive clutch sleeve 后 驱 动接合套
+differential case [box] 差速器箱
+drive chain  传动链
+
+drive sprocket 主动链轮
+to rear wheel 至后轮
+connector， plug-in connector    插接器
+transfer shift  actuator  分动器换档执行器
+driven sprocket 从动链轮
+to front wheel 至前轮
+shift fork， shift yoke    换档拨叉
+shift rod（rail）    拨叉轴
+
+
+
+Fig. 13-16	Transfer Case Disassembled View
+图 13-16	分动器分解图
+
+
+说明：1. 本图选自通用“昂科雷”2009 版英文维修手册。
+2.  美式英语中“分动器”用 transfer case，但为简便 transfer case 有时也作“分动器壳”，如本图中 3 和 18，英语中“分动器”也常用 transfer。
+注：本部分指示序号不连续，但不影响阅读。
+transfer case input shaft seal-left	分动器输入轴油封-左
+transfer case O-ring seal 分动器 O
+形密封圈
+
+transfer case-left 分动器壳-左
+transfer case vent assembly 分动器通风器总成
+transfer case half locating pin（quantity： 2）
+半边分动器定位销（数量：2）
+half shaft retainer 半轴挡圈
+front   wheel drive  retainer	前轮传动挡圈
+O-ring O 形密封圈
+front wheel drive intermediate shaft bearing  retainer  （quantity：  2）    前轮
+
+传动中间轴轴承挡圈（数量：2）
+front wheel drive intermediate shaft bearing assembly  前轮传动中间轴轴承总成
+front wheel drive intermediate shaft
+前轮传动中间轴
+transfer case  fill  plug  分动器加油螺塞
+transfer case  drain  plug  分动器放油螺塞
+transfer  case  half  bolt  （quantity：  11）
+半边分动器螺栓（数量：11）
+transfer case -right   分动器壳-右
+transfer case seal   分动器密封圈
+transfer case input  shaft  seal-right  分动器输入轴油封-右
+front drive axle intermediate shaft seal assembly  前驱动桥中间轴油封总成
+transfer case  input  shaft  分动器输入轴
+transfer case rear  output  drive  shaft 分动器后输出传动轴
+transfer case rear output shaft nut
+分动器后输出轴螺母
+transfer case Rear output shaft flange
+分动器后输出轴法兰
+
+transfer case rear output shaft oil slinger 分动器后输出轴甩油环
+transfer case rear output shaft seal
+分动器后输出轴油封
+transfer case rear output shaft bearing assembly  （quantity：  2）    分动器后输出轴轴承总成（数量：2）
+transfer case rear output shaft housing
+分动器后输出轴壳
+transfer case rear output shim	分动器后输出轴壳垫片（说明：虽此项英语中并无“shaft housing”，可认为是英文有所简略，译中文时可按实际情况加入“轴壳”。）
+transfer case rear output shaft housing bolt （quantity： 6）    分动器后输出轴壳螺栓（数量：6）
+transfer case rear output shaft bearing spacer 分动器后输出轴轴承隔套
+transfer case rear output shaft 分 动
+器后输出轴
+transfer case rear output shaft housing seal O-ring 分动器后输出轴壳 O 形密封圈（说明：seal O-ring = O-ring seal = O-ring，O 形密封圈）
+
+
+
+Fig. 13-17	Part Time 4WD
+图 13-17	短时四轮驱动
+
+
+S4WD = selectable four wheel drive 选 择式四轮驱动
+front axle engaged/disconnect drive
+前桥接合分离装置
+vacuum motor  真空马达
+logic switch 逻辑开关
+centre differential 轴间差速器，中间差速器
+drive chain 传动链
+transfer case， transfer （unit） 分动器
+transmission 变速器
+
+2WD /4WD selector 二/四轮驱动选择器
+2WD = two wheel drive 二轮驱动
+engine 发动机
+front （axle） differential   前（轴）差速器
+rear differential 后差速器
+atmospheric pressure 大气压力
+vacuum port 真空口
+shift stem 移动杆
+axle shaft spline  半轴花键
+shift collar 滑动齿套
+
+
+Fig. 13-18		E1ectronic Clutch 4WD System（Toyota） 图 13-18	电子控制离合器式四轮驱动装置（丰田）
+
+electronic torque split four-wheel-drive system 电子控制转矩分开式四轮驱动装置
+engine 发动机
+transfer 分动器
+electronic hydraulic clutch 电子控制式液压离合器
+rear differential 后差速器
+4WD auto switch   自动四轮驱动开关
+wheel speed sensor   车轮转速传感器
+fore-and-aft acceleration sensor， longi- tudinal G sensor 纵向加速度传感器
+transversal G [acceleration]  sensor  横向加速度传感器
+steering angle sensor 转向角传感器
+
+front differential 前差速器
+transaxle   变速驱动桥
+main clutch   主离合器
+ball 钢 球
+armature 电 枢
+control clutch  控制离合器
+solenoid 电磁线圈
+rear carrier   后保持架
+control cam   控制凸轮
+main cam 主凸轮
+front carrier 前保持架
+shaft 轴
+non-magnetic body 非磁体
+
+
+
+
+Fig. 13-19	Rear Axle Drive of the Honda SH-AWD
+图 13-19	本田超级调节全轮驱动装置后桥
+
+
+RDM = rear drive module 后驱动模块rear axle drive of the Honda SH-AWD 本田超级调节全轮驱动装置后桥
+SH-AWD = super handling AWD system
+超级调节全轮驱动装置（由本田汽车公司推出，能够实现前后轮之间的驱动力分配和后轮左右独立驱动力的分配的按需全轮驱动装置）
+AWD =all wheel drive  全轮驱动
+on-demand AWD 按需全轮驱动
+说明：按需全轮驱动能按行驶条件自动选择两轮驱动或全轮驱动，与图 13-19“电子控制离合器式四轮驱动装置（丰田）”是同一类型的全轮驱动装置。
+
+类似装置还有：4MATIC  四轮驱动装置（奔驰）
+input flange 输入法兰
+acceleration mechanism 加速机构
+hydraulic activated multiplate clutch
+液压多盘[片]式离合器
+bevel-gear stage  锥齿轮段
+electromagnetically activated multiplate clutch 电磁驱动多盘[片] 式离合器
+electromagnet 电磁铁
+oil pump 油 泵
+rear  wheel  drive  shaft，  left    左后轮驱动轴
+rear wheel  drive  shaft，  right    右后轮驱动轴
+
+
+
+Fig. 13-20	Viscous Clutch and Wet Multiplate Clutch
+图 13-20	黏液离合器和湿式多片离合器
+
+
+viscous clutch 黏液离合器
+wet  multiplate  clutch	湿式多片离合器
+externally splined hub 外花键毂
+drive disc 主动盘
+output shaft 输出轴
+driven disc 从动盘
+splined hub   （A 图）花键毂
+input shaft    （B 图）输入轴
+input shaft 输入轴
+
+limited valve 限压阀
+hydraulic piston pump   液压活塞泵
+wet multiplate clutch    湿式多片离合器
+piston， plunger 活 塞
+cam disc 凸轮盘
+oil 油
+prepressure pump 预压泵
+controllable throttle valve 可控节流阀
+output shaft 输出轴
+
+
+
+Fig. 13-21	Free wheeling Hub
+图 13-21	锁止轮毂
+
+
+free wheeling hub 锁止[自由] 轮毂
+manual locking hub， manual free wheel- ing hub 手动锁止 [自由] 轮毂
+PLH = power locking wheeling hub 电 动
+锁止[自由] 轮毂
+snap ring 挡 圈
+inner sleeve 内衬套
+clutch ring 离合器环
+free wheeling hub body  锁止 [自由]
+轮毂体
+compression spring 压缩弹簧
+cover， cap    （自由轮毂）  盖
+follower pawl	随动棘爪
+
+handle 手柄，把手
+tension spring 张紧弹簧
+clutch 离合器
+spline 花 键
+to ECU 到 ECU
+spindle 心 轴
+brush 电 刷
+motor   电动机
+pinion   小齿轮
+ring gear 齿 圈
+slip ring 滑 环
+inner hub  内轮毂
+locking nut 锁紧螺母
+
+
+
+Fig. 13-22	AWD Drivetrain Schematic Symbol
+图 13-22	全轮驱动传动系统示意符号
+
+
+说明：选自美国 SAE J2059-1992。AWD = all wheel drive  全轮驱动
+× fixed to shaft 固定在轴上A   gear sets， gear pairs    齿轮副 A1 parallel shaft 平行轴
+A2 bevel/hypoid 锥/准双曲面
+A3 simple [single] planetary 单排行星齿轮
+clutch 离合器
+B1 single plate  单片（式） B2 multiple plate 多片（式）
+B3 viscous fluid multiple plate 黏液多片（式） rheological fluid  multiple  plate  流变液多片式
+B4 synchronizer 同步器（式） B5   toothed， jaw    牙嵌（式）
+B6 overrunning 超越[单向]（式）
+symmetrical differential 对称差速器
+C1   open   开〔非锁止〕式
+C2  slip resistant  防滑（式）
+asymmetrical  differential	不对称式差速器
+D1 simple planetary 单级行星齿轮
+unequal output torque 不等的输出转矩
+D2 dual planetary 双级行星齿轮
+equal output torque 相等的输出转矩
+drive shaft and universal joint 传 动轴和万向节
+E1 cardan joint 十字轴万向节
+E2 constant velocity joint 等速万向节
+E3    fabric  joint，  elastomeric  joint    挠性万向节
+elastic coupling 挠性联轴器
+E4 slip spline 滑动花键
+E5  driveshaft  support  bearing  传动轴支承轴承
+parallel shaft drive  平行轴传动（装置） E1 chain drive 链传动（装置）
+F2  variable  ratio  pulley  set  可变传动比带轮装置
+support symbol 支撑物符号
+ground symbol 机壳符号
+
+intelligence symbol 智能符号
+注：智能符号可加在其他基本符号上， 此时它表示该装置反应自动化，并具有一个或多个外部控制系统。
+superimposed symbol  叠加符号
+I1     non steering wheel brake， constant ve- locity joint 非转向轮制动器，等速万向节
+I2 steering wheel brake，constant velocity joint，disconnect hub 转向轮制动器， 等速万向节， 可分离轮毂
+I3 transfer case， dual range planetary reduction， multi plate controlled speed and torque differentiation， chain drive to auxiliary output 双排行星齿轮减速，多片可控转速及转矩式差速，链传动到辅助输出端的分动器
+symbols with modifiers 带改进装置的符号
+J1 intelligent differential 智能型差速器
+J2 anti-lock  and  anti-spin  brake 防 抱死和加速防滑制动器
+J3  intelligent  fluid clutch   智能型液力偶合器（参阅 H 中注）
+J4 overrunning clutch with one race grounded 单座圈在机壳上的单向离合器
+J5 slip type CV joint 滑动式等速万向节
+J6	fixed type cardan joint 固定式十字轴万向节
+J7	2.5LTD = 2.5 liter turbocharged diesel engine 2.5 升涡轮增压柴油机5.0LV8MPI=5.0 liter V8 multipoint in- jection 5.0 升V 型 8 缸多点燃油喷射M5  =  5  speed  manual  transmission  5 档手动变速器
+A4 = 4 speed automatic transmission [transaxle] 四档自动变速器[驱动桥]
+J8		simple planetary  单排行星齿轮grounded annulus gear 固定于壳体的齿圈
+
+14. Automatic Transmission
+自动变速器
+参考：GB/T		5727-1985《汽车液力变速器术语及定义》（已作废，供参考） SAE	J645-2009《汽车变速器术语》
+Fig. 14-1	A/T=Automatic Transmission
+图 14-1	自动变速器
+
+A/T= automatic transaxle 自动变速驱动桥
+hydrodynamic transmission 液力变速器
+sensors 传感器
+combination meter 组合仪表
+shift range indicator light 档位指示灯
+engine and ECT ECU 发动机和自动变速器 ECU
+ECT = electronic controlled transmission [transaxle] 电子控制变速器[变速驱动桥]（此为丰田汽车公司用语） A/T=automatic transmission[transaxle] 自动变速器[驱动桥]
+
+output shaft speed sensor 输出轴转速传感器
+planetary gear  行星齿轮机构
+input turbine speed sensor 输入涡轮转速传感器
+solenoid 电磁阀
+shift lever 换挡杆
+hydraulic control 液压控制装置
+control valve body 控制阀体
+turbine[torque] converter 液力变矩器
+oil pump 油泵
+vehicle speed sensor 车速传感器
+
+
+
+Fig. 14-2	Schematic Diagrams of Automatic Transmission
+图 14-2	自动变速器原理图
+
+
+参考：SAE J647—2010《自动变速器原理图》说明：1. 图中表格中数字为行星齿轮组齿圈、行星齿轮和太阳轮的齿数。
+“·”表示采用该元件，如“1st ·”
+表示一挡时采用了该元件。
+“×”表示此时采用了该元件。
+“ ” 表示滑行制动器在手动位置。
+6[six]-speed planetary gear transmission
+6 档行星齿轮式变速器
+four-speed transverse planetary gear transaxle with a chain drive connecting the two axes  链传动双轴横置式 4 档行星齿轮式变速器
+CVT = continuously variable transmission
+无级变速器
+B0   brake 0    0 号制动器
+B1   brake 1    1 号制动器
+B2   brake 2    2 号制动器
+BAND （制动）带
+Brake 制动器
+C0   clutch 0   0 号离合器
+C1   clutch 1    1 号离合器
+C2   clutch 2    2 号离合器
+C3   clutch 3    3 号离合器
+
+CB coast braking 滑行制动
+CHAIN 链
+clutch 离合器
+DIFFERENTIAL 差速器
+F free-wheeling clutch 超越[自由轮]离合器，= OWC（one way clutch）
+F1 1 号超越离合器
+Input 输 入
+MANUAL POSITION-COAST BRAKING
+ONLY 手动位置-仅滑行制动
+Output 输 出
+OWC1 one way clutch 1 1 号单向离合器OWC2 one way clutch 2 2 号单向离合器OWC3 one way clutch 3 3 号单向离合器PARKING GEAR 驻车档
+RANGE 档 位
+RATIO 变速比
+Rev=reverse 倒 档
+SPROCKET TOOTH NOS 链轮齿数
+STEP 传动比级
+TORQUE CONVERTER 变矩器
+TORQUE CONVERTER CLUTCH 变
+矩器锁止离合器
+
+
+
+
+Fig. 14-3	Planetary Gears
+图 14-3	行星齿轮系
+
+
+参考：GB 11366-1989《行星传动基本术语》SAE J646-2011《行星齿轮术语》planetary[epicyclic  ]  gear  train   行星齿轮系
+epicyclic gear  行星齿轮
+planetary  gear  arrangement	行星齿轮机构
+planetary drive mechanism 行星齿轮传动机构
+simple planetary arrangement 单 级行星齿轮机构
+simple planetary gear train 单级行星齿轮系
+dual planetary arrangement 双 级 行星齿轮机构
+compound external planetary arrangement
+组合外啮式行星齿轮机构
+compound internal planetary arrangement
+组合内啮式行星齿轮机构
+C，D compound planetary train 组合行星齿轮系
+Ravigneaux planetary arrangement [gear set]  拉维列奥克斯行星齿轮机构，（俗称）拉威娜式行星齿轮机构Ravigneaux gear  train  拉维列奥克斯式行星齿轮系，（俗称）拉威娜式行星齿轮机构
+Ravigneaux （简称）拉维列奥克斯（式行星齿轮机构），拉威娜（式行星齿轮机构）
+Simpson gear set 辛普森行星齿轮机构
+planet（ary） gear， pinion gear    行星齿轮（SAE 推荐）
+planetary [epicyclic] gear 行星轮
+（GB 推荐）
+planet（ary） carrier， pinion gear carrier
+
+行星架
+sun gear 太阳轮
+3a reverse sun gear 倒档太阳轮
+3b forward sun gear 前进档太阳轮
+internal  ring  gear，  ring  gear，  annulus
+内齿圈
+common ring gear 共用齿圈
+4a  ring gear & output shaft  齿圈和输出轴
+outer planet [pinion] gear   外侧行星轮
+inner planet [pinion] gear   内侧行星轮
+long planet [pinion] gear 长行星轮
+broad planet [pinion] gear 长行星轮
+narrow planetary gear 短行星轮short planet [pinion] gear 短行星轮narrow planet [pinion] gear 短行星轮
+small sun gear 小太阳轮
+large sun gear 大太阳轮
+compound planet  [pinion]  gear  组合行星轮
+stepped planet 阶梯状行星轮
+small internal ring gear 小内齿圈
+small annulus ring gear 小齿圈
+large internal ring gear 大内齿圈
+large annulus ring gear 大齿圈
+front planetary gear 前行星轮
+rear ring gear  后齿圈
+input 输 入
+rear carrier 后 架
+rear planetary gear 后行星轮
+front carrier 前 架
+output 输 出
+common sun gear 共用太阳轮
+front ring gear  前齿圈
+
+
+
+Fig. 14-4	One-Way Clutch
+图 14-4	单向离合器
+
+
+参考：SAE   J1087-2011《单向离合器名称和术语》
+OWC = one-way clutch 单向离合器
+locked 锁 止
+overrunning 超 越
+outer cam type loose roller clutch 外凸轮式活动滚子（单向）离合器
+caged roller outer cam  type  clutch 带保持架滚子外凸轮式（单向）离合器hook type cam loose roller clutch  钩式凸轮活动滚子（单向）离合器
+loose roller type clutch 活动滚子式
+（单向）离合器
+pedestal[leg] type cam roller type clutch
+支腿式凸轮滚子（单向）离合器
+inner cam clutch 内凸轮面（单向滚子）离合器
+inner cam type roller one-way clutch
+内凸轮面单向滚子离合器
+sprag one-way  clutch  斜楔[楔块]式单向离合器
+double-cage sprag one-way clutch 双保持架斜楔[楔块]式单向离合器
+single-cage sprag one-way clutch  单保持架斜楔[楔块]式单向离合器
+full   complement   sprag（-type）   clutch
+全斜楔[楔块]式（单向）离合器
+pawl（-type）  clutch   棘轮式（单向）离合器 radial apply pawl one-way clutch 径向作用棘轮式单向离合器
+A，B，C，D roller type one-way clutch 滚子式单向离合器
+
+A，B，C    outer  cam  clutch    凸轮面（单向滚子）离合器
+E，F，G，H	sprag（-type）   clutch	斜楔[ 楔块]式（单向）离合器
+cam 凸 轮
+roller 滚 子
+strut angle 支撑角
+outer contact   外接触
+locking angle   锁止角
+inner contact   内接触
+spring 弹 簧
+spring retainer 弹簧保持器
+inner race 内座圈
+10，14 hook 钩（形夹）
+cage 保持架
+leg 支 脚
+outer race 外座圈
+sprag space  楔块间隔
+strut 支 撑
+sprag 楔 块
+drag clip （optional）    阻挡夹（选装）
+inner cage 内保持架
+drag strip （optional）    阻挡条（选装）
+energizing spring 激发弹簧
+outer cage 外保持架
+plate 板
+pocket plate 袋式板
+Ravg = average radius 平均半径
+pawl 棘 爪
+
+
+
+Fig. 14-5	Fluid Coupling and Torque Converter
+图 14-5	液力偶合器和液力变矩器
+
+
+torque converter with lockup clutch， clutch-type torque converter， lock-up torque   converter， Foettinger converter锁止式液力变矩器
+torque converter， hydrodynamic con-
+verter 液力变矩器
+two-phase，  single-stage   torque converter
+双相、单级液力变矩器
+fluid coupling， fluid clutch， hydraulic coupling， hydrodynamic clutch， Foet- tinger coupling 液力偶合器
+three-member， single-phase， three-stage
+torque converter 三叶轮、单相、三级变矩器
+TCC = torque converter  clutch 液 力变矩器锁止离合器
+lockup clutch， converter clutch    锁止离合器
+clutch piston  离合器活塞
+pressure plate 压 力 板
+turbine 涡 轮
+fluid flow direction 液流方向
+impeller 泵 轮
+
+converter pump assembly 变矩器泵轮
+design path  设计流线
+core 内 环
+shell 外 环
+converter （housing） cover    变矩器壳
+reactor 导 轮
+stator 定 子
+one-way clutch  单向离合器
+output shaft 输出轴
+input 输 入
+torsional damper 扭转缓冲器spring damper 弹簧式扭转缓冲器flexible coupling 挠性连接器
+1ST reactor   第一导轮
+2ND turbine  第二涡轮
+2ND reactor  第二导轮
+3RD turbine  第三涡轮
+1ST turbine  第一涡轮
+turbine thrust spacer 涡轮推力隔套
+clutch piston spring  离合器活塞弹簧
+pressure plate spring 压力板弹簧
+thrust bearing 推力轴承
+
+
+Fig. 14-6	A/T=Automatic Transaxle
+图 14-6	自动变速器驱动桥
+
+
+
+Fig. 14-7	Hydra-Matic 4T65-E Automatic Transaxle
+图 14-7	通用公司 4T65-E自动变速驱动桥
+
+说明：Hydra-Matic 为通用公司的液压自动变速器的商品名
+drive sprocket 主动链轮
+pump assembly 油泵总成
+control valve assembly 控制阀总成
+3-4 accumulator assembly 三～四档蓄压器总成
+drive link 传动链
+output shaft 输出轴
+4th clutch  四档离合器
+driven sprocket 从动链轮
+driven sprocket support 从动链轮支架
+filter 滤 网
+reverse band 倒档制动带
+2nd clutch   二档离合器
+3rd clutch   三档离合器
+
+input clutch  输入离合器
+2-1 manual servo assembly 二～一档手动伺服机构
+extension case 延伸壳体
+speed sensor 车速传感器
+final drive differential assembly  主减速器差速器总成
+forward band  前进档制动带
+reaction planetary gear 反作用行星齿轮（机构）
+input planetary gear    输入行星齿轮（机构）
+input clutch sprag   输入离合器楔块
+crank shaft 曲 轴
+drive plate 传动板
+torque converter assembly 液力变矩器总成
+
+
+
+
+Fig. 14-8	Structure of 6T40E Automatic Transmission
+图 14-8	6T40E自动变速器结构
+
+
+6T40E 是通用公司的液压自动变速器的产品型号
+overdrive  transmission	超速变速器 
+（SAE    J645-2009 中 3.3.8）
+reaction carrier 反作用行星架
+control valve body 控制阀体
+input carrier  输入行星架
+valve channel plate 控制阀油路板， 阀通道板
+output carrier 输出行星架
+park gear 驻车档
+control solenoid（w/body and TCM）   电磁控制阀（带阀体和变速器控制模块）
+drive sprocket 主动链轮
+drive sprocket hub 主动链轮齿毂
+torque converter 液力变矩器
+
+ATF pump assembly 自动变速器油泵总成
+differential carrier assembly 差 速器架总成
+differential ring gear 差速器齿圈
+driven sprocket 从动链轮
+1-2-3-4 clutch assembly 1-2-3-4 档离合器总成
+low and reverse clutch assembly 低 ～ 倒档离合器总成
+2-6 clutch assembly 2～6 档离合器总成
+3-5 reverse clutch 3～5 倒档离合器
+4-5-6 clutch 4-5-6 档离合器
+A/T input speed sensor 自动变速器输入转速传感器
+
+
+
+
+Fig. 14-9	Case and Associated Parts（GM 6T40）
+图 14-9	壳体和关连零部件（GM 6T40）
+
+
+
+
+
+Fig. 14-10	Transmission Case Assembly（GM 6T40）
+图 14-10	变速器壳总成（GM 6T40）
+
+
+57，61 bolt 螺 栓
+A/T case assembly 自动变速器壳总成
+fluid pressure test hole plug 油压测试孔塞
+vent cap  通风孔盖
+transmission case cover locator pin
+变速器壳盖定位销
+vent baffle cover 通风折流板
+A/T fluid check ball 自动变速器油单向球阀
+input shaft support 输入轴支撑
+3-5-reverse and 4-5-6 clutch fluid seal ring 3-5-倒档和 4-5-6 档离合器油密封圈
+
+drive link lube fluid seal 传动链润滑油密封件
+drive link lube scoop 传动链润滑油勺
+front differential  carrier  baffle  前差速器壳隔板
+oil level plug 油面塞
+drain plug 放油塞
+drive shaft oil seal 驱动轴油封
+control valve body locator pin 控制阀体定位销
+1-2-3-4 and low reverse clutch fluid passage seal  1-2-3-4  档和低档倒档离合器液通道油封
+
+
+
+Fig. 14-11	Oil Pump Assembly （GM 6T40）
+图 14-11	油泵总成（GM 6T40）
+
+
+
+
+
+
+Fig. 14-12	Drive Link Assembly （GM 6T40）
+图 14-12	传动链总成 （GM 6T40）
+
+
+
+
+
+Fig. 14-13	Torque Converter and Fluid Pump Housing Assembly （GM 6T40）
+图 14-13	变矩器和油泵壳总成（GM 6T40）
+
+
+
+
+
+
+
+
+Fig. 14-14	Automatic Transmission Hydraulic Circuit
+图 14-14	自动变速器油路图（通用 4T60-E）
+
+
+说明：本图是发动机运转时空档/驻车档油路图。
+1ST 一 档
+2ND  二 档
+3RD  三 档
+4TH  四 档
+ACCUM= accumulator 蓄压器ACC= accumulator  蓄压器APPLY 接 合
+A SOL=shift solenoid A 换档电磁阀 A
+B SOL=shift solenoid B 换档电磁阀 B C.C.SOL= converter clutch solenoid 变 矩器锁止离合器电磁阀
+CL=clutch   离合器CONV= converter 变矩器DECREASE 降低，降压EX= exit 出油口
+FD= feed 供 油
+FWD= forward 前进档
+LUBE 润 滑
+MAN= main line 主油道MOD= modulator 调节器N.O.= normally open 常 开
+PRN= PARK， REVERSE or NEUTRAL   驻
+车档、倒档、空档
+PRIM TRIM= primary trim 初级调整
+REG= regulating 调 节
+RELEASE 分 离
+REV= reverse 倒 档SIG= signal 信 号SOL= solenoid 电磁阀SUCTION 吸 入
+modulator valve 调节阀
+1a modulator 调节器
+thermostatic element 恒温[温控]元件
+sump 储液槽
+oil pan 油 盘
+strainer， filter    过滤器
+oil pump 油 泵
+
+check valve 单向阀
+cooler 冷却器
+converter pressure relief valve 变 矩 器释压阀
+converter， torque converter    变矩器
+TCC= torque converter clutch  变矩器锁止离合器
+pressure relief valve 释压阀
+C. C. SOL. = converter clutch solenoid
+变矩器锁止离合器电磁阀
+converter clutch regulator valve 变 矩器锁止离合器调节阀
+PWM solenoid= pulse width modulation solenoid 脉宽调制电磁阀
+A shift solenoid 换档电磁阀 A
+REV press REG= reverse pressure reg-
+lator valve 倒档调压阀
+line pressure tap 油路压力测量孔塞
+manual valve 手动阀
+2-3 accumulator   二～三档蓄压器
+1-2 accumulator   一～二档蓄压器
+FWD BST= forward servo boost valve
+前进档伺服升压阀
+REV BST= reverse servo boost valve
+倒档伺服升压阀
+B shift solenoid 换档电磁阀 B
+4-3 DOWN= 4-3 down valve 四～三档降档阀
+3-2 DOWN= 3-2 down valve 三～二档降档阀
+SEC 1-2 ACCUM= secondary 1-2 accu- mulator valve 一～二档二级蓄压器阀
+1-2 ACCUM= 1-2 accumulator valve
+一～二档蓄压器阀
+3-4 accumulator 三～四档蓄压器
+forward servo  前进档伺服装置
+manual  2/1  servo	手动二～一档伺服装置
+reverse servo 倒档伺服装置
+
+
+
+Fig. 14-15	5-Speed AT= 5-Speed Automatic Transmission
+图 14-15	五档自动变速器
+
+
+5-speed ECT =5-speedlectronically controlled transmission 五档电子控制式自动变速器ECT=electronically controlled   transmission 电子控制式自动变速器
+hydrodynamic torque converter with lockup clutch 锁止式液力变矩器，带锁止离合器的液力变矩器
+5-speed planetary gear set [unit， train]
+五档行星齿轮系
+Simpson planetary gear set [train]
+辛普森式行星齿轮系[机构]
+electro-hydraulic transmission control
+变速器电液控制装置
+torque-flow diagram 转矩流向图
+automatic transmission for commer- cial vehicle  商用车自动变速器
+input shaft 输入轴
+lockup clutch 锁止离合器
+
+hydrodynamic  torque  converter	液力变矩器
+brake band  制动带
+5～11	multi-plate[disk] clutch 多片式离合器
+multi-plate[disc] brake 多片式制动器
+hydraulically-actuated multiplate clutch 液压多片式离合器hydraulically-actuated multiplate brake 液压多片式制动器
+12～14 one-way clutch 单向离合器
+15， 16    planetary-gear set    行星齿轮系
+output shaft 输出轴
+control valve assembly 控制阀组件
+transmission control 变速器控制装置
+pump， oil pump， fluid pump    油泵
+hydrodynamic retarder    液力缓速器
+
+
+
+Fig. 14-16	Honda Automatic Transaxle
+图 14-16	本田自动变速驱动桥
+
+
+constant-mesh helical gears automatic transaxle 常啮合斜齿轮式自动变速驱动桥
+lock-up clutch 锁止离合器
+countershaft lst gear   中间轴一档齿轮
+countershaft 3rd gear   中间轴三档齿轮
+mainshaft 3rd gear 主轴三档齿轮
+3rd clutch   三档离合器
+4th clutch   四档离合器
+mainshaft 4th gear 主轴四档齿轮
+mainshaft reverse gear 主轴倒档齿轮
+reverse idle gear 倒档惰轮
+mainshaft idler gear  主轴惰轮
+mainshaft 主 轴
+countershaft 2nd  gear  中间轴二档齿轮
+countershaft idler gear 中间轴惰轮
+parking gear  驻车档齿轮
+countershaft 中间轴
+parking pawl  驻车掣爪
+secondary  shaft，  sub-shaft	副轴，第二轴
+secondary shaft idler gear 副轴惰轮
+countershaft reverse gear 中间轴倒档齿轮
+
+secondary  shaft  2nd  gear  副轴二档齿轮
+reverse selector  倒档接合套
+countershaft 4th  gear  中间轴四档齿轮
+servo valve 伺服阀
+2nd clutch  二档离合器
+1st clutch  一档离合器
+secondary shaft lst gear 副轴一档齿轮
+one-way clutch 单向离合器
+1st hold clutch 一档保持离合器
+final driven gear   主减速器从动齿轮
+final drive gear   主减速器主动齿轮
+oil pump 油 泵
+torque converter 液力变矩器
+lock-up control solenoid valve assembly 锁止离合器电磁阀总成
+valve body 阀 体
+throttle control cable 节气门控制拉索
+ATF dipstick 自动变速器油量尺ATF= automatic transmission fluid 自动变速器油
+vehicle speed sensor 车速传感器
+
+

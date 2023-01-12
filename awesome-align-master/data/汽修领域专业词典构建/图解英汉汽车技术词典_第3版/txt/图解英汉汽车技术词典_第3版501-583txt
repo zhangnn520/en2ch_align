@@ -1,0 +1,2123 @@
+
+Fig. 21-7	Evaporator， Heater and Blower
+图 21-7	蒸发器、加热器和风机
+
+
+A/C unit 空调组件
+heater core [radiator] 加热器芯体
+evaporator 蒸发器
+blower， （blow） fan    鼓风机
+blower  unit    风机 （QC/T  720-2004  中
+5.3）
+air inlet mode selector  motor  进 气模式选择电动机
+air inlet dampers servomotor 进气风门伺服电动机
+water valve 水 阀
+control cable  操纵拉索
+
+air flow mode servomotor 气流模式控制电动机
+air mix damper control  cable 空 气混合风门操纵拉索
+control panel[assembly]  控制面板
+evaporator temperature sensor 蒸 发器温度传感器
+expansion valve 膨胀阀
+remote bulb 远置感温包
+blower case 风机箱
+blower motor 风机电动机
+fan 风 扇
+
+
+
+Fig. 21-8	HVAC Module Assembly
+图 21-8	供暖、通风和空调模块总成
+
+
+components of HVAC module 供暖、通风和空调模块部件
+A/C unit 空调模块
+2，4，6，16，19，22，33，40，41，44，53，53   bolt   螺栓
+9，10，12，28，29，31，31，34，35，36，37，38    seal
+密封件
+
+O-ring O 形 圈
+1    CASE， HTR & A/C EVPR （INCLS 2， 38） =  heater  & A/C  evaporator  case
+（incls 2，38）    加热器和空调蒸发器壳体
+（包括 2，38）
+3    MOTOR，BLO（W/IMPLR）  =  blower
+
+motor  （with/impeller）	鼓风机电动机
+（带叶轮）
+5    MODULE， HTR & BLO & A/C CONT= heater & blower & A/C control module 加热器、鼓风机和空调控制模块
+OUTLET， F/FLR CNSL RR AIR =
+front/floor console rear air  outlet 前 地板控制台后出风口
+heater core [radiator] 加热器芯体
+11  clamp for heater core tube  加热器芯体管卡箍
+heater core inlet tube 加热器芯体进口管
+heater core outlet tube 加热器芯体出口管
+air inlet  housing（INCLS  16）   空气进口壳体（包括 16）
+passenger compartment air filter  乘客区空气滤清器
+mode control cam actuator（ PART OF 50 ）
+模式控制凸轮执行器（50 的零件）
+mode valve actuator gear （ PART OF 50） 模式阀执行器齿轮（50 的零件）
+temperature  valve  actuator    温控阀
+执行器
+CAM， MODE CONT= mode control cam 模式控制凸轮
+LEVER， VENT VLV=vent valve lever
+通风阀操纵杆
+mode valve lever 模式阀操纵杆
+mode valve gear 模式阀齿轮
+
+A/C evaporator   空调蒸发器
+evaporator core   蒸发器芯体
+30    VALVE， A/C EVPR THERM EXPN
+= A/C evaporator thermostatic expansion valve （TEV）    空调蒸发器热力膨胀阀
+39    HOSE， A/C EVPR & BLO MDL DRN
+=A/C evaporator & blower drain  hose
+空调蒸发器和鼓风机模块排水软管
+NUT （ HEX-CHROME FINISH ） = nut（  hex-chrome  finish  ）    螺母（六角-镀铬光制）
+ACTUATOR， AIR INL VLV = air inlet valve  actuator  空气进口阀执行器
+45    WIRE，  BLO  MOT  =  blower  motor wire 鼓风机电动机线束
+CASE，HTR & A/C EVPR & BLO
+UPR =upper case for heater & A/C evaporator &  blower  加热器、空调蒸发器和鼓风机上壳
+CASE，  HTR & A/C EVPR & BLO LWR =lower case for heater & A/C evaporator &  blower  加热器、空调蒸发器和鼓风机下壳
+BRACKET， HTR CORE TUBE = heater core  tube  bracket  加热器芯体管托架
+ACTUATOR， MODE CONT CAM
+（INCLS 18， 20 ） = mode control cam actuator	模式控制凸轮执行器（包括 18，20 ）
+
+
+
+
+
+Fig. 21-9	Types of Compressor
+图 21-9	压缩机类型
+
+
+A rotary type compressor 旋转式压缩机
+A1  vane type  刮片式A2 scroll type 涡旋式A3   roll type   滚动式A4 screw type 螺杆式
+A5 triangular rotor type 三角转子式
+B1 swash plate type 摇板式
+double-headed swash  plate  type  双向回转摇板式
+B2 sliding vane type  斜盘式
+C scroll type compressor 涡旋式压缩机
+suction port 吸气口
+discharge port 排气口
+vane 刮 片
+rotor 转 子
+stationary vane 定 片
+movable vane 动 片
+cylinder （block）    缸体
+roll piston  滚动活塞
+
+crankshaft	曲轴
+spring 弹 簧
+suction chamber  吸气腔
+triangular rotor 三角转子
+seal 密封件
+discharge chamber  排气腔
+discharge valve 排气阀
+discharge reed valve 排气簧片阀
+piston 活 塞
+swash plate 回转斜盘
+driving plate  传动板
+wobble plate 摇摆斜盘
+thermal protector 热保护器
+needle bearing 滚针轴承
+bolt 螺 栓
+ball connector  球连接器
+outlet port 输出孔
+guide valve 导 阀
+
+
+
+Fig. 21-10	Variable Displacement Compressor
+图 21-10	变排量压缩机
+
+
+continuously variable capacity type compressor 连续变排量式压缩机variable displacement single-headed swash plate type  compressor  单向斜板式变排量压缩机
+plastic DL  type  A/C  pulley  塑料缓冲限制器空调带轮
+DL = damper limiter  缓冲限制器
+limiter mechanism 限制器机构
+shaft 轴
+A/C pulley 空调带轮
+
+crank chamber 曲轴箱
+piston 活 塞
+rear head 后 盖
+solenoid control valve  电磁控制阀
+cylinder 气 缸
+8 lug plate 凸耳板
+wobble plate   摇摆斜盘
+damper   缓冲器
+spoke portions 辐条部分
+rotate direction 转动方向
+pulley portion 带轮部分
+
+
+
+Fig. 21-11	Typical A/C and Controls（VW）
+图 21-11	典型空调及控制装置（大众）
+
+
+说明：此处“空调”仅指制冷部分。
+magnetic clutch  电磁离合器
+low-side service port 低压侧维修口
+A/C controls 空调控制装置
+H-expansion valve H 形膨胀阀
+evaporator temperature switch 蒸 发器温度开关
+ambient temperature sensor 环 境 温度传感器
+A/C control module 空调控制模块
+coolant temperature switch  冷却液温度开关
+
+fan 风 扇
+condenser 冷凝器
+relief valve 安全阀
+compressor 压缩机
+high-side service port  高压侧维修口
+engine control module 发动机控制模块
+blower 鼓风机
+three  function  switch	三功能开关
+（高、中、低压传感器）
+receiver-drier 储液干燥器
+
+
+
+
+
+
+
+A PTC heater  PTC 加热器
+
+
+Fig. 21-12	Power Heater
+图 21-12	能量加热器
+4 ambient temperature sensor 环 境 温
+
+PTC = positive temperature coefficient 正温度系数
+combustion type power heater 燃 烧型加热器
+fuel fired type heater 独立燃烧式加热器
+electrical power type heater 电 能 式加热器
+viscous-power type heater 黏液能式加热器
+ENGINE ECU  发动机 ECU
+CKP[crankshaft position] sensor 曲轴位置传感器
+control panel/max  hot  控制板/最大加热
+water temperature sensor 冷却液温度传感器
+
+度传感器
+5 IG[ignition] switch 点火开关
+6，31  alternator    发电机
+PTC heater relay 正温度系数加热器继电器
+PTC heater 正温度系数加热器
+heater core 加热器芯体
+common-rail 共 轨
+fuel return pipe 回油管
+fuel sedimenter 燃油沉淀器
+fuel 燃 油
+fuel tank 燃油箱
+fuel pump 燃油泵
+combustion chamber  燃烧室
+feed pump  供油泵
+engine 发动机
+intake air 进 气
+
+muffler 消声器
+exhaust gas 排 气
+heater core 加热器芯体
+engine coolant  发动机冷却液
+intake air temperature sensor 进 气温度传感器
+max hot switch （空调）最热开关
+headlamp switch 前照灯开关
+glow plug 电热塞
+heater unit 加热器（组件）
+
+blower 风 机
+heater relay 加热器继电器
+electrical magnetic clutch 电磁离合器
+viscous-power  type  heater	黏液能取暖器
+heater switch   加热器开关
+injector 喷油器
+heater amplifier 加热器放大器
+A/C clutch signal 空调离合器信号
+
+
+
+Fig. 21-13	Combustion Type Heater
+图 21-13	燃烧式加热器
+
+
+fuel fired heater type 独立燃烧式暖风装置（QC/T 720-2004 中 4.7.2）
+exhaust gas 排 气
+fuel 燃 料
+F fresh air 新鲜空气
+combustion air  燃烧空气
+heated air 被加热空气
+heating-air impeller 加热空气叶轮
+ECU 电控单元
+combustion-air impeller 燃烧空气叶轮
+sheathed-element glow  plug  封装式电热塞
+
+heat exchanger 热交换器
+flame-failure/overheat  sensor	火焰故障/过热传感器
+module-timer   定时器模块
+heating/ventilation  selector	加热/通风选择器
+fuse holder   熔断器支架
+electric motor   电动机
+burner 燃烧喷嘴
+metering pump  计量泵
+exhaust-gas muffler 排气消声器
+
+
+
+Fig. 21-14	Coolant Heater
+图 21-14	冷却液加热器
+
+
+coolant heater   冷却液加热器
+exhaust gas 排 气
+fuel 燃 油
+V combustion air 燃烧空气WA   water outlet   出水口WE water inlet 进水口
+electric motor 电动机
+ECU 电控单元
+combustion-air  blower	燃烧空气鼓风机
+plug-in connection  插接器
+blower relay 鼓风机继电器
+fuse holder 熔丝座
+mini-timer 微型时钟
+fuel connection 燃油管连接器
+
+bleed screw 减压螺钉
+water pump 水 泵
+overheating sensor 过热传感器
+heat exchanger  热交换器
+metering pump  计量泵
+pot strainer，installed in metering pump 过滤罐，安装在计量泵里
+temperature sensor 温度传感器
+exhaust pipe with exhaust muffler
+带排气消声器的排气管
+burner 燃烧器
+glow element 预热元件
+flame sensor 火焰传感器
+combustion-air hose  燃烧空气管
+
+
+
+Fig. 21-15	Mode Position and Damper Operation
+图 21-15	模式位置和风门操作
+
+
+air mix（ture） type    空气混合调节型
+air inlet control damper 进气控制风门
+air intake door 空气进气节气门
+（QC/T 720-2004 中 5.1）
+1a FRESH = fresh air 新鲜空气
+1b RECIRC = recirculating[recirculates] internal air  车内再循环空气
+front defroster 风窗玻璃除雾器DUCT， W/S DEFR OTLT= windshield defroster outlet duct （配件目录用语）前风窗玻璃除霜器出风管
+heater core  加热器芯体
+to driver side 至驾驶员侧
+to front passenger side 至前排乘员处
+automatic A/C with left/right indepen- dent temperature controls 带左/右温度独立控制装置的自动空调
+side register  侧方通风调节器
+
+side vent 侧通风口
+upper register   上部通风调节器
+center register   中央通风调节器
+10，13 rear foot well register duct 后 脚窝可调通风管
+right foot well register duct 右脚窝可调通风管
+left foot  well  register  duct  左脚窝可调通风管
+blower motor 鼓风机电动机
+evaporator 蒸发器
+air mixture door 空气混合调节门
+（QC/T 720-2004 中 5.12）
+air mix control damper 空气混合调节门
+mode  control  door	（通风）模式控
+制风门
+
+
+
+Fig. 21-16	Air Distribution System
+图 21-16	空气分配系统
+
+
+说明： 参考 2013 通用别克新君威配件目录“EG1-09-002” 中的中、英文。此处先将目录中缩略语按字母顺序全文列出， 以便读者查阅。
+CLG = cooling 冷却（的）
+CNSL = console 控制台，副仪表板，落地仪表台
+COMPT = compartment 室，舱CTR = center   中心，中央DEFG = defogger    除雾器DEFR = defroster 除霜器
+DFL = deflector 导流器FLR = floor 地 板NOZ = nozzle 喷 嘴OTLT = outlet 出风口
+OTR = outer    外侧[部]的RDO = radio  音响，收音机RR = rear 后（方，面，部的） I/P = instrument panel 仪表板SI = side 侧（的）
+WDO = window 门 窗
+W/S = windshield   风窗玻璃
+GRILLE，  W/S  DEFR  NOZ    风窗玻璃除霜器喷嘴格栅
+DUCT， I/P OTR AIR OTLT    仪表板外出风口管道
+3，9，16 BOLT 螺 栓
+
+4，5    air outlet （assembly）	出风口（总成）
+HOUSING， I/P CTR AIR OTLT DFL
+仪表板中央出风口导流器壳体
+HOUSING， I/P OTR AIR OTLT DFL
+仪表板外出风口导流器壳体
+GRILLE， SI WDO DEFG OTLT    侧窗除雾器出口格栅
+INLET， AIR    进风口
+8，10    DUCT，  FLR  AIR  OTLT    地板出
+风口管道
+RIVET 铆 钉
+CAP， I/P COMPT AIR & RDO CLG DUCT 仪表板舱通风和音响冷却管道盖
+DUCT， RDO CLG    音响冷却管道
+DUCT， F/FLR CNSL FRT AIR    前地板控制台前通风管道
+DUCT， F/FLR CNSL RR AIR    前地板控制台后通风管道
+HOUSING，  F/FLR  CNSL  RR  AIR OTLT DFL  前地板控制台后出风口导流器壳体
+ADAPTER， FLR RR AIR OTLT DUCT 地板后出风口管道接头
+DUCT，  FLR  RR  AIR  OTLT    地板
+后出风口管道
+
+
+
+Fig. 21-17	Climate Control Panel
+图 21-17	气候控制板
+
+
+A/C control panel 空调控制板
+Ⅰ，  Ⅱ automatic climate    自动气候控制 Ⅰ dual automatic climate control system
+双区自动气候控制系统
+Ⅱ climate control with cooled and heated seats 座椅调温控制
+driver and passenger side temperature controls 驾驶员和乘员处温度控制器
+air delivery mode controls 空气配送
+模式
+SYNC = synchronized temperature 同步温度
+AUTO = auto operation  自动运转
+
+REAR = rear climate control 后部气候控制器
+defrost 除 霜
+rear window defogger 后风窗玻璃除雾器
+fan control 风扇控制
+air recirculation  空气再循环
+10，12 air conditioning 空 调
+11 climate control with cooled and heated seats 座椅调温控制
+13 windscreen demisting and defrosting
+风窗玻璃除雾和除霜
+
+Automotive Electricity and Electronics
+汽车电气和电子设备
+
+
+
+Fig. 22-1	Battery
+图 22-1	蓄电池
+
+
+参考：GB/T 2900.41-2008《电工术语 原电池和蓄电池》
+说明：（1）“battery    蓄电池”是大家约定俗成的常用语，但不是国家标准用语
+（2）secondary cell    蓄电池（GB/T 2900.41
+-2008 中 482-01-03）。
+（3）battery    电池 （GB/T 2900.41-2008 中
+482-01-04）。
+starter battery 起动蓄电池（汽车用的蓄电池都是起动蓄电池）
+A， B   lead dioxide lead battery， lead storage battery，  lead（-acid）  storage  battery铅酸蓄电池
+conventional battery 传统蓄电池
+MF battery = maintenance-free  battery 免维护蓄电池（目前乘用车基本都采用免维护蓄电池）
+OEM battery OEM 蓄电池（如果汽车制造厂装用了博世的蓄电池，那么本图就符合）
+polymer electrolyte 聚合物电解质燃料蓄电池
+FC = fuel cell（s）    燃料电池
+cell  partition，  cell  divider    单元电池隔板
+terminal post， post， terminal， pole    端子，极端
+2a side terminal 侧置端子[极端]
+2b    post  terminal，  top  terminal    柱式端子[接头，极桩]
+2c “L” terminal L 形端子[接头]
+cell connecting bar [bridge， strip]， cell connector， cell-to-cell connector， connecting bar 单元电池连接条
+vent （ilation） plug， vent cap    （蓄电池）
+
+通气孔塞，排气帽
+one-piece cover 整件式盖
+heat sealed cover 热封装盖
+cell  lid    电池盖（GB/T  2900.41-2008
+中 482-02-15）
+electrolyte level mark   电解液面标记
+plate bridge， plate strap    极板连接条
+negative plate 负极板
+8a set of negative plate 负极板组
+negative plate group 负极板群
+positive plate 正极板
+9a set of positive plate 正极板组
+positive plate group 正极板群
+sediment   space，   sediment   chamber
+沉淀室
+（plate） separator    隔板
+element rest （极板）元件支撑台
+battery case[box]    电池槽[外壳] case with base-mounting 底部安装壳体
+terminal-post cover  端子[接头]盖
+frit 过滤器板
+bottom mounting rail 底部安装导轨
+envelope （design） separator    （正极板用的）套[信封]式隔板
+separator envelope   隔板套
+hydrogen 氢
+electric load  电负荷
+air（O2）    空气（氧）
+catalyst 催化剂
+electrolyte 电解质
+double plate 双极板
+water evaporation and relict  air 水蒸气和残余空气
+
+
+
+Fig. 22-2	Index of Automotive Electrical System
+图 22-2	汽车电气设备索引
+
+
+automotive electricity 汽车电气设备automotive electricity and electronics 汽车电气和电子设备
+width（-indicator） lamp， clearance lamp [light]， corner marker lamp[light]， position lamp[light] 示宽灯
+windshield washer 前风窗洗涤器
+wiper 刮水器
+mirror 后视镜
+interior lamp[light]， ceiling lamp[light]， dome lamp[light]， roof lamp[light]   顶灯
+center stop lamp [light]	中间制动灯
+CHMSL = center high-mounted stop lamp [light] 中间高位制动灯
+antenna， aerial 天线
+back-up lamp[light]， reverse lamp， re- versing lamp[light] 倒车灯
+rear combination lamp[light] 后 组
+合灯
+license plate lamp [light]， number- plate lamp [light]， registration-plate lamp [1ight] 牌照灯
+side turn signal [indicator] lamp，
+lateral turn[direction] indicator， side direction[turn] indicator lamp， side flasher lamp， side flasher    侧转向信号灯
+
+fog lamp， fog light    雾灯
+front fog lamp [light]	前雾灯
+front turn signal lamp 前转向信号灯
+headlamp， headlight    前照灯
+horn 喇 叭
+electric horn   电喇叭
+wiring， cabling    线路
+wiring harness， cable harness， cable as- sembly， wire    电线束
+seat heater 座椅加热器
+speaker， loudspeaker    扬声器
+combination switch   组合开关
+19a	turn signal and light control switch
+转向信号和灯光控制开关
+19b    wiper switch    刮水器开关
+cruise control 巡航控制器
+air bag ECM 安全气囊电控模块
+radio & tape player 收放机，收音机和磁带放音机
+radio 音响，收音机
+compact disc player CD 播放机，光盘播放机
+Conlight = automatic light control sys- term 照明自动控制装置
+Conlight  scanner	照明自动控制装
+置扫描仪
+
+
+
+
+
+Fig. 22-3	ALT = Alternator
+图 22-3	交流发电机
+
+
+AC GEN = alternating  current  generator 交流发电机
+generator 发电机
+A  claw-pole alternator  爪极式交流发电机B   compact alternator   紧凑型交流发电机C salient-pole alternator 凸极交流发
+电机 （注：用作大功率发电机）
+alternator with windingless rotor 转子无绕组交流发电机
+brushless alternator    无刷交流发电机
+alternator components    发电机零部件
+slip  ring  end  frame，  commutator    end bearing bracket， collector-ring end shield， rear end shield， rear housing， rear end cover 后端盖
+heat sink	（整流器）散热板
+rectifier holder   整流器支架
+rectifier bridge   整流器电桥
+power diode 功率二极管
+exciter diode 激励二极管
+drive end frame[shield， bracket， bearing bracket]， front housing    前端盖
+pulley 带 轮
+fan 风 扇
+7a    external fan   外装式风扇
+7b   internal fan   内装式风扇
+stator 定 子
+
+stator assembly 定子总成
+rotor 转 子
+claw pole 爪 极
+brush， carbon brush 电 刷
+voltage regulator  电压调节器
+IC regulator， solid state regulator， electronic regulator 集成电路调节器transistor regulator， transistorized
+（voltage） regulator， breakerless regula- tor 晶体管调节器
+built-in voltage regulator 内装式电
+压调节器
+collector-ring， commutator ring， slip ring 集电环
+diode 二极管
+13a diode assy. 二极管总成
+excitation winding， field coil   磁场绕组
+casing 壳 体
+salient-pole rotor 凸极转子
+suppression capacitor 静噪电容器
+plug connector （线束）插座
+windingless rotor  无绕组转子
+conductive element 导电元件
+brush holder 电刷架
+fan leader 风扇导向器
+front bearing 前轴承
+bearing retainer  轴承保持板
+
+
+
+Fig. 22-4	New Type Alternators
+图 22-4	新型发电机
+
+
+ICSA = integrated crankshaft-starter alter- nator	集成于曲轴的起动/ 发电机
+（42V 电系）
+liquid-cooled compact alternator 紧 凑式液冷发电机
+ICSA control unit 集成于曲轴的起动/ 发电机控制模块
+EEM= electrical energy management 电能管理
+engine control unit   发动机控制模块
+internal combustion engine   内燃机
+ICSA=integrated crankshaft-starter alterna- tor 集成于曲轴的起动/发电机
+transmission 变速器
+drive-belt pulley 驱动带轮
+
+rectifier 整流器
+regulator 调节器
+drive end shield  前端盖
+conductive element 导 体
+alternator casing 发电机壳体
+coolant jacket 冷却液套
+jacket casing for attached mounting
+安装用的套壳
+stationary excitation winding 定 子磁场绕组
+nonmagnetic intermediate ring 无磁中间环
+stator core 定子铁心
+stator winding 定子绕组
+windingless rotor  无绕组转子
+
+
+
+Fig. 22-5	Starter Diagram
+图 22-5	起动机原理图
+
+
+参考：GB/T 5337-1985《汽车电器、灯具和仪表名词术语》
+permanent field starter with reduction planetary gear 行星齿轮减速永磁起动机
+permanent field starter with reduction gear 齿轮减速永磁起动机
+inertia drive starter （diagram）    惯性式
+起动机（原理图）
+pre-engaged drive starter diagram， solenoid-engaged starter diagram 电磁啮合式起动机原理图
+sliding gear starter circuit diagram
+齿轮移动式起动机线路图
+B， C， D starting system 起动系统
+brush holder assembly  电刷架总成
+shift lever， drive lever， engaging （shift） lever 拨 叉
+solenoid [magnetic] switch， engagement solenoid switch  电磁开关
+overrunning clutch， one-way clutch
+单向离合器
+overrunning clutch with pinion 驱 动齿轮式单向离合器
+planetary gear， planet gear    行星齿轮
+reduction gear 减速齿轮
+armature 电 枢
+
+permanent magnet 永久磁铁
+starting switch  起动开关
+starting  relay，  starter  relay    起动继电器
+excitation winding， field coil    磁场绕组
+ring gear （飞轮）齿圈
+helical spline， spiral spline    螺旋花键
+commutator	整流子
+battery 蓄电池
+return spring 复位弹簧
+shift lever， engaging lever    拨叉
+meshing spring 啮合弹簧
+tripping lever 跳动杆
+pinion 驱动齿轮
+change-over contact 转换开关触点
+series winding   串联绕组
+shunt winding   并联绕组
+insulated brush	绝缘电刷
+brush socket 电刷座
+spring post 弹簧支柱
+brush holder assembly 电刷架总成
+brush screw 电刷（引线）固定螺钉
+terminal tab 端子引线
+grounded  brush，  earth  brush    搭铁电刷
+brush spring 电刷弹簧
+insulation 绝缘板
+
+
+
+Fig. 22-6	Reduction Type Starter
+图 22-6	减速起动机
+
+
+gear-reduction starter 减速起动机
+starter housing 起动机壳体
+D.E. housing = drive  end  housing 驱动端端盖
+field coil， excitation winding    磁场绕组
+armature 电 枢
+brush holder 电刷架
+end cover 端 盖
+C. E. frame = commutator end frame
+换向器端端盖
+brush 电 刷
+through bolt 贯穿螺栓
+plunger 活动铁心
+
+terminal	接线柱
+plunger return  spring  活动铁心复位弹簧
+clutch gear 离合器齿轮
+starting clutch 起动离合器
+drive pinion  驱动齿轮
+idle gear 中间齿轮
+field frame 磁场框架
+bearing 轴 承
+steel ball 钢 球
+magnetic switch， solenoid switch    电磁开关
+
+
+
+Fig. 22-7	Types of Starter Clutch
+图 22-7	起动机离合器类型
+
+
+overrunning clutch 单向离合器
+I	inertia clutch， Bendix drive   惯性离合器
+Bendix inertia drive 邦迪克斯[Bendix] 型惯性驱动装置，惯性离合器
+Bendix barrel-type starter drive 邦 迪克斯[Bendix]套筒式起动机驱动装置
+Bendix folo-thrus tarter drive  邦迪克斯[Bendix]跟随推入式起动机驱动装置
+Ⅱ roller-type overrunning clutch 滚 柱式单向离合器
+Ⅲ multi-disc [disk， plate] overrunning clutch， multi-disc clutch    摩擦片式单向离合器
+Ⅳ radial-tooth  overrunning  clutch	径向齿单向离合器
+a	direction of rotation   转动方向
+drive spring   传动弹簧
+dental clutch 齿状物离合器
+pinion and barrel 驱动齿轮和套筒
+detent pin  定位销
+screw shaft 螺杆轴
+meshing spring 啮合弹簧
+anti-drift spring 防振摆弹簧，压紧弹簧
+pilot screw， location screw    定位螺钉
+snap spring 挡 圈
+anchor plate 定位板
+lock ring 卡 环
+overrunning clutch 单向离合器
+rubber cushion 橡胶缓冲器
+drive pin  传动销
+lock pin 锁 销
+
+lock pin detent 锁销定位爪
+pinion 驱动齿轮
+clutch housing 离合器壳体
+roller race 滚柱座圈
+roller 滚 柱
+pinion shaft	驱动齿轮轴
+spring 弹 簧
+shell 外 罩
+bushing 衬 套
+roller retainer 滚柱保持器
+meshing spring 啮合弹簧
+drive plate 传动板
+drive flange 传动法兰
+drive shaft （connected to pinion）    驱动轴（连接驱动齿轮）
+compression spring 压紧弹簧
+driver with outer plates 带外摩擦片的传动件
+inner clutch race with inner plates
+带内摩擦片的离合器内座圈
+helical spline， spiral spline    螺旋花键
+drive end （connected to armature）
+驱动端 （连接电枢）
+flyweight 离心块，重块
+radial-tooth 径向齿
+disengaging ring 分离环
+clutch nut   离合器螺母
+helical spline   螺旋花键
+rubber buffer	橡胶缓冲器
+dirt sleeve 防尘套管
+spur toothing 直齿连接
+
+
+
+Fig. 22-8	Headlamp
+图 22-8	前照灯
+
+
+headlamp， headlight    前照灯
+sealed beam headlight 封闭式前照灯sealed beam headlamp unit [insert] 封闭式前照灯组
+RBH = replaceable bulb headlight  灯 泡
+可换式前照灯
+semi-sealed beam headlight， composite headlight 半封闭式前照灯
+semi-sealed beam headlamp unit [insert] 半封闭式前照灯组combination headlamp 组合式前照灯
+（雾灯或前转向信号灯灯丝安装于前照灯灯丝上侧或下侧）
+LB = lower beam， LO beam = lower beam， passing （- light） beam， dimmed beam， dipped beam    近光
+HB= high beam， driving light （beam）， upper beam， main beam    远光
+PES headlight = poly ellipsoid system headlight 多椭圆式前照灯
+A～E	halogen headlight 卤素前照灯
+confocal reflector 共焦反射镜
+PES reflector 多椭圆式反射镜（参阅本图“E”）
+headlamp and lights at the vehicle front end 车头部前照灯及其他灯
+low-beam headlamp 近光前照灯
+turn signal lamp 转向信号灯
+position/parking lamp  位置/驻车灯d    daytime running lamp   日间行车灯e	high-beam headlamp    远光前照灯f	fog lamp [light]	雾灯
+gas-filled interior 充气内腔
+filament	灯丝
+lead-in-wire support 引入线支撑
+
+connecting lug 插接片
+terminal 端 子
+cap terminal （灯头）插座端子
+filament shield， screen， shield    配光屏
+aluminized glass  reflector  镀铝玻璃反射镜
+reflector 反射镜
+lens， glass lens 配光镜（注：目前配光镜很多是用塑料制作的）
+horizontal and vertical adjuster  水平和垂直调节器
+sealing cement 密封（粘结）剂
+headlight （glass） bulb    前照灯灯泡
+bulb holder， bulb socket， lamp holder， lamp socket	灯泡座
+bulb location lug	灯泡定位凸耳
+spring retainer	弹簧卡子
+side light aperture  前小灯口
+fog lamp bulb aperture 雾灯灯泡口
+low-beam filament 近光灯丝
+high-beam filament 远光灯丝
+light shield， shield    遮光罩
+basic reflector	主反射镜
+supplementary reflector 副反射镜有关术语：
+①  external mounted headlamp  外装式前照灯（整灯外露）
+② flush mounted headlamp    内装式前照灯（装饰圈与配光镜外露，灯壳内嵌）
+③  concealed headlight， retracted head- light 隐藏式前照灯（不用时藏入前照灯门后面，使用时此门自动开启）
+④ headlamp door  前照灯门（参阅
+“③”）
+
+
+
+Fig. 22-9	Types of Reflectors
+图 22-9	反射镜类型
+
+
+HNS  reflector	均匀数字计算表面反射镜
+HNS = homogeneous numerically calcu- lated surface 均匀数字计算表面facet-type reflector 小平面式反射镜
+A1 vertically partitioned 垂直分割
+A2 radially  and  vertically  partitioned  径向和垂直分割
+PES reflector 多椭圆面系统反射镜
+PES  =  poly ellipsoid system	多椭圆
+
+面系统
+PES with ring parabola and lens （反射镜）带状抛物面和透镜的多椭圆面系统
+reflector 反射镜
+objective 物 镜
+screen 屏
+profiled inner lens 仿形内透镜
+partially metalized inner lens 局 部 喷涂金属的内透镜
+
+
+
+Fig. 22-10	Litronic Headlamp（1）
+图 22-10	光电子前照灯（1）
+
+
+D2S gas-discharge lamp D2S 型气体放电灯泡
+reflection-type headlamp with integr- ated dynamic headlamp 集成动态调平控制的反射式前照灯
+quad-headlamp system Litronic 光 电
+子四前照灯系统
+PES-design  headlamp	多椭圆式前照灯
+UV inert-gas bulb UV 惰性气体灯泡
+UV=ultra violet 紫外线
+lead-in insulator 引入绝缘体
+discharge chamber  放电室
+electrodes 电 极
+lamp socket 灯 座
+lens with or without scatter optics 带
+
+或不带散射镜片的透镜
+reflector 反射镜
+gas-discharge lamp 气体放电灯
+ignition unit 触发模块
+ECU 电控模块
+stepping motor  步进电动机
+axle sensor 轴传感器
+to vehicle electrical system 接车辆电气系统
+vehicle electrical system 车辆电气系统
+optical system 光学系统
+halogen high beam/auxiliary driving lamp 卤素远光灯/辅助驾驶灯
+shielded cable 屏蔽电缆
+projection module  投射模块
+lens 透 镜
+
+
+
+
+
+
+Fig. 22-11	Litronic Headlamp（2）
+图 22-11	光电子前照灯（2）
+
+
+electronic ballast unit for 400Hz AC power supply and pulse ignition of the bulb 400Hz 400Hz 交流电源及脉冲点火灯泡电子镇流模块
+UB    battery positive voltage   蓄电池电压
+Bi-Litronic “ reflection” 双光电子反射式
+Bi-Litronic “projection” 双光电子投射式
+ECU 电控单元
+1a DC/DC converter 直流/直流转换器
+
+1b shunt 分流器
+1c DC/AC converter 直流/交流转换器
+1d microprocessor 微处理器
+ignition unit 触发单元
+lamp socket 灯 座
+D2S gas-discharge lamp D2S 型气体放电灯泡
+reflector 反射镜
+low（er） beam    近光
+high beam 远 光
+
+
+
+
+Fig. 22-12	LED lamp
+图 22-12	LED灯
+
+
+
+
+Fig. 22-13	Headlamp Vertical - Aim Control
+图 22-13	前照灯竖向对光调节装置
+
+
+headlamp  beam level  control （system）    前照灯光束调平控制装置
+automatic leveling control 自动调平装置
+manual leveling control 手动调平装置
+adjustment actuator   调节执行器
+headlamp beam level control ECU
+前照灯光束调平控制电控单元
+level sensor 水平传感器
+
+height control sensor 高度调节传感器
+3a front-axle sensor 前桥传感器
+3b rear-axle sensor  后桥传感器
+switch 开 关
+manual knob 手动旋钮
+headlamp 前照灯
+light switch  灯光开关
+wheel-speed sensor  轮速传感器
+load 负 载
+
+
+
+Fig. 22-14	Types of Lamps
+图 22-14	车灯类型
+
+
+lamp with Fresnel optics 带菲涅耳[Fresnel] 镜片灯（注：使用 Fresnel 反射，会使材质显得与真实世界的现象更接近）
+lamp with reflector optics 带反射镜镜片灯
+free-form lamp with Fresnel  cap  带菲涅耳[Fresnel]罩的自由形灯
+LED lamp with Fresnel lens 带 菲 涅耳[Fresnel] 配光镜的发光二极管灯
+vertical section 竖剖面
+
+overhead view 俯视图
+housing	灯壳
+lens   with Fresnel  optics	带菲涅耳
+[Fresnel] 镜片的配光镜
+reflector 反射镜
+lens with cylindrical dispersion elements
+带柱形散射元件的配光镜
+Fresnel cap 菲涅耳[Fresnel]罩
+clear lens 透明配光镜
+Fresnel lens   菲涅耳[Fresnel]配光镜
+LED = light emitting diode   发光二极管
+
+
+
+Fig. 22-15	Bulb
+图 22-15	灯泡
+
+
+light bulb 灯 泡
+halogen bulb 卤素灯泡
+tungsten-halogen bulb 卤钨灯泡
+（注：H1～H4、H7、HB4 和 HB3 是欧洲经济委员会（ECE）对卤素灯泡的简称）
+single filament bulb 单丝灯泡single-contact small bayonet cap bulb 单接点小卡口灯头灯泡
+double filament bulb 双丝灯泡
+prefocus tungsten-halogen bulb 定 焦卤钨灯泡
+festoon bulb  花彩灯泡
+gaseous-discharge bulb 气体放电灯泡
+
+litronic bulb 光电子灯泡
+（D1S、D2S、D2R  是带镇流装置的气体放电灯泡的型号）
+A～E replaceable bulb 可换式灯泡
+location pin， indexing pin 定位销
+bayonet cap [holder]	卡口灯头
+envelope 灯泡壳
+filament 灯 丝
+contact 接头，接点
+location lug	定位凸耳
+high-beam filament 远光灯丝
+filament shield  配光屏
+low-beam filament 近光灯丝
+
+
+
+Fig. 22-16	Interior Lamp [Light]
+图 22-16	内部照明灯
+
+
+key cylinder lamp 钥匙筒灯
+ignition switch lamp 点火开关照明灯
+glove box[compartment] lamp 杂 物箱灯
+courtesy light[lamp]， step lamp [light]
+踏步灯，门控灯
+vanity lamp[light] 梳妆灯，化妆照明灯（常装在车内后视镜处）
+
+reading lamp[light]， map （reading） lamp 阅读灯，地图灯
+room lamp， roof lamp[light]， dome lamp， ceiling lamp    顶灯
+luggage compartment lamp， trunk lamp [light]， baggage-compartment lamp 行李箱灯
+
+
+
+Fig. 22-17	Types of Electrical and Optical Connectors
+图 22-17	电气和光纤连接器的类型
+
+
+参考：JASO   D805-2000《汽车零部件电器及连接件术语》
+terminal 端 子
+insulation displacement connector  变位绝缘连接器
+crimped connector 夹式连接器
+FFC = flexible flat conductor 扁 平 柔性连接器
+optical fiber cable connector 光缆连接器
+FPC[flexible printed circuit] connector
+印制电路柔性连接器
+shielded connector 屏蔽式连接器
+ZIF[zero insertion force] connector
+无插拔力连接器
+spring lock connector 弹簧锁止式连接器
+high voltage shielded and water proof connector   高压屏蔽和防水式连接器
+twist-lock  connector	扭转锁止式连
+接器
+push-pull connector  推拉式连接器M  float mounting connector  浮装连接器N   waterproof connector    防水连接器O female shield contact 屏蔽式阴接触件
+
+bare terminal 裸端子
+insulated terminal 绝缘端子
+，12    （connector） housing    连接器壳体
+wire 电 线
+crimp contact 夹紧式接触件
+flexible flat cable  扁平柔性电缆
+optical fiber 光 纤
+flexible printed circuit  印制电路板
+shield cover A 屏蔽罩 A
+shield 屏 蔽
+shield cover B 屏蔽罩 B
+actuator 执行器
+print circuit board 印制电路板
+spring 弹 簧
+spring holder 弹簧座
+twist groove 扭转槽
+18，22 individual seal 独立密封件
+male contact 阳接触件
+housing seal   壳体密封件
+female contact   阴接触件
+female shield contact 屏蔽式接触件
+shield wire   屏蔽线
+shield pipe   屏蔽管
+spring contact 弹簧接触件
+
+
+
+Fig. 22-18	Plug-In Connections
+图 22-18	插入式连接器
+
+
+high-pin-count plug-in  connection  多针插入式连接器
+section of high-pin-count plug-in connec- tion 多针插入式连接器剖面
+low-pin-count plug-in connection 少
+针插入式连接器
+contact 接触件
+pressure plate 压 板
+flat seal 密封片
+radial seal 径向密封件
+sliding pin（secondary lock）    滑销（二次闭锁）
+contact carrier  触头座
+
+contact 触 头
+lever 杠 杆
+slide mechanism 滑动机构
+housing 壳 体
+interface 接 口
+flat blade 扁插片
+steel over spring 外弹簧钢片
+single core 单芯导线
+conductor crimp   导线挤压收口
+insulation crimp   绝缘挤压收口
+meander 弯曲部
+single core seal 单芯密封件
+
+
+
+
+Fig. 22-19	Head-Up Display， Night-Vision System and Digital Tachograph
+图 22-19	抬头显示、夜视系统和数字式速度记录器
+
+
+head-up display 抬头显示
+display of information in the head-up display 抬头显示中的信息显示
+digital tachograph 数字式速度记录器
+night-vision system 夜视系统
+virtual image 虚拟影像
+reflection in  the  windshield  风窗玻璃上的反射
+display module 显示模块
+LCD = liquid crystal display 液 晶 显示器
+optical system   光学系统
+present speed   当前速度
+desired speed   所需速度
+ACC status 自动巡航状态
+ACC=adaptive cruise control， 自动巡航
+
+tachograph with printer 带打印机的速度记录器
+tachograph card 速度记录器卡
+download key 下载钥匙码
+compact test computer 紧凑型测试计算机
+speed sensor 车速传感器
+speedometer 车速表
+infrared headlamp 红外线前照灯
+ECU 电控单元
+infrared-transmitting  windshield	红外线传输风窗玻璃
+infrared-sensitive video  camera  红外线感应摄像机
+display 显示器
+
+
+
+Fig. 22-20	Bus Electricity （1）
+图 22-20	客车电气设备（1）
+
+
+
+
+Fig. 22-21	Bus Electricity （2）
+图 22-21	客车电气设备（2）
+
+
+power manually operated switch  电源手动开关
+battery switch 蓄电池开关
+electronic liquid crystal display device
+电子液晶显示屏
+dry powder type fire extinguisher 干粉灭火器
+buzzer 蜂鸣器
+handicapped   person   gangway mark
+残疾人通道标志
+emergency switch 危急开关
+
+electric horn  电喇叭
+ignition switch  点火开关
+combination switch assembly 组 合开关总成
+brushing card device 刷卡器
+coin box 投币箱
+alphanumeric  display  device	字母数字显示屏
+line management and station alarm device 线路管理及报站装置
+
+Automobile Circuit and Network
+汽车电路与网络
+
+
+Fig. 23-1	Example of Audi A6 Current Flow Diagram （Battery， Power Supply Management System Control Unit， Battery Cut-off Relay， Fusible Link，
+Anti-Interference Condenser ）
+图 23-1	奥迪A6 电路图示例（蓄电池、电源管理系统控制单元、蓄电池断路继电器、熔丝、抗干扰电容器）
+
+
+battery 蓄电池
+starter 起动机
+alternator 发电机
+C24   anti-interference   condenser	抗干扰电容器
+J234    airbag  control  unit	安全气囊控制单元
+J644		power supply management system control unit 电源管理系统控制单元
+J655    battery  cut-off  relay	蓄电池断路
+继电器
+S42  cooling  fan  cut-off  relay  冷却风扇断路继电器
+S104 cooling fan fuse 冷却风扇熔断器
+S130  AIR  fusible  link  二次空气喷射装置熔丝
+S131 fusible link-1 熔 丝 1 S132 fusible link-2 熔 丝 2 S133 fusible link-3 熔 丝 3 S134 fusible link-4 熔 丝 4
+T17a   17-pin connector， red， electronics
+box，  in  cowl  panel 前围上盖板电子设备盒中的 17 针红色插接器
+T46b   46-pin   connector，   right   CAN   separ- ation connector 46 针插接器， 右CAN 分离插接器
+CAN = controller area network 控制
+器局域网
+372	earth connection-7， in main wiring harness 主线束中搭铁连接-7
+646	earth  point-2，  in  dash  panel	前围
+板搭铁点-2
+B272   positive  （+）  connection  （30），  in  main wiring harness 主线束中正极（+） 连接（30）（注：30  是表示来自蓄电池
+
+的相线）
+B301   positive （+） connection -5（30）， in
+main wiring harness 主线束中正极（+） 连接-5（30）（ 注： 30   表示来自蓄电池的相线）
+B397 connection-1， in main wiring harness
+（comfort/convenience    function    CAN bus，  HS）	主线束中连接-1  （舒适/便捷 功 能 CAN 总 线 、 高 速 ） CAN=controller    area   network	控制器局域网
+HS=high speed 高 速
+B406   connection-1，  in  main  wiring  harness
+（comfort/convenience    function    CAN bus，   LS）     主线束中连接-1   （ 舒适/便捷功能 CAN 总线、低速）
+LS=low speed 低 速
+models with AIR pump 带二次空气泵车型
+
+电路图中导线颜色代号：
+〔德语缩写〕ws =〔英语〕white 白色
+〔德语缩写〕sw =〔英语〕black 黑色
+〔德语缩写〕ro =〔英语〕red  红色
+〔德语缩写〕br =〔英语〕brown 棕色
+〔德语缩写〕gn =〔英语〕green 绿色
+〔德语缩写〕bl =〔英语〕blue  蓝色
+〔德语缩写〕gr =〔英语〕grey 灰色
+〔德语缩写〕li =〔英语〕purple  紫色
+〔德语缩写〕ge =〔英语〕yellow 黄色
+〔德语缩写〕or =〔英语〕orange 橙色
+
+
+
+Fig. 23-2	Wiring Symbols （GM-1）
+图 23-2	线路符号（通用汽车公司-1）
+
+
+battery positive voltage 蓄电池电压
+ignition  switch-off  position	点火开关- OFF 位置
+ignition  switch-ACC  position	点火开关-ACC 位置
+ignition  switch-RUN  position	点火开关-RUN 位置
+ignition  switch-START  position	点火开关-START 位置
+LOC=list   of  major  components	主要零部件列表
+DESC=description  and  operation	说明和操作
+programmable 可编程
+next page 下一页
+previous page 上一页
+SIR  OR  SRS	辅助充气约束或辅助约束系统
+info = information 信 息
+danger-high  voltage  300V	危险- 高压
+300V
+high voltage 42V<V<300V 高 压
+42V<V<300V
+note 注 意
+communication data line 通信数据线
+up ， upwards  向上
+down（ward）    向下
+to the left 向 左
+to the right 向 右
+declining rapidly	快速下降
+ON/OFF 接通/断开
+lock 锁 上
+unlock（ing）    开锁
+window switch-4 door 4 门车窗开关
+window switch-2 door 2 门车窗开关
+input/out resistance（-） 输入/输出电阻（-）
+input/out resistance（+） 输入/输出电阻（+）
+input/out high-end drive switch（+） 输入/输出高端驱动开关（+）
+input/out high-end drive switch（-） 输入/输出高端驱动开关（-）
+
+input/out of a two-way switch （+/-）
+输入/输出双向开关（+/-）
+PWM signal = pulse width modulated signal 脉宽调制信号
+low reference voltage 低参考电压
+33，40 ground， earth 搭 铁
+data communication  数据通信
+antenna signal -in 天线信号-输入
+antenna signal -out 天线信号-输出
+fuse 熔丝，保险丝
+relay power supply to the fuse 继 电器向熔丝供电
+breaker 断路器
+housing earth， ground shell 壳体搭铁
+case earth 壳体搭铁
+43， 44    harness connector    线束连接器
+knock sensor 爆燃传感器
+Hall-effect sensor 霍尔（效应）传感器
+temporary or diagnostic connector
+临时或诊断插头
+local contact 局部触点
+complete contact-2 line 完整触点-2 线
+complete contact-3 line or multiple
+完整触点-3 线或多线
+across the line 横穿线
+twisted wire [line] 绞股线
+shield 屏 蔽
+reference circuit 参考[基准]电路
+	continuing   arrow in  circuit	线路的延续箭头
+selective breaking 选择断点
+ground line connection 搭铁线路连接
+connector short circuiting strip 插接器短接条
+local components 局部部件
+complete components 完整部件
+connector with directly connection components 直接与部件相连的连接器
+connector 连接器
+
+
+
+Fig. 23-3	Wiring Symbols （GM-2）
+图 23-3	线路符号（通用汽车公司-2）
+
+accessory power output 附件电源输出
+cigar lighter 点烟器
+switch-2 normally open    两位常开开关
+switch-2 normally closed   两位常闭开关
+switch-rocker   style，   switch-toggle   （style）
+翘板[板柄]开关
+switch-contact chip （1 line）    接触片开关（单线）
+switch-contact chip （ 2 line）    接触片开关（双线）
+switch-3 position   三位开关
+switch-4 position   四位开关
+switch-5 position   五位开关
+switch-6 position   六位开关
+8～11 multiple-position switch 多位开关
+switch-push （momentary ）    按钮[推动] 开关（瞬时）
+switch-push （lock）    按钮[推动]  开关
+（锁止）
+switch-pull （momentary）    拉动开关
+（瞬时）
+switch-pull （lock）    拉动开关（锁止）
+switch-rotational （momentary）    旋转开关（瞬时）
+switch-rotational （lock）   旋转开关（锁止）
+switch-slide （momentary）    滑动开关
+（瞬时）
+switch-slide （lock）    滑动开关（锁止）
+switch-pressure （momentary）    压力开关（瞬时）
+switch-temperature （momentary）    温度开关（瞬时）
+switch capacity （lock）    容量开关（锁止）
+4 pin relay-normally open 4 针常开继电器
+5 pin relay-normally open 5 针常开继电器
+battery 蓄电池
+battery assembly-hybrid power 混合动力蓄电池总成
+single filament bulb 单丝灯泡
+double filament bulb 双丝灯泡
+LED=light emitting diode 发光二极管
+
+light perception sensor 光感传感器
+indicating instrument  指示仪表
+diode 二极管
+condenser 电容器
+resistance 电 阻
+variable resistance 可调电阻
+variable[adjustable]	resistance-NTC
+负温度系数可变电阻
+NTC = negative temperature coefficient
+负温度系数
+fusible link 易熔线
+heating element 加热元件
+position sensor  位置传感器
+pressure sensor  压力传感器
+knock sensor 爆燃传感器
+magnetic   induction sensor-line  2	2 线磁感应传感器
+magnetic   induction sensor-line  3	3 线磁感应传感器
+Hall effect sensor 霍尔（效应）传感器
+Hall  effect  sensor-3  line	3 线霍尔效应传感器
+O2S=oxygen sensor-2 line 两线氧传感器
+HO2S =  heated  O2S-2  line  两线加热型氧传感器
+solenoid valve 电磁阀
+solenoid actuator  电磁执行器
+clutch   离合器
+motor   电动机
+motor  with  PTC	带正温度系数装置的电动机
+PTC=positive temperature coefficient
+正温度系数
+ANT=antenna 天 线
+speaker 扬声器
+horn 喇 叭
+microphone， mike    麦克风，话筒
+airbag 安全气囊
+spiral cable [coil] 螺旋电缆
+SIR  crash[impact]  sensor	辅助充气约束碰撞传感器
+SIR=supplemental  inflatable   restraint   辅助充气约束（系统）
+
+
+
+
+Fig. 23-4	DIN Electrical Symbols
+图 23-4	德国工业标准电气符号
+
+说明：选自 DIN 40900，德国工业标准中汽车电气符号是欧盟的推荐标准，不仅在欧洲使用，也被中国上海大众和一汽大众采用，并在DIN 基础上使德国汽车公司电路图标准化。1a conductor 导 线
+1b conductor crossover without connec- tion 不带接头的导线相交
+1c conductor crossover with connection
+带接头的导线相交
+switch position  开关位置
+manual actuation 人工作动
+actuation by follower[cam] 随动装置
+[凸轮]作动
+thermal actuation 热 作 动actuation by bimetallic strip 双金属带作动
+general actuation 一般作动mechanical actuation 机械作动pneumatic actuation 气压作动hydraulic actuation 液压作动
+piston actuation 活塞作动
+actuation by rotational speed n 转速n 作动9
+actuation by pressure p 压力 P 作动
+actuation by quantity Q 流量Q 作动
+actuation by time t  时间 t 作动
+actuation by temperature t° 温度 t°
+作动
+not intrinsic variability and adjusta- bility 非固有可变性和可调性
+momentary switch 瞬时开关14a    break contact    断开触点14b make contact 闭合触点
+detent switch  棘爪开关
+non automatic return 非自动返回
+changeover switch 转接[换向]开关
+two-way switch  双向[位]开关
+
+switch with ganged make and break contacts 联动通断开关
+double-make contact switch 双接点开关
+multiple-position switch 多位开关
+cam-operated switch 凸轮驱动开关NC contact = normally closed contact 常闭触点
+contact-breaker points 接触断路器触点
+21a thermostatic switch 恒温开关
+thermo-switch 热敏[动]开关
+21b release/triggering device 复位/触发装置
+actuator with one winding （继电器）
+单绕组执行器
+actuation with two winding （继电器）
+双绕组执行器
+	electrothermal actuator of a thermal relay 热继电器的电热作动器
+electromagnetic actuator 电磁执行器
+reciprocating solenoid 往复式电磁阀
+potentiometer 电位计
+heating resistor  热电阻器
+glow plug 电热塞
+flame plug 火焰塞
+heated window 电热窗（玻璃）
+permanent magnet  永久磁铁
+29a    general   indicating   instrument	普通指示仪表
+29b voltmeter 电压表
+29c clock 时 钟
+30a rotational-speed indicator 转速表
+30b temperature indicator 温度表
+30c linear-speed indicator 线速度指示器
+31 shielded device 有屏蔽装置
+32a ECU = electronic control unit 电 控模块
+32b   electronic  control  regulator	电子调节器
+
+socket 插 座
+female contact 孔接触
+light 灯 光
+headlamp 前照灯
+horn 喇 叭
+fanfare horn  高音喇叭
+heated rear window defroster 电 热式后窗除霜器
+general switch 普通开关
+general switch with indicator lamp
+带指示灯普通开关
+pressure switch   压力开关
+general relay   普通继电器
+solenoid valve 电磁阀injector， injection valve    喷油器 cold-start valve 冷起动喷油器
+thermo time switch 热敏定时开关
+rotary actuator	旋转执行器
+pressure control valve （防抱死制动系统）压力控制阀
+temperature switch 温度开关
+temperature sensor 温度传感器
+idle actuator 怠速执行器
+spark plug 火花塞
+ignition coil 点火线圈
+single-spark ignition coil 单火花点火线圈（每个火花塞配一个线圈）
+general ignition distributor 普通点火分电器
+voltage regulator 电压调节器
+alternator with regulator 带调节器的交流发电机
+starter with （engagement） solenoid
+带电磁开关的起动机
+electric fuel pump  电动燃油泵motor drive for hydraulic pump 液压泵驱动电动机
+wiper motor 刮水器电动机
+car radio 汽车音响
+car antenna  汽车天线
+speaker 扬声器
+voltage stabilizer 稳压器
+inductive sensor 电感传感器
+turn-signal flasher 转向信号闪光器
+
+pulse generator 脉冲发生器
+intermittent relay 间歇式继电器
+piezoelectric sensor 压电传感器
+lambda oxygen sensor 氧传感器，λ 传感器
+heated （ lambda） oxygen sensor 加热式氧传感器
+air flow sensor  空气流量传感器
+air-mass meter 质量型空气流量计
+flow-quantity sensor 流量传感器
+fuel-level sensor 燃油液面传感器
+rotational-speed sensor 转速传感器
+needle-movement sensor 针阀运动传感器
+linear-speed sensor 线性转速传感器
+Hall sensor  霍尔传感器
+inductive sensor， controlled with reference mark 感应式传感器，由参照标记控制的
+inductive sensor 感应式传感器
+73a crossover without connection 不 带接头的相交
+73b conductor crossover with connection
+带接头的相交
+74a general connection  一般连接
+74b separable connection 可分开连接
+plug-in connection 插入式连接75a   plug and socket   插头和插座75b socket 插 座
+75c plug 插 头
+75d triple plug-in connection  三插连接
+ground 接 地
+relay （actuator and switch）    继电器
+（执行器和开关）
+non-delayed-break 非延时断开
+NC  contact  and  delayed-break	常闭触点和延时断开
+NO contact 常开触点
+fuse 熔丝，熔断器
+resistor 电阻器
+inductive winding 感应绕组
+converter （rate， voltage）    转换器
+（率， 电压）
+
+
+
+Fig. 23-5	Graphical Symbols of Electrical Wiring Diagram（Toyota） 图 23-5	电路图图形符号（丰田）
+
+battery 蓄电池
+ground 搭铁，接地
+3a fuse 熔丝，保险丝
+3b medium current fuse 中电流熔丝
+3c high current fuse 大电流熔丝
+fusible link 易熔线
+tapped resistor 抽头电阻
+variable （load） resistor    可变电阻器
+rheostat 变阻器
+ignition switch  点火开关
+capacitor， condenser 电容器
+horn 喇 叭
+cigarette lighter   点烟器
+ignition coil   点火线圈
+headlamp     前照灯11a single filament 单 丝11b double filament 双 丝
+thermistor 热敏电阻
+reed switch type speed  sensor 舌 片 式转速传感器
+wiper park switch  刮水器停驻开关
+circuit breaker  电路断路器
+light 灯 光
+diode	二极管
+
+Zener diode 齐纳二极管
+LED = light emitting diode 发光二极管
+motor 电动机
+relay 继电器
+21a normally closed relay 常闭继电器
+21b normally open relay 常开继电器
+short pin  短接销
+transistor 晶体管
+wire 导 线
+24a not connected 不连接
+24b spliced 连 接
+solenoid 电磁线圈
+photodiode	光敏二极管
+analog meter 模拟式仪表
+double throw relay 双投继电器
+speaker   扬声器
+manual switch 手动开关30a    normally  open 常 开30b normally closed 常 闭
+IIA distributor = integrated ignition assembly distributor 集成式点火分电器32 digital meter  数字式仪表
+resistor 电阻（器）
+double throw switch 双投开关
+
+
+
+Fig. 23-6	Automotive Network（ing）
+图 23-6	汽车网络
+
+
+board/multiplex systems 车载多路通信系统 1
+lighting 照 明
+air conditioning 空 调
+anti-theft alarm 防盗报警
+actuators and sensors 执行器和传感器
+doors， locks， mirrors    车门、门锁、后视镜
+passenger-compartment  sensor	客舱传感器
+energy management   能量管理
+8，14，22    other options    其他选装件
+navigation， location， detection/gateway/ firewall 导航、定位、探测/网关/防火墙infotainment/multimedia   信息处理和多媒体
+human-machine   interface   （e.g.   display instruments）     人- 机接口（ 如：显示仪表）
+
+gateway/firewall 网关/防火墙
+audio/video 音频/视频
+mobile communications 移动通信
+engine management  发动机管理
+brake management （e.g. ESP）    制动管理（如：ESP）
+transmission-shift control 变速器换档控制
+steering 转 向
+driving-related functions 驾驶相关功能装置
+chassis system 底盘装置
+environment sensors， adaptive cruise control 环境传感器、自适应巡航控制
+driver-restraint systems （airbag， seat- belt， tighteners， ect. ）   驾驶员约束系统
+（安全气囊、安全带、张紧器等）
+23 diagnosis interface 诊断接口
+
+
+Fig. 23-7	ECU Interconnection and Controls
+图 23-7	ECU互联和控制
+
+ECU interconnection in mid-side vehicle
+中型车用 ECU 互联
+ECU = electronic control unit   电控模块CAN   =   controller area  network	控制器局域网
+central gateway 中央网关chassis and safety 底盘和安全comfort 舒适性
+diagnostics 诊 断
+drive 驱 动
+instr. cl.= instrument cluster    组合仪表LIN=   local   interconnect   network	局域互联网络
+MOST = media oriented system transport
+
+媒体定向系统传输
+sensor 传感器
+comparison of  decentralized  control with  centralized  control  分散控制与集中控制的比较
+decentralized control 分散控制
+centralized control 集中控制
+to the other doors 到各车门
+1， 5    mirror    后视镜
+door ECU 车门 ECU
+electric  power-window   unit	电动车窗模块
+operating element   操纵元件
+6 central ECU 中控 ECU
+
+
+
+Fig. 23-8	Network for a Luxury-Class Vehicle
+图 23-8	豪华车用网络
+
+network   for   a  luxury-class   vehicle	豪华车用网络
+BCM   =   body  computer   module	车身电子计算机模块
+CAN 控制器局域网
+CGM   =   central  gateway  module	中央网关模块
+FlexRay	戴姆勒克莱斯勒公司的一种车载网络标准 名
+IHU   =   integrated  head  unit	头顶集成单元
+LIN= local interconnect network 局 域互联网络
+LVDS = low voltage differential signaling
+低压微分信号
+MOST = media oriented system trans- port
+媒体定向系统传输
+PSI = peripheral sensor interface 传 感器周边接口
+PSM = passive safety manager 被动安全管理器
+
+VDU = vehicle dynamics unit 车 辆动态（控制）模块
+WLAN = wireless LAN 无线局域网USB [universal serial bus] Ethernet 通用串行总线以太网
+EPM  =  electric  power   management   电源管理
+models of E/E [electrical/electronic] architecture 电气/电子结构模型actuator 执行器
+body 车 身
+door 车 门function 功 能sensor 传感器
+B1    function network   功能网络B2 component network 部件网络B3 circuit diagram 电路图
+B4 wiring harness 线 束
+
+
+Fig. 23-9	Schematic Diagram of GM-LAN /CAN
+图 23-9	通用汽车公司-LAN/CAN原理图
+
+CAN = Controller area network 控制局域网
+LAN = local area network 局域网
+DIAG = diagnostic 诊 断
+MICRO = microprocessor 微处理器UART bus = universal asynchronous receiver/ transmitter bus 通用异步收发器总线HIGH 6 DIAG = diagnostic link connector 6 pin CAN high bus 诊断插座 6 号端子CAN 高速总线
+LOW 14 DIAG = diagnostic link connector 14 pin CAN low bus 诊断插座 14 号端子 CAN 低速总线
+CAN BUS CAN 总 线
+
+cut off resistor    截止电阻（120Ω）
+resistance 电 阻
+PIM = powertrain interface module
+动力系统接口模块
+SAS = steering angle sensor	（转向盘）
+转角传感器
+TCM = transmission control module
+变速器控制模块
+ABS-TCS ECU 防抱死制动-牵引力控制系统 ECU
+ECM = engine control module 发动机控制模块
+
+
+
+Fig. 23-10	Entry Function System Diagram（Toyota）
+图 23-10	进入功能系统图（丰田）
+
+CAN（MS Bus） = controller area network
+控制器局域网络
+LIN = local interconnect network 局域互联网络
+outside  door  handle	车门外手柄（ 内含：antenna 天线， touch sensor 触摸传感器， lock switch 门锁开关， door elec- trical oscillator 车门振荡器）
+smart entry key 智能进入钥匙
+luggage   electrical   key   antenna   （outer）
+行李箱电动钥匙天线（外部）
+luggage compartment door open switch
+行李箱盖开启开关
+wireless door lock buzzer 无线门锁蜂鸣器
+body main ECU 车身主 ECU
+ECU=electronic control unit 电子控制模块
+
+steering lock ECU 转向锁止 ECU
+engine ECU 发动机 ECU
+ID code box = identification code box
+识别码盒
+engine switch 发动机开关（起动用）
+multi-buzzer 多用途蜂鸣器
+certification ECU 认证 ECU
+indoor   electrical   key   antenna   （front）
+前门内电动钥匙天线
+indoor   electrical   key   antenna   （rear）
+后门内电动钥匙天线
+luggage  electrical  key  antenna  （inner）
+行李箱内电动钥匙天线
+luggage tuner 行李箱调谐器
+tuner 调谐器
+
+
+
+Fig. 23-11	ACC=Adaptive Cruise Control
+图 23-11	自适应巡航控制装置
+
+
+engine ECU 发动机 ECU
+radar-sensor control unit  雷达传感器控制模块
+active  brake  intervention  via  TCS/ESP 通过牵引力控制系统/ 电子稳定程序的制动主动干预
+control and  display  unit  控制和显示模块
+engine intervention 发动机干预
+sensors  for  yaw  rate，  lateral  accelera- tion，   wheel   speed   and   steering   angle用于横摆率、横向加速度、轮速和转向角的各传感器
+transmission      intervention      （optional）
+
+变速器干预器（选装）
+vehicle movement 车辆运动
+object detection 目标检测
+object selection 目标选择
+distance controller  距离控制器
+ECUs 各电控单元
+12a motronic 发动机电子系统
+12b transmission 变速器
+12c   TCS/ESP	牵引力控制系统/ 电子稳定程序
+engine 发动机
+transmission 变速器
+brake 制动器
+radar sensor 雷达传感器
+
+
+
+Fig. 23-12	Theft-Deterrent Alarm System
+图 23-12	防盗警报系统
+
+
+theft-deterrent system 防盗系统
+ultrasonic passenger-compartment pro- tection 乘客区超声波防护
+alarm   system control  unit	警报系统
+控制模块
+engine hood contact  发动机罩触头
+door contact 车门触头
+key   with   radio remote  control	无线遥控钥匙
+siren 警 笛
+
+horn 喇 叭
+audible signal 音响信号
+signal[indicator] lamp 信号灯
+	battery   （rechargeable）     电池（ 可再充电的）
+roof module with tilt sensor and interior monitoring  带倾斜传感器和内监控器的车顶模块
+ultrasound detector 超声波探测器
+ultrasound [ultrasonic] field 超声波场
+
+
+
+Fig. 23-13	Immobilizer
+图 23-13	防盗阻断器
+
+
+immobiliser = immobilizer  防盗阻断器
+immobilizer with interrupt circuit
+中断电路式防盗阻断器
+immobilizer with coded intervention
+编码干预式防盗阻断器
+transmitter 发射器
+remote control 遥控器
+immobilizer ECU 防盗阻断器电控单元
+receiver 接收器
+4a    microcomputer	微型计算机
+4b microcomputer with battery connec- tion 带蓄电池接线的微型计算机
+relay 继电器
+central door-locking system  中央门锁
+（装置）
+
+status display 状态显示器
+starting system 起动装置
+engine-management ECU 发动机管理电控制单元
+electric fuel pump 电动燃油泵
+coding unit 编码模块
+（15）  output  of ignition switch	点火开关输出
+input  from  battery （+） terminal	蓄电池正极输入
+battery  negative  terminal	蓄电池负极
+ground 搭铁，接地
+
+
+
+Fig. 23-14	Ultrasonic Sensor and Warning Element
+图 23-14	超声波传感器和报警元件
+
+
+single obstacle   单个障碍物
+warning element   报警元件
+ultrasonic sensor  超声波传感器
+transmit  /receive  sensor	发射/接收传感器，收发器
+receive sensor 接收传感器
+obstacle 障碍物
+
+LED  warning  lamp	发光二极管警告灯
+slit for audible signal 音响信号槽
+ultrasonic sensor  超声波传感器
+decoupling ring 分离环
+installation housing 安装壳体
+fender 护 板
+
+Standard Parts and Tools
+标准件和工具
+
+
+Fig. 24-1	Washer and Belt
+图 24-1	垫圈及带
+
+
+参考：GB/T 3099.1-2008《紧固件术语 螺纹紧固件、销及垫圈》
+washer 垫 圈
+vee belt， V（-type， -shaped） belt， wedge belt V（形）带
+synchronous （drive） belt    同步带
+timing[toothed] belt 正时带
+V-ribbed  belt，  poly-grooved  belt    多楔带
+plain washer， washer， flat washer    平垫圈
+spring  lock  washer，  single  coil  spring lock washer， spring（lock） washer， split
+（lock） washer， check washer    弹簧垫圈
+curved  spring  （lock）  washer    鞍形弹簧垫圈
+wave spring （lock） washer    波形弹簧垫圈
+
+5～8	tooth（ed） washer， tooth（ed） lock washer 齿式锁紧垫圈，多齿锁紧垫圈
+external （tooth） lock washer    外齿锁紧垫圈
+internal  （tooth）  lock  washer，  internal tab[lock] washer 内齿式锁紧垫圈
+internal-external （tooth） lock washer
+内外齿锁紧垫圈
+countersunk external toothed lock washer 锥形外齿锁紧垫圈
+wave spring washer 波形弹性垫圈
+banded  standard  V-belt    包边标准
+V 带
+banded narrow V-belt  包边窄 V 带
+bandless narrow V-belt 无包边窄V 带
+trapezoidal teeth  梯形齿
+rounded teeth 圆 齿
+
+
+
+Fig. 24-2	Thread Fastener
+图 24-2	螺纹紧固件
+
+参考：GB/T 3099.1-2008《紧固件术语 螺纹紧固件、销及垫圈》
+1～12    nut， screw nut    螺母
+hexagon nut 六角螺母
+thick nut 厚[高]螺母
+heavy series hexagon nut 大六角螺母
+hexagon thin nut 六角薄螺母
+thin nut 薄螺母
+castle nut， castellated nut， slotted nut
+开[有]槽螺母
+hexagon slotted nut  六角开槽螺母
+counter nut， lock（ing） nut， jam nut， retaining  nut，  block  nut    锁紧[防松]螺母
+stamped nut 冲压螺母
+crown nut， acorn nut， cap nut， blind nut， box nut， stopper cap nut， cup nut盖形（帽式）螺母
+wing（ed） nut， butterfly nut， thumb   nut， fly nut， finger nut    翼[蝶]形螺母
+8～11    prevailing （torque） nut， self-locking nut 自锁螺母
+nylon strip[patch] prevailing nut 尼
+龙条自锁螺母
+nylon   washer   insert   prevailing nut
+尼龙镶圈自锁螺母
+nylon insert prevailing nut 尼 龙 镶芯自锁螺母
+top lock prevailing nut 上部锁止式自锁螺母
+square nut 方螺母
+stud 螺 柱
+14～18 bolt 螺 栓
+hexagon socket head bolt 内六角螺栓
+hexagon head bolt， hexagon bolt
+六角头螺栓
+12-point[bihexagon] head bolt 十 二角头螺栓
+square head bolt 方头螺栓
+nylon strip[patch] prevailing bolt 尼
+
+龙条自锁螺栓
+19～26 screw 螺 钉
+slotted pan head screw 开槽盘头螺钉
+19，20    fillister （head） screw， （raised） cheese head  screw，  pan  head  screw    圆柱头螺钉
+19，21～23 slotted head screw 开槽螺钉
+slotted round head screw 开槽圆头螺钉
+round head screw 圆头螺钉
+20，24	philips[cross]  head  screw	十字槽螺钉
+round head screw 圆头螺钉
+countersunk （head） screw， flat-head screw 沉头螺钉
+slotted countersunk head screw 开
+槽沉头螺钉
+slotted hexagon head screw 开 槽 六角头螺钉
+hexagon screw 六角头螺钉
+self-tapping[cutting] screw 自攻螺钉
+sheet metal screw 金属板螺钉
+hexagon socket head[set] screw 内 六角头螺钉
+hexagon socket 内六角
+hexalobular 六角花形
+hexalobular socket 内六角花形
+eyelet bolt 环眼螺栓
+hexagon head screw plug 六角头螺塞
+hexagon socket screw plug 内六角螺塞
+hexagon socket pipe plug    内六角管塞
+hexagon head pipe plug    六角头管塞
+35，36 prevailing torque type nut 有 效力矩型锁紧螺母
+prevailing torque type all metal hexagon nut 有效力矩型全金属六角锁紧螺母
+prevailing torque type hexagon nut with non-metallic  insert  有效力矩型非金属嵌件六角锁紧螺母
+
+
+
+Fig. 24-3	Rolling（-Contact） Bearing
+图 24-3	滚动轴承
+
+参考：GB/T 6930-2002《滚动轴承 词汇》AFB = antifriction bearing  滚动轴承1，5，6，11，12    ball bearing    球轴承
+groove ball bearing 沟型球轴承
+single row radial ball  bearing 单 列深沟球轴承
+1a ball path  球沟，球滚道1b    outer race， outer ring    外圈 1c ball 钢 球
+1d    inner race， inner ring    内圈
+1e separator 隔离件
+angular contact ball bearing 角接触球轴承
+double-row angular contact ballbearing
+双列角接触球轴承
+self-aligning[setting] ball bearing， spherically seated bearing， swivel bear- ing， pivoted bearing    调心球轴承
+single[one]-shield bearing， ball bearing
+
+
+with side plate 单面防尘盖球轴承，单面护圈球轴承
+5a shield  护圈，防尘盖
+double-plate [shield] bearing， ball bearing with double side shield 双 面防尘盖球轴承
+cylindrical[parallel] roller bearing
+圆柱滚子轴承
+roller bearing 滚子轴承
+needle （roller） bearing， quill bearing
+滚针轴承
+tapered roller bearing， cone[conical] roller bearing 圆锥滚子轴承
+thrust ball bearing ， ball thrust bearing
+推力球轴承
+sealed bearing 密封轴承
+radial ball bearing with snap-ring groove
+止动槽式深沟球轴承
+
+
+
+Fig. 24-4	Rotary Shaft Lip Seal
+图 24-4	旋转轴唇形密封圈
+
+
+参考：GB/T 5719-2006《橡胶密封制品词汇》
+A，B，C    lip seal    唇形密封圈
+spring loaded seal 弹簧加载式密封圈
+A，B rubber covered rotary shaft lip seal with minor  lip  带副唇的内包骨架旋转轴唇形密封圈
+double lip seal    双唇密封圈rubber covered seal 内包骨架密封圈
+rubber covered rotary shaft lip seal
+内包骨架旋转轴唇形密封圈
+metal cased rotary shaft  lip  seal  外露骨架旋转轴唇形密封圈
+single lip seal 单唇密封圈
+metal cased seal 外露骨架密封圈
+rubber cap  橡胶皮碗
+d1 inner diameter 内 径
+
+d2 outer diameter 外 径
+d3 sectional diameter 断面直径
+rubber O ring O 形橡胶密封圈
+O ring O 形（密封）圈
+outside surface  外表面
+metal insert 金属嵌件
+sealing lip  密封唇
+sealing edge 密封刃口
+main sealing lip  主密封唇
+minor  [secondary，  auxiliary]  lip    （防尘） 副唇
+dust lip	防尘唇
+width （密封圈）总宽度
+lip inside diameter  唇内径
+lip inside diameter with spring 带 弹簧的唇内径
+garter[loaded] spring   紧箍弹簧
+outside diameter （密封圈）外径
+
+
+Fig. 24-5	Diagnostic Tester
+图 24-5	故障诊断仪
+
+
+scan tool 扫描仪（美国常用语）
+scanner 扫描仪
+malfunction diagnostic tester 故障诊断仪A，B，C    factory scan tools    厂家扫描仪 A，C mainframe 主 机
+hand held tester 手持式故障诊断仪
+Intelligent Tester Ⅱ  Ⅱ代智能测试仪（丰田用）
+Vehicle Diagnostic Testing and Infor- mation System VAS5051 （大众/奥迪公司）VAS5051 汽车诊断、测试和信息系统
+VAS5052 VAS5052 （大众/奥迪公司）
+
+汽车诊断、测试和信息装置
+function key   功能键
+up rolling key 上滚键
+down rolling key 下滚键
+measuring leads for multimeter  万 用表侧量线
+DLC3  cable	OBD Ⅱ诊断插座电缆
+（DLC3 = data link connector） serial cable 串行电缆diagnostic lead 诊断线
+AC/DC power supply AC/DC 电 源
+charging line 充电线
+USB lead  USB 接口电缆
+
+
+
+
+
+Fig. 24-6	Measuring Tools and Meters
+图 24-6	量具和测量仪
+
+
+micrometer， outside micrometer    外径千分尺
+vernier cal（l）iper 游标卡尺
+digital vernier cal（l）iper   数显游标卡尺
+cylinder （bore） ga（u）ge    量缸表，杠杆式量缸表
+dial bore gauge  内径百分表
+C1 Carlmahr’s cylinder gauge  卡尔玛斯式量缸表
+C2 American type cylinder gauge 美 国式量缸表
+cal（l）iper    卡钳
+D1   outside caliper   外卡钳
+D2 inside caliper 内卡钳
+feeler gauge， thickness gauge   塞尺，厚薄规
+smoke meter， smoke tester， diesel-smoke meter [tester] 烟度计
+CO， HC meter    CO，HC    测试仪
+nondispersive infrared analyzer 非 分散型红外线分析仪
+
+test light 测试灯
+frame 尺 架
+anvil 测 砧
+spindle 测微螺杆
+clamp ring 锁紧圈
+barrel	圆筒
+barrel scale 圆筒刻度
+thimble scale 螺旋套筒刻度
+thimble 微分筒
+ratchet stop 棘轮式止动器
+head 千分尺头
+measuring rod  测量杆
+dial indicator， dialga（u）ge    百分表
+guide plate 导 板
+universal electric meter 万用表
+14a	digital type   数字式
+14b    analog type   模拟式
+check wire 检查连接线
+jumper wire 跨接线
+vacuum gauge 真空表
+fuel pressure gauge 燃油压力表
+
+
+
+
+Fig. 24-7	Wrenches[Spanners]
+图 24-7	扳手
+
+
+
+
+Fig. 24-8	Hand Tools
+图 24-8	手工具
+
+
+参考：GB/T 6289-2013《夹扭钳和剪切钳术语》
+ASME B107.500-2010 钳子
+hydraulic jack 液压式千斤顶
+scissors-type  jack，  pantograph  jack
+剪式千斤顶
+motorcar jack 轿车千斤顶
+2a jack handle 千斤顶手柄
+floor jack， trolley jack    卧式千斤顶
+1，2，3    jack， thrustor， thruster	千斤顶
+hand jack 手动千斤顶
+lever jack 杠杆式千斤顶
+jack stand， jackstand    架车凳
+slip joint plier（s）， combination plier（s）， adjustable joint plier（s）    鲤鱼钳
+snipe nose plier（s）    尖嘴钳
+multi groove adjustable plier（s）， adjust- able  multiple  position  plier（s）    可调万向节钳
+multiple slip joint plier（s）， water pump
+
+plier（s）    水泵钳
+multiple slip joint piler（s） with single joint 滑动销轴式水泵钳
+flat （nose） plier（s）    扁[平]嘴钳
+vise-grip plier（s）    大力钳
+grease gun  油枪，润滑脂枪
+lever type grease gun	压杆式油枪
+punch， drift， driver    冲子，冲头
+centre[center] punch 中心冲
+inductive type timing light 感应式正时灯
+chisel 錾 子
+puller 拉拔器
+hacksaw，  hand  hacksaw    钢锯，弓锯，手用钢锯
+hammer   锤
+ball peen hammer 球头锤
+circlip piler（s）    挡圈钳
+snap-ring piler（s）    挡圈钳
+
+
+
+Fig. 24-9	Screwdrivers
+图 24-9	螺钉旋具
+
+
+参考： GB/T 4625-1998《螺钉和螺母的装配工具术语》
+screwdriver for slotted head screws， slot head screwdriver， flat-tip screw driver， slotted （tip） screwdriver， standard tip screwdriver 一字槽螺钉旋具
+screwdriver for recessed head screws， Phillips（-head， -tip） screwdriver， cross-head[point] screwdriver 十字槽螺钉旋具
+spline socket screws screwdriver 内 六
+花键螺钉旋具
+Torx tip screwdriver Torx 螺钉旋具
+double offset screwdriver for slotted head 双弯头一字槽螺钉旋具
+double offset screwdriver for recessed head screws 双弯头十字槽螺钉旋具
+
+offset Phillips  screwdriver  弯头十字槽螺钉旋具
+4，5 double offset screwdriver  双弯头螺钉旋具
+square drive screwdriver for recessed head screws 四方传动十字槽螺钉旋具头
+square drive screwdriver bit 四 方 传动螺钉旋具头
+hexagon shank screwdriver bit 六 角插柄螺钉旋具头
+hexagon socket screws key [spanner， wrench] 内六角扳手
+spline socket screws key 内六花键扳手
+（GB/T 4625-1998 中 124～126）
+Torx-bit  driver  [screwdriver]	内六花键扳手，Torx 螺钉旋具
+
+
+
+Fig. 24-10	Automobile Lift and Tire Changer
+图 24-10	汽车举升机和轮胎拆装机
+
+
+A，B car lift 乘用车举升机（此英文常用）
+passenger car lift 乘用车举升机
+А    scissor car[automotive， vehicle] lift
+剪式汽车举升机
+low-rise and mid-rise scissor lift 低 、中升程剪式举升机
+2  post  car[automotive，  vehicle]  lift    双柱式汽车举升机
+floor plate 2 post lift 地板式双柱举升机
+4 post car [automotive， vehicle] lift    四柱式汽车举升机
+truck lifter 货车举升机
+4 post heavy duty lift 四柱式重型举升机
+tire changer 轮胎拆装机（此英文常用），（俗称）扒胎机
+tire changer machine 轮胎拆装机，
+（俗称）扒胎机
+Ⅰ horizontal tire changer （machine）    卧式轮胎拆装机
+
+Ⅱ vertical tire changer （machine）    立式轮胎拆装机
+wheel dynamic balancer 车轮动平衡机
+hydraulic cylinder  液压缸
+platform 平 台
+electric motor  电动机
+post 立 柱
+distance between posts 柱间距离
+lifting stroke  最大举升高度
+minimum height 最低高度
+tray （salver）    托盘
+bed 床 身
+electrical control  system  电气控制系统
+tire clamping device 轮胎夹紧机构
+claw chuck 卡 爪
+tire  轮 胎
+tire changer device 轮胎拆装机构
+control panel 控制板
+main shaft 主 轴
+spacer 隔 套
+cone bush with pin  带销锥套
+binding nut 夹紧螺母
+
+
+
+Fig. 24-11	Panel Work Tools and Equipment
+图 24-11	钣金工具和设备
+
+
+sheet metal forming equipment 钣 金 成型设备
+body modification tools 车身修整用具
+frame straightener 车架矫直[正]机frame rack （美式用法）车架校[矫]正架，车身校正架
+B～G cut and disassembly tools 切 割 和分解用具
+air[pneumatic] saw 气动锯
+air chisel 气动錾
+rotary cutter  旋转切割机
+hand saw 手动剪
+metal scissors   铁皮剪
+air drill 气 钻
+spot cutter    定位焊割刀H～I  assembly tools  装配器具H   locking[vice] pliers   大力钳I	flanging tool    折边工具J，K handheld tools  手工工具J	body hammer 车身锤
+picking hammer 镐锤，白金大头锤
+dolly 垫模，垫块
+
+weight hammer 大 锤
+L，M measurement tools 量 具
+centering gauge 定心规M tracking gauge 轨距仪tracking bar 轨距仪
+N～Q welding machine 焊接机
+gas welding machine  气焊机
+spot welding machine 定位焊机
+carbon arc welding machine   碳弧焊机Q stud welding machine  螺柱焊接机R～Z buffing and grinding tools 抛光和
+打磨器具
+R   disk grinder   圆盘磨光机S    disk sander    圆盘打磨机T belt sander 带式打磨机
+U small sized grinder 小型磨光机
+double action sander  双动打磨机
+orbital  sander  （short）    轨道圆运动打磨机（短）
+orbital sander （long）	轨道圆运动打磨机（长）
+flexible file 软锉，挠性锉刀
+
+
+附录	Vehicle Classification  车辆分类
+
+
+（续）
+
+（续）
+
+

@@ -1,0 +1,2351 @@
+Fig. 14-17	CVT= Continuously Variable Transmission
+图 14-17	无级变速器
+
+
+continuously variable transmission 无 级变速器（见 SAE J645-2009 中 3.3.10）
+infinitely variable transmission 无级变速器（见 SAE J645-2009 中 3.3.15）
+ECVT = electro-continuously variable transmi- ssion 电控无级变速器（目前所用的无级变速器均是电控无级变速器）
+Multitronic （德式用语） 电控无级变速器
+CVT schematic diagram 无级变速器原理图
+CVT system diagram 无级变速器系统图
+sectional view of CVT 无级变速器剖面图
+torque converter 液力变矩器
+oil pump 油 泵
+ATF pump = automatic transmission fluid pump 自动变速器液压泵
+FWD/REV change-over mechanism， for- ward/reverse mechanism [device]
+前进/倒车转换机构
+planetary （gear） set    行星齿轮系
+drive shaft， primary shaft    驱动轴
+input shaft 输入轴
+6， 8    drive pulley， primary pulley    主动轮
+fixed taper disc 固定锥盘
+
+steel belt 钢 带
+steel link belt 钢链节片带
+V-belt V 带
+7a steel link 钢链节片
+movable[moving] taper disc 活动锥盘
+oil pressure chamber    油压室primary pulley chamber 主动轮油[液] 压室
+10，  11    driven  pulley，  secondary  pulley
+从动带轮
+fixed taper disc in  output  shaft  输出轴固定锥盘
+movable [moving] taper disc （ 输 出轴）活动锥盘
+oil pressure chamber （输出轴活动锥盘）油压室
+driven pulley shaft  从动轮轴
+secondary shaft 从动轴
+final drive 主减速器
+reduction gear 减速齿轮
+constant gear 常啮合齿轮
+15a	intermediate shaft 中间轴
+differential 差速器
+CVT ECU 无级变速器电控模块
+17a	hydraulic control 液压控制装置
+shift device 换档机构
+engine 发动机
+
+
+
+Fig. 14-18	Gearbox Multitronic（VW）
+图 14-18	电子控制无级变速器（大众）
+
+
+Multitronic （大众）电子控制无级变速器
+reverse clutch 倒档离合器
+planetary gear set 行星齿轮机构
+intermediate drive gear 中间传动装置
+compressing hydraulic cylinder 压 紧液压缸
+drive pulley movable disc 主动轮活动盘
+drive pulley 主动轮
+5+6+13+14+15 variator with plate link
+chain 无级变速机构
+oil pump 油 泵
+hydraulic control module  液压控制模块
+TCM = transmission control  module  变速器控制模块
+
+10，18 adjustable hydraulic cylinder  可调节液压缸
+compensation chamber 补偿腔
+compressing hydraulic cylinder  压紧液压缸
+pulley movable disc 带轮活动盘
+plate link chain 片节链
+driven pulley 从动轮
+seal 密封件
+hypoid bevel （gear） drive    准双曲面锥齿轮传动（见图 12-18 中 B）
+19， 23    disk spring    碟形弹簧
+final drive  主减速器
+forward clutch 前进档离合器
+input shaft 变速器输入轴
+
+
+
+Fig. 14-19	M-MT = Multi-Mode Manual Transmission
+图 14-19	多模式手动变速器
+
+
+说明：“多模式手动变速器”是丰田汽车公司对“手/自一体化变速器”的称呼，德式用语为“Tiptronic”。这类变速器本质上仍是普通液压式自动变速器。
+M-MT warning light  多模式手动变速器警告灯
+sport[ES] pattern indicator  light  运动模式指示灯
+注：多模式手动变速器包含以下不同模式
+① E-mode 自动换档模式
+在 E-mode 下驾驶人可选择：normal[E] pattern（一般自动模式）和 sport[ES] pattern（运动型自动模式）
+② M-mode 手动换档模式
+shift range indicator light 档位指示灯
+combination meter 组合仪表
+shift paddle switch 桨式换档开关
+M-MT ECU 多模式变速器 ECU
+pattern select switch   模式选择开关
+parking brake lever   驻车制动手柄
+parking brake switch 驻车制动开关
+shift lever 换档杆
+在换档杆处还有以下三个元件
+shift lever position sensor 换档杆位
+
+置传感器
+transmission shift main switch 变 速器换档主开关
+shift lock solenoid 换档锁止电磁阀
+Dlc3= DLC3 = data link connecter 3
+（丰田汽车公司用语）3号诊断插座（指 16 针 OBD Ⅱ插座）
+stop light switch  制动灯开关
+engine ECU 发动机 ECU
+accelerator pedal position sensor 加速踏板位置传感器
+select stroke sensor 选档（杆）行程传感器
+back-up light switch 倒车灯开关
+neutral start switch 空档起动开关
+transmission  revolution  sensor	变速器转速传感器
+clutch motor  离合器电动机
+clutch  stroke  sensor	离合器行程传感器
+shift motor  换档电动机
+select motor  选档电动机
+shift stroke sensor 换档行程传感器
+
+
+
+Fig. 14-20	Automatic Manual Transmission
+图 14-20	手动自动变速器
+
+
+semi-automatic  transmission	半自动变速器
+说明：半[手动]自动变速器既可能是部分档采取自动换档，也可能是全部档采取自动换档。它与乘用车用自动变速器在换档操纵方式上的主要区别是：半自动变速器在换档时需切断动力传递，而自动变速器在换档时不需切断动力传递。目前，半自动变速器主要用于重型商用车上。air/oil/electricity 气/油/电
+CAN = controller area network 控制器局域网
+engine ECM 发动机电子控制模块
+ECU=electronic control unit    电控单元
+TCU=transmission control unit 变 速
+
+器控制单元
+transmission actuator 变速器执行器
+engine 发动机
+dry disc clutch 干式盘式离合器
+clutch actuator 离合器执行器ECA=electronic clutch actuator 离 合器电子执行器
+retarder control unit 缓速器控制单元
+display 显示器
+gear selector 档位选择器
+ABS/ASR 防抱死制动系统/牵引力控制系统
+transmission 变速器
+air tank 储气筒
+
+
+
+Fig. 14-21	16-Speed Semi-Automated Manual Transmission
+图 14-21	16 档手动半自动变速器
+
+
+commercial vehicle gearbox 商用车变速器semi-automated transmission  半自动变速器
+oil pump for manual gearbox 手动变速器油泵
+clutch release lever 离合器分离杠杆
+selector finger  选档指
+bellows 波纹管
+clutch release bearing 离合器分离轴承
+gearshifting clutch 换档离合器
+torque converter   变矩器
+lockup clutch 锁止离合器
+
+hydraulic piston 液压活塞
+coasting freewheel 滑行自由轮
+oil filter 机油滤清器
+oil pump for torque converter clutch
+变矩器离合器用油泵
+primary retarder 初级缓速器
+CGH constant gear high 高档常啮合齿轮
+CGL  constant  gear  low  常用档常啮合齿轮
+range-change unit 档位转换单元
+R    range 档 位
+D    direct 直 接
+
+
+
+Fig. 14-22	DCT= Dual Clutch Transmission
+图 14-22	双离合器变速器
+
+
+参考：SAE J645-2009 中 3.3.14
+6-speed passenger car DCT VW DSG 大众 DSG 6 档乘用车双离合器变速器DualTronic 电控双离合器变速器（德式用语） DSG = direct shift gearbox 直接换档变速器（德式用语）
+main section with power flow 带动力流的主剖面
+C1 clutch 1 1 号离合器
+outer clutch  外离合器
+C2 clutch 2  2 号离合器
+inner clutch  内离合器
+IS1	input shaft 1（1st/3rd/5th/R）    1 号输入轴（一档/三档/五档/倒档）
+
+IS2	input  shaft  2（2nd/4th/6th）    2  号输入轴（二档/四档/六档）
+OS1   output  shaft  1（1st/3rd/5th/R）    1 号输出轴（一档/三档/五档/倒档）
+OS2   output shaft 2（2nd/4th/6th）    2 号输出轴（二档/四档/六档）
+wet-running dual clutch 湿式双离合器
+output constant  pinion  输出常啮合齿轮
+reverse idler shaft  倒档惰轮轴
+power flow 动力流
+oil pump 油 泵
+注：1st、2nd、3rd、4th、5th、6th 和 R 详见图 13-1。
+
+
+
+Fig. 14-23	Power Split Hybrid Gearbox
+图 14-23	混合动力分流变速器
+
+
+split torque drive transmission 转矩传动分流变速器（见 SAE J645-2009 中 3.3.9）
+electric motor rotor   电动机转子
+electric motor stator 电动机定子
+reduction[planetary] gear for electric motor 电动机减速[行星]齿轮
+4，12    coupled ring gears of the summarizing [planetary gear] and reduction gears 行星齿轮和减速齿轮的接合齿圈
+
+stator of generator  发电机定子
+rotor of generator  发电机转子
+torsion damper with flywheel mass
+带飞轮质量的扭振减振器
+crankshaft flange 曲轴法兰
+output spur gear 输出直齿轮
+front axle differential  前桥差速器
+parking lock wheel 驻车锁止轮
+13 oil pump 油 泵
+
+Suspension
+悬架
+参考：GB/T	5180-1985《汽车悬架术语和定义》（已作废，仅供参考） JIS	D111-1992《汽车悬架术语》
+SAE	J511-1989《空气弹簧术语》
+
+Fig. 15-1	Typical Suspension of Passenger Car
+图 15-1	典型乘用车悬架
+
+
+front suspension 前悬架MacPherson （strut） suspension    麦弗逊滑柱式悬架
+rear suspension 后悬架
+semi-independent  rear  suspension  半独立后悬架
+trailing arm 纵臂，牵引臂
+shock absorber 减振器
+spring insulator  弹簧隔垫
+
+twist beam 扭转梁
+beam axle 梁 桥
+torsion beam axle 扭转梁桥
+coil spring 螺旋弹簧
+strut assembly   滑柱总成
+MacPherson strut   麦弗逊滑柱
+stabilizer bar  横向稳定杆
+lower （transverse） arm    下横臂
+transverse link[arm] 横臂，横向连杆
+
+
+
+Fig. 15-2	Types of Rigid and Semi-independent Suspension
+图 15-2	非独立和半独立悬架类型
+
+
+non-independent suspension， rigid （axle） suspension， solid axle suspension， live- axle suspension 非独立悬架，刚性悬架
+semi-independent[rigid] suspension 半
+独立[刚性]悬架，半刚性悬架
+leaf spring type 板簧式，钢板弹簧式longitudinal leaf-spring suspension  纵置钢板弹簧悬架
+trailing arm type    纵臂式longitudinal and coupling shaft links 带连接轴连杆的纵连杆
+Watts linkage A-bracket type 瓦特杆
+A 形支架式
+coupling shaft with Watts linkage 带瓦特杆的连接轴
+A-bracket trailing arm type with Panhard rod 潘哈杆-A 形支架纵臂式
+trailing link with Panhard rod 带 潘 哈
+
+杆纵连杆
+torsion beam axle type 扭转梁（桥）式torsional link axle with Panhard rod 带潘哈杆的扭转梁（桥）
+trailing arm torsion-beam axle type 纵
+臂扭转梁桥式
+twist beam axle type   扭转梁桥式
+semi-independent axle   半独立桥
+rigid axle 刚性桥
+leaf spring type 板簧，钢板弹簧
+trailing link 纵连杆，纵臂
+coupling shaft link 连接轴连杆
+coupling shaft 连接轴
+Watts linkage	瓦特杆
+Panhard rod   潘哈杆
+torsion beam   扭转梁
+coupling profile  连接外形
+
+
+
+Fig. 15-3	Types of Independent Suspension
+图 15-3	独立悬架类型
+
+
+trailing arm[link] type   纵臂式trailing link independent wheel suspen- sion 纵臂独立悬架，纵向连杆独立悬架
+semi-trailing arm [link] type    半纵臂式
+diagonal link independent wheel sus- pension 斜向连杆独立悬架
+double wishbone [A-arm] type，  upper and lower A-arm type 双横臂式，上下A 形臂式
+double wishbone independent wheel suspension 双横臂独立悬架
+MacPherson strut type 麦弗逊滑柱式
+spring strut independent wheel susp- ension 弹簧滑柱独立悬架
+multilink independent wheel suspension
+多连杆独立悬架
+trapezoidal link independent wheel sus-
+
+pension 梯形连杆独立悬架
+control blade independent wheel sus- pension 控制叶片式独立悬架
+five-link independent wheel suspension
+五连杆独立悬架
+trailing link 纵向连杆
+diagonal link   斜向连杆
+wheel carrier   车轮托架
+upper A-arm link   上 A 形臂连杆
+lower A-arm link   下 A 形臂连杆
+spring shock absorber strut 弹 簧 减振器滑柱
+tie rod （steering）    横拉杆（转向）
+two-point link 两点连杆
+A-arm link  A 形臂连杆
+trapezoidal link 梯形连杆
+control blade  控制叶片
+
+
+
+Fig. 15-4	Auxiliary Air Spring and Hydropneumatic Spring
+图 15-4	辅助空气弹簧和液力空气弹簧
+
+
+auxiliary  air  spring	辅助空气弹簧
+（博世汽车工程手册）
+air spring 空气弹簧（见 GB/T 18005- 2001）
+pneumo-hydraulic spring 液力空气弹簧（见 GB/T 18005-2001），  油气弹簧 hydropneumatic spring 液力空气弹簧
+（见SAE J511-1989 中 5.5），油气弹簧
+air connection   气接头
+steel spring   钢质弹簧
+auxiliary air-spring  element  辅助空气弹簧元件
+
+gas volume  气体容积
+shock absorber   减振器
+suspension ball   悬架球
+diaphragm， membrane 膜 片
+connection to ride height controller
+至行驶高度控制器接头
+piston 活 塞
+cup seal 杯形密封圈
+shock absorber valve 减振器阀门
+rebound stage 回弹阶段
+compression stage  压缩阶段
+
+
+Fig. 15-5	Suspension Spring Element
+图 15-5	悬架弹性元件
+
+
+leaf spring 钢板弹簧
+main spring and auxiliary spring  （ 货车） 主、副钢板弹簧
+cylindrical spring 圆柱弹簧
+coil spring   螺旋弹簧
+C1   tapered end   楔形端
+C2 tangential end 正切向端
+C3 Pig-tail  紧缩端
+variable-rate spring  变刚度弹簧
+D1 conical spring 截锥弹簧
+D2 barrel shaped spring 中凸形螺旋弹簧
+D3 unequally spaced  coil  spring  不 等节矩螺旋弹簧
+C， D    coil [helical] spring    螺旋弹簧
+torsion  （bar）  spring，  torsion  bar    扭杆弹簧
+roll bellows 卷翻[膜片] 式气囊
+toroid bellows 环形气囊
+F， G    air spring    空气弹簧
+hydraulic diaphragm accumulator  液力膜片式蓄能器
+
+piston accumulator    活塞式蓄能器H， I  hydropneumatic spring  液力空气弹簧J	rubber suspension[mounting] 橡胶支撑
+sleeved rubber spring 衬套式橡胶弹簧（J 图左）
+K   stabilizer bar， stabilizer （shaft）， anti-roll [sway]  bar，  roll  bar，  sway  bar    横向稳定杆
+f force 力
+vehicle frame 车 架
+roll bellows 卷翻[膜片]式气囊
+piston 活 塞
+air supply   气体供给
+clamping plate 夹 板
+gas 气 体
+fluid 液 体
+diaphragm 膜 片
+steel spring 钢质弹簧
+
+
+
+
+
+Fig. 15-6	Bellows Type Air Spring and Diaphragm Air Type Spring
+图 15-6	囊式空气弹簧和膜式空气弹簧
+
+
+参考：GB/T 18005-2001《弹簧术语》SAE J511-1989《空气弹簧术语》
+以下是对囊式和膜式空气弹簧都适用的配件用语：
+bellows air spring 囊式空气弹簧rubber bellows 橡胶气囊bellows， air bag    气囊
+gas spring with bellows   囊式空气弹簧gas spring 气弹簧（口语，但不全符合， 见 GB/T 18005-2001 中 2.9）
+A，B，C    bellows type air spring， gas spring with bellows 囊式空气弹簧
+single convolution bellows type air spring 单曲囊式空气弹簧
+double convolution bellows type air spring 双曲囊式空气弹簧
+three convolution bellows type air spring	三曲囊式空气弹簧
+D，  E    diaphragm  type  air  spring   膜片式
+空气弹簧
+constrained diaphragm type air spring
+约束膜式空气弹簧
+free diaphragm type air spring 自 由膜式空气弹簧
+combined type air spring 混合式空
+
+气弹簧
+G，H pneumatic spring 空气弹簧
+piston type pneumatic  springs 活 塞式空气弹簧， = diaphragm air type spring， 膜片式空气弹簧（按GB/T 18005-2001）
+G1 reversible diaphragm 双向膜片式
+G2 reversible sleeve 双向筒形式
+bellows type pneumatic spring 囊 式空气弹簧
+bellows type air spring  囊式空气弹簧
+sleeve type air spring 袖筒式空气弹簧
+H1 two convolution  circular  section  双曲圆断面
+H2  two  convolution  oblong  section  双曲椭圆断面
+sleeve 袖 筒
+diaphragm 膜 片
+piston 活 塞
+air fitting 空气接头
+nut/bolt/mount 螺母/螺栓/安装
+bead plate 卷边板
+bellows 气 囊
+girdle 环 圈
+
+
+
+Fig. 15-7	Ball Joint and New Type Helical Spring for Suspension
+图 15-7	球节和悬架新型螺旋弹簧
+
+
+ball-and-socket  （type）  joint，  socket  joint， spherical joint 球 节
+compression（-loaded）   ball   joint	压
+缩负载球节
+tension（-loaded） ball joint 拉伸负载球节
+A， B load-carrying ball joint 承载球节
+（承受车辆负载）
+non-load-carrying ball joint   非承载球节（不承受车辆重量）
+dampening （ball） joint    阻尼式球节
+new type helical[coil] spring 新 型 螺旋弹簧
+preload（ed） spring 预紧弹簧
+seal 密封罩
+neoprene seal 氯丁橡胶密封罩
+
+housing， shell    外壳
+bearing 轴 承
+ball stud， stud， ball pin 球头销
+steel alloy stud 合金钢球头销
+hardened bearing 淬火轴承
+rubber pressure ring 橡胶压紧环
+hardened seat 淬火底座
+wear indicator 磨损指示器
+ball seat 球座，球头座
+changeable coil diameter   变圈径
+changeable wire diameter   变线径
+changeable coil spacing 变节距
+mini-block  spring	变圈径/线径/节距弹簧
+
+
+
+
+Fig. 15-8	SA = SH ABS = Shock Absorber
+图 15-8	减振器
+
+
+shock（er）， damper    减振器
+telescopic shock absorber 筒式减振器
+single-tube shock （absorber）， monotube shock （absorber）， single-tube damper， monotube damper 单筒减振器DuCarbon shocker damper 杜尔卡本式减振器（充有高压氮气的单筒减振器）
+A1 gas-filled shock absorber 充气减振器
+heavy-duty  shock  absorber	重型减振器
+double-tube  damper，  double-tube    双筒减振器
+B1    shock （absorber）    双筒减振器
+gas-filled strut 充气滑柱
+D inner diameter of working cylinder
+工作缸内径
+diameter of shock absorber piston
+减振器活塞直径
+d diameter of piston rod 活塞杆直径
+working piston 工作活塞
+piston with disk valve 带片状阀的活塞
+1a disk valve 片状阀，盘阀
+dividing piston 分离活塞
+free piston 自由活塞
+lower mounting   下支撑
+upper mounting   上支撑
+piston rod   活塞杆
+dust shield   防尘罩
+rod guide （活塞）杆导管
+
+seal 密封圈
+working cylinder 工作缸upper oil chamber 上油室pressure tube 压力管
+single tube 单 筒
+shock absorber valve 减振器阀rising rate valve system 上升率阀门系统
+11a	rebound stage valve 回弹阶段阀
+11b  compression  stage  valve   压缩阶段阀
+lower oil chamber  下油室
+gas volume 气体容积
+nitrogen gas under pressure 受 压氮气
+oil seal 油 封
+rebound stop（per）    回弹止动器
+reservoir tube 储油缸筒
+outer tube 外套管
+relief valve 释[减]压阀
+bottom valve 底 阀
+17a	compression stage  valve  压缩阶段阀
+17b rebound stage valve 回弹阶段阀
+working chamber 1   工作腔 1
+working chamber 2   工作腔 2
+compensating chamber 补偿腔
+reserve volume  备用容积
+
+
+
+
+
+F
+
+Fig. 15-9	MacPherson Front Suspension
+图 15-9	麦弗逊式前悬架
+
+
+MacPherson strut front suspension  麦弗逊滑柱式前悬架（参见图 15-1 ）
+strut type 滑柱式
+multi-link type 多连杆式
+double wishbone type 双横臂式
+L-arm type L 形臂式
+MacPherson suspension without strut rod 无支撑杆麦弗逊式悬架
+suspension for SUV [sport utility vehi- cle] 运动型多用途车悬架
+new MacPherson suspension 新型麦
+弗逊式悬架（2008 款丰田卡罗拉）
+knuckle assembly  转向节总成
+transverse link [arm] 横臂，横向连杆
+lower （transverse） arm    下横臂
+compression rod clamp 压杆固定板
+stabilizer bar， stabilizer （shaft）， anti-roll [sway] bar， roll bar， sway bar   横向稳定杆
+
+4a insulator 隔振垫
+mounting bushing 安装衬套
+coil spring 螺旋弹簧
+strut assembly   滑柱总成
+MacPherson strut   麦弗逊滑柱
+drive shaft 传动轴
+front  suspension  （cross）  member    前悬架横梁
+upper link 上连杆
+upper （transverse） arm    上横臂
+upper link bracket 上连杆支架
+third link	第三连杆
+radius rod [arm， link]， strut rod， strut bar 支撑杆，半径杆
+damper fork   减振器叉
+L-arm L 形 臂
+ball joint 球 节
+upper support 上支撑
+shock absorber 减振器
+
+
+
+Fig. 15-10	Components of Front Suspension
+图 15-10	前悬架零部件
+
+
+说明： 参照 2013 通用科鲁兹配件目录英语，先将目录中缩略语按字母顺序全文列出，以便读者查阅。原图中序号并不连续， 为保持原样，我们没有改动，请读者多加注意。
+BRK = brake 制 动
+CONT = control 控 制
+DRV=drive 驱 动
+
+ELEK= ELEK=  ①Elektron （德语）电子 ②elektronische  （德语）电子的SUSP FRM 副车架
+F/CMPT = front compartment 前舱，发动机舱
+FRT = front 前面（的）
+CLA = clamp 夹子，箍带
+LWR = lower 下面的
+
+RR = rear 后（方，面，部）
+SHF = shaft	轴
+SPH = splash  飞 溅STAB =stabilizer 稳定杆SUSP = suspension 悬 架THD = thread  螺 纹WHL = wheel （车）轮
+FRAME， DRIVETRAIN & FRT SUSP动力系统和前悬架车架，（俗称）动力系统和副车架
+SEAL， FRT SUSP STRUT HSG   前悬架滑柱壳体密封件
+INSULATOR， DRIVETRAIN & FRT SUSP FRM FRT 动力系统和副车架前隔垫
+INSULATOR， DRIVETRAIN & FRT SUSP FRM  RR  动力系统和副车架后隔垫
+SHIELD， F/CMPT SPH    发动机舱防溅板
+6，8，10，11，15，16，18，21，23，26，28，30，32，41，50，
+53，54    BOLT   螺栓
+9    SUPPORT， DRIVETRAIN & FRT SUSP FRM 传动系统和前副车架支撑
+BOLT， DRIVETRAIN & FRT SUSP FRM SUPT  动力系统和前副车架支撑螺栓
+ARM，  FRT  LWR  CONT（PART  OF 42） 前下控制臂（42 的零件）
+14    BUSHING，  FRT LWR CONT  ARM RR（PART OF 42） 前下控制臂后衬套（42 的零件）
+
+17，19，27，31，33，35，37，46，48，49 NUT 螺 母
+20    CALIPER， FRT BRK    前制动钳
+22    ROTOR， FRT BRK    前制动盘
+SHIELD， FRT BRK    前制动器护板
+HUB， FRT WHL    前轮毂
+29    KNUCKLE， STRG    转向节
+34    STRUT， FRT SUSP    前悬架支柱
+36    LINK，  FRT  STAB  SHF    前稳定杆轴连杆
+SHAFT，  FRT  STAB（INCLS  39，  40）
+前稳定杆轴（包括 39，40）
+INSULATOR， FRT STAB SHF（PART OF 38） 前稳定杆轴隔垫（38 的零件）
+CLAMP，FRT STAB SHF INSL（PART OF 38） 前稳定杆轴隔垫卡箍（38 的零件）
+ARM， FRT LWR CONT （W/BUSH）
+（INCLS   12，14，15，43）	前下控制臂
+（带衬套）（包括 12， 14， 15， 43）
+SLEEVE， FRT LWR CONT ARM RR BUSH（PART OF 42）    前下控制臂后衬套（42 的零件）
+45    WASHER，   FRT   WHL   DRV   SHF
+前轮驱动轴垫圈
+DEFLECTOR， F/CMPT AIR   发动机舱导风板
+INSERT， FRT STAB SHF INSL CLA THD 前稳定杆轴隔垫卡箍螺纹衬套
+56    BRACKET， ELEK SUSP FRT POSN SEN LEAD 电子悬架前位置传感器引线托架
+
+
+
+Fig. 15-11	SLA Suspension = Short-Long Arm Suspension
+图 15-11	长短横臂式悬架
+
+
+double wishbone suspension 双横臂式悬架（按 GB/T 5180-1985 中 2.3 和 JIS-D 111
+-1992 中图 7）
+equal-length upper and lower control arms suspension 等长双横臂式悬架
+（ 注：这种悬架目前实际上已不使用）
+SLA suspension = short long arm suspen- sion， long and short suspension， unequal length arm suspension 长短[不等长] 横臂式悬架
+coil spring on the lower control arm
+下横臂上螺旋弹簧
+coil spring on the upper control arm
+上横臂上螺旋弹簧
+transverse torsion  bar  type  横置扭杆式
+single transverse leaf spring type 单 片横置板簧式
+SLA rear suspension 长短横臂式后悬架
+upper （control） arm    上横[控制]臂
+lower （control） arm    下横[控制]臂
+
+1，2    transverse  （contro1）  arm，  transverse link，wishbone    横臂
+control arm   控制臂
+strut rod  支撑杆
+coil spring 螺旋弹簧
+shock absorber 减振器
+torsion bar 扭 杆
+antiroll  bar，  stabilizer  bar，  stabilizer shaft，  sway  bar，  antisway  bar    横向稳定杆，防侧倾杆
+torsion bar anchor  扭杆固定器
+isolated crossmember  隔离横梁
+crossmember 横 梁
+leaf spring 钢板弹簧
+mono-leaf spring 单片式钢板弹簧
+cushion 缓冲块
+spring support 弹簧支承
+shim 垫 片
+toe compensator link 前束补偿杆
+shock （absorber） mount    减振器支座
+knuckle 转向节
+front of car 汽车前方
+
+
+
+Fig. 15-12	Longitudinal Torsion Bar Suspension
+图 15-12	纵置扭杆弹簧悬架
+
+
+torsion bar short long arm suspension 扭杆弹簧长短臂悬架
+shock absorber 减振器
+upper  （control）  arm，  upper  link    上横臂
+torsion bar （spring）， torsion spring， straight-bar spring 扭杆弹簧
+anchor arm 锚定臂
+
+adjusting arm 调节臂
+arm shaft 臂 轴
+buffer stopper 缓冲块
+strut rod  支撑杆
+antiroll bar 横向稳定杆
+lower （control） arm， lower link    下横臂
+swivel 旋转接头，转体
+height adjustment bolt 高度调整螺栓
+
+
+
+Fig. 15-13	IRS = Independent Rear Suspension（2WD）
+图 15-13	独立后悬架（2 驱车）
+
+
+A    multilink type    多连杆式B trailing arm type  纵 臂 式 C control arm type 控制臂式
+semi-trailing arm type 半纵臂式
+strut/SLA type 滑柱长短横臂式
+SLA = short-long arm 长短横臂
+double wishbone type 双叉形臂式
+hydraulic  mount  rubber	液力支撑胶垫
+lower link 下连杆
+rear upper link 后上连杆
+front upper link 前上连杆
+lower （control） arm， lower A-arm    下
+（控制）臂，下 A 形臂
+stabilizer bar  横向稳定杆
+suspension member 悬架梁
+frame crossmember 车架横梁
+silicone oil 硅 油
+
+sublink 副连杆
+trailing arm 纵 臂
+toe-in adjusting cam 前束调整凸轮
+subframe 副车架
+lateral link 斜连杆
+knuckle 转向节
+upper （control） arm    上（控制）臂
+toe control arm 横向控制臂，前束控制臂
+suspension  adjustment  link	悬架调节杆
+trailing arm 纵 臂
+differential mounting surface 差 速器安装面
+semi-trailing arm 半纵臂
+coil spring 螺旋弹簧
+strut 滑 柱
+lower control arm 下控制臂
+
+
+
+
+Fig. 15-14	Components of Independent Rear Suspension
+图 15-14	独立后悬架零部件
+
+
+说明：本图及英文选自上海汽车通用公司凯越车系的电子维修手册英文版（小写） 和原厂电子配件目录英文版（延用原版格式）。缩写可参照图 15-10。
+ABS = absorber  减振器
+SPR = spring 弹 簧
+parallel link strut type 平行连杆滑柱式
+rear strut lock nut 后滑柱锁止螺母
+strut  assy-to-body，  nut    滑柱总成与车身固定螺母
+
+strut mount 滑柱支撑
+MOUNT，RR  SUSP  STRUT    后悬架
+滑柱支撑
+upper spring seat  弹簧上座RETAINER， RR S/ABS UPR INSL 后悬架减振器上隔垫保持器
+rear spring 后（悬架）弹簧
+SPRING ， RR 后（悬架）弹簧
+strut absorber shield 滑柱减振器护罩
+hollow bumper 空心缓冲块
+BUMPER， RR S/ABS 后减振器缓冲器
+
+lower spring insulator 弹簧下隔垫INSULATOR， RR SPR LWR 后 弹簧下隔垫
+rear strut	后（悬架）滑柱
+STRUT， RR SUSP    后悬架滑柱
+bolt， steering knuckle-to-strut assy转向节与滑柱总成固定螺栓BOLT， S/KN    转向节螺栓
+nut， steering knuckle-to-strut assy
+转向节与滑柱总成固定螺母
+NUT，  RR  SUSP  LINK    后悬架连杆固定螺母
+rear wheel bearing 后轮毂轴承
+BEARING ， RR WHL 后轮轴承
+brake disc 制动盘
+ROTOR， RR BRK    后轮制动盘
+stabilizer clamp bolt 横向稳定杆夹螺栓
+stabilizer clamp 横向稳定杆夹
+stabilizer clamp insulator 横向稳定杆夹隔套
+BUSHING ， RR STAB SHF=rear stabi- lizer shaft bushing 后悬架横向稳定杆衬套
+rear stabilizer （shaft） 后悬架横向稳定杆
+SHAFT，RR STAB 后（横向）稳定杆
+stabilizer  （shaft）  link  nut    横向稳定杆连杆螺母
+stabilizer （shaft） link    横向稳定杆连杆 LINK，  RR  STAB  SHF    后横向稳定杆连杆
+
+bolt，   rear   link-to-steering   knuckle
+后连杆与转向节固定螺栓
+BOLT， RR SUSP KNU RR ROD    后
+悬架转向节与后连杆固定螺栓
+rear parallel link 后平行连杆LINK， RR SUSP（INCLS BUSHINGS）后悬架连杆（包括两个衬套）
+trailing arm 纵 臂
+ARM，  RR  SUSP  TRAILING    后悬
+架牵引臂
+front parallel link 前平行连杆LINK，FR SUSP（INCLS BUSHINGS）前悬架连杆（包括两个衬套）
+trailing arm bracket 纵臂支架
+bolt， rear cross member-to-body    后横梁与车身固定螺栓
+rear cross member 后横梁CROSSMEMBER，RR SUSP SUPT 后悬架支撑横梁
+rear cross member cover 后横梁罩
+REINFORCEMENT，  R/AXL  CONT
+ARM  后桥控制臂加强件（用于提高后横梁上两后平行连杆支撑点的强度）
+BOLT， R/AXL CONT ARM    后桥控制臂螺栓
+ABS wire cover 防抱死制动系统线束罩BRACKET，   RR   WHL   SPD   SEN WIRE 后轮速传感器线束支架
+
+
+
+
+
+
+Fig. 15-15	Rigid Axle Rear Suspension
+图 15-15	非独立后悬架
+
+
+rigid axle suspension 非独立悬架，刚性悬架
+5-link type 五连杆式
+trailing  arm（beam  axle）	（梁桥）纵臂式
+5-link  type（beam  axle）	（梁桥）五连杆式
+torque  arm  and  track  bar	扭矩臂和横向推力杆式
+trailing arm   纵臂式
+link，  connecting  rod	（横向稳定杆）连杆
+upper link 上连杆
+shock absorber 减振器
+tie rod， lateral rod， Panhard rod， lateral
+
+tie[track]  bar，  track  bar，  transverse tie rod 横向推力杆，潘哈杆
+coil spring   螺旋弹簧
+trailing arm 纵臂，牵引臂lower control arm 下控制臂lower link 下连杆
+stabilizer （bar）    横向稳定杆
+support  bracket	（固定在车身上的） 支撑支架
+diagonal brace  斜支撑[架]
+brace 支撑[架]
+torque arm 扭矩臂
+rubber cushion 橡胶软垫
+frame 车 架
+beam axle 梁 桥
+
+
+
+Fig. 15-16	Semi-Independent Rear Suspension
+图 15-16	半独立后悬架
+
+
+torsion beam type suspension 扭转梁桥式悬架（按 JIS-D 111-1992 中图 19） trailing arm type with torsion beam sus- pension 纵臂扭转梁桥式悬架
+torsion beam axle type suspension 扭 转
+梁桥式悬架
+twist beam rear suspension 扭转梁后悬架
+trailing arm 纵 臂
+upper support 上支撑
+spring insulator 弹簧隔振垫
+
+shock absorber 减振器
+coil spring 螺旋弹簧
+twist beam 扭转梁
+beam axle 梁 桥
+torsion beam axle 扭转梁桥
+pivot bushing 枢销衬套
+balance bar 平衡杆
+lateral rod， track bar    横向推力杆
+Panhard rod  潘哈杆
+
+
+
+
+Fig. 15-17	Active Suspension
+图 15-17	主动悬架
+
+
+active body control 车身主动控制
+hydraulic cylinder  液压缸型
+hydro pneumatic suspension 油气悬架
+spring-base adjustment  基于弹簧调节型
+pneumatic suspension 气动悬架
+vehicle body 车 身
+wheel-load sensor 车轮载荷传感器
+travel sensor 行程传感器
+accumulator   蓄压器
+pump circuit   泵油路
+servo valve 伺服阀
+positioning cylinder 调节缸
+acceleration sensor 加速度传感器
+
+throttle 节流孔
+proportioning valve 比例阀
+power  supply  （electric/pneumatic）   动力源（电动/气动）
+displacement unit with power supply
+带动力源的排量动力模块
+air-volume displacement unit 空 气体积排量单元
+tank 油 箱
+shock-absorber piston 减振器活塞
+coil spring 螺旋弹簧
+spring-base adjuster 基于弹簧的调节器
+
+
+
+
+Fig. 15-18	EMS=Electronic Modulated Suspension（TOYOTA）
+图 15-18	电子调制悬架（丰田）
+
+
+active air suspension 主动空气悬架
+Airmatic 电子空气悬架
+compressor and  dryer  assembly  压缩机和干燥器总成
+suspension control  actuator  悬架控制执行器
+EMS/Air suspension ECU 电子调制悬架/空气悬架 ECU
+damping mode select switch 阻 尼 模式选择开关
+height control switch 高度控制开关
+door courtesy switch 门控灯开关
+
+damping mode indicator light 阻 尼模式指示灯
+vehicle height indicator light 车辆高度指示灯
+drag acceleration sensor 减速度传感器
+height control sensor 高度传感器
+height control valve 高度控制阀
+steering angle sensor 转向角度传感器
+stop light switch  制动灯开关
+compressed air line 压缩空气管
+pneumatic cylinder with shock absorber
+带减振器的气动缸
+
+
+
+Fig. 15-19	Pneumatic Cylinder with Shock Absorber（TOYOTA）
+图 15-19	带减振器的气动缸（丰田）
+
+
+air spring and strut assy. 空气弹簧和滑柱总成
+shock absorber 减振器
+pneumatic cylinder 气动缸
+suspension control  actuator  悬架控制执行器
+air chamber 空气室
+bound stopper 冲击止动器
+
+rolling diaphragm 可翻转膜片
+rebound cushion 回弹垫
+rebound stop（per）    回弹止动器
+low-pressure nitrogen gas 低压氮气
+soft damping valve 软阻尼阀
+rotary valve 转 阀
+hard damping valve 硬阻尼阀
+
+
+
+Fig. 15-20	Air Suspension Actuator and Compressor
+图 15-20	空气悬架执行器和压缩机
+
+
+suspension control  actuator  悬架控制执行器
+compressor  and  dryer	压缩机和干燥器
+coil（s）    线圈
+output shaft 输出轴
+to rotary valve 至转阀
+magnetic rotor 磁性转子
+
+stator（s）    定子
+（electric） motor    电动机
+air dryer 空气干燥器
+pressure fitting 压力管接头
+piston 活 塞
+bush 衬 套
+crankshaft 曲 轴
+
+
+
+
+
+Fig. 15-21	Leaf Spring Suspension
+图 15-21	板弹簧式悬架
+
+A， B leaf-spring rear suspension （ 钢 ） 板
+（弹）簧式后悬架
+parallel leaf （spring） type    纵置板簧式
+over slung （spring） type， overhung spring type 上置板簧式
+underslung （spring） type， underhung spring type 下置板簧式
+semi-elliptic spring 弓形板弹簧
+constant rate semi-elliptic spring 等 刚度弓形板弹簧
+variable rate semi-elliptic  spring  变刚度弓形板弹簧
+variable across leaf spring 变截面弓形板弹簧
+constant rate full elliptic spring 等 刚度椭圆形板弹簧
+variable rate full elliptic spring 变 刚度椭圆形板弹簧
+cantilever leaf spring 悬臂板弹簧
+bracket， hanger， carrier    支架
+front bracket 前支架
+washer 垫 圈
+leaf spring pin， spring pin， spring bolt
+钢板弹簧销
+
+
+leaf  spring  bushing，  spring  bush（ing）
+钢板弹簧衬套
+spring clamp，spring hoop，spring-leaf retainer， spring stirrup    钢板弹簧夹
+main spring 主钢板弹簧
+multiple-leaf spring  多片式钢板弹簧
+center bolt， centre bolt    中心螺栓
+auxiliary spring， supplementary （leaf） spring， secondary spring 副钢板弹簧
+lock bolt （钢板销）锁止螺栓
+shackle 吊 耳
+main spring leaf 钢板弹簧主片
+main leaf 主 片
+spring eye （钢）板（弹）簧卷耳
+spring  free  end	钢板弹簧自由[吊耳]端
+shackle pin  吊耳销
+bump stopper， bumper， bumper pad， buffer 缓冲块
+U-bolt， U-clamp    U 形螺栓
+axle housing 桥 壳
+anchor plate 固定底板
+leaf  spring，  laminated  spring    钢板弹簧
+rear bracket 后支架
+
+
+
+Fig. 15-22	Tandem Axle Suspension
+图 15-22	串列车桥悬架
+
+
+参考：GB/T 5180-1985《汽车悬架术语和定义》
+JIS D 111-1992《汽车悬架术语》equalizing type of suspension 平衡悬架bogie suspension 双后桥悬架
+A trunnion type 平衡轴式
+B，C   four-spring type   4-弹簧式B  equalizer beam type  均衡臂式C    balance arm type    平衡臂式D walking beam type  摆臂式
+E rocker beam type 摇臂式
+
+torque rod 扭矩杆，反作用杆
+longitudinal rod 纵向推力杆
+trunnion base  平衡轴支座
+sliding seat 滑动座
+trunnion shaft 平衡轴
+leaf spring 钢板弹簧
+equalizer   均衡臂
+U-bolt   U 形螺栓
+balance arm 平衡臂
+walking beam 摆 臂
+rocker beam 摇 臂
+
+
+
+Fig. 15-23	Front Air Spring Suspension for Bus
+图 15-23	客车空气弹簧前悬架
+
+
+air spring type 空气弹簧式（参考 GB/T 5180-1985 中 3.2）
+air suspension type 空气悬置式（按 JIS D111-1992 中图 20）
+longitudinal rod 纵向推力杆
+1，16    control rod    推力杆
+bellows type air [gas] spring 囊 式 空气弹簧
+air spring seat 空气弹簧支座
+lower bracket 下支架
+adjusting rod assy. 调节杆总成
+upper bracket 上支架
+
+leveling valve  高度控制阀
+shock absorber 减振器
+9，10 hanger rod 吊 杆
+kingpin 销 轴
+rubber washer 橡胶垫圈
+rubber bearing 橡胶支撑
+stabilizer anti-roll bar 横向稳定杆
+stabilizer anti-roll bar clamp 横 向稳定杆夹
+lateral rod    横向推力杆
+front axle beam   前桥梁
+
+
+
+Fig. 15-24	Air Spring Type Suspension
+图 15-24	空气弹簧式悬架
+
+
+bsp = spring center distance 弹簧中心距br = tracking width    轮迹宽度direction 前进方向
+longitudinal  rod    纵向推力杆（GB/T  51 80-1985 中 4.4）
+radius  rod    半径杆（JIS  D  0111-1992
+中 3005）
+lateral rod 横向推力杆
+telescopic shock absorber 筒式减振器
+
+leveling valve  高度控制阀
+air spring 空气弹簧
+air-spring bellows 空气弹簧气囊
+support rod 支撑杆
+stabilizer anti-roll bar 横向稳定杆
+（GB/T 5180-1985 中 4.18）
+anti-roll bar 横向稳定杆
+support beam 支撑梁
+
+
+
+
+Fig. 15-25	Types of Air Suspension for Commercial Vehicle
+图 15-25	商用车空气悬架类型
+
+
+以下 1-6 无图，参见 GB/T 商用汽车空气悬架术语（征求意见稿）
+air suspension 空气悬架
+full air suspension 全空气悬架
+hybrid air suspension 复合式空气悬架
+auxiliary air suspension   辅助式空气悬架
+rigid axle air suspension    非独立空气悬架
+independent air  suspension  独立空气悬架
+electronically controlled air suspension
+（ECAS）    电子控制空气悬架（参见图
+15-18 电子调制悬架）
+double wishbone air suspension 双 横臂空气悬架
+four link air suspension 四连杆式空气悬架
+B1   V type  four  link air suspension	V 形
+
+
+四连杆式空气悬架
+B2   V  frame  four  link air suspension	V
+形架四连杆式空气悬架
+B3 five rod of four link air suspension
+五杆式四连杆空气悬架
+B4 four rod type of four link air suspen- sion 四杆式四连杆空气悬架
+trailing arm air suspension  单纵臂式空气悬架
+A frame air suspension A 形架式空气悬架
+leaf  spring  hybrid  air  suspension  钢板弹簧复合式空气悬架
+trailing leaf spring air suspension 钢板弹簧导向臂空气悬架
+V rod  V 形推力杆
+V frame rod V 形架推力杆
+
+Steering System and Tires
+转向系统和轮胎
+参考：GB/T 6326-2005《轮胎术语及其定义》
+
+
+Fig. 16-1	SS=Steering System
+图 16-1	转向系统
+
+
+steering （control） system    转向系统
+A，B，C    manual  steering  system    机械转向系统
+muscular-energy steering system
+人力转向系统
+A，C    parallelogram  steering  linkage    平行四边形转向传动机构
+rack and pinion  steering  system  齿轮齿条式转向系统
+steering system for independent suspen- sion 独立悬架转向系统（参考图 16-2）
+steering system for nonindependent suspension 非独立悬架转向系统steering linkage with conventional sus- pension	非独立悬架转向杆系[传动机构]
+tie  rod  linkage，  Ackerman  geometry
+梯形机构
+single tie rod type tie rod linkage 整体式梯形机构
+D，E     PS  system  =  power  steering  system， power-assisted steering system 动 力转向系统
+integral PS system   整体式动力转向系统
+booster   type   power   steering system
+助[加]力式动力转向系统
+semi-integral power steering system
+半整体式动力转向系统
+
+Ackerman Jeantaud steering 阿克曼金特式转向
+steering （knuckle） arm    转向节臂
+tie rod （转向）横拉杆
+idler arm 从[随]动臂（参考图16-2 中1）
+steering idler arm 转向从[随]动臂
+relay  rod，  center rod    连接杆，中继杆
+（参考图 16-2 中 2） 4a rack 齿 条
+steering wheel 转向盘
+steering shaft 转向轴
+5+6 steering  control  mechanism  转 向操纵机构
+steering  gear，  steering  gearbox，  steering mechanism 转向器
+pitman arm 转向摇臂
+steering  knuckle，  steering  （axle）  swivel， steering （axle） stub， axle stub    转向节
+drag link， drag rod    直拉杆
+PS pump  =  power  steering  pump  动力转向油泵
+integral power steering gear  整 体式动力转向器
+semi-integral power steering  gear  半整体式动力转向器
+12，13 power steering gear 动力转向器
+power cylinder  转向动力缸
+
+
+
+
+
+Fig. 16-2	Steering Classification by Link Arrangement
+图 16-2	按杆系布置的转向分类
+
+
+independent suspension type steering linkage
+用于独立悬架的转向杆系
+	parallelogram linkage  type  平行转向杆系型（两横拉杆等长）
+parallel  （steering）  linkage  type    平行转向杆系型
+cross linkage type 横置转向杆系型
+centre arm （steering） linkage type
+中间摆臂式转向杆系型
+haltenberger linkage type 斜置横拉杆转向杆系型
+rack and pinion linkage type 齿轮齿条式转向杆系（横拉杆与齿条相连） rack and pinion steering gear with two-end output  type  两端输出式齿轮齿条转向器
+center-take-off-style linkage type  中间输出式转向杆系型
+rack and pinion steering gear with central output type 中间输出式齿轮齿条转向器
+
+
+multi-axles steering type steering linkage
+多轴转向式转向杆系
+idler arm 从动臂
+connecting  rod，  relay  rod    连接杆，中继杆
+pitman arm 转向摇臂（此条常用） sector shaft arm， steering （drop） arm， steering lever， steering pitman arm 转向摇臂
+tie rod， track rod    横拉杆
+steering arm， knuckle arm    转向节臂 spindle arm， steering knuckle arm    转向节臂
+tie [track] rod end 横拉杆球接头
+tie rod arm 横拉杆臂，梯形臂
+drag link， drag rod    直拉杆
+centre arm 中间摆臂
+inner ball joint   内球节
+outer ball joint   外球节
+connecting arm   连接臂
+first-axle rod   一桥拉杆
+second-axle rod  二桥拉杆
+
+
+
+
+
+
+
+
+Fig. 16-3	Energy Absorbing Steering Column
+图 16-3	吸能转向柱
+
+
+ball type energy absorbing steering column 球形吸能转向柱
+mesh type energy absorbing steering column 网式吸能转向柱
+bellows type energy absorbing steering column 波纹管式吸能转向柱
+curing plate type energy absorbing steering column 变形板式吸能转向柱
+column tube swage type energy absorb- ing column 柱管塌缩式吸能转向柱
+lower steering shaft  下转向轴
+resin injection  树脂注塑
+
+resin ball cage 树脂球笼
+steel ball 钢 球
+bracket 支 架
+capsule 膜 盒
+embedded ball（1-2pcs）    嵌入球（1-2 个）
+fixed side 固定侧
+column tube side 转向管侧
+intermediate steering  shaft  转向中间轴
+steering universal joint 万向节，转向万向节
+steering column bracket 转向柱支架
+steering column tube 转向柱管
+
+
+
+
+Fig. 16-4	Steering Control Mechanism
+图 16-4	转向操纵机构
+ignition/starter switch 点火/起动
+
+intermediate shaft 中间轴
+1a splined shaft 花键轴
+dust cover 防尘罩
+universal joint 万向节
+steering universal joint 转向万向节
+steering column  转向柱
+upper column cover   管柱上罩
+lower column cover   管柱下罩
+combination switch   组合开关
+steering wheel 转向盘
+8a    4-spoke wheel    四辐条转向盘
+8b   3-spoke wheel    三辐条转向盘
+rim 盘缘，盘辐
+spoke 辐 条
+ignition switch  点火开关
+
+开关
+11a  air bag module   安全气囊模块wheel pad with SRS airbag 带安全气囊的转向盘盖
+11b   steering  wheel  pad，  wheel  pad    转向盘盖
+upper bracket 上支架
+key cylinder  钥匙筒，点火锁芯
+column tube 管柱管
+clamp   固定夹
+bushing 衬 套
+main shaft 主 轴
+steering inner  articulated  shaft  铰接式转向轴
+
+
+
+Fig. 16-5	Steering Transmission Shaft
+图 16-5	转向传动轴
+
+
+SHAFT， S/GR CPLG = steering gear coupling shaft 转向传动轴（通用汽车公司用语）
+non-energy-absorbing steering transm- ission shaft 非吸能式转向传动轴
+B， C telescopic energy-absorbing steering transmission shaft 伸缩吸能式转向传动轴
+spline type 花键式
+flat shaft type 扁轴式
+ball-type energy-absorbing steering shaft 钢球连接式转向传动轴
+steering transmission shaft combined shaft-yoke 轴叉一体式转向传动轴
+ball joint 球 节
+steering universal joint   转向万向节
+intermediate steering shaft   转向中间轴
+steering shaft 转向轴
+
+splined shaft 花键轴
+splined tube 花键套管
+flat shaft 扁 轴
+flat tube 扁 管
+steering yoke 转向节叉
+intermediate steering shaft with yoke
+中间轴叉
+steering shaft with yoke 转向轴叉
+dust cover， seal 防尘罩
+ball stud， ball pivot， ball pin    球头销
+“full-ball” stud 全球式球头销
+bearing 轴 承
+ball cup [socket， cap]	球碗，球头销座
+housing 壳 体
+grease fitting 滑脂嘴
+compression spring 压缩弹簧
+
+
+
+Fig. 16-6	Tilt Steering Column
+图 16-6	可倾斜式转向柱
+
+
+
+
+
+Fig. 16-7	Wheel Alignment
+图 16-7	车轮定位
+
+
+A，B    centre distance of tire    轮胎中心距
+steering axis 转向轴线
+SAI=steering axis  inclination  转向轴线内倾
+kingpin inclination 主销内倾
+vertical line 垂 线
+central plane of the wheel 车轮中心平面
+camber angle 车轮外倾角
+positive camber angle （本图为）车轮正外倾角
+
+kingpin offset， steering offset， scrub radius， swiveling offset， wheel offset   主销偏置距，转向轴线偏置距
+positive scrub radius （本图为）主销正偏置距
+kingpin caster[castor] angle  主销后倾角
+caster offset， castor offset    主销后倾距 positive caster offset （本图为）主销正后倾距
+toe in， wheel toe， toe    前束
+toe out 后束，负前束中心
+
+
+
+Fig. 16-8	Standard Steering Gear
+图 16-8	基本转向器
+
+
+说明：目前汽车上主要用“D”和“E” 两种转向器。
+worm and sector  steering  gear  蜗杆齿扇式转向器
+cam and lever steering gear， cam and peg steering    gear， worm and peg [lever]  steering gear， Ross-type steer- ing gear 蜗杆指销式转向器，蜗杆曲柄销式转向器
+worm [cam] and roller steering gear， Gemmer steering gear 蜗杆滚轮式转向器
+rack and pinion steering gear 齿 轮 齿条式转向器
+recirculating ball steering gear， ball and nut steering gear， ball nut type steering gear 循环球式转向器recirculating ball-rack and sector steer- ing gear  循环球-齿扇式转向器
+steering shaft 转向轴
+
+steering worm 转向蜗杆
+worm 蜗 杆
+sector gear 齿扇，扇形齿轮
+pitman arm shaft， sector shaft    摇臂轴，齿扇轴
+stud， peg 指 销
+lever 曲 柄
+sector  shaft  adjusting  screw	摇臂
+[齿扇]轴调整螺钉
+roller 滚 轮
+pinion 小齿轮
+rack 齿 条
+ball （return） guide    钢球导管
+steering nut， ball nut    转向[循环球]螺母
+steel ball， ball 钢 球
+pitman arm 转向摇臂（该词条比以下两词条更常用）
+drop  arm，  steering（-gear）  arm    转向摇臂
+
+
+
+Fig. 16-9	Rack and Pinion Steering Gear
+图 16-9	齿轮齿条式转向器
+
+rack and pinion steering gear with two-end output type 两端输出式齿轮齿条转向器
+lock nut   锁止螺母
+dust cover   防尘罩
+pinion shaft 小齿轮轴
+oil seal 油 封
+adjusting screw 调节螺塞
+bearing 轴 承
+steering pinion 转向齿轮（国标用语）
+gear  of  steering  shaft	转向轴齿轮
+（大众汽车公司用语）
+pinion 小齿轮（常用）
+steering rack 转向齿条（国标用语）
+rack 齿条（常用）
+rack guide 齿条导块
+pressure pad	压力垫（按 JASO Z213）
+rack support 齿条支垫（美语常用）
+
+spring 弹 簧
+housing 壳 体
+steering gear housing 转向器壳
+rack housing 齿条壳体
+bushing 衬 套
+rack bushing 齿条衬套
+tie rod 横拉杆
+inner tie rod  内横拉杆
+13a    ball stud 球 销
+inner ball joint 内球节13+13a rack end 齿条接头14，16 boot 防尘罩
+15 （boot ） clamp （防尘罩）夹
+17 tab washer， claw washer  舌片止动垫圈
+
+
+
+
+Fig. 16-10	Power Rack and Pinion Steering System
+图 16-10	齿轮齿条式动力转向系统
+
+
+A+B integral hydraulic power steering gear 整体式液压助力转向器（转向控制阀、转向助力缸、机械转向器组合为一个整体的部件）
+power rack and pinion steering gear
+齿轮齿条式助力转向器
+rotary valve type control valve 转 阀式控制阀
+rotary distributor cross-section 旋 转分配器横截面
+oil supply unit 供油装置
+vane pump  叶片泵
+steering cylinder 转向油缸power cylinder 动力油缸rack housing 齿条壳体
+steering pinion 转向齿轮
+steering rack 转向齿条
+torsion bar 扭 杆
+
+steering  spindle，  steering  gear  input shaft 转向输入轴
+control port 控制口
+control valve 控制阀，转向控制阀rotary valve type control valve 转 阀式控制阀
+rotary distributor 旋转分配器
+control valve housing  控制阀体
+return line 回油管
+oil reservoir， reservoir tank    储油罐
+pressure and flow-limiting valve 压力和流量限制阀
+pressure line  压力油管
+vane-type pump 叶片泵
+cylinder piston 油缸活塞
+piston with Teflon ring  特氟龙密封环活塞
+
+
+
+Fig. 16-11	Rack and Pinion Power Steering Gear
+图 16-11	齿轮齿条式助力转向器
+
+
+注：本部分指示序号不连续，但不影响阅读。
+hydraulic power steering gear 液压助力转向器
+A  O-ring O 形 圈B    oil  seal 油 封C spacer 隔 套
+bearing guide nut  轴承导向螺母
+Teflon ring 特氟龙环，聚四氟乙烯环
+control valve 控制阀
+valve/pinion assembly 阀/小齿轮总成
+union seat 接头座
+turn pressure tube 转向压力油管
+pressure line 压力油管
+control valve housing 控制阀体
+seat （导块）座
+conical spring 锥形弹簧垫
+piston 活 塞
+rack piston  齿条活塞
+cylinder end stopper 缸端止动器
+pinion shaft 小齿轮轴
+lock nut 锁止螺母
+
+dust cover 防尘罩
+adjusting screw 调节螺塞
+plug 螺 塞
+bearing 轴 承
+steering rack 转向齿条
+rack 齿 条
+rack guide 齿条导块
+rack support， rack retainer    齿条支撑
+rack slipper 齿条滑履
+spring 弹 簧
+steering gear housing 转向器壳
+rack housing 齿条壳体
+tie rod  横拉杆
+13+16 rack end 齿条接头
+boot 防尘罩
+rack boot 齿条防尘罩
+clamp 夹
+band 箍（带）
+inner tie rod end 横拉杆内接头
+18 tie rod end 横拉杆接头
+outer tie rod end 横拉杆外接头
+
+
+Fig. 16-12	R&B Steering Gear=Recirculating Ball Steering Gear
+图 16-12	循环球式转向器
+
+
+ball （return） guide    钢球导管
+adjuster bolt 调节螺栓
+preload adjuster 预紧度调节器
+worm 蜗 杆
+worm shaft    蜗杆轴
+bearing 轴 承
+upper worm bearing 蜗杆上轴承
+lock nut 锁紧螺母
+
+adjuster plug 调节螺塞
+worm bearing adjuster 蜗杆轴承调整器
+pitman arm 转向摇臂
+worm thrust bearing 蜗杆推力轴承
+lower worm bearing 蜗杆下轴承
+sector gear 齿 扇
+ball nut 转向螺母，球螺母
+pitman shaft 摇臂轴
+
+
+
+Fig. 16-13	Power Recirculating Ball Steering System
+图 16-13	循环球式动力转向系统
+
+
+recirculating ball hydraulic steering system
+循环球式液压转向系统
+power recirculating ball steering gear
+循环球式助力转向器
+rotary valve type control valve 转 阀式转向控制阀
+rotary distributor cross-section 旋 转分配器横截面
+oil supply unit 供油装置
+vane pump   叶片泵
+housing 壳 体
+piston 活 塞
+ball nut 转向螺母，球螺母
+torsion bar 扭 杆
+
+spline to steering shaft 连接转向轴的键
+control valve/worm 控制阀/蜗杆
+rotary valve 转 阀
+sector shaft 齿扇轴
+pressure limiting valve   限[卸]压阀
+replenishing valve   供油阀，补给阀
+inlet slot 进油槽口
+return slot 回油槽口
+axial groove 轴向油槽沟
+return groove   回油槽沟
+vane-type pump   叶片泵
+flow-limiting valve 流量限制阀
+oil reservoir 储油罐
+
+
+Fig. 16-14	Vane Power Steering Pump
+图 16-14	叶片式动力转向油泵
+
+
+
+
+
+Fig. 16-15	Types of Electrical Power Steering Assist System
+图 16-15	电动助力转向系统类型
+
+
+electrical power steering system with electronic controlled control unit 电动助力转向系统A   rack （assist） type electrical power steer-
+ing gear 转向齿条式电动助力转向器rack type electrical power steering system   转向齿条式电动助力转向系统
+pinion （assist） type electrical power steer- ing gear 转向齿轮式电动助力转向器pinion type electrical power steering system 转向齿轮式电动助力转向系统
+electric hydraulic power rack and pinion steering  gear  电动液压式齿轮齿条式转向器
+（D 图参见图 16-16 和图 16-17） column
+
+type electrical power steering system 转向轴式电动助力转向系统
+COUPLING， S/GR DRV = steering gear drive coupling 转向器驱动联接器
+SEAL， P/S ASST MOT = power steering assist motor seal 助力转向电动机密封圈
+MOTOR，  P/S  ASST  =  power  steering
+assist motor 助力转向电动机
+gear shaft 齿轮轴
+electric oil  pump  assembly  电动油[液压]泵总成
+return line 回油管
+pressure line  压力油管
+
+
+
+Fig. 16-16	EPS=Electric Power Steering（TOYOTA）
+图 16-16	电动助力转向（丰田）
+
+
+column （assist） type electrical power steering system 转向柱辅助式电动助力转向系统column type electrical power steering gear 转向轴式电动助力转向器
+P/S= power steering warning light 助 力
+转向警告灯
+CHECK POWER STEERING 检 查 助力转向
+EPS ECU 电动助力转向 ECU
+steering column  转向柱
+torque sensor  转矩传感器
+
+motor 电动机
+reduction mechanism 减速机构
+3， 4    mechatronic module    机电模块
+skid control ECU 防滑控制 ECU（该词在丰田行驶控制中是指制动执行器ECU。牵引力控制ECU 或具有车辆动态稳定性控制ECU 都可称为防滑控制ECU）
+engine ECU 发动机 ECU
+ECM = engine electronic  module 发 动机电控单元
+
+
+
+Fig. 16-17	Components Location of Electric Power Steering
+图 16-17	电动助力转向机构零部件位置
+
+
+EPS = electric power steering 电动助力转向
+A， B	energy  absorbing  mechanism    吸能机构
+before collision 碰撞前
+after collision 碰撞后
+intermediate shaft 中间轴
+motor 电动机
+breakaway bracket 断开式支架
+tilt and telescopic mechanism  倾 斜与伸缩机构
+reduction mechanism 减速机构
+
+column shaft 转向轴
+worm gear 蜗 轮
+rotation angle sensor 转角传感器
+rotor 转 子
+stator 定 子
+motor shaft 电动机轴
+worm 蜗 杆
+torque sensor  转矩传感器
+yoke 磁 轭
+multipole magnet 多极磁铁
+
+
+
+Fig. 16-18	Power-Assisted Steering System for Commercial Vehicle
+图 16-18	商用车助力转向系统
+
+
+dual-circuit power-assisted steering system
+回路助力转向系统
+power-assisted steering with all-hydraulic transmission 液压传动助力转向
+rotary valve type    转阀式（常用名称），转阀式转向控制阀（国标中名称）
+integral hydraulic power steering gear
+整体式液压助力转向器
+semi-integral hydraulic power steering gear 半整体式液压助力转向器
+L oil flow for left lock 左转向供油
+R oil flow for right lock 右转向供油
+steering pump 1   1 号转向油泵
+steering pump 2   2 号转向油泵
+oil reservoir 1 1 号油罐
+
+oil reservoir 2 2 号油罐
+working cylinder 工作缸
+left cylinder chamber 左缸腔室
+right cylinder chamber 右缸腔室
+dual-circuit steering valve 双回路转向阀
+oil reservoir 油 罐
+steering pump 转向油泵
+ECU with metering  pump  带计量泵的电控单元
+steering cylinder  转向缸
+rotary valve 转 阀
+valve hosing 阀 套
+torsion bar 扭 杆
+control valve   控制阀
+power cylinder   动力缸
+
+
+
+Fig. 16-19	Front Axle of Motor Truck
+图 16-19	货车前桥
+
+
+front axle beam 前桥梁
+I-beam axle 工字梁桥
+1a    reversed Elliot type （front） axle， steer- ing  stub  axle，  stub  axle    反埃利奥特前桥，拳式前桥
+1b    Elliot-type （front） axle，  fork（ed） axle
+埃利奥特前桥，叉式前桥
+thrust washer， stop disk， thrust plate， snubber washer  止推垫圈
+locking pin （转向节销）锁销
+thrust bearing， axial bearing    推力轴承
+grease fitting 润滑脂嘴
+seal plate 密封盖
+kingpin， king pin， knuckle pin， spindle bolt，  axle pin，  swivel  pin，  pivot pin   转向节销
+bushing 衬 套
+O-ring O 形（密封）圈
+
+stop bolt， steering stop adjusting bolt
+（车轮转向角）限位螺栓
+steering knuckle [swivel， stub，
+axle swivel， axle stub]， axle stub 转向节
+steering （knuckle） arm    转向节臂
+tie-rod arm 梯形臂，横拉杆臂
+seal journal 油封轴颈
+hub seal 轮毂油封
+tapered roller bearing 圆锥滚子轴承
+hub， axle hub 轮 毂
+washer 垫 圈
+grease cap  润滑脂杯
+axle hub nut 轮毂螺母
+wheel nut 车轮螺母
+hub bolt， wheel hub bolt    轮毂螺栓
+tie rod 横拉杆
+ball joint 球节，球接头
+
+
+
+Fig. 16-20	Tire [Tyre] Type
+图 16-20	轮胎类型
+
+
+参考：GB/T 6326-2014《轮胎术语及其定义》
+diagonal tire， bias-ply tire    斜交轮胎 crossply [cross ply] tire， conventional tire斜交轮胎
+a	bias ply tire with inner tube，  bias ply tubed tire 有内胎斜交轮胎
+tubed tire， tubed tyre， tube-type tire
+有内胎轮胎
+radial （ply） tire， radial （ply） tyre   子午线轮胎
+belted radial tire  带束子午线轮胎b   TL= tubeless tyre[tire]   无内胎轮胎C bias belted tire  带束斜交轮胎
+belted bias[diagonal]  tire  带束斜交轮胎
+MS  tire=mud  and  snow  tire，  all-season tire 雪泥轮胎，全天候轮胎
+mud and snow pattern 雪泥花纹
+conventional section tire 传通断面轮胎
+low section tire 低断面轮胎
+super low section tire 超低断面轮胎
+compact [temporary] spare tire 紧 凑型备胎，应急备胎
+图中文字，TEMPORARY USE ONLY INFLATE TO 60 PSI 仅在充气到 60
+英镑每平方英寸时临时使用用。
+T temporary-use spare tire  临时使用的备用轮胎
+T-type temporary-use spare tire T 形临时使用的备用轮胎
+compact high-pressure mini spare tire
+高压小型备胎
+h section height 断面高度
+
+h/w height-to-width ratio， aspect ratio， ratio of cross-section height to width 高宽比
+I	foding tire 折叠轮胎
+J	tread[tire] wear indicator 胎面磨损指示器
+w section width  断面宽度
+cord 帘 线
+ply 帘布层
+cord ply， plies    帘布层
+2a carcass plies  胎体帘布层
+2b tread plies 胎面帘布层
+tread， tire tread    胎面
+pattern rib  花纹条
+shoulder 胎 肩
+shoulder area 胎肩区
+sidewall 胎 侧
+bead， tire bead， tyre bead 胎圈，子口
+bead area 胎圈区
+bead toe 胎 趾
+bead heel 胎 踵
+bead ring 钢丝圈
+bead core， bead wire    胎圈芯
+carcass， casing， carcase    胎体
+reinforced rubber  增强橡胶
+inner liner 内衬层
+belt 带束层
+belt ply， bracing ply， tread belt
+带束层
+breaker 缓冲层
+inner tube， tube    内胎
+groove 花纹沟
+tread groove， tire groove 花纹沟
+fitting line 装配线
+
+
+
+
+Fig. 16-21	Passenger Car and Light Commercial Vehicle Disc Wheel Nomenclature
+图 16-21	乘用车及轻型商用车辐板式车轮术语
+
+
+参考：GB/T 2933-2009《充气轮胎用车轮和轮辋的术语、规格代号和标志》
+A   inset wheel    内偏距车轮B  zeroset wheel   零偏距车轮C outset wheel 外偏距车轮
+rim centre plane 轮辋中心面
+disc 轮 辐
+nut seat 螺母座
+
+pitch circle diameter of bolt holes 螺栓孔分布圆直径
+centre hole diameter 中心孔直径
+attachment face diameter 安装面直径
+attachment face 安装面
+inset 内偏距
+rim 轮 辋
+zeroset 零偏距
+outset 外偏距
+
+
+
+Fig. 16-22	Rim Systems for Passenger Cars
+图 16-22	乘用车轮辋系
+
+
+参考：GB/T 2933-2009《充气轮胎用车轮和轮辋的术语、规格代号和标志》
+structure of a disk wheel 辐板式车轮结构
+rim inner flange 轮辋内轮缘
+rim base 轮辋底面
+rim outer flange 轮辋外轮缘
+ventilation hole 通风孔
+wheel disk 轮 辐
+pitch-circle diameter 螺栓孔分布圆直径
+center hole 中心孔
+flange 轮 缘
+rim systems for passenger cars 乘 用车轮辋系统
+passenger car drop-center rim （standard rim） 乘用车深槽轮辋（标准轮辋） standard rim 标准轮辋
+EH2+ rim （extended hump）   EH2+轮辋
+（扩展驼峰式轮辋）
+
+extended hump rim 扩展驼峰式轮辋 c    PAX rim   PAX 轮辋 （PAX= Pneu Accro- chage  X	米其林具有垂直支撑物的
+轮胎技术）
+d    CTS （Conti Tire System） rim   CTS 轮辋
+（大陆公司防爆轮胎系统）
+D nominal rim diameter 轮辋标称直径
+DH hump diameter 峰直径
+M    rim width    轮辋宽度
+rim flange 轮 缘
+tapered bead seat 斜胎圈座
+hump 峰
+drop center 凹 槽
+hump shapes  凸脊类型
+hump 峰
+flat hump 平峰型
+nominal rim diameter 轮辋标称直径
+DH hump diameter 峰直径
+
+
+
+
+Fig. 16-23	Commercial Vehicle Disc Wheel and Divided Wheel Nomenclature
+图 16-23	商用车辐板式车轮和对开式车轮术语
+
+
+参照：GB/T 933-2009《充气轮胎用车轮和轮辋的术语、规格代号和标志》
+single application 单胎应用
+dual application 双胎应用
+divided wheel nomenclature 对开式车轮术语
+rim centre plane 轮辋中心板
+disc 轮 辐
+inset 内偏距
+external face of disc 轮辐表面
+nut seat 螺母座
+bolt hole 螺栓孔
+
+pitch circle diameter of bolt holes 螺 栓孔分布圆直径
+centre hole diameter 中心孔直径
+attachment face 安装面
+attachment face diameter 安装面直径
+rim 轮 辋
+dual spacing 双轮中心距
+offset 偏 距
+fixed flanges 固定轮缘
+clamping bolts or equivalent mechanical means 紧固螺栓或等效的机械工具
+outset 外偏距
+
+
+
+
+Fig. 16-24	Commercial Vehicle Wheels and Rim
+图 16-24	商用车车轮和轮辋
+
+
+参考：GB/T 2933-2009《充气轮胎用车轮和轮辋的术语、规格代号和标志》（图 10） ISO  2911-2004《充气轮胎用车轮和轮辋-词汇，规格代号和标记》
+structure of a disk wheel  车轮结构
+rim composition  轮辋组成
+rim design types 轮辋结构类型
+wheel cross-section 车轮横截面
+optional bead seat profiles 选装的胎圈断面
+a，b，c    one-piece rim    一件式轮辋
+DC=drop-center rim 深槽式轮辋
+15°tapered bead seat rim  15°斜胎圈座轮辋
+wide 15°tapered bead seat rim 宽
+15°斜胎圈座轮辋
+5°tapered bead  seat  rim  5°斜胎圈座轮辋
+two-piece rim 二件式轮辋
+FB rim = flat base rim 平底轮辋
+RH= round hump 圆 峰
+SL = special ledge 特殊座架
+h = high （座架） 深度c）	FL = flat hump 平 峰 d）	CP = contre-pente 凹 陷
+
+CH = combination hump 组合峰
+H2 = double hump 双 峰
+rim 轮 辋
+wheel disk 轮 辐
+mounting holes 安装孔
+center hole 中心孔
+ventilation holes 通风孔
+rim flange 轮 缘
+rim bead seat 轮辋胎圈座
+hump 凸 脊
+rim base 轮辋体
+hump 驼 峰
+rim base 轮辋体
+rim width 轮辋宽度
+flange 边 缘
+15°tapered bead seat 15°斜胎圈座
+5°tapered bead seat  5°斜胎圈座
+lug-bolt holes 车轮螺栓孔
+rim center    轮辋中心D rim diameter  轮辋直径ET rim offset 轮辋偏距
+pitch-circle diameter （螺栓孔）分度圆直径
+rim width 轮辋宽度
+center-hole diameter 中心孔直径
+S tire width  轮胎宽度
+
+
+
+Fig. 16-25	Tire [Tyre] Valve
+图 16-25	轮胎气门嘴
+
+
+参考：GB/T 12839-2012《轮胎气门嘴术语及其定义》
+A， C tube valve 内胎气门嘴
+tubed tire valve 有内胎轮胎气门嘴
+tubeless valve 无内胎气门嘴A rubber base valve 胶座气门嘴A1， B    straight valve    直式气门嘴
+A2   single-bend valve   单弯式气门嘴
+snap-in valve   卡扣式气门嘴
+snap-in style tire valve  assembly  卡扣式气门嘴总成
+B， D tubeless tire valve  无内胎轮胎气门嘴
+rubber-covered valve 包胶式气门嘴
+tubeless clamp-in valve 压紧式无内胎气门嘴
+metal clamp-type tire valve assembly 金属夹压紧式气门嘴总成（用于较高压力胎）
+valve cap （气门嘴）防护帽E1， E2    cap sealing	密封帽 E3 non-sealing cap 非密封帽
+metal stem 金属体
+core   气门芯
+valve core   气门芯
+short core 短气门芯
+inner spring core 内弹簧气门芯
+cap sealing   密封帽
+valve cap   气门嘴防护帽
+
+valve stem [body] 嘴 体
+hex（agon） nut    六角螺母
+washer 垫 圈
+rubber base 胶 座
+cut-off shoulder （气门嘴） 挡胶台
+indicator ring 标志环
+sealing surface  密封面
+base button   卡扣式基座
+cap screw driver   扳手帽
+swivel gasket 帽密封垫
+bottom orifice	硫化定位孔
+buffed surface	打磨面
+grommet	（轮辋）密封垫
+valve spud stem[body]  嘴座体
+O-ring O 形（密封）圈
+swivel nut 螺 套
+valve stem[body] thread 阀体螺纹
+ring washer 圆垫片
+core pin 芯 杆
+swivel 芯 帽
+plug 芯 体
+pin washer 芯体密封圈
+spring 芯 簧
+cup gasket 芯座密封垫
+cup 芯 座
+bridge 芯 梁
+pin head  芯杆头
+
+
+Fig. 16-26	Tire Pressure Warning System
+图 16-26	轮胎压力报警系统
+
+
+direct-sensing type tire pressure warning system 直接传感式轮胎压力报警系统
+tire pressure warning valve and trans- mitter 轮胎压力报警气门嘴和发射器
+tire pressure warning  antenna 轮 胎 压
+力报警天线
+tire pressure warning ECU and receiver
+轮胎压力报警 ECU 和接收器
+tire pressure warning light 轮胎压力报警灯
+
+speed sensor 轮速传感器
+transmitter position 发射器位置
+valve body 气门嘴体
+valve portion 气门嘴段
+ID code = identification code 识别码
+disc wheel rim 辐板式轮辋
+nut （气门嘴）螺母
+grommet 护 套
+
+Brake System
+制动系统
+
+
+
+Fig. 17-1	Types of Brake
+图 17-1	制动器类型
+
+
+参考：GB/T 5620-2002《道路车辆 汽车和挂车制动名词术语及其定义》
+2LS brake = two [double] leading shoe brake 双领蹄式制动器，2L 式制动器duplex and duo duplex 双领蹄式和双向双领蹄式
+two trailing shoe brake 双从蹄式制动器，2T 式制动器
+duo two leading shoe brake 双向双领蹄式制动器，D2L 式制动器
+leading trailing shoe brake with step- ped wheel cylinder 带异径轮缸的领从蹄式制动器
+L/TS brake = leading trailing shoe brake
+领从蹄式制动器，LT 式制动器
+uni/duo servo 单向/双向自动增力式US brake = uni-servo brake 单向伺服式制动器，US 式制动器
+DS brake = duo-servo brake 双 向 伺 服式制动器，DS 式制动器
+A～G internal expanding drum brake
+内胀型鼓式制动器
+wheel cylinder brake 轮缸[柱塞] 式制动器
+band brake 带式制动器
+external contracting drum brake  外收缩型鼓式制动器
+A～H drum brake 鼓式制动器
+disc[disk] brake with  fixed  caliper  定钳盘式制动器
+
+disc[disk] brake with floating caliper
+浮钳盘式制动器
+I， J    caliper disc brake    钳盘式制动器
+“S” cam “S”凸轮式
+cam（-actuated） brake 凸轮张开式制动器
+simplex wedge 领从蹄式楔型
+wedge （-actuated，  -operated） brake   楔
+（块促动）式制动器
+A～L friction brake 摩擦片式制动器
+direction of drum rotation 制动鼓转动方向
+leading shoe 领 蹄
+brake lining assembly 制动衬片总成
+anchor pin 支承销
+fixed brake shoe abutment 制动蹄支承轴
+brake lining 制动衬片
+friction lining 制动衬片，摩擦片
+trailing shoe 从 蹄
+brake lining assembly 制动衬片总成
+wheel cylinder 轮 缸
+straight-bore wheel cylinder 直筒[双活塞）轮缸
+6a  single-piston wheel cylinder  单活塞轮缸
+stepped wheel cylinder 异径轮缸， 阶梯形轮缸
+brake drum   制动鼓
+brake band   制动带
+S-cam S 形凸轮
+wedge 楔 块
+
+
+
+Fig. 17-2	Drum Brake
+图 17-2	鼓式制动器
+
+
+参考：GB/T 5620-2002《道路车辆 汽车和挂车制动名词术语及其定义》
+duo-servo   双向伺服式
+leading-trailing 领从蹄式
+bolt 螺 栓
+hold [down] pin 限位销，压紧销
+backing plate， base plate， bottom plate
+背板 （按 GB/T 5620-2002）
+brake bottom plate 制动底板（按 GB/T 5620.2-1985 中 5.1.2）
+dust  cover    防尘罩 （按 JIS  D0107- 2005	中 142-2）
+bleeder valve  放气阀
+cylinder body 缸 筒
+piston cup  活塞皮碗
+cup 皮碗，皮圈
+piston 活 塞
+dust cover， boot    防尘罩
+5+6+7+8+26 wheel cylinder 轮 缸
+push rod 推杆
+cylinder link 轮缸推杆
+operating lever 操纵杠杆
+parking brake shoe lever 驻车制动蹄杠杆
+trailing[secondary] shoe 从 蹄trailing  shoe  and  lining，  secondary shoe assembly 从蹄总成
+shoe guide 蹄导板
+parking brake strut （pushrod）   驻车制动推杆
+lever pivot 作动杠杆支枢
+return spring 回位弹簧
+shoe return spring  制动蹄回位弹簧
+
+actuator link 作动连杆
+brake shoe hold down [hold] spring
+制动蹄限位弹簧
+hold-down spring 限位[压紧]弹簧
+lever return spring 作动杠杆回位弹簧
+actuator lever 作动杠杆
+strut spring 撑杆弹簧
+socket （调节螺钉）支座
+adjusting screw （制动蹄间隙）调节螺钉
+pivot nut 支枢螺母
+adjusting screw spring 调节螺钉弹簧
+leading[primary] shoe 领 蹄leading shoe and lining， leading shoe assembly 领蹄总成
+piston spring 活塞弹簧
+C-washer C 形垫圈
+automatic  adjust（ing）  lever    自动调节杠杆
+adjusting shim 调节垫片
+spring （自动调节杠杆）弹簧
+adjuster （制动蹄间隙）调节器， 包括 21、22 和 23
+adjusting screw assembly 调节螺钉总成
+lash adjusting device 间隙调整装置
+hold-down cup （制动蹄）限位盘，压紧盘
+anchor spring 支承块弹簧
+parking brake cable 驻车制动器拉索
+anchor pin  支承销
+anchor plate， anchor    支承块，支承板
+brake drum 制动鼓
+
+
+
+Fig. 17-3	Disc [Disk] Brake
+图 17-3	盘式制动器
+
+
+caliper disc brake   钳盘式制动器
+fixed  （brake）  cal（l）iper，  stationary  cal（l）- iper 定钳（式）
+two-piston caliper 双活塞式制动钳
+floating （brake） cal（l）iper， movable ca1（l）iper， sliding cal（l）iper， moving caliper 浮钳（式）
+single piston caliper 单活塞式制动钳
+piston 活 塞
+fixed caliper 定 钳
+hydraulic pressure 液 压
+brake pad， brake lining ， disc pad 制动衬块
+friction pad  摩擦块
+brake disc[disk， rotor]    制动盘
+5a    solid rotor[disc， disk]    整体式制动盘
+5b    ventilated  brake  disk[disc]， ventilated rotor   通风式制动盘ventilated[vented] disc 通风式制动盘
+floating caliper 浮 钳
+sliding pin bolt 滑 销
+guide pin， locating pin 导 销
+sliding pin 滑 销
+combination spindle and anchor plate
+带锚定板的转向节
+caliper assy. 制动钳总成
+grease retainer 润滑脂保持器
+
+inner bearing 内轴承
+splash shield [guard]， dust shield    防溅罩
+gasket 垫 圈
+pin boot 销防尘套
+bush dust boot 衬套防尘罩
+bushing， sleeve    衬套
+bleeder valve[screw] 放气阀
+cap （放气阀）帽
+cal（l）iper housing[body]    钳体
+cylinder body 缸 体
+（piston） seal    （活塞）密封圈
+piston boot 活塞防尘罩
+dust boot 防尘罩
+backing plate （制动衬块）背板
+anti-rattle clip 防振夹
+anti-squeal[rattle] spring  消声（防啸声）弹簧
+brake pad assembly 制动衬块总成
+inspection hole （制动衬块磨损）检查孔
+mounting （bracket）    安装支架 anchor plate 支架，支承板torque plate  扭矩板
+plate yoke （制动钳）板臂
+wear indicator  磨损指示器
+brake lining wear sensor 制动衬块磨损传感器
+anti-squeal shim 消声垫片
+
+
+
+Fig. 17-4	Parking Brake for Rear Disc Brake
+图 17-4	后轮盘式制动器的驻车制动器
+
+
+
+
+Fig. 17-5	Dual [Two]-Piston Brake Master Cylinder
+图 17-5	双活塞制动主缸
+
+
+A， B	series dual-chamber brake master cylinder 串列双腔式制动主缸dual （chamber） brake master cylinder， tandem brake master cylinder 双腔式制动主缸
+dual master cylinder 双腔式主缸
+dual master cylinder with central valve in secondary  circuit  第二回路中有中心阀的双腔式主缸
+dual[double]-circuit brake system 双回路制动系
+C1 front/rear split 前后轮分路式
+braking-force ‖distribution 制动力‖
+[平行]分配
+C2   diagonal（ly） split    对角线分路式 braking-force  x distribution   制动力x[对角]分配
+reservoir diaphragm 储液室膜片
+compensating port[bore， hole] 补偿孔
+replenishing  port，  feed  port，  inlet  port
+进液孔
+primary （fluid） reservoir    第一储液室
+4+13 separate reservoirs 分隔式储液室
+
+retaining ring 挡 圈
+pedal push rod 踏板推杆
+secondary cup（seal）， ring cup    副皮碗，皮圈（该皮碗不承受油压）
+primary piston 第一活塞
+primary  cup  （seal），  master  cup    主皮碗（该皮碗承受油压）
+return spring 回位弹簧
+piston stop bolt 活塞止动螺栓
+secondary piston 第二活塞
+secondary （fluid） reservoir   第二储液室
+cylinder housing[body] 缸 体
+pressure supply    油压供给
+pressure chamber    压力腔
+high pressure chamber 高压腔
+reservoir connection 储液室接口
+central valve stop 中心阀止动器
+central valve 中心阀
+brake circuit 1   1 号制动回路
+brake circuit 2   2 号制动回路
+dual （chamber）  master cylinder   双腔制动主缸
+
+
+Fig. 17-6	PKB = Parking Brake
+图 17-6	驻车制动器
+
+
+hand-operated 手动式
+foot-operated 脚动式
+pedal type parking brake 踏板式驻车制动器
+control lever 操纵杆
+parking brake lever  驻车制动器拉杆
+release button  释放按钮
+return spring 回位弹簧
+release rod  释放杆
+equalizer 平衡臂
+spacer 隔 套
+parking brake strut    驻车制动器撑杆
+parking brake lever    驻车制动器杠杆
+
+control cable[pull wire] 操纵拉索
+cable bracket 拉索支架
+parking brake stick 驻车制动器拉杆
+pull-twist hand grip 拉-转手柄
+ratchet draw bar 棘爪拉杆
+guide （拉杆）导管
+ratchet （pawl）    棘爪
+parking brake pedal 驻车制动器踏板
+release knob 释放球柄
+release handle[lever]  释放手柄
+parking brake switch 驻车制动灯开关
+air absorber 空气缓冲器
+
+
+
+
+
+Fig. 17-7	Vacuum Booster
+图 17-7	真空助力器
+
+
+vacuum power [brake] booster 真空助力器
+lever-type （vacuum） booster， vacuum booster with lever reaction   反馈杠杆式真空助力器，反作用杆式真空助力器
+disc-type  （vacuum）  booster，  vacuum booster with disc reaction
+反作用盘式真空助力器，反馈盘式真空助力器
+A， B	single diaphragm vacuum booster
+单膜片式真空助力器
+tandem diaphragm-type vacuum booster
+串联膜片式真空助力器
+dual diaphragm vacuum booster 双 膜片式真空助力器
+piston rod  活塞杆
+output pushrod 输出推杆
+diaphragm 膜 片
+air valve   空气阀
+vacuum valve 真空阀
+air filter 空气滤清器
+
+control valve 控制阀
+floating control valve 浮动式控制阀
+reaction lever 反馈[作用]杠杆
+valve body 阀 体
+piston 活 塞
+power piston  助力活塞
+rear housing 后 壳
+front housing 前 壳
+vacuum check valve 真空单向阀
+reaction plate  反作用板
+air valve spring 空气阀弹簧
+pedal pushrod 踏板推杆
+control valve spring 控制阀弹簧
+air passage 气 道
+reaction  （body）  retainer    反作用体保持盘
+piston return spring 活塞回位弹簧
+reaction disc  反作用盘
+boot 防尘罩
+center plate 中间板
+
+
+
+
+Fig. 17-8	Metering Valve， Proportioning Valve and Combination Valve
+图 17-8	计量阀、比例阀和组合阀
+
+
+metering valve  计量阀
+P valve = proportioning valve 比例阀
+proportioner 比例阀
+B1 DSPV = deceleration sensing propor- tioning valve  减速感知比例阀inertia proportioning valve， load-sensing proportioning valve with“G” ball 惯性比例阀
+combination valve 组合阀（包括 A， B，D）
+P.B.V = P&B valve = proportioning & bypass valve 比例旁通阀
+failure warning switch 故障警报开关
+differential pressure warning switch assembly 差压式警报开关总成
+L.S.P.V. = L.S.V. = load - sensing and proportioning valve 感载比例阀
+front brake 前制动器
+master cylinder 主 缸
+rear brake   后制动器
+brake hose   制动软管
+brake tube[tubing， pipe， line]   制动管路
+boot 防尘罩
+diaphragm 膜 片
+to front brake 至前轮制动器
+
+from master cylinder primary outlet 来自主缸第一输出口
+switch terminal 开关接线柱
+switch pin  开关销
+from master cylinder secondary outlet
+来自主缸第二输出口
+proportioning nut 比例阀螺母
+to rear brake 至后轮制动器
+stop plate 止动板
+proportioning piston 比例阀活塞
+valve stem 阀 杆
+switch piston  开关活塞
+O-ring O 形（密封）圈
+metering valve seal 计量阀密封圈
+metering valve stem 计量阀杆
+G ball G 球，惯性球
+ball seat 球 座
+bypass valve 旁通阀
+load-sensing spring 感载弹簧
+cylinder body 缸 体
+valve seal   阀密封圈
+piston 柱 塞
+control spring 控制弹簧
+cup 托 盘
+
+
+
+
+Fig. 17-9	ESP = Electronic Stabilization Program
+图 17-9	电子稳定程序（德系车用语）
+
+
+此装置还常用以下用语：
+VSC = vehicle stability control 车辆稳定性控制装置
+VDC = vehicle dynamics control 车辆动态控制装置
+VSA = vehicle stability assistance  车 辆稳定性辅助装置
+ESC = electronic stabilization control  电子稳定性控制装置
+wheel brake 车轮制动器
+WSS = wheel speed sensor 轮速传感器
+engine ECU with CAN interface 带
+CAN 接口的发动机 ECU
+throttle actuator 节气门执行器
+electronic throttle 电子节气门
+steering angle sensor 转向盘转角传感器
+vacuum booster/master cylinder 带 主
+
+缸的真空助力器
+ELEK brake control module 电 子 制动 控 制 模 块   ELEK=elektron（德语）电子EBCM=electronic brake control module 制动电子控制模块（通用汽车公司用语）
+注：“制动电子控制模块”也有下列名称，如：
+hydraulic control unit with ECU 带
+ECU 的液压控制单元
+brake actuator 制动执行器（丰田汽车公司用语）
+deceleration  sensor  with  yaw  （rate） sensor 带横摆传感器的减速度传感器yaw rate & deceleration sensor 横 摆
+率和减速度传感器
+
+
+
+
+Fig. 17-10	Electrical Components of ESP
+图 17-10	电子稳定程序电气零部件
+
+
+active type speed sensor 主动式轮速传感器
+passive type speed sensor 被动式轮速传感器
+BA = brake assist 制动辅助装置（紧急制动时自动加大管路油压）
+N N pole N 极，北极
+S S pole S 极，南极
+speed sensor   轮速传感器
+sensor rotor   传感器转子
+coil 线 圈
+magnet 磁 铁
+
+steering angle sensor 转向角度传感器
+yaw （rate） sensor    横摆传感器
+deceleration sensor 减速度传感器
+master cylinder pressure sensor  主 缸压力传感器（丰田汽车公司用语） brake pressure sensor 制动压力传感器（大众汽车公司用语）
+skid control ECU  滑移控制 ECU
+control unit with hydraulic modulator
+带液压调节器的控制单元
+9+10 brake actuator  制动执行器（丰田汽车公司用语）
+
+
+
+
+Fig. 17-11	Brake Piping [Lines]
+图 17-11	制动管路
+
+
+brake hose 制动软管
+flexible hose 软 管
+1a front flexible hose 前软管
+1b rear flexible hose  后软管
+hose protector  软管护套
+hose clip  软管夹
+bridge pipe[tube] 跨接管
+tube seat 管 座
+flare nut 扩口管接头螺母，连管器螺母
+brake connection 制动接头
+filling nut 安装螺母
+
+brake pipe[tube] 制动管
+connector 接 头union     连接器3 way 3 通
+brake hose T-fitting 制动软管T 形接头
+tube clamp 管 夹
+tube protector 管护套
+connector bolt 连接螺栓
+gasket 密封垫
+bleed screw cup 放泄螺钉盖
+bleed screw 放泄螺钉
+eye connector  孔形连接头
+
+
+
+Fig. 17-12	Electro Hydraulic Brake and Electro Mechanical Brake
+图 17-12	电动液压制动和机电制动
+
+
+EHB =electro hydraulic  brake  电动液压制动
+	EMB=electro  mechanical  brake	机电制动
+FW=front wheel 前 轮
+RW=rear wheel 后 轮
+hydraulic line with back-up 带 后 备的液压管路
+actuating unit with hydraulic pedal- travel simulator 带踏板行程液压模拟器的作动模块
+
+hydraulic pipe without back-up  不带后备的液压管路
+wheel brake 车轮制动器
+EMB wheel module 机电制动车轮模块APB = automated parking brake 自 动 驻车制动器
+electric pedal-travel simulator  踏板行程电模拟器
+electrical-system management  电气系统管理

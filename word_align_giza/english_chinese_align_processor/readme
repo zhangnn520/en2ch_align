@@ -1,0 +1,19 @@
+维修步骤对齐方法：
+1、第一步对中英文操作手册进行分词和数据预处理
+预处理代码位置：E:\ENOCH-2022\NLP_MODEL\07_machine_transformer\word_align_giza\english_chinese_align_processor\get_data_from_xlsx.py
+
+
+2、第一步部署使用GIZA++工具，使其能正常运行
+工具现在在本服务器wsl中/home/znn/data/giza-pp目录下
+详细操作步骤可参考：
+https://blog.csdn.net/orangefly0214/article/details/103529154/?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-2--blog-6006659.pc_relevant_vip_default&spm=1001.2101.3001.4242.1&utm_relevant_index=5
+
+注意：执行该算法时非常慢，几乎没有动静。
+python align_sym.py e2z.A3.final z2e.A3.final > aligned.grow-diag-final-and
+python align_plot.py en.txt zh.txt aligned.grow-diag-final-and 0
+
+3、将GIZA++工具运行的结果【e2z.A3.final和z2e.A3.final】从wsl中导出，进行然后调用对齐处理工具
+对齐处理工具E:\ENOCH-2022\NLP_MODEL\07_machine_transformer\word_align_giza\english_chinese_align_processor\维修手册对齐代码.py
+
+
+4、将结果写出到对应的文件中，例如这里的《Model3维修手册-GIAZ-en2ch单向对齐结果.json》

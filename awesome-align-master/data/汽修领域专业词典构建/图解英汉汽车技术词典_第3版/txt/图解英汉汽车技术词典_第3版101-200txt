@@ -1,0 +1,2693 @@
+
+
+
+Fig. 5-11	Turbocharger
+图 5-11	废气涡轮增压器
+
+
+turbocharger	废气涡轮增压器（标准用语），涡轮增压器（常用用语） turbocharging system， exhaust-gas turbo- charger system  废气涡轮增压器装置ALT = Abgasturbolader （德语）废气涡轮增压器
+A truck exhaust gas turbocharger with twin-flow turbine housing 货车用双进口涡轮壳废气涡轮增压器
+B1  variable turbine geometry 涡 轮 的可变几何截面
+variable geometry turbocharger  可变几何截面涡轮增压器
+B2  turbocharger  components   废气涡轮增压器零部件
+engine   发动机
+forced induction engine， supercharged [pressure-charging] engine 增压发动机turbocharged engine 涡轮增压发动机turbocharged-and-aftercooled engine 涡轮增压中冷发动机
+intercooler 中冷器
+air to air intercooler 风冷进气中冷器
+air cleaner 空气滤清器
+air flow meter 空气流量计
+impeller wheel 叶 轮
+centrifugal impeller 离心式叶轮
+compressor wheel [impeller] 压气机叶轮
+exhaust   （gas）   turbocharger，   TC=turbo， turbocharger，  turbosupercharger   （废气）涡轮增压器
+turbine 涡 轮
+turbine wheel， turbine rotor   涡轮工作轮
+centripetal [radial] turbine   径流式涡轮
+
+turbine blade 涡轮叶片
+5， 7    centrifugal impeller    离心式叶轮
+turbocharger waste gate 涡轮增压器废气旁通阀
+waste gate（valve）    废气旁通阀
+actuator 执行器
+turbocharger waste gate regulating valve 涡轮增压器废气旁通阀调节阀turbocharging pressure VSV[vacuum solenoid valve]  废气增压压力真空电磁阀
+10a ECU 电控模块
+turbine inlet casing 涡轮进气壳
+compressor housing [casing] 压气机壳
+precompressed fresh  air  预压缩新鲜空气
+oil supply 机油供给
+incoming exhaust gas 进入的废气
+turbine casing [housing]   涡轮壳
+exhaust gas discharge   废气排出
+outgoing exhaust gas 排出的废气
+bearing housing 轴承体
+rotor 转 子
+intermediate housing 中间壳体
+oil return   回油，机油返回
+atmospheric fresh air 大 气
+fresh air 新鲜空气
+control cam 控制凸轮
+adjustable guide blade  可调导向叶片
+guide blade with adjusting lever  带调节杆的导向叶片
+adjusting ring 调节环
+full-float bearing 全浮式轴承
+
+
+
+Fig. 5-12	Sequential Supercharging and Pressure-Wave Supercharger
+图 5-12	连续增压和气波增压器
+
+
+sequential supercharging 连续增压two-stage pressure  wave  charging  两级气波增压
+run-up in one-charger  operation  单增压器运行的起动
+controlled  one-charger  operation	单增压器运行的控制
+two-charger operation  双增压器运行
+turbocharger 1   涡轮增压器 1
+turbocharger 2   涡轮增压器 2
+compressor cut-in valve  压缩接通阀
+turbine cut-in valve 涡轮接通阀
+
+transverse pipe  横向管
+bypass valve 旁通阀
+pressure wave charging 气波增压pressure-wave supercharger 气波增压器
+engine 发动机
+rotor 转 子
+belt drive 带驱动
+high-pressure exhaust gas 高压排气
+high-pressure air  高压空气
+low-pressure air inlet    低压空气进口
+low-pressure gas outlet   低压气体出口
+
+
+Fig. 5-13	eBooster Supercharging System
+图 5-13	电动增压装置
+
+
+schematic of electrically assisted exhaust- gas turbocharger 电动辅助废气涡轮增压器原理图
+schematic of series connection of eBoost- er  and  exhaust-gas  turbocharger   电动增压器和废气涡轮增压器串联原理图
+eBooster supercharger = electrical Boost- er supercharger 电动增压器
+internal combustion engine 内燃机
+intercooler 中冷器
+bypass  valve  of  turbocharger，  turbo- charger waste gate 涡轮增压器废气旁通阀
+turbine 涡 轮
+
+compressor 压气机
+electric motor 电动机
+triggering electronics for electric motor
+电动机电子触发装置
+bypass valve for eBooster 电动增压器旁通阀
+eBooster  compressor	电动增压器压气机
+exhaust gas 废 气
+intake air 进 气
+compressor housing   压气机壳
+compressor wheel   压气机叶轮
+carrier housing 支撑壳
+bearing 轴 承
+
+
+
+Fig. 5-14	Dynamic Supercharging
+图 5-14	动态增压
+
+
+Ⅰ ram-pipe supercharging    冲压管增压Ⅱ tuned-intake pressure charging 谐波增压
+resonance supercharging 谐波增压
+cylinder group A   A 组气缸
+cylinder group B    B 组气缸
+Ⅲ oscillatory intake system 振荡进气系统VIS = variable intake system 可变进气系统
+intake duct geometry with changeover valve closed 转换阀关闭时进气管几何截面
+intake duct geometry with changeover valve open 转换阀开启时进气管几何截面
+
+
+cylinder 气 缸
+individual runner 独立进气管
+common plenum chamber 共用充气室
+throttle valve 节气门
+short intake manifold 短进气歧管
+resonance [tuned] tube  谐振管
+changeover valve 转换阀
+long，  thin  oscillatory  intake  passage with changeover valve closed 转换阀关闭，振荡进气通道细长
+short，  wide  oscillatory  intake  passage with changeover valve open 转 换 阀开启，振荡进气通道短粗
+
+Cooling System and Lubrication System
+冷却系统和润滑系统
+参考： GB/T  6809.5-2010《往复式内燃机 零部件和系统术语 第5 部分：冷却系统》 GB/T  6809.6-2009《往复式内燃机 零部件和系统术语 第6 部分：润滑系统》
+
+
+
+Fig. 6-1	Liquid Cooling System
+图 6-1	液冷系统
+
+water cooling system 水冷系统
+cross flow cooling system 横流式冷却系统
+circulative cooling 循环冷却
+expansion  [additional]  tank，  expansion reservoir    辅助水箱，膨胀水箱engine coolant reservoir 发动机冷却液罐
+cross flow radiator 横流式散热器
+fan 风 扇
+heater 暖风装置
+interior heater 车内暖风装置
+water passage of cylinder head 气 缸 盖水道
+
+water jacket 水 套
+oil gallery 油 道
+oil sump [pan] 油底壳
+oil pump  机油泵
+oil strainer 机油滤网
+water pump 水 泵
+thermostat 节温器
+oil cooler 机油冷却器
+oil filter 机油滤清器
+by-pass valve 旁通阀
+by-pass pipe 旁通管
+
+
+
+
+Fig. 6-2	Radiator
+图 6-2	散热器
+
+
+参考：SAE J631-2013《散热器术语》
+A   down flow radiator   竖流式散热器B  cross flow radiator   横流式散热器A， B sheet metal radiator 金属板散热器
+C components of cross flow radiator
+横流式散热器零部件
+cooling module 冷却模块
+inlet tank 进水室
+la	top tank， upper tank， header tank
+上水箱
+overflow tube， overflow pipe    溢流管
+filler  cap，  filler-inlet[neck]  cap	加注口盖
+radiator （pressure） cap    散热器盖
+pressure cap 压力盖
+filler neck 加注口颈
+inlet 进 口
+water inlet 进水口
+outlet 出 口
+water outlet 出水口
+core 芯
+radiator core 散热器芯
+oil cooler-fitting （optional）    机油冷 却器接头（选装）
+liquid-cooling[cooled] oil cooler  液 冷式机油冷却器
+liquid-cooling[cooled] ATF cooler 液冷式 ATF 冷却器
+outlet tank 出水室
+9a lower[bottom] tank 下水箱
+thread drain 螺纹放水孔，放水螺纹孔
+
+side member， side brace 侧支架
+header 端 板
+water  return  （optional）    水回流口（选装）
+ATF cooler = automatic transmission fluid cooler 自动变速器油冷却器transmission-fluid  cooler	变速器油冷却器
+liquid cooled ATF cooler  液冷式 ATF
+冷却器
+oil-to-coolant oil cooler 液冷式机油冷却器
+gasket 密封圈
+O-ring O 形 圈
+fan 风 扇
+7 blade fan 7 叶片风扇
+fan blade 风扇叶片
+16a fan cowl[shroud] 风扇罩
+cooling fan assembly 冷却风扇总成
+16+17	radiator fan shroud assembly
+散热器风扇罩总成
+fan clutch  风扇离合器
+viscous fan coupling[clutch]， fan hydraulic coupling[clutch] 黏液风扇离合器viscous coupling[clutch] 黏液离合器
+oil-cooler tank 机油冷却器油室
+engine-oil[motor-oil] cooler  机油冷却器
+air-cooled oil cooler  风冷式机油冷却器
+
+
+
+Fig. 6-3	Radiator Cap and Water Pump
+图 6-3	散热器盖和水泵
+
+
+A radiator cap 散热器盖（常用） radiator pressure[filler] cap 散热器盖pressure cap  压力盖
+pressure radiator cap 散热器压力盖A1  pressure valve open  压力阀开启A2   vacuum valve open    真空阀开启B water pump 水泵（常用）
+coolant  （-water）  pump，  liquid  coolant pump 冷却水泵
+radiator cap  散热器盖
+spring 弹 簧
+over flow [escape] pipe （to coolant reserve tank） 溢流管（至辅助水箱）
+filler neck 加液口
+vacuum valve 真空阀（常用）
+vent valve 通气阀
+vacuum relief valve 真空泄[释]压阀
+
+pressure valve 压 力 阀 （ 常 用 ） pressure disc valve 盘形压力阀pressure release[relief] valve 泄[ 释] 压阀
+cap relief valve   盖泄[释]压阀
+pump impeller shaft  with  bearing  带轴承的水泵叶轮轴
+coolant pump shaft  水泵轴
+fixing  screw，  fastening  screw，  attach- ment screw 固定螺钉，止动螺钉
+coolant    pump    housing[body，    case]
+水泵壳体
+pump impeller 水泵叶轮
+rotor 转 子
+coolant pump seal 水泵水封，水封
+belt pulley hub， pulley hub	带轮轮毂
+
+
+
+Fig. 6-4	Thermostat and Coolant Pump Seal
+图 6-4	节温器和水封
+
+
+wax-element thermostat   蜡式节温器
+with bypass valve   有旁通阀
+thermal wax 热敏石蜡
+without bypass valve 无旁通阀
+coolant  pump  seal 水 封C1 spring-loaded 弹簧加载的C2 unitized 单元式的
+C3 unitized-positive drive mating ring
+单元强制驱动啮合环式
+main valve 主 阀
+piston 推 杆
+tapered piston rod 锥形推杆
+swing valve 摇阀（排空气用）
+rubber 橡 胶
+rubber boot 橡胶套管
+bypass valve 旁通阀
+
+cylinder 缸 筒
+wax pellet 蜡 球
+to radiator 至散热器
+at cooling 冷 时
+at heating 热 时
+from head   来自气缸盖
+to water pump   至水泵
+cartridge 座 圈
+bellows 伸缩软管
+spring 弹 簧
+ferrule 环 圈
+primary seal ring 主密封圈
+secondary drive seal 驱动辅助密封圈
+mating ring 啮合环
+unitizer 配套器
+
+
+
+
+Fig. 6-5	Fan Clutch [Coupling]
+图 6-5	风扇离合器
+
+
+viscous clutch  黏液离合器
+fan viscous clutch 风扇黏液离合器
+thermostatic fan hydraulic coupling [clutch]    温控风扇液力离合器bimetal temperature control viscous clutch 双金属调温式黏液离合器
+electronically controlled viscous clutch
+电子控制黏液离合器
+housing， basic body    壳体
+rotor cover 转子盖
+ball bearing 球轴承
+flanged shaft 法兰轴
+latch plate 锁止板
+fan blade 风扇叶片
+rotor 转 子
+clutch plate 离合器板
+
+sealing ring 密封圈
+fluid reservoir chamber cap 储液室盖
+disk valve 片 阀
+bimetallic coil spring 双金属盘簧bimetal temperature regulating valve 双金属温度调节阀
+valve-lever spring   阀杆弹簧
+solenoid armature   电磁衔铁
+intermediate disk 中间盘
+primary disk 初级盘
+Hall-effect sensor 霍尔传感器
+permanent magnet  永久磁铁
+solenoid coil 电磁线圈
+speed pulse ring 转速脉冲环
+magnetic-flux control ring 磁通控制环
+
+
+
+Fig. 6-6	Electronically Controlled Thermostat
+图 6-6	电子控制节温器
+
+
+map-controlled  thermostat	图谱控制节温器
+electronic control of coolant tempera- ture 冷却液温度电子控制装置
+connector 插接器
+connection  to  radiator	与散热器的接头
+housing of working element 工 作 元件壳体
+elastomer insert 弹性嵌入件
+piston 活 塞
+bypass spring 旁通阀弹簧
+bypass valve 旁通阀
+housing 壳 体
+heating resistor  加热电阻
+
+main valve 主 阀
+main spring 主阀弹簧
+connection from  engine  来自发动机的接头
+tie bar 横 杆
+connection to engine 到发动机的接头
+electronically controlled thermostat
+电子控制节温器
+electrical fan 电动风扇
+air-temperature map 空气温度图谱
+load map  负荷图谱
+speed map  转速图谱
+cooling-temperature  map	冷却液温度图谱
+logic unit 逻辑单元
+
+
+
+Fig. 6-7	Controlled Cooling System
+图 6-7	可控冷却系统
+
+
+controllable cooling system 可控冷却系统
+condenser 冷凝器
+radiator 散热器
+shutter 百叶窗
+fan 风 扇
+thermostat 节温器
+control unit 控制模块
+fan motor 风扇电动机
+electronically controlled thermostat
+电子控制节温器
+pump electric motor 水泵电动机
+
+engine 发动机
+electric motor   电动机
+heater core   取暖器芯
+stepper motor 步进电动机
+low-temperature circuit 低温回路
+low-temperature  regulator	低温调节器
+oil cooler 机油冷却器
+transmission 变速器
+transmission  oil  cooler	变速器油冷却器
+
+
+
+
+Fig. 6-8	Forced-Feed Lubricating System
+图 6-8	压力供油式润滑系统
+
+
+force-feed lubrication 强制润滑，压力润滑pressurized lubrication 压力润滑，强制润滑wet sump force-feed lubrication  湿 式油底壳强制润滑
+splash lubrication 飞溅润滑（多数车用发动机润滑系统实际上同时采用了强制润滑和飞溅润滑）
+pressure lubrication system 压力供油式润滑系统
+fully pressurized， fully filtered lubrication system 全压、全流滤清式润滑系统
+oil pressure switch 油压开关
+oil pressure sensor 油压传感器
+main oil gallery [line] 主油道lubricating oil filter 机油滤清器（标准推荐英语，不常用）
+oil filter 机油滤清器（常用）
+paper（-element）  filter   纸质（滤芯）滤清器
+single-stage  lubricating  oil filter  单 级
+
+机油滤清器
+full-flow lubricating  oil filter  全流式机油滤清器（车用汽油机几乎都用全流式，此为标淮推荐英语，但不常用） full-flow oil filter 全流式机油滤清器
+（常用）
+spin-on cartridge lubricating oil filter 旋装式机油滤清器（车用汽油机几乎都用旋装式，此为标淮推荐英语，不常用）
+oil cooler 机油冷却器
+air oil cooler 风冷式机油冷却器
+relief valve 泄[释]压阀
+lubricating oil suction strainer  机 油集滤器
+suction strainer 吸入口滤网
+oil strainer 机油滤网
+pickup pipe and screen 吸入管和滤网
+oil pump  机油泵
+
+
+
+Fig. 6-9	Oil Pan and Filter
+图 6-9	油底壳和机油滤清器
+
+
+说明： 参照了 2013 通用科鲁兹配件目录英语。先将目录中缩略语按字母顺序全文列出，以便读者查阅。
+ADAP = adapter  适配器，转接器，连接装置
+BLK = block 气缸体
+BR = brace 支 撑
+CHK = check （阀门） 单向的
+CLR = cooler  冷却器DRN = drain  排出，排除ENG = engine  发动机EXH = exhaust 排 气FLTR= filter    滤清器HSG = housing  壳 体IND = indicator  指示器INL= inlet 进 口
+LVL= level 液面位MANIF= manifold 歧 管O/PMP = oil pump 机油泵OTLT = outlet 出 口PRESS = pressure 压 力SUC = suction 吸 入
+SW = switch 开 关
+THERM = thermostat 节温器
+W/O = without 不带有，没有，无
+BLOCK， ENG（SERVICED BY PAR- TIAL  ENGINE）    发动机气缸体（用作短发动机）
+COOLER， ENG OIL（W/FLTR）（*KIT1）
+机油冷却器（带滤清器）（*1 号维修包）
+CAP， OIL FLTR    机油滤清器盖
+SEAL，OIL FLTR CAP（O RING）（*KIT3）机油滤清器盖密封件（O  形圈）（*3  号维修包）
+INSERT，   OIL   FLTR（*KIT1，KIT3）
+机油滤清器滤芯（*1， 3 号维修包）
+ADAPTER，  OIL  FLTR（*KIT1）    机油滤清器适配器（*1 号维修包）
+VALVE，  OIL  FLTR  CHK（*KIT1）
+机油滤清器单向阀（*1 号维修包）
+COOLER，  ENG  OIL（W/O  FLTR）
+发动机机油冷却器（不带滤清器）
+BOLT， ENG OIL CLR 发动机机油冷却器螺栓
+SEAL，  ENG  OIL  CLR（TO  CLR）
+
+发动机机油冷却器密封件（至冷却器）
+SEAL， OIL FLTR ADAP（O RING）
+机油滤清器适配器密封件（O 形圈）
+SEAL，  ENG  OIL  CLR（TO  ENG）
+发动机机油冷却器密封件（至发动机）
+PIPE， ENG OIL CLR OTLT    发动机机油冷却器出口管
+SEAL， THERM BYPASS PIPE （O RING）   节温器旁通管密封件（O 形圈）
+SEAL， ENG OIL CLR OTLT 发动机机油冷却器出口管密封件 （O 形圈）
+PIPE， ENG OIL CLR INL   发动机机油冷却器进口管（包括17）
+SEAL， ENG OIL CLR INLT PIPE 发动机机油冷却器进口管密封件（O 形圈）
+BOLT， ENG OIL CLR HSG 发动机机油冷却器壳体螺栓
+BOLT， ENG OIL CLR OTLT PIPE
+发动机机油冷却器出口 管螺栓
+SW， ENG OIL PRESS IND   发动机机油压力指示器开关
+INSULATOR， ENG OIL PRESS IND SW HSG  发动机机油压力指示器开关壳体隔垫
+OIL PAN   油底壳
+DEFLECTOR， OIL PAN   油底壳导流板
+STRAINER， O/PMP   机油泵滤网
+PLUG， OIL PAN   油底壳孔塞
+SCREW， OIL PAN DRN   油底壳排放螺塞
+SEAL， OIL PAN DRN SCREW   油底壳排放螺塞密封件（O 形圈）
+BOLT， OIL PAN   油底壳螺栓
+TUBE， DIPSTICK   机油尺套管
+SEAL， DIPSTICK   机油尺密封件（O形圈）
+IND， OIL LEVEL    油位指示器，机油尺
+SEAL， DIPSTICK   机油尺密封件（O形圈）
+BOLT， EXHAUST   MANIFOLD HEAD SHIELD  排气歧管隔热护罩螺栓
+
+
+
+Fig. 6-10	Oil Pump
+图 6-10	机油泵
+
+
+oil gear pump  齿轮式机油泵
+external gearing oil gear pump 外啮合齿轮式机油泵
+view of pump and pressure reduction valve operating principle  泵和减压阀工作原理图
+internal gear pump parts  内啮合齿轮式泵零件
+internal gear pump operating principle diagram 内啮合齿轮式泵工作原理图
+oil collector  机油收集器
+pressure reduction valve 减压阀
+
+valve spring 阀弹簧
+driven gear 从动齿轮
+pump case 泵壳体
+drive gear 主动齿轮
+driven gear shaft 从动齿轮轴
+drive shaft 驱动轴
+drive gear 驱动齿轮
+front crankshaft oil seal 曲轴前油封
+pump cover 泵 盖
+rubber sealing ring 橡胶密封圈
+crescent bump in gear 齿轮间新月形凸起
+
+
+
+Fig. 6-11	Oil Filter
+图 6-11	机油滤清器
+
+
+full flow lubricating oil filter 全流式机油滤清器
+bypass lubricating oil filter， partial-flow
+（oil） filter    分流式机油滤清器
+spin-on  oil  filter，  rotating  centrifugal lubricating oil filter， centrifuge   离心式机油滤清器
+liquid cooled oil cooler 液冷式机油冷却器
+water  cooling  oil  cooler，  oil  to  water cooler，  liquid  to  liquid  oil  cooler    液冷式机油冷却器
+oil to engine 至发动机的机油
+oil from pump 来自机油泵的机油
+anti-drain valve 防泄流阀
+check valve （进口）单向阀
+
+
+filter  element[insert，  cartridge，  unit]
+滤芯
+paper  element[insert，  cartridge]	纸质滤芯
+filter bowl[housing， box]   滤清器壳 （体）
+bypass[overflow， relief] valve    旁通阀
+relief valve 泄[释]压阀
+oil to oil sump 流回油底壳的机油
+suction strainer， inlet filter   吸入口滤网
+9a oil from sump 来自油底壳的机油
+oil pump 机油泵
+restricting orifice  限流孔
+rotor body   转子体
+rotor cover   转子罩
+to oil fine filter 至机油细滤器
+engine coolant 发动机冷却液
+
+Gasoline Engine Fuel System
+汽油机燃油系统
+
+
+Fig. 7-1	Fuel Supply and Delivery with Intake-Manifold Injection
+图 7-1	进气歧管喷射的燃油供给和配送
+
+
+fuel feed system 供油系统
+standard system 标准系统
+returnless fuel supply system 无回油供给系统
+control demand system 按需控制系统
+fuel tank 燃油箱
+electric fuel pump 电动燃油泵
+fuel filter 燃油滤清器
+pressure line， pressure pipe    压力油管
+fuel pressure regulator  燃油压力调节器
+injector 喷油器
+
+fuel rail， fuel distributor， fuel manifold， fuel distributing rail 燃油轨，燃油分配管
+return line， return pipe 回油管
+fuel  rail  （no  return  flow）    燃油轨（无回油流动）
+electric fuel pump with filter  带 滤清器的电动燃油泵
+pressure relief valve and pressure sensor 泄压阀和压力传感器
+timing module  正时模块
+
+
+Fig. 7-2	Fuel Supply and Delivery with Gasoline Direct Injection
+图 7-2	汽油直喷的燃油供给和配送
+
+
+continuous-delivery  system	连续配送系统
+demand-controlled system 按需调节系统
+suction-jet pump 吸射泵
+electric fuel pump   电动燃油泵electric fuel pump with fuel filter  带有燃油滤清器的电动燃油泵
+pressure regulator 压力调节器
+low-pressure line  低压油路
+three-barrel radial - piston pump 径向三柱塞泵
+continuous-delivery high-pressure pump
+连续配送式高压燃油泵
+5， 14   high-pressure   pump   for   gasoline direct injection  汽油直喷用高压燃油泵
+high-pressure line 高压油路
+
+high-pressure sensor 高压传感器
+rail pressure sensor 轨压传感器
+rail， fuel rail    燃油轨
+pressure-control valve 压力控制阀
+high-pressure injector 高压喷油器
+11，12 flow direction of fuel  燃油流动的方向
+pressure - relief valve and pressure sensor
+泄压阀和压力传感器
+single - barrel radial-piston high pressure pump 单柱塞高压泵
+demand-controlled high-pressure pump with integrated fuel-supply control valve and pressure-limiting valve 集成供油控制阀和限压阀的按需调节式高压泵
+clock module for controlling the electric fuel pump  控制电动燃油泵的时钟模块
+
+
+
+Fig. 7-3	Fuel Tank
+图 7-3	燃油箱
+
+说明： 参照了《2013 通用科迈罗配件目录英语》。先将目录中缩略语按字母顺序全文列出，以便读者查阅。
+CM = cam 凸轮，偏心轮（本图中指偏心式的）
+CNSTR = canister 炭 罐DIA = diameter 直 径EMIS = emissions 排放物EVAP = evaporative 蒸 发FIL = filler 加注口
+FLS = fuel-level sender [sensor] 燃油表传感器
+F/PMP = fuel pump 燃油泵
+F/TNK = fuel tank 燃油箱
+HFH = hexagon head with flange 六角法兰头
+HARN = harness 线 束H/SHLD = heat shield 隔热板HT = heat 热
+INCLS = inclusion  包含，包括
+LK= lock 锁止
+MACH = machine 机械，机械加工的OD = outer [outside] diameter 外 径PRESS = pressure 压 力
+RR = rear 后（方，面，部） SDR= sender 传感器，同 sensor SOL= solenoid 电磁阀
+STL = steel 钢
+STRP = strip 带，箍带
+THD = thread 螺纹（本图中指螺纹长度）
+THK = thick  厚 的VLV = valve 阀（门） W/ = with 带，有，用
+WRG = wiring 接线，配线，线路
+HARNESS， F/PMP WRG    燃油泵线束
+SENSOR，	FUEL PRESS（ PART OF 3）
+（ AC-DELCO ） 燃油压力传感器（3 的零件） （AC 德科）
+PIPE，  FUEL  FEED  RR（  INCLS  2  ）
+后供油管（包括 2）
+PIPE， FUEL SDR FUEL FEED（CON- NECTS THE 2 FUEL PUMP ASSEM- BLIES IN THE TANK）   燃油表传感器供油管（连接燃油箱中的2 个燃油泵总成）
+5， 6    CAM， FUEL SDR（USE ON PRIM- ARY PUMP）（130 MM OPENING C-
+AM LOCK RING）   燃油表传感器偏心锁环（用于初级泵上）（130mm  开口偏心锁环）
+SENSOR，FUEL LVL（PART OF 8）   燃油表传感器（8 的零件）
+
+SENDER  KIT，FUEL（INCLS  7，  9）   燃油表传感器套件（包括 7， 9）
+SEAL，F/PMP（O RING）（PART OF 8）（AP- PROX SIZE：112.5×6.0）   燃油泵密封件（O形圈）（8 的零件）（近似尺寸：112.5×6.0）
+VALVE，  EVAP  EMIS CNSTR VENT SOL（PART  OF  11）（W/COVER）    蒸发排放物炭罐通风电磁阀（带盖）
+CANISTER，EVAP EMIS（INCLS 10）
+蒸发排放物炭罐（包括 10）
+12    BOLT， HFH， M6×1×25， 18 THD， 14.2 OD， 10.9 STL （EVAP EMIS CNSTR）
+螺栓，六角法兰头，M6×1×25，螺纹长度
+18， 外径14.2， 钢10.9 （蒸发排放物炭罐）
+PIPE， EVAP EMIS CNSTR PURGE RR 蒸发排放物炭罐净化通风后管
+HOSE， F/TNK FIL EVAP EMIS VLV
+燃油箱加注口蒸发排放物阀软管
+SENSOR， F/TNK PRESS（REAR OF TANK）    燃油箱压力传感器（燃油箱后部）
+CLIP， EVAP EMIS CNSTR PURGE HARN（HOLDS 2 LINES DIA 7.9 AND ONE 9.5 DIA LINE）   蒸发排放物炭罐线束卡扣（固定 2 根直径 7.9 的管子和一根直径 9.5 的管子）
+17    BOLT， HFH，M10×1.5×35， 32 THD，
+22.3  OD，  MACH  （F/TNK  STRP）  六角法兰头螺栓，M10×1.5×35，螺纹长度32，外径 22.3，机械加工（燃油箱箍带）
+STRAP， F/TNK    燃油箱箍带
+NUT， HFH SELF LK，M6×1，7.7 THK，
+14.2 OD，9（F/TNK H/SHLD）    螺母，六角法兰头锁止，M6×1，7，厚度7，  外径 14.2 （燃油箱隔热板）
+SHIELD， F/TNK HT    燃油箱隔热板
+TANK， FUEL    燃油箱
+	SEAL， F/PMP（O RING）（PART OF 23， 24）（APPROX  SIZE：147.5MM  ×6MM）燃油泵密封件（O 形圈）（23，24 的零件）（近似尺寸：147.5mm×6mm）
+MODULE KIT，F/TNK F/PMP （W/O FUEL LVL SEN） 燃油箱燃油泵模块组件 （不带燃油表传感器）（包括 22）
+SENSOR KIT，FUEL LVL（INCLS 22）
+（PRIMARY  FLS  KIT）  燃油表传感器套件（包括 22）（燃油表主传感器套件）
+
+
+
+Fig. 7-4	Schematic View of Dual-Barrel 2-Stage Carburetor
+图 7-4	双腔分动式化油器原理图
+
+
+downdraught carburetor， downdraft carburetor
+下吸式化油器
+first stage， primary stage 第一阶段
+second stage， secondary stage 第 二阶段
+idle cutoff[shutoff ] valve 怠速截止阀
+accelerator pump  加速泵
+idle circuit 怠速油道
+choke 阻风门
+boost venture 小喉管
+main circuit with  emulsion  tube  带泡沫管的主油道
+full load - throttle enrichment device， full  load  enriching  device，full  throttle enriching device 全负荷加浓装置
+
+float 浮 子
+fuel-supply[feed] connection，fuel-supply union 油管接头
+needle valve 针 阀
+bypass plug 旁通孔塞
+idle  mixture （adjustment） screw    怠速混合气调整螺钉
+primary throttle valve 主腔节气门
+main  venture，  secondary  throat    大喉管
+part-throttle  control  valve	部分负荷控制阀
+venturi chamber 喉管腔
+power jet 功率量孔
+
+
+
+Fig. 7-5	Types of Electric Fuel Pump
+图 7-5	电动燃油泵类型
+
+
+positive-displacement pump 容积式泵
+flow-type pump  流通式泵
+roller-cell pump  滚子泵
+internal gear pump 内啮合齿轮泵
+C， D    centrifugal pump    离心泵
+peripheral pump  圆周泵
+side-channel pump 旁通道叶片泵Ⅰ，Ⅱ in-tank fuel pump   内置燃油箱燃油泵
+fuel  pump  for  returnless  fuel system
+无回油系统燃油泵
+module fuel pump 模块式燃油泵
+
+Ⅱ fuel pump with canister 带炭罐燃油泵
+fuel filter 燃油滤清器
+electric fuel pump 电动燃油泵
+suction-jet pump 吸射泵
+fuel pressure regulator 燃油压力调节器
+fuel gauge sender， fuel level sender
+（ sensor， transmitter ）    燃油表传感器
+prefilter 预滤清器
+CAN = canister 炭 罐
+fuel tank 燃油箱
+
+
+
+
+Fig. 7-6	Fuel Pump Structure
+图 7-6	燃油泵结构
+
+
+electric fuel pump 电动燃油泵
+peripheral pump 圆周泵centrifugal pump 离心泵impeller pump 叶轮泵
+roller-cell electric pump   电动滚子泵
+roller-type rotor pump    滚柱式转子泵a	longitudinal sectional view  纵剖面图b cross-sectional view 横剖面图
+（fuel） inlet    进油口
+bearing 轴 承
+magnet 磁 铁
+permanent magnet 永磁体
+check valve， non-return valve    单向阀
+（fuel） outlet    出油口
+（pressure） relief valve    泄压阀，释压阀
+
+pressure limiter  压力限制器
+armature 电 枢
+impeller 叶 轮
+impeller ring of flow-type pump 流 通式泵叶轮
+casing， housing    壳体
+roller race plate 滚子导板
+（carbon） brush    电刷
+rotor 转 子
+roller 滚 子
+discharge chamber  排出腔
+suction chamber 吸入腔
+commutator 整流器
+pressurized chamber   加压腔variable rate  valve  spring  可变刚度气门弹簧
+
+
+Fig.7-7	Types of Gasoline Direct Injection
+图 7-7	汽油直接喷射类型
+
+说明：不同汽车制造商对“汽油直接喷射” 有不同称谓。
+GDI = gasoline direct injection （三菱）汽油直接喷射
+Toyota D - 4 engine 丰田 D-4 型发动机FSI = fuel stratified injection （大众）燃油分层喷射
+SIDI engine = spark-ignition direct injection engine （通用）火花点燃式直接喷射发动机DISI = direct injection spark ignition （ 马自达）直喷点火
+HPI = high precision injection （宝马）高压精密喷射
+
+CGI（ 德文）  = stratified-charged gasoline injection （奔驰） 分层充填汽油喷射
+A  wall-directed injection  缸壁直接喷射B    air-directed injection    空气直接喷射C jet-directed injection 喷嘴直接喷射
+piston 活 塞
+intake valve 进气门
+ignition coil with spark plug 带 火 花塞的点火线圈
+exhaust valve 排气门
+high-pressure injector 高压喷油器
+spark plug 火花塞
+
+
+
+
+Fig. 7-8	Concept of Stratified Mixtures Formation
+图 7-8	分层混合气形成概念（直喷汽油机）
+
+
+
+
+
+Fig. 7-9	Fuel Injector for Intake-Manifold Injection
+图 7-9	进气歧管喷射喷油器
+
+
+A EV14 fuel injector EV14 型喷油器（博世） B EV6 fuel injector EV6 型喷油器（博世）
+hydraulic port 液压口
+sealing ring 密封圈
+O-ring O 形 圈
+valve housing 阀 体
+electrical connection 电气连接器
+plastic clip with inserted pins 带 插针塑料夹
+filter strainer 滤 网
+
+internal pole   内电极
+valve spring   阀弹簧
+solenoid coil 电磁线圈
+valve needle with armature  带衔铁的针阀
+nozzle needle 喷嘴针阀
+valve ball 阀 球
+valve seat 阀 座
+injection-orifice plate 喷孔板
+valve housing 喷油器壳体
+
+
+Fig. 7-10	High-Pressure Fuel Injector for Gasoline Direct Injection
+图 7-10	汽油直接喷射高压喷油器
+
+
+
+
+Fig. 7-11	Triple-Plunger High-Pressure Pump （Gasoline Engine）
+图 7-11	三柱塞高压泵（汽油机）
+
+
+triple-plunger pump    三柱塞泵，1 型高压泵（博世公司常用词）
+HDP = Hochdruckpumpe （德语）高压泵= high-pressure pump （英语）高压泵
+eccentric element 偏心元件
+slipper 滑 块
+pump barrel 柱塞套筒
+pump plunger 泵柱塞
+hollow plunger   空心柱塞
+closure ball   封阀球
+
+outlet valve 出油阀
+inlet valve 进油阀
+high-pressure connection to rail  到 燃油轨的高压接头
+fuel inlet   燃油进口
+cam ring    凸轮环
+axial seal 轴向油封
+slide ring seal   滑环式密封圈
+static seal   静态密封圈
+drive shaft 驱动轴
+
+
+
+Fig. 7-12	Pressure-Control Valve and Single-Barrel High-Pressure Pump
+图 7-12	压力控制阀和单柱塞高压泵
+
+
+pressure-control valve 压力控制阀
+HDP5 demand-controlled single-barrel high-pressure pump  指令控制式单柱塞高压泵
+HDP5 = Hochdruckpumpe 5    （德语）5
+型高压泵
+view with high-pressure port 高压口视图
+detailed view with low-pressure port
+低压口视图
+electrical connection 电气连接器
+electrical connector 电气连接器
+valve spring   阀门弹簧
+solenoid coil   电磁线圈
+solenoid armature 电磁电枢
+valve needle 阀 针
+O-ring O 形 圈
+drain hole 排泄孔
+
+valve ball 阀 球
+valve seat 阀 座
+inlet with inlet strainer 粗滤器进口
+variable  pressure  attenuator	可变压力衰减器
+pressure-limiting valve 压力限制阀
+high-pressure port 高压喷口
+low-pressure port 低压喷口
+outlet valve 排出阀
+fuel-supply control valve 供油控制阀
+inlet valve 进油阀
+mounting flange  安装法兰
+passage to delivery plunger 至 供 油柱塞通道
+delivery plunger  供油柱塞
+plunger seal 柱塞密封
+plunger spring 柱塞弹簧
+
+
+
+Fig. 7-13	Gasoline Filter， Fuel Pressure Regulator and Fuel Pressure Damper
+图 7-13	汽油滤清器、燃油压力调节器和燃油压力脉动衰减器
+
+
+Spark-Ignition Engine Management System
+点燃式发动机管理系统
+
+
+
+Fig. 8-1	Engine Control System Diagram （Toyota）
+图 8-1 发动机控制系统简图（丰田）
+
+
+参考：SAE   J1930-2008《电子电气设备诊断、术语、定义、缩写与缩略语》
+注：此为日式汽车英语，与美式汽车英语相近，图 8-2 是德式汽车英语。
+C/OP = circuit opening relay 开 路 继电器（丰田公司用语，该继电器主要用于燃油泵控制）
+fuel pump relay 燃油泵继电器
+accelerator pedal position sensor  加速踏板位置传感器
+accelerator pedal module 加速踏板模块
+alternator 发电机
+check engine  warning  light  发动机故障警告灯
+MIL = malfunction indicator lamp
+故障指示灯（美 SAE 推荐用语）
+DLC3 = data link connector 3 （ 丰 田公司用语）3 号诊断插座，OBDⅡ诊断插座 （其主要外表特点是有 16 个端子） OBDⅡ= on-board diagnosis system Ⅱ 第二代车载诊断装置
+neutral start switch 空档起动开关
+ignition switch   点火开关
+engine ECU   发动机 ECU
+battery 蓄电池
+B1S1 = bank 1， sensor 1   第1 列气缸1
+号氧传感器
+注：按美国 SAE 规定，第 1 列气缸
+（Bank 1）是指包括 1 缸的那列气缸， 第 2 列气缸（Bank 2）是指不包括 1 缸的那列气缸，详见图 8-4。upstream oxygen sensor 上游氧转化器
+B1S2 = bank 1， sensor 2   第1 列气缸2号氧传感器（按美国 SAE 规定，2 号氧传感器是1 号氧传感器后面的氧传感器） downstream oxygen sensor 下游氧转化器
+TWC = three-way catalyst  三效[元] 催化转化器（美 SAE 推荐用语）
+
+NE sensor （丰田公司用语） NE 传感器
+= CKPS = crankshaft position  sensor 曲轴位置传感器（美 SAE 推荐用语） engine-speed sensor  发动机转速传感器（德国汽车业界用语）
+ECT sensor = engine coolant tempe- rature sensor  发动机冷却液温度传感器（美 SAE 推荐用语）
+water temperature sensor 水温传感
+器，发动机冷却液温度传感器
+KNK sensor = knock sensor （ 国 家 标准术语）爆燃传感器
+KNK 1 sensor =  knock  sensor  1  1 号爆燃传感器（若发动机仅有一个爆燃传感器，则没有“KNK 2 sensor”）
+fuel pump 燃油泵
+charcoal canister 活性炭罐
+injector 喷油器
+fuel - distribution pipe 燃油配送管
+camshaft timing control valve 凸 轮轴正时机油控制阀
+G sensor    （丰田公司用语）G 传感器，
+= CMP = camshaft position sensor 凸轮轴位置传感器（美 SAE 推荐用语）
+ignition coil with igniter  带点火器的点火线圈
+air flow meter 空气流量计
+built - in intake air temperature sensor
+插入式进气温度传感器
+TPS = throttle position sensor 节 气 门位置传感器（美 SAE 推荐用语）
+throttle control  motor  节气门控制电动机
+VSV = vacuum switching valve （ for EVAP ） 真空转换阀（用于蒸发排放控制）
+purge solenoid 清除电磁阀（ 当用
+ECU 直接控制电磁阀时，常用此词）
+
+
+
+Fig. 8-2	Motronic System（Bosch）
+图 8-2	喷射/点火协同管理系统（博世）
+
+DI-Motronic System 喷射/点火协同管理的缸内汽油直喷系统（博世公司自创词），=缸内汽油直喷式发动机管理系统
+Motronic System 喷射/点火协同管理系统（博世公司自创词），=  engine management system 发动机管理系统
+carbon canister 炭 罐
+canister-purge valve 炭罐清除阀
+high-pressure pump（HDP2） with integrated-quantity control valve 集 成配送量控制阀的高压油泵（HDP2 型）
+actuators and sensors for variable timing 可变气门正时执行器和传感器
+ignition coil with attached spark plug
+装有火花塞的点火线圈
+hot-film air-mass meter with integrated temperature sensor 集成进气温度传感器的热膜式质量型空气流量计
+ETC =  electronic  throttle  control  电子节气门控制装置
+intake-manifold pressure  sensor  进气歧管压力传感器
+fuel-pressure sensor  燃油压力传感器
+high -pressure fuel rail 高压油轨
+fuel rail 燃油轨
+camshaft phase sensor 凸轮轴相位传感器，同CMP = camshaft position sen- sor 凸轮轴位置传感器
+Hall sensor 霍尔传感器（大众公司用语）
+upstream lambda oxygen sensor of primary catalytic converter 初级催化转化器上游λ 氧传感器（德国汽车业界用语） oxygen sensor 1 1 号氧传感器lambda oxygen sensor upstream 上游 λ 氧传感器
+lambda sensor = lambda oxygen sen- sor = oxygen sensor λ 传感器（德国汽车业界用语），氧传感器
+exhaust - gas recirculation valve 排
+气再循环阀，EGR 阀
+
+high-pressure injector 高压喷油器
+knock sensor 爆燃传感器
+engine-temperature sensor  冷却液温度传感器
+primary catalytic converter（three- way catalytic converter） 初级催化转化器（三元催化转化器）
+downstream lambda oxygen sensor of primary  catalytic  converter  （optional）初级催化转化器下游 λ [氧]传感器
+（选装）
+engine-speed sensor  发动机转速传感器（德国汽车业界用语）
+engine control unit 发动机控制模块
+CAN interface CAN 接 口
+fault lamp 故障警告灯
+diagnosis interface  诊断插座
+interface to immobilizer control unit
+防盗控制模块接口
+accelerator-pedal module with pedal travel sensor  带踏板行程传感器的加速踏板模块
+fuel tank 燃油箱
+in-tank unit with electric fuel  pump， fuel filter and fuel-pressure regulator 带燃油滤清器和燃油压力调节器的油箱内装式电动燃油泵模块
+exhaust-gas temperature sensor 排
+气温度传感器
+main  catalytic  converter  （NOx  accu- mulator-type catalytic converter plus three-way  catalytic  converter）     主催化转化器（带NOx储存的三元催化转化器）
+lambda oxygen sensor downstream of main catalytic converter 主 催化转化器下游 λ[氧]传感器
+fuel pressure regulator 燃油压力调节器
+injector 喷油器
+
+
+
+
+Fig. 8-3	Sensor and Actuator Definitions and Locations
+图 8-3	传感器和执行器的定义和位置
+
+说明 ： 1. 本图参照SAE   J1930-2008《电子电气设备诊断、术语、定义、缩写与缩略语》
+组件标号“A，B，C” 定义按 SAE J2102-2002 中 3.8；
+气缸列编号“1，2” 定义按SAE J2102- 2002 中 3.5，并参看本词典中图 8-4。Air Filter 空气滤清器
+CAC = Charge Air Cooler 增压空气冷却器Byp. Cont A[B] = Bypass  Control  A[B]  旁通控制器 A[B]
+CACT= Charge Air Cooler Temperature 增压空气冷却器温度
+CACT1[2] = CACT Sensor 1 and 2 增 压空气冷却器温度传感器 1 和 2
+Charge Air Cooler   增压空气冷却器Chrg Air Cool Temp  1[2]  =  CACT1[2] 增压空气冷却器温度传感器 1 和 2
+Cont.= Control  控制器
+DIAC = Diesel Intake Air Control 柴油机进气控制器
+DIACP = Diesel Intake Air Control Position
+柴油机进气控制器位置
+DOC = Diesel Oxidation Catalyst 柴 油 机氧化转化器
+DOC 1[2] = DOC Bank 1[2] 柴油机第
+1[2]列气缸氧化转化器
+DPF = Diesel Particulate Filter 柴油机微粒滤清器
+DPF1[2]=DPF Bank 1[2] 柴油机第 1[2]
+列气缸微粒滤清器
+DPF Pres Sensor A[B] = DPF Pressure Sensor A[B]  柴油机微粒滤清器压力传感器 A[B]
+EGR Control A[B]  EGR 控制器 A[B]
+EGR Cooler EGR 冷却器
+EGR  Sensor  A[B，  C]  = EGR Sensor A，  B and C EGR 传感器 A[B，C]
+EGR Temp ？= EGR Temperature Sensor EGR 温度传感器（说明：“？”可能是原作者的误用，从位置推测，这应当是经过EGR 冷却器后的 EGR 气体温度传感器） EGR Temp A[B] EGR 温度传感器 A[B] EGR Throttle Cont A[B] = EGR Throttle Control A and B	EGR 节气门控制器A 和B EGRTx=  EGR  Temperature  Sensor  A，  B and C EGR 温度传感器 A、B 和 C EGRx= EGR Sensor A， B and C	EGR 传感器 A、B 和 C
+
+EGT = Exhaust Gas Temperature 排气温度EGT11= Exhaust Gas Temperature Bank 1 Sensor 1 第1 列气缸1 号排气温度传感器EGT12 第1 列气缸2 号排气温度传感器EGTxy = Exhaust Gas Temperature Sensor， Bank x，Location y x 列气缸，位于y 处的排气温度传感器
+FPC=Fuel Pump Control 燃油泵控制器
+FPRC= Fuel Pressure Regulator Control
+燃油压力调节器控制器
+FRP = Fuel Rail Pres Sensor 燃油轨压力传感器Fuel Pump Cont A（Hi Pres）    燃油泵控制器 A（高压）
+Fuel Pump Cont B（Lo Pres）    燃油泵控制器 B（低压）
+Fuel Pres Reg Cont 1[2] = FPRC 1[2]  燃油压力调节器控制器 1[2]
+Fuel Rail Pres Sensor A[B] 燃油轨压力传感器 A[B]
+Fuel Tank 燃油箱
+Fuel Temp Sensor A[B] 燃油温度传感器A[B] Fuel Volume Reg Cont 燃油容积调节器控制器IAT 11 [12] = Intake Air Temperature Sensor， Bank 1 Sensor 1[2]   第1 列气缸1[2]号进气温度传感器
+IAT 21 [22] = Intake Air Temperature Sensor， Bank 2 Sensor 1[2]   第2 列气缸1[2]号进气温度传感器
+Intake Air Flow Cont A[B] 进气流量控制器 A[B]
+MAF A[B] = Mass Air Flow Sensor A [B]
+进气流量质量传感器 A[B]
+MAP = Manifold Absolute Pressure 歧 管绝对压力
+Reg = Regulator  调节器
+TC = Turbo Charger 涡轮增压器
+TCA    涡轮增压器 A
+TCB    涡轮增压器 B
+TC Boost  Cont.  A[B]  涡轮增压器增压控制器 A[B]
+TC Boost Cont. Pos Sensor A[B] = TC Boost Control Position Sensor A[B] 涡 轮增压器增压控制器位置传感器 A[B]
+TC Boost Pres Sensor A[B] 涡轮增压器增压压力传感器 A[B]
+TC Compressor  涡轮增压器压缩机
+TC Turbine 涡轮增压器涡轮
+
+
+
+
+Fig. 8-4	Oxygen Sensor Locations
+图 8-4	氧传感器位置
+
+
+说明 ： 参照 SAE J2012-2002
+A， B V6/8/12 Cylinder Engine Oxygen Sensor Locations V6/  V8/  V12 发动机氧传感器位置
+C， D    L4/L5/L6 Cylinder Engine Oxygen Sensor Locations L4/L5/L6  缸发动机氧传感器位置
+B1 = bank 1 = first bank （气缸）第 1 列
+（第 1 列气缸是包括 1 缸的那列气缸，例如在纵置 V6 发动机中，左侧 1、3、5 缸是第 1 列）
+B2 = bank 2 = second bank （气缸）第 2 列
+（第 2 列气缸是不包括第 1 列气缸的那列气缸。例如在纵置 V6 发动机中，右侧 2、4、6 缸是第 2 列）
+B1S1 = bank 1 sensor 1 （wide range）    第 1
+列气缸 1 号氧传感器（宽带）
+B1S2 = bank 1 sensor 2 （heated）    第 1 列气
+
+缸 2 号氧传感器（加热型）
+B1S3 = bank 1 sensor 3 （heated）    第 1 列气缸 3 号氧传感器（加热型）
+B2S1 = bank 2 sensor 1 （wide range）    第 2
+列气缸 1 号氧传感器（宽带）
+B2S2 = bank 2 sensor 2（heated） 第 2 列气缸 2 号氧传感器（加热型）
+Catalyst 催化转化器（通常作“催化剂”， 美式英语中也作“催化转化器”）
+Cyl. 1 = cylinder 1 1 缸
+Cylinder Bank 1[2] 第 1[2]列气缸
+L4 Cyl. Engine L4 发动机
+L4 = line 4 直列 4 缸
+Exhaust Bank 1[2] 第 1[2]列气缸排气
+Tail Pipe 排气尾管
+V6/V8/V12 Cylinder Engine V 形 6/8/12
+缸发动机
+
+
+
+Fig. 8-5	LPG [Liquefied Petroleum Gas] Injection（Bosch）
+图 8-5	液化石油气喷射（博世）
+
+
+gaseous LPG injection  气态液化石油气喷射
+LPG =  liquid  petroleum  gas  液化石油气
+liquid LPG  injection  液态液化石油气喷射
+activated charcoal canister 活性炭罐
+canister-purge valve 炭罐清除阀
+gasoline rail with gasoline injectors
+带汽油喷油器的汽油轨
+camshaft adjuster 凸轮轴调节器
+ignition coil with spark plug 带 点 火线圈的火花塞
+camshaft sensor 凸轮轴传感器
+λ sensor upstream of catalytic converter
+催化转化器上游 λ 传感器
+hot-film air-mass meter 热膜式进气质量计
+electronically actuated throttle valve
+（ETC） 电子主动节气门
+ETC =  electronic  throttle  control  电子节气门控制装置
+intake-manifold pressure sensor 进气歧管压力传感器
+LPG ECU LPG 电子控制模块
+engine ECU  发动机电子控制模块
+accelerator-pedal module 加速踏板模块
+LPG shutoff valve  LPG 关断阀
+
+evaporator with pressure regulator
+带压力调节器的蒸发器
+pressure and temperature sensors
+压力和温度传感器
+LPG rail with gas injectors 带 燃 气喷嘴的液化石油气轨
+LPG filter 液化石油气滤清器
+engine-temperature  sensor	发动机温度传感器
+primary catalytic converter 初级催化转化器
+crankshaft speed  sensor  曲轴转速传感器
+knock sensor 爆燃传感器
+gasoline tank with integrated electric fuel pump 集成电动燃油泵的汽油箱
+gasoline filler neck 汽油加注口
+LPG  tank  （steel  tank）    LPG 燃料箱
+（钢瓶）
+electromagnetic shutoff valve 电 磁关断阀
+LPG filler neck LPG 加注口
+80% filler stop valve    80%加注关断阀
+LPG level indicator    LPG 液面指示器
+pressure-relief valve 压力释放阀
+λ sensor downstream of catalytic con- verter 催化转化器下游 λ 传感器
+main catalytic converter   主催化转化器
+non-return valve   单向阀，防回流阀
+
+
+
+
+Fig. 8-6	Engine Fueled by Natural Gas（Bosch）
+图 8-6	天然气发动机（博世）
+
+
+spark-ignition engine natural-gas or gasoline operation 火花点火发动机天然气或汽油工作情况
+carbon canister 炭 罐
+
+canister-purge valve 炭罐清除阀
+exhaust-gas recirculation valve 排 气再循环阀，EGR 阀
+camshaft adjuster 凸轮轴调节器
+
+hot-film air-mass meter 热膜式质量型空气传感器[流量计]
+electronically actuated throttle valve
+电子主动节气门
+intake-manifold pressure  sensor  进气歧管压力传感器
+gasoline rail with gasoline injectors
+带汽油喷油器的汽油轨
+ignition coil with spark plug 带 火 花塞的点火线圈
+camshaft sensor 凸轮轴传感器（德式汽车英语） = 凸轮轴位置传感器
+λ sensor before catalytic converter
+催化转化器前 λ 传感器
+Bifuel Motronic ECU 双燃料电控单元
+accelerator-pedal module 加速踏板模块
+natural-gas pressure-control module with integrated gas shutoff valve and high-pressure sensor  集成燃气关断阀和高压传感器的天然气压力控制模块
+gas rail with natural-gas pressure and  temperature sensor  带天然气压力和温度传感器的燃气轨
+natural-gas injector 天然气喷嘴
+crankshaft speed  sensor  曲轴转速传感器 = 曲轴位置传感器
+
+engine-temperature  sensor	发动机温度传感器
+knock sensor   爆燃传感器
+primary catalytic converter 初级催化转化器
+CAN interface 控制器局域网接口CAN   =  controller area  network	控制器局域网（络）
+diagnosis lamp 诊断灯（德式汽车英语） ， = malfunction indicator lamp
+〔light〕 故障指示灯（SAE 汽车英语） malfunction tell-tale  故障指示灯malfunction warning lamp〔light〕故障指示灯
+diagnosis interface 诊断接口
+interface to immobilizer ECU 防 盗
+ECU 接口
+gasoline tank with integrated electric fuel pump 集成电动燃油泵的汽油箱
+gasoline filler neck 汽油加注口
+natural-gas filler neck 天然气加注口
+high-pressure shutoff valve on natural- gas tank 天然气罐上的高压关断阀
+natural-gas tank 天然气罐
+main catalytic  converter  主催化转化器
+λ sensor after catalytic converter
+催化转化器后[下游] λ 传感器
+
+
+
+Fig. 8-7	Natural-Gas Injector and Pressure-Control Module
+图 8-7	天然气喷油器和压力控制模块
+
+
+natural-gas  injector  （Bosch）    天然气喷油器（博世）
+	pressure-control  module	压力控制模块
+pneumatic port 气 口
+sealing ring 密封圈
+valve housing [ body] 阀 体
+filter strainer 滤 网
+electrical connection 电气连接器
+sleeve 套 筒
+solenoid coil 电磁线圈
+valve spring 阀弹簧
+solenoid armature with elastomer seal
+弹性体密封的电磁铁心
+valve seat 阀 座
+
+solenoid coil of electromagnetic shutoff valve 电磁关断阀的电磁线圈
+seal 密封垫
+high-pressure inlet with sinter filter
+带烧结滤清器的高压进油口
+high-pressure sensor 高压传感器
+low-pressure outlet 低压出油口
+safety pressure-relief valve 释压安全阀
+low-pressure chamber 低压室
+pressure diaphragm with mounting
+带支架的压力膜片
+control rod 控制杆
+adjusting screw 调整螺钉
+spring 弹 簧
+control plunger and throttling orifice
+控制柱塞和节流孔
+
+
+
+Fig. 8-8	Ignition System
+图 8-8	点火系统
+
+
+classical [conventional] ignition system
+传统点火系统
+distributorless ignition system 无 分电器点火系统
+battery 蓄电池
+ignition switch  点火开关
+ignition coil 点火线圈
+distributor，  ignition  distributor    分电器
+ignition condenser   点火电容器
+breaker， contact breaker  断电器
+spark plug 火花塞
+
+distributor cap 分电器盖
+rotor， distributor rotor    分火头
+ignition  cable，  ignition  wire    高压线，点火线
+ECM = electronic control module
+电子控制模块
+anti-interference ignition cable  高压阻尼点火线
+Rv ballast resistor， external resistor
+附加电阻
+external primary[ballast] resistor
+初级电路附加电阻
+
+
+
+
+Fig. 8-9	Ignition Coil
+图 8-9	点火线圈
+
+
+single spark ignition coil 单火花点火线圈（转动配电）
+conventional ignition coil 传统点火线圈
+single spark ignition coil 单火花点火线圈（参见图 8-10）
+COP =  coil-on-plug  装在火花塞上的点火线圈
+compact ignition coil 紧凑型点火线圈（见图 8-10）
+B1  ignition coil with igniter  带点火器的点火线圈
+dual spark ignition coil 双点火线圈
+（无分电器）
+1 low voltage terminal （点火线圈）低压接线柱
+4 high voltage terminal （点火线圈）高压端子
+4a from ignition coilⅠ 接自点火线圈Ⅰ
+4b from  ignition coil Ⅱ 接自点火线圈Ⅱ
+15 from output of ignition switch 接 自点火开关输出端
+注：斜体的“1、4、4a、4b、15” 是德国工业标准规定的汽车电路图标记。
+low-voltage terminal， primary terminal
+低压接线柱
+
+laminated iron core 叠片铁心
+soft iron core 软铁心
+I-core = iron core 铁 心
+primary  winding，  low-voltage  winding
+初级绕组，一次绕组
+secondary  winding，  high-tension  win- ding 次级绕组，二次绕组
+high-voltage[tension] terminal 高
+压接线柱
+5a internal high-voltage connection via spring contact  弹簧接触的内部高压连接
+sparkplug 火花塞
+6a igniter 点火器
+6b ignition coil 点火线圈
+6c plug cap  火花塞帽
+insulating mass  绝缘物质
+winding layers with insulating paper
+带绝缘纸的绕组层
+insulating cap 绝缘盖
+ignition coil head 点火线圈盖
+case 外 壳
+mounting bracket 安装支架
+metal plate jacketing 金属板套
+sealing compound 密封绝缘物
+insulator 绝缘体
+
+
+
+
+Fig. 8-10	Design of the Compact Ignition Coil
+图 8-10	紧凑型点火线圈的结构
+
+
+pencil ignition-coil 笔式点火线圈
+installation of ignition output stage
+点火输出级的安装
+printed-circuit board 印制电路板
+driver stage 激励级
+activation arc diode 激弧二极管
+secondary winding  housing  二次绕组体
+secondary winding 二次绕组
+contact plate  接触板
+high-voltage pin 高压销
+primary connector 一次绕组接插器
+primary winding 一次绕组
+L-core L 形铁心
+permanent magnet 永久磁铁
+
+O-core O 形铁心
+spring （spark-plug contact）    弹簧（火花塞触头）
+silicone sleeve 硅胶套
+surface mounted components 表 面安装零部件
+electronic circuitry for ignition function
+具有点火功能的电子电路
+primary-winding  contacts	一次绕组触头
+pencil ignition-coil  transformer  笔式点火线圈变压器
+attachment lug 连接凸耳
+ignition output stage 点火输出级
+
+
+
+Fig. 8-11	Spark（ing） Plug
+图 8-11	火花塞
+
+
+参考：GB/T 2900.9-1994《电工术语 火花塞》
+A resistor （type） spark plug 电阻火花塞copper cored electrode spark  plug  铜芯电极火花塞
+projected  nose  type  spark  plug  突出型火花塞
+terminal stud 端子螺栓
+terminal nut 端子螺母
+high-voltage connector 高压线接头
+insulator head 绝缘头
+Al2O3 ceramic insulator 氧化铝陶瓷绝缘体
+housing， shell， casing    外壳
+body hexagonal part   壳体六角部分
+heat-shrinkage zone   热收缩区
+conductive glass 导电玻璃suppression resistor 防干扰电阻器suppression resistance 防干扰电阻
+captive gasket 密封垫
+center[centre] electrode， central electrode
+中心电极
+composite center electrode Ni/Cu 镍 / 铜复合中心电极
+ground electrode， side electrode， outer electrode 旁[搭铁]电极
+Ni/Cu compound electrode 镍/铜复
+合电极
+cold（-running）spark plug    冷型火花塞 low heat[heating] range  spark  plug  低热值火花塞
+normal-running spark plug， medium heat range spark plug 中热值火花塞， 普通型火花塞
+
+hot（-running）spark plug    热型火花塞 high heat range spark plug 高 热 值火花塞
+bantam[compact] type spark plug  矮型火花塞
+standard type spark plug 标准型火花塞
+special spark plug    特种[专用]火花塞
+half thread spark plug    半螺纹火花塞
+retracted insulator spark plug 绝 缘体缩入型火花塞
+projected nose type  spark  plug  突出型火花塞
+insulator projected nose type spark plug， projected insulator spark plug绝缘体突出型火花塞
+flat seat type spark plug   平座型火
+花塞
+conical [taper] seat type spark plug
+锥座型火花塞
+spark plug gap 火花塞间隙
+reach 伸出长度
+thread length  螺纹长度
+multi-electrode spark  plug  多极火花塞
+iridium tip plug 铱尖[铱金]火花塞
+23a iridium tip 铱 尖
+23b platinum tip  铂尖，白金尖
+platinum-tip spark plug 铂尖[白金] 火花塞
+blue strip 蓝条（共 5 条，白金火花塞标记，仅部分厂家用）
+
+
+
+Fig. 8-12	Distributor with Pickup Coil（Toyota）
+图 8-12	拾波线圈式分电器（丰田）
+
+
+distributor with induction - type pulse gene- rator 感应式脉冲发生器式分电器
+1， 3   pickup coil    拾波线圈
+1+2   Ne  （signal）  sensor    （丰田公司自创词） Ne 信号传感器，同曲轴位置传感器
+2 Ne signal rotor  （丰田公司自创词）曲轴位置信号转子
+crank angle signal rotor 曲轴转角信号转子
+2， 4    trigger wheel    触发轮
+signal rotor 信号转子
+3+4  G signal sensor  （丰田公司自创词） G 信号传感器，同凸轮轴位置传感器
+G signal rotor （丰田公司自创词）凸
+
+
+轮轴位置信号转子
+camshaft angle signal  rotor  凸轮轴转角信号转子
+permanent magnet 永久磁铁
+carbon rod 碳 柱
+center contact 中央触点
+center terminal 中央端子
+coil wire tower 点火线圈高压线插孔座
+sparkplug wire tower 火花塞高压线插孔座
+side terminal 侧端子
+rotor tip， rotor head    分火头顶端
+pole piece 磁 极
+air gap 气 隙
+
+
+Fig. 8-13	Emission Reduction Systems
+图 8-13	降低排放装置
+
+参考：GB/T  5181-2001《汽车排放术语和定义》
+EGR  =  exhaust  gas recirculation 排气再循环，EGR
+EGR system 排气再循环系统
+本图也符合： EEGR system=electric exhaust gas recirculation system  电动排气再循环系统
+evaporative emissions control system
+蒸发排放物控制系统
+本图也符合： PCM-controlled EVAP system 动力系统模块控制的蒸发排放物控制系统
+AIR =  secondary  air  system  二次空气系统
+inducted fresh air  新鲜进气
+throttle valve 节气门
+recirculated exhaust gas 再循环排气
+
+engine control unit 发动机控制模块
+EGR valve 排气再循环阀
+exhaust gas 排 气
+fuel tank vent line  燃油箱通风管
+fuel tank 燃油箱
+carbon canister 炭 罐
+line to intake manifold 通进气歧管的管路
+canister-purge valve   炭罐清除阀
+secondary air pump   二次空气泵
+relay 继电器
+secondary air valve 二次空气阀
+control valve 控制阀
+battery 蓄电池
+inflow point  in exhaust  pipe  排气管中流入点
+exhaust valve 排气门
+
+
+
+Fig. 8-14	EGR Valve
+图 8-14	废气再循环阀
+
+
+参考：GB/T   5181-2001《汽车排放术语和定义》
+A  negative backpressure EGR valve  负背压式 EGR 阀
+EGR = exhaust gas  recirculation  废 气再循环
+vacuum controlled EGR valve 真 空 控制式 EGR 阀
+B，C   linear EGR valve	线性 EGR 阀EGR valve with position sensor 带位置传感器的 EGR 阀
+EGR valve EGR 阀
+air bleed hole 渗气孔
+vacuum port 真空口
+large spring   大弹簧
+small spring   小弹簧
+pintle valve 轴针式阀
+
+intake air 进 气
+exhaust gas flow 排气流
+diaphragm 膜 片
+sensor cap	（轴针位置）传感器盖
+EGR pintle position sensor 轴 针 式
+EGR 位置传感器
+EVP sensor = EGR valve position sensor
+（=exhaust gas recirculation valve position sensor）	EGR 阀位置传感器
+PFE sensor = pressure feedback EGR sensor 压力反馈式 EGR 传感器
+primary pole piece 初级铁心
+coil 线 圈
+armature sleeve	衔铁套
+armature and base assembly 衔 铁 和座总成
+housing 壳 体
+
+
+
+Fig. 8-15	Differential Pressure Feedback EGR System
+图 8-15	差压反馈式废气再循环系统
+
+
+参考：GB/T   5181-2001《汽车排放术语和定义》
+EGR system with a DPFE sensor， differen- tial pressure feedback EGR   system 差压反馈式废气再循环系统
+本图也符合以下术语：
+①PCM-controlled EGR  动力系统模块控制式 EGR
+②PCM  vacuum  operated  EGR system
+动力系统模块控制真空作动式 EGR 系统
+③Back pressure type vacuum-controlled EGR 真空控制背压式 EGR
+EGR pipe 废气再循环管
+downstream hose 下游软管
+intake manifold side signal 进气歧管侧信号
+intake vacuum 进气真空度
+
+EVR = electronic vacuum regulator
+电子真空度调节器
+EVRV = electronic vacuum regulator valve 电子真空度调节阀
+duty cycle output 占空比输出
+pressure signal 压力信号
+DPFE sensor = differential pressure feedback sensor [transducer] 差压反馈传感器
+upstream hose 上游软管
+exhaust manifold side signal 排 气 歧管侧信号
+exhaust gas 排 气
+metering orifice 量 孔
+calibrated orifice 校正孔
+EGR valve 废气再循环阀
+EGR pipe 废气再循环管
+
+
+
+Fig. 8-16	Enhanced EVAP System
+图 8-16	加强型蒸发排放物控制系统
+
+
+enhanced evaporative emissions system with an LDP[leak detection pump] 带 检漏泵的加强型蒸发排放物控制系统 （说明： 本图所示类型是无检漏泵的）
+B+ = battery positive voltage 蓄电池正极电压FTP = fuel tank pressure  燃油箱压力PSC= purge solenoid control 清除电磁阀控制SG = sensor ground 传感器搭铁
+VCC = vacuum control check 单向真空控制
+VSV= vacuum solenoid valve 真空电磁阀
+canister filter  炭罐滤清器
+to atmosphere 通大气
+throttle body 节气门体
+canister purge solenoid valve 炭罐清除电磁阀
+
+purge solenoid 清除电磁阀
+fuse  15A    熔丝 15A（炭罐清除电磁阀电源线熔丝）
+vapor recirculation tube 蒸气再循环管
+vapor control valve 蒸气控制阀
+FTP sensor = fuel tank pressure sensor
+燃油箱压力传感器
+vapor 燃油蒸气
+fill cap   加油口盖
+fuel tank   燃油箱
+rollover （safety） valve    翻车安全阀
+EVAP[evaporative emissions] canister
+蒸发排放物炭罐
+vent shut（off） valve （通风）截止阀
+
+
+
+Fig. 8-17	2ZR-FE Engine Control System Typical Waveform（Toyota）
+图 8-17	2ZR-FE发动机控制系统的典型波形（丰田）
+
+
+igniter IGT signal and igniter IGF signal waveform 点火器 IGT 信号和点火器IGF 信号波形
+injector No. 1 （to No. 4） injector signal waveform 1 缸（到 4 缸）喷油器喷油信号波形
+crankshaft position sensor and variable valve  timing  （VVT）  sensor  waveform曲轴位置传感器和可变气门正时传感器波形
+throttle actuator positive terminal wave- form 节气门执行器正极端子波形
+CH1 = channel 1 通道 1
+
+CH2 = channel 2 通 道 2 GND = ground  搭 铁DIV. = division 间隔，格
+EV = exhaust valve 排气门
+G2 （丰田用语） 2 号凸轮轴位置传感器
+（ camshaft position sensor ） ms = millisecond 毫 秒
+IGT = ignition timing 点火正时
+IGF = ignition reference  点火参考
+NE （ 丰田用语 ） 曲轴位置 传 感器 
+（ crankshaft position sensor ）
+V = volt （电压单位）伏特
+
+Sensor [Transducer]
+传感器
+参考：GB /T	7665-2005《传感器通用术语》
+
+Fig. 9-1	Speed[Revolution] Sensor
+图 9-1	转速传感器
+
+
+different sensor shapes 不同传感器的形状
+AMR rpm sensor AMR 转速传感器AMR = anisotropic magnetoresistive resistor 各向异性磁阻
+tangential-field sensor 切向磁场传感器
+sensor arrangements with air-gap 传感器的布置与气隙
+	inductive min-1 sensor 电磁感应式转速传感器（min-1 =revolutions  per  minute
+①每分转数②转速）
+fork  shape  （vane  principle）    叉形（叶片原理）
+rod shape （proximity principle）    杆形
+（接近原理）
+
+
+radial-field sensor with  pole  wheel  带磁极转子的径向磁场传感器
+tangential sensor 切向传感器
+dL  air gap   空气间隙
+differential sensor with gear  齿轮式差动传感器
+multipole ring   多磁极环
+measuring cell   测量元件
+sensor housing   传感器壳
+permanent magnet  永磁体
+housing 外 壳
+winding 绕 组
+ring  gear  （iron）  with  reference  point
+带基准点的齿圈（铁）
+
+
+
+Fig. 9-2	Pressure Sensor
+图 9-2	压力传感器
+
+
+absolute-pressure sensor  绝对压力传感器
+integrated silicon combustion-chamber sensor 集成硅燃烧室传感器
+piezoelectric pressure sensor 压电式
+压力传感器
+high-pressure sensor with metal diaphragm
+金属膜片式高压传感器
+reverse assembly 逆向组件
+（reference  vacuum  on  structure  side）
+（在结构侧的基准真空）
+simplified assembly with protective gel
+凝胶保护的简单组件
+	"outer packaging" for intake-manifold installation with integrated air-tempera- ture sensor  集成了空气温度传感器的进气歧管用“外封装件”
+1， 3    electrical connections with glass-enclosed lead-in 导入玻璃封闭引线的电气接头
+2 reference vacuum 基准真空
+measuring  cell  （chip）  with  evaluation electronics 带求值电子设备的测量单元[芯片]
+glass base 玻璃基座
+cap 盖
+pressure connection	压力接头
+protective gel 保护凝胶
+gel frame 凝胶架
+ceramic hybrid 复合陶瓷
+chamber with reference vacuum 参考真空室
+bonded connection 粘接连接
+manifold wall  歧管壁
+
+housing 壳 体
+sealing ring 密封圈
+temperature sensor   温度传感器
+electrical connection   电气连接器
+housing cover  壳体盖
+measuring cell 测量室
+force-transfer rod  力传递杆
+Si  pedestal  （force  input）    硅座架（力的输入）
+integrated Si pressure sensor 集 成硅压力传感器
+Pyrex 耐热玻璃
+ceramic auxiliary sub plate 陶 瓷 副底板
+steel base plate 钢底板
+connection pins 连接销
+metallic coating 金属镀层
+piezoelectric disk 压电盘
+insulation 绝缘体
+housing 壳 体
+SiNx passivation SiNx 钝 化
+gold contact 黄金触点
+poly silicon strain gage 多晶硅应变片
+SiO2 insulation  SiO2绝缘体
+steel diaphragm 钢膜片
+signal process circuit 信号处理电路
+binding thread 紧固螺纹
+p pressure 压 力
+p1 measured pressure 被测压力
+F combustion-chamber pressure force
+燃烧室压力
+UA measurement voltage 测量电压
+
+
+
+Fig. 9-3	Hot Wire Sensor and Vane Airflow Meter
+图 9-3	热线式传感器和叶板式空气流量计
+
+ultrasound flow measurement  超声波流量测量
+vane airflow meter 叶板式空气流量计
+electronic control 电子控制装置
+hot wire air-mass （flow）  meter    热线式进气质量传感器
+1，  2    transmitter/receiver  1  and  2    发射
+器/接收器 1 和 2
+sensor plate  传感器板
+compensation flap 补偿活板
+damping volume 阻尼容积
+temperature compensating resistance
+温度补偿电阻
+HW = hot wire 热 线
+sensing element   传感元件
+ring 环
+safety screen   安全网
+retainer ring 挡 圈
+casing 壳 体
+
+adjusting screw 调节螺钉
+cover 盖
+plug socket 插 座
+port 插 口
+sealing element 密封元件
+electronic module  电子模块L  measurement path  测量路径Q flow 流 量
+QM mass flow 质量流量
+QV volume flow 容积流量
+RH hot wire resistor 热线电阻
+RK compensation resistor 补偿电阻
+RM measuring resistor 测量电阻
+R1， R2    trimming resistor    微调电阻
+S transmit command  传输指令
+t transit period 通过周期
+Um measurement voltage 测量电压
+α angle 角 度
+
+
+
+Fig. 9-4	Hot-Film Air-Mass Meter
+图 9-4	热膜式质量型空气流量计
+
+
+operation principle of hot-film air-mass flow meter 热膜式质量型空气流量计工作原理
+QLM air-mass flow 空气质量流量
+measurement point  测量点
+temperature 温 度
+hot-film air-mass （flow） meter HFM5/ HFM6 HFM5/HFM6  型热膜式质量型空气流量计（博世）
+HFM5 = hot-film air-mass meter  [sensor]  5 5 型热膜式质量型空气流量计
+
+circuit of hot-film air-mass meter 热膜式质量型空气流量计电路
+dielectric diaphragm   绝缘膜片
+electrical connections 电子接插器
+measuring-tube or air-filter housing wall 测量管或空气滤清器壳壁
+evaluation  electronics （hybrid  circuit）
+赋值电子装置（混合电路）
+measuring cell 测量室
+sensor housing 传感器壳体
+partial-flow measuring passage 分 流
+
+测量通道
+outlet， partial air flow    出口，部分空气分流
+inlet， partial air flow   进口，部分空气分流
+H heating resistor  加热电阻
+SH   heater-temperature  sensor	加热器温度传感器
+SL air-temperature sensor 进气温度传感器
+S1，  S2    temperature  sensors  （upstream， down stream） 温度传感器（上游， 下游）
+
+IH heater current 加热器电流
+Qm  incoming air mass per time unit  单位时间进气质量
+R1，R2，R3 bridge resistor 桥式电阻
+RH	heater resistor  加热器电阻
+RK	temperature-compensation resistor
+温度补偿电阻
+Rs	sensor resistor  传感器电阻
+tL	air temperature  空气温度
+UM measurement voltage  测量电压
+
+
+
+Fig. 9-5	Operation Principle of Oxygen Sensor
+图 9-5	氧传感器工作原理
+
+
+voltage curve of two-step lambda sensor for different operating temperatures 不同运行温度下氧传感器两阶段的电压曲线
+air deficiency   空气不足
+excess air 过量空气
+increasing temperature    温度升高λ	excess-air factor 过量空气系数US		sensor voltage 传感器电压
+planar lambda sensor 平面氧传感器
+UA output voltage 输出电压
+wide-band lambda sensor 宽带氧传感器
+Ip pump current 泵电流
+UH heating voltage  加热电压
+
+Uref reference voltage 参考电压
+exhaust gas 排 气
+porous ceramic  protective  layer  多孔陶瓷保护层
+measuring cell with micro porous noble- metal coating  微多孔贵金属涂层的测量室
+reference-air passage 参考空气通道
+heater 加热器
+nernst  concentration  cell	能斯特浓度差电池
+oxygen pump cell 氧气泵室
+diffusion gap 扩散缝隙
+control loop 控制回路
+
+
+
+Fig. 9-6	O2S = OS = Oxygen Sensor
+图 9-6	氧传感器
+
+O2S=O2 sensor = OS=oxygen sensor
+EOS=exhaust oxygen sensor 氧传感器
+（O2S或O2S均可用，常用O2S） HO2S=heated oxygen sensor 加热型氧传感器（目前所用的氧传感器全都是加热型氧传感器）
+lambda oxygen sensor （德国汽车行业用语） λ传感器，同氧传感器
+planar sensor 平板型传感器 （可使加热时间缩至 10s 以内，所以 2007 年后出厂的车所用的前氧传感器都是平板型氧传感器）
+oxygen sensor principle of operation
+氧传感器工作原理
+cup type sensor 杯形传感器
+planar type sensor 平板形传感器
+
+ZrO2 solid electrode 二氧化锆实心电极
+ZrO2 element 二氧化锆元件
+ceramic sensor body 陶瓷传感器体
+Pt outer electrode 铂外层电极
+Pt=Platinum 铂
+alumina 氧化铝
+Pt inner electrode 铂内层电极
+contact 接 头
+housing contact 壳体接头
+exhaust pipe 排气管
+exhaust gas 排 气
+air， atmosphere    大气
+platinum electrodes 铂电极
+heater 加热器
+dilation layer 扩散层
+alumina 氧化铝
+
+
+
+Fig. 9-7	Throttle Valve Position Sensor and ETCS-i
+图 9-7	节气门位置传感器和电子节气门
+
+
+throttle valve position sensor 节气门位置传感器
+TPS = throttle valve position sensor
+节气门位置传感器（丰田）
+liner TPS   线性节气门位置传感器IDL  =  idle  throttle  position	节气门怠速位置
+E1 = earth1  1 号搭铁（端子）
+E2 = earth2  2 号搭铁（端子）
+VC = voltage， constant  恒定电压VTA  =  voltage， throttle angle	节气门角度信号电压
+ETCS-i = Electronic Throttle Control System Intelligent  智能型电子节气门控制系统（丰田用语）
+electronic  （control）  throttle    电子节气门
+
+E-Gas 电子节气门（大众用语）
+throttle body 节气门体
+slider（contact  for  VTA  signal）    滑动触头（用于节气门开度角信号电压触头）
+resistor	电阻器
+open 开 启
+closed 关 闭
+slider（contact  for  IDL  signal）    滑动触头（用于节气门怠速位置信号触头）
+engine ECU 发动机 ECU
+to other ECU 到其他 ECU
+throttle valve 节气门
+return spring 回位弹簧
+throttle control  motor  节气门控制电动机
+reduction gears 减速齿轮
+
+
+
+Fig. 9-8	ACPS = Accelerator Pedal Position Sensor（TOYOTA）
+图 9-8	加速踏板位置传感器（丰田）
+
+
+accelerator pedal with ACPS 带 加速踏板位置传感器的加速踏板
+APPS = accelerator pedal position sensor
+加速踏板位置传感器
+internal construction 内部结构
+characteristic of ACPS 加速踏板位置传感器特性曲线
+circuit description 电路说明
+E = earth 塔 铁
+EPA = earth ， pedal angle 加速踏板位置传感器搭铁（说明：“PA = pedal angle”， 直译是“加速踏板转动角度” ）
+EPA2 2 号加速踏板位置传感器搭铁（端子） VCPA = voltage constant， pedal angle    加速踏板位置传感器恒定电压（指 ECU 提供的 5V 参照电压）
+VCP2 2 号加速踏板位置传感器恒定电压
+
+VPA = voltage， pedal angle    加速踏板位置传感器电压（说明：“PA = pedal angle” 直译是“加速踏板转动角度”）
+VPA2 2 号加速踏板位置传感器电压
+output voltage 输出电压
+fully close 全 关
+fully open 全 开
+accelerator pedal depressed  angle  加速踏板踏下角度
+accelerator pedal arm 加速踏板臂
+Hall IC = Hall  integrated  circuit  霍尔集成电路，霍尔元件
+magnetic yoke 磁 轭
+ACPS = accelerator pedal position sensor 加速踏板位置传感器
+engine ECU 发动机 ECU
+
+
+
+Fig. 9-9	Other Sensors
+图 9-9	其他传感器
+
+
+Conventional Diesel-Engine Fuel System
+柴油机传统燃油系统
+参考：GB/T	10826.1-5《燃油喷射装置 词汇》第 1～第 5 部分
+
+
+Fig. 10-1	Diesel-Engine Fuel System
+图 10-1	柴油机燃油系统
+
+
+in-line  fuel  injection  pump	直列式喷油泵
+distributor  fuel  injection  pump	分配式喷油泵
+fuel tank   燃油箱
+governor   调速器
+fuel-supply [feed] pump， fuel pump
+输油泵
+fuel injection pump， injection pump
+喷油泵
+camshaft fuel  injection  pump  凸轮轴式喷油泵
+
+4a  in-line fuel injection pump  直列式喷油泵
+multi cylinder fuel injection pump
+多缸喷油泵
+4b distributor fuel injection pump
+分配式喷油泵
+injection timing device 喷射正时装置
+drive from  engine  来自发动机的驱动力
+fuel filter 燃油滤清器
+vent 通气孔
+injector 喷油器
+fuel return line [pipe]  回油管
+overflow  line  [pipe]，  spill  line  [pipe]
+溢流管
+
+
+
+Fig. 10-2	In-Line Fuel Injection Pump
+图 10-2	直列式喷油泵
+
+in-line （injection） pump    直列式喷油泵
+jerk fuel injection pump   柱塞式喷油泵
+delivery valve holder 出油阀压紧座
+spring seat [rest， pocket， cap， plate]
+弹簧座
+delivery valve， pressure valve    出油阀
+barrel 柱塞套
+plunger， pump plunger， pump piston
+喷油泵柱塞
+4+5    pumping element， plunger and   barrel assembly 泵油[柱塞]偶件
+lever arm with ball head 球头杠杆臂
+
+control rack 调节齿条
+7a control rod[rack]  调节拉杆[齿条]
+control sleeve  控制滑套
+control arm [pinion] 调节臂[齿圈]
+plunger return spring 柱塞弹簧
+spring seat 弹簧座
+roller tappet 滚轮式挺柱
+tappet assembly 挺柱体部件
+12a	roller pin  滚轮销
+camshaft 凸轮轴
+delivery valve spring  出油阀弹簧
+control pinion[ sleeve gear] 调节齿圈
+
+
+
+
+Fig. 10-3	P-Type Inline Pump（BOSCH） 图 10-3	P型直列泵（博世）
+
+
+injection pump assembly 喷油泵总成
+in-line fuel injection pump， in-line （injection） pump 直列式喷油泵
+jerk fuel injection pump 柱塞式喷油泵
+mechanical fuel injection pump 机 械 式喷油泵
+driveshaft fuel injection pump 驱动轴式喷油泵
+camshaft fuel injection pump 凸轮轴式喷油泵
+roller fuel injection pump 滚轮式喷油泵multi-cylinder fuel injection pump 多 缸喷油泵
+end flange-mounted fuel injection pump
+端面法兰安装式喷油泵
+
+delivery valve holder 出油阀压紧座
+filler piece 垫 片
+delivery valve spring 出油阀弹簧
+pump barrel [cylinder] 柱塞套
+delivery valve cone 出油阀锥体
+inlet and control port 进油孔和控制孔
+helix 螺旋槽
+pump plunger  喷油泵柱塞
+control sleeve  控制滑套
+metering sleeve   计量滑套
+control arm   调节臂
+plunger spring 柱塞弹簧
+spring seat 弹簧座
+roller tappet 滚轮式挺柱
+camshaft 凸轮轴
+control rack 调节齿杆
+
+
+
+Fig. 10-4	Delivery Valve Holder with Delivery Valve
+图 10-4	带出油阀的出油阀压紧座
+
+
+delivery valve with constant-volume valve and return-flow restriction  带回流限制的定容出油阀
+delivery valve with constant-pressure valve 定压出油阀
+conventional delivery valve 传统出
+油阀
+delivery valve holder [carrier， support]
+出油阀压紧座
+return-flow restriction 回流限制阀
+dead volume 固定容积
+delivery valve 出油阀
+
+retraction piston， retraction collar
+减压环带
+delivery valve flute 出油阀切槽
+valve body 阀 体
+valve guide 阀导管
+4+7 delivery valve assembly 出油阀偶件
+calibrated restriction 校定节流器
+pressure holding valve  保压阀
+delivery valve volume reducer 出 油阀减容器
+delivery valve spring  出油阀弹簧
+delivery valve seat  出油阀座
+
+
+
+Fig. 10-5	RQ and RSV Types Governor
+图 10-5	RQ和RSV型调速器
+
+
+QR 和RSV 均为德国Bosch （博世） 公司调速器型号，RQ 代表两极式，RSV 代表全程式。
+mechanical governor 机械式调速器
+RQ minimum-maximum-speed governor
+RQ 型两极式调速器
+min-max  governor，  idle  and  limiting speed governor 两极式调速器
+RSV  variable-speed  governor	RSV
+型全程式调速器
+all-speed  governor，  variable-speed  gov- ernor 全程式调速器
+start 起 动
+stop 停 止
+pump plunger 柱 塞
+
+control rack 调节齿杆
+full load stop  全负荷限制器
+control lever 控制杠杆
+injection-pump  camshaft	喷油泵凸轮轴
+flyweight 提前器飞锤
+governor spring 调速弹簧
+sliding bolt 滑动杆
+maximum-speed stop 最高转速限制器
+start （ing） spring    起动弹簧
+stop or idle stop   断油或怠速限制器
+auxiliary idle spring   怠速辅助弹簧
+torque-control spring    转矩控制弹簧
+full-load stop  最大负荷限制器
+
+
+
+Fig. 10-6	Mechanical Add-On Equipment of Governor（1）
+图 10-6	调速器机械式附加装置（1）
+
+
+boost control， manifold-pressure com- pensator 增压补偿器
+altitude control， altitude-pressure com- pensator 海拔高度补偿器
+HAC= high altitude compensator 海 拔
+高度补偿器
+supporting point 支 点
+feed increment direction 增加供给方向
+control rack 调节齿杆
+boost feed fuel stroke 增压供油行程
+
+lever arm 杠杆臂
+diaphragm 膜 片
+boost pressure connection 增压进气压力接头
+spring 弹 簧
+adjustment washer  调节垫片
+push rod 推 杆
+pressure capsule  压力膜盒
+altitude-pressure  connection	大气压力接头
+
+
+
+Fig. 10-7	Mechanical Add-On Equipment of Governor（2）
+图 10-7	调速器机械式附加装置（2）
+
+
+temperature-dependent starting device
+热敏起动装置
+start advance device 起动提前装置
+control rack-travel sensor 调节齿杆行程传感器
+injection  timing  device  [mechanism]， injection auto timer， injection advance mechanism， timing device of injection pump    喷油提前器，（喷射）正时器 auto mechanical timing advance unit 机械式自动喷油提前器
+port-closing  sensor    油孔关闭传感器
+（直列式喷油泵）
+D1 measurement with sensor 传感器计量
+D2 blocking position 锁定位置
+
+control rack 调节齿杆
+start-quantity stop with expansion ele- ment 带膨胀元件的起动油量限制器
+laminated （iron） core    层叠铁心
+reference coil 参照线圈
+fixed short-circuiting ring 固定短路环
+measuring coil 测量线圈
+moving short-circuiting ring 移动短路环
+flyweight， timer flyweight 提前器飞锤
+advance device spring 提前器弹簧
+pump  camshaft，  fuel  injection  pump camshaft 喷油泵凸轮轴
+sensor 传感器
+blocking pin  锁定销
+
+
+Fig. 10-8	Fuel Control Mechanism
+图 10-8	油量调节机构（直列式喷油泵）
+
+
+fork fuel control  mechanism  拨叉式油量调节机构
+rack fuel control mechanism 齿 杆 式油量调节机构
+control rod  调节拉杆
+square section control rod 方形截面调节拉杆
+control fork 调节叉
+engaging fork 啮合叉
+plunger arm， control arm    调节臂
+spill port   回油孔
+inlet port   进油孔
+
+delivery valve 出油阀
+control rack 调节齿杆
+control pinion 调节齿圈
+quadrant [segment] pinion 扇形齿圈
+control sleeve  控制滑套
+plunger flange， plunger lug   柱塞凸缘
+plunger cutaway section 柱塞剖切段
+fuel control slot [helix]   油量控制槽
+vertical slot 竖 槽
+barrel 柱塞套
+plunger 柱 塞
+
+
+
+
+
+Fig. 10-9	Fuel Injector and Nozzle
+图 10-9	喷油器和喷油嘴
+
+
+参考：GB/T  10826.2-2008《燃油喷射装置 词汇 第 2 部分：喷油器》 injector 喷油器
+nozzle-holder assembly， injection nozzle， injection nozzle holder assembly 喷油器
+
+injector [nozzle-holder] with pintle
+（type） nozzle， pintle（-type） injector   轴针式喷油器
+throttle-pintle （nozzle） injector， injector with throttle-pintle nozzle， nozzle-holder
+
+assembly with throttle-pintle nozzle
+节流轴针式喷油器
+screw-in thread mounted injector 螺纹安装式喷油器
+injector [ nozzle-holder ] with hole （-type） nozzle， hole （-type） injector    孔式喷油器
+A， B    upper pressure spring injector   调压弹簧上置式喷油器
+dual-spring nozzle and holder assembly
+双弹簧式喷油器
+VCO = valve closed orifice type nozzle 无压力室喷油嘴， 阀盖孔式喷油嘴， VCO 喷油嘴
+conical sac hole   喷油嘴锥形压力室
+conical nozzle sac   喷油嘴锥形压力室
+cylindrical sac hole  喷油嘴圆柱形压力室
+cylindrical nozzle sac 喷油嘴圆柱形压力室
+H1 prestroke 预行程
+H2 main stroke 主行程
+H1+H2 total stroke 总行程
+needle lift 针阀升程
+inlet， fuel inlet    进油口
+nozzle holder [carrier]， injection nozzle holder[carrier] 喷油器体
+high spring nozzle holder 调压弹簧
+上置式喷油器体（见 A 和 B）
+
+two spring nozzle holder 双弹簧喷油器体（见 C）
+nozzle  （retaining）  nut    喷油嘴压紧帽，喷油嘴固定螺母
+distance piece [sleeve] 隔 套
+injection nozzle， nozzle    喷油嘴
+5a needle 针 阀
+union nut with high-pressure line  带高压油管的连接螺母union[connector]nut 连 接 螺 母 high pressure pipe connection 高压油管接头
+edge filter 缝隙式滤清器
+leak-off connection  回油接头
+fuel leakage pipe， fuel return line， fuel return pipe， leak-off duct    回油管
+pressure-adjusting shim 调压垫片
+pressure spring washer 调压弹簧垫圈
+pressure（ fuel ）passage    压力油道
+pressure spring 调压弹簧
+pressure pin， thrust pin    承压销
+valve push rod  阀推杆
+locating pin [plug] 定位销
+guide element 导向元件
+spring seat 弹簧座
+shim 垫 片
+stop sleeve 止动套
+intermediate element 中间元件
+
+
+
+
+Fig. 10-10	Injection Nozzle
+图 10-10	喷油嘴
+
+
+nozzle 喷油嘴
+pintle （type） nozzle    轴针式喷油嘴
+throttle-pintle nozzle 节流轴针式喷油嘴
+hole-type  nozzle，  orifice  nozzle    孔式喷油嘴
+A， B    closed nozzle    闭式喷油嘴
+pressure pin， thrust pin    承压销
+nozzle body   针阀体，喷油嘴体
+needle， needle valve    针阀
+inlet passage 进油道
+
+pressure passage 压力油道
+pressure chamber 压力室
+spray orifice， nozzle hole， nozzle bore， injector hole 喷 孔
+pintle 轴 针
+annular groove  环形槽
+blind hole 盲 孔
+δ    nozzle hole cone angle， spray-orifice cone angle 喷孔锥角
+angle between spray orifice 喷孔夹角
+
+
+
+Fig. 10-11	Nozzle Shapes（Diesel）
+图 10-11	喷油嘴形式（柴油机）
+
+
+types of nozzles， shapes of nozzle tip    喷油嘴类型
+throttle-pintle  nozzle    节流轴针式喷油嘴
+throttle-pintle nozzle with flat-cut pintle
+平肩节流轴针式喷油嘴
+2a side view 侧视图
+2b front view 正视图
+hole-type nozzle with conical blind hole， conical sac hole nozzle 锥形盲孔式喷油嘴
+hole-type nozzle with cylindrical blind hole， cylindrical sac hole nozzle   柱形盲
+
+孔式喷油嘴
+seat-hole nozzle 座孔式喷油嘴
+valve covered orifice nozzle 阀盖孔式喷油嘴
+single[one]-hole  nozzle，  single-jet[spray] nozzle 单孔式喷油嘴
+nozzle seat 喷油嘴密封座面
+spray hole 喷 孔
+throttle pintle 节流轴针
+pintle 轴 针
+needle seat 针阀密封座面
+
+
+
+Fig. 10-12	Design and Functional Principle of Distributor Pump
+图 10-12	分配泵的结构和功能原理
+
+
+A，B distributor  fuel  injection  pump  分配式喷油泵
+design and functional principle of axial distributor pump 轴向分配泵的结构和功能原理
+design and functional principle of radial distributor pump 径向分配泵的结构和功能原理
+roller 滚 子
+cam plate 凸轮盘
+axial piston 轴向柱塞
+control sleeve  控制滑套
+high pressure chamber 高压腔
+
+fuel outflow to nozzle 至喷油嘴的油流
+metering slot 计量槽
+3+4+5+7 hydraulic  head  assembly  液 压泵头总成
+effective stroke 有效行程
+injection timing by rotating roller ring
+滚子转环式喷射正时
+roller tappet 滚子式挺柱
+radial piston [plunger] 径向柱塞
+cam ring 凸轮圈
+high pressure solenoid valve  高 压电磁阀
+
+
+
+Fig. 10-13	Distributor Fuel Injection Pump
+图 10-13	分配式喷油泵（VE泵）
+
+
+
+
+
+Fig. 10-14	High-Pressure Fuel Injection Pipe and End-connection
+图 10-14	高压油管和管端连接件
+
+
+参考：GB/T  10826.4-2008《燃油喷射装置词汇》第4 部分：高压油管和管端连接件A， B high-pressure fuel injection pipe
+高压油管
+high-pressure pipe 高压管（俗称）
+injection pipe 喷油管（俗称）
+assembled pipe set 高压油管组（合）件
+outer tube [pipe] 外 管seamless tube 无缝管thick-walled tube 厚壁管
+connection end  管端接头
+connecting head 接 头
+2’	sealing face 密封面
+seat face 支承面
+pressure bearing face 压力支承面
+inner tube [pipe] 内 管
+
+1+3 composite tube 复合管
+seamless composite tube 无缝复合管
+1+2+3 high-pressure fuel injection pipe assembly 高压油管部件
+connector collar （高压油管）管接护套
+sleeve washer 套形垫圈
+collar member 套形件
+connector nut 管接螺母
+fastening nut 紧固螺母
+2+4+5 end-connection 管端连接件
+pipe end assembly 管端部件
+stepped portion 台 阶
+annular groove 环形槽
+assembled pipe set 高压油管组（合）件
+assembly clamp 装配夹块
+
+
+
+Fig. 10-15	High-Pressure Fuel Injection Pipe and Pipe Connection（BOSCH）
+图 10-15	高压油管和管接头（博世）
+
+
+embedded joint tight junction attach- ment [connection] 嵌入式接头的高紧密连接件
+attachment[connection] with clamping diaphragm 带压紧横板的连接件
+high-pressure fuel injection pipe con- nection with sealing conical surface and fixed  nut  带密封锥面和固定螺母的高压油管接头
+pipe joint with clamping sealing conical surface  （main  dimension）    带压紧密封锥面的管接头（主要尺寸）
+injector housing[casing] 喷油器壳体
+sealing conical surface 密封锥面
+high-pressure joint 高压接头
+sealing ring[race]   密封圈
+edge filter   缝隙式滤清器
+joint[union] nut 接头螺母
+supply[feed] fuel high-pressure pipe
+供油高压管
+screw fastener connection 螺纹连接件
+cylinder head 气缸盖
+clamping bolt 压紧螺栓
+clamping diaphragm 压紧横板
+molding sealing ring[race] 成型密封圈
+oil  return  pipe  （leakage  fuel  return）
+回油管（泄漏燃油返回）
+
+pressing plate 压 板
+pipe joint with sealing conical surface and fixed nut  带密封锥面和固定螺母的管接头
+high-pressure pipe attachment 高 压
+管连接件
+clamping washer  压紧垫圈
+connection nut 管接螺母
+fastening nut 紧固螺母
+fixed （pipe joint） nut   固定（管接头）螺母
+high-pressure fuel pump inner joint with sealing conical surface 带密封锥面的高压油泵内接头
+sealing face 密封面
+high-pressure oil pump and injector joint 高压油泵和喷油器上的接头
+sealing face （surface）    密封面
+d    （pipe） inner joint outer diameter    （管子）内接头外径
+d1    （pipe） inner joint inner diameter
+（管子）内接头内径
+d2 conical surface inner diameter 锥 面内径
+d3 conical surface outer diameter 锥 面外径
+k	conical surface length 锥面长度
+R1， R2  radius    半径
+
+
+
+Fig. 10-16	Hand Priming Pump and Fuel Supply Pump
+图 10-16	手压泵和输油泵
+
+
+hand primer， hand priming  pump [de- vice]， priming pump    手压泵，手动注油放气泵
+fuel supply [feed， lift] pump， feed pump， supply pump 输油泵
+inlet check valve 进口单向阀
+1a closed 关 闭
+1b opened 开 启
+pump chamber 泵 室
+knob 手 柄
+diaphragm 膜 片
+outlet check valve 出口单向阀（阀在开启状态）
+
+5a valve closed 阀关闭
+to injection pump  至喷油泵
+filter element 滤 芯
+from fuel tank 来自燃油箱
+pump piston  泵活塞
+strainer 滤 网
+pressure chamber  压力室
+spring 弹 簧
+fuel supply pump piston 输油泵活塞
+pushrod 推 杆
+tappet 挺 柱
+camshaft 凸轮轴
+
+
+
+
+
+
+Fig. 10-17	Diesel （Fuel） Filter
+图 10-17	柴油滤清器
+
+
+Diesel Management System
+柴油机管理系统
+
+
+Fig. 11-1	CRI System， UIS and Fuel System with Distributor Injection Pump
+图 11-1	共轨喷射系统、泵喷嘴系统和分配泵燃油喷射系统
+
+
+参考：GB/T    10826.5-2008《燃油喷射装置 词汇 第 5 部分：共轨式燃油喷射系统》A CRI system = common rail injection
+system 共轨式喷射系统
+UIS = unit injector system 泵喷嘴系统EUI injection system = electronic unit injector injection  system  电子控制式泵喷嘴喷射系统
+fuel system with distributor injection pump 分配泵燃油喷射系统
+fuel tank 燃油箱
+preliminary filter， prefilter    预滤清器
+presupply pump， fuel feed [lift， supply] pump 输油泵
+fuel filter 燃油滤清器
+low pressure fuel line [pipe] 低压油管
+high-pressure pump 高压油泵
+
+supply pump 供油泵（日本汽车行业用语），同 high-pressure pump，高压油泵
+6a    radial   piston   distributor   injection， pump with integrated supply pump 集成供油泵的径向柱塞式分配泵
+high-pressure fuel line[pipe] 高压油管
+common rail 共 轨
+injector 喷油器
+10，13 fuel return line[pipe] 回油管
+ECU = electronic control unit 电控单元
+fuel cooler 燃油冷却器
+tandem pump 串联泵
+fuel-temperature sensor  燃油温度传感器
+glow plug 电热塞
+sheathed-element glow plug 封装式电热塞
+
+
+
+
+Fig. 11-2	Types of Common-Rail Systems for Passenger Cars
+图 11-2	乘用车共轨系统类型
+
+
+continuous-delivery radial-piston pump
+连续供油径向柱塞泵
+B，   C	demand-controlled   radial-piston pump 按需调节式径向柱塞泵
+pressure control on the suction side 吸
+入侧压力控制
+pressure control on the suction side and high-pressure side  吸入侧和高压侧压力控制
+system of electric fuel  pump  电动燃油泵系统
+fuel tank 燃油箱
+fuel filter 燃油滤清器
+preliminary filter， prefilter    预滤清器，粗滤器
+electric fuel pump 电动燃油泵
+rail 燃油轨
+
+rail-pressure sensor 油轨压力传感器
+solenoid-valve  injector	电磁阀式喷油器
+pressure-control valve 压力控制阀
+continuous-delivery high-pressure pump
+连续供油高压泵
+demand-controlled high-pressure pump with mounted gear presupply pump and metering unit 装有齿轮式供油泵和计量单元的按需调节式高压泵
+demand-controlled high-pressure pump with metering unit 装有计量单元的按需调节式高压泵
+piezo（electronic）  injector   压电式喷油器
+pressure limiter 压力限制器
+pressure limiting valve 限压阀
+
+
+
+Fig. 11-3	Types of Commercial Vehicles Common-Rail Systems
+图 11-3	商用车共轨系统类型
+
+
+common-rail systems for commercial vehicles
+商用车共轨系统
+demand-controlled high-pressure pump
+按需调节式高压泵
+A， B pressure control on the suction side
+吸入侧压力控制
+demand-controlled radial-piston pump
+按需调节式径向柱塞泵
+demand-controlled two-plunger in-line pump 按需调节式直列双柱塞泵
+fuel tank 燃油箱
+
+preliminary filter 粗滤器
+fuel filter 燃油滤清器
+gear pre-supply  pump  齿轮式预供给泵
+high-pressure pump 高压泵
+metering unit 计量单元
+rail-pressure sensor 燃油轨压力传感器
+rail 燃油轨
+pressure limiter  压力限制器
+pressure limiting valve 限压阀
+injector 喷油器
+
+
+
+Fig. 11-4	Common-Rail Diesel Injection System of Passenger Cars
+图 11-4	乘用车共轨柴油喷射系统
+
+
+sensor [transducer] and pulse generator
+传感器和脉冲发生器
+interface 接 口
+fuel  supply[feed]  system（  low-pressure loop ） 供油系统（低压回路）
+auxiliary system 辅助系统
+air supply system 空气供给
+exhaust gas  aftertreatment system  排气后处理装置
+M torque （发动机）转矩a	version a a 方 案
+b    version b b 方 案
+APPS=accelerator pedal position sensor
+加速踏板位置传感器
+clutch pedal switch 离合器踏板开关
+brake light switch 制动灯开关
+cruise  system  switch  （cruise  control）
+巡航系统开关 （巡航控制）
+glow plug and starter switch（ignition- key  lock）电热塞和起动机开关 （“点火”钥匙）
+VSS =  vehicle  speed  sensor  车速传感器
+crankshaft speed sensor （electric-mag- netic induction）    曲轴转速传感器（电磁感应式）
+camshaft speed sensor（electric-magnetic induction or Hall sensor ） 凸轮轴转速传感器 （电磁感应式或霍尔传感器）
+engine-coolant temperature  sensor  发动机冷却液温度传感器
+IATS = intake-air-temperature sensor
+进气温度传感器
+boost-pressure sensor 增压压力传感器
+MAFM = mass air flow meter 质 量 型空气流量计
+
+MAFS = mass air flow sensor 质 量 型空气流量传感器
+instrument panel assembly[dash-board] with  fuel  gauge，  engine  tachometer  et.带燃油表、发动机转速表等的仪表板
+A/C compressor with control module
+带控制模块的空调压缩机
+diagnosis interface， diagnostic interface
+诊断接口
+glow plug control module 电热塞控制模块
+CAN data transmission bus CAN 数据传输总线
+CAN = controller area  network  控 制器局域网
+high-pressure fuel pump    高压燃油泵
+metering unit    计量单元，配剂量装置
+fuel filter with bypass valve  有旁通阀的燃油滤清器
+fuel tank with prefilter and electric fuel supply  pump  带粗滤器和电动供油泵的燃油箱
+fuel level sensor 燃油液面传感器
+auxiliary measuring device 辅助测量装置
+auxiliary control module 辅助控制模块
+auxiliary tank 副燃油箱
+engine ECU 发动机电控单元ECU=electronic control unit 电 控单元
+rail   燃油轨
+common rail 共 轨
+rail pressure sensor 油轨压力传感器
+fuel pressure adjusting valve （DRV2）
+燃油压力调节阀
+
+DRV2 =（德语）2 型燃油压力调节阀
+injector 喷油器
+glow plug 电热塞
+direct injection diesel engine 直 喷式柴油机
+DI = direct injection 直 喷
+EGR system  cooler  废气再循环系统冷却器
+EGR = exhaust  gas  recirculation  废气再循环
+turbo nozzle vane rotary actuator
+涡轮喷口叶片转动驱动器
+exhaust-gas  turbocharger（VTG）    废气涡轮增压器（可调涡轮几何结构） VTG = variable turbine geometry
+可调涡轮几何结构
+control valve 控制阀
+exhaust gas recirculation valve driving mechanism [train]  废气再循环阀驱动机构
+vacuum pump 真空泵
+broadband O2S 宽带氧传感器
+ETS = exhaust temperature sensor
+
+排气温度传感器
+oxidation  catalytic  converter	氧化催化转化器
+DOC=diesel oxidizing converter 柴 油机氧化转化器
+DOCC =diesel oxidizing catalytic converter
+柴油机氧化催化转化器
+particle filter 微粒过滤器
+ceramic particulate-filter 陶瓷微粒过滤器
+ceramic soot filter  陶瓷炭烟过滤器
+DPF=diesel particulate filter 柴油机
+（排气）微粒过滤器
+differential pressure sensor 压 差 传感器
+NOx storage reduction catalytic con- verter NOx储存还原式催化转换器SCR catalytic  converter  选择性催化还原式催化转化器
+SCR = selective catalyst reduction 选择性催化还原
+broadband sensor， NOx sensor（option）
+宽带氧传感器，NOx传感器（选装件）
+
+
+
+Fig. 11-5	Common-Rail Diesel Injection System of Commercial Vehicles
+图 11-5	商用车共轨柴油喷射系统
+
+
+engine management system and fuel injection system 发动机管理和燃油喷射系统的组成FI= fuel injection 燃油喷射
+А   sensor[transducer， sender] and pulse gene- rator 传感器和脉冲发生器
+В interface 接 口
+С fuel supply[feed] system 供油系统
+D intake system 进气系统
+IA = intake air 进 气
+Е exhaust-emission  control  system  废 气排放物控制系统
+М engine torque 发动机转矩
+a    version a a 方 案b   version b  b 方 案c version c c 方 案
+APPS =accelerator pedal position sensor
+加速踏板位置传感器
+clutch pedal switch 离合器踏板开关
+brake light switch 制动灯开关
+engine exhaust retarder switch 发 动机排气缓速器开关
+parking-brake switch 驻车制动器开关
+change-over switch（e.g. cruise control system， medium speed regulation， despinning and torque）   转换开关（例如：巡航控制系统，中速调节，降低转速和转矩）
+starter  switch（ignition-key  lock）	起动机开关（“点火”开关）
+turbocharger speed sensor 涡轮增压器转速传感器
+crankshaft speed sensor （electric- magnetic induction） 曲轴转速传感器（电磁感应式）
+camshaft speed sensor   凸轮轴转速
+传感器
+fuel temperature sensor   燃油温度传感器
+
+coolant temperature sensor 冷却液温度传感器
+charge-air temperature sensor 增 压空气温度传感器
+boost-pressure sensor 增压压力传感器
+fan speed sensor 风扇转速传感器
+air cleaner differential pressure sensor
+空气滤清器压差传感器
+A/C compression with control module
+带控制模块的空调压缩机
+A/C=air conditioner[conditioning] 空 调
+generator 发电机
+diagnosis interface， diagnostic interface
+诊断接口
+SCR control module （exhaust selective catalyst  clean）    SCR  控制模块（排气选择性催化清洁）
+SCR = selective catalyst reduction
+选择性催化还原
+air compressor  空气压缩机
+CAN  data  transmission  bus（up  to  3） CAN 数据传输总线（多达3 条数据总线） CAN=controller area network 控制器局域网
+high-pressure fuel pump 高压燃油泵
+fuel supply[feed] pump 燃油供给泵
+fuel filter with water level and pressure sensor 有水位和压力传感器的燃油滤清器
+control module cooler 控制模块冷却器
+fuel tank with prefilter 带预滤器的燃油箱
+bypass valve 旁通阀
+fuel level sensor 燃油液面传感器
+engine ECU 发动机电控单元
+ECU=electronic control unit 电控单元
+
+fuel accumulator 燃油蓄压器
+rail 燃油轨
+common rail 共 轨
+rail pressure sensor 共轨压力传感器
+injector 喷油器
+relay 继电器
+auxiliary  assembly[subsystem]    （e.g. delayer， retarder valve in engine exh- aust  system，  starter，  fan）    辅助装置
+（例如：延时器，发动机排气系统中
+的缓速器阀门、起动机、风扇）
+direction injection diesel engine 直喷式柴油机
+DI = direct injection  直接喷射
+electric torch preheater [heat excha- nger]    电动火炬式预热器[热交换器]
+EGR  system  cooler    废气再循环系
+统冷却器
+EGR = exhaust  gas  recirculation  废气再循环
+control valve 控制阀
+EGR valve drive device with position sensor 带位置传感器的废气再循环阀驱动机构
+EGRV/EGR valve = exhaust gas recir- culation valve 废气再循环阀
+intercooler with cold cranking[start] bypass valve  带冷起动旁通阀的中冷器
+exhaust-gas turbocharger（VTG） with position sensor  带位置传感器的可变截面废气涡轮增压器
+VTG = variable turbine geometry
+可变截面涡轮（增压器）
+turbo nozzle vane rotary actuator
+
+涡轮喷口叶片转动驱动器
+ETS = exhaust temperature sensor
+废气温度传感器
+oxidation  catalytic  converter	氧化催化转化器
+DOC=diesel oxidizing converter 柴 油机氧化转化器
+differential pressure sensor 压差传感器
+particulate trap with catalytic coating
+（CSF）    带催化剂涂层的微粒捕集器
+（碳微粒催化过滤器）
+CSF = catalyzed  soot  filter  碳微粒催化过滤器
+DPF=diesel  particulate  filter  柴 油机微粒过滤器
+smog[smoke] sensor 烟度传感器， 碳微粒传感器
+level  sensor  （exhaust-emission  control system  reducer）    液面传感器（排气排放物控制系统还原剂）
+exhaust-emission control system red- ucer canister  废气排放物控制系统还原剂罐
+additive delivery pump 添加剂输送泵
+additive injector 添加剂喷射器
+NOx sensor  NOx 传感器
+selective catalyst reduction converter
+选择性催化还原转化器
+SCR = selective catalyst reduction 选择性催化还原（ 指催化还原着重于NOx）
+NH3  sensor  （optional）    氨传感器（选装件）
+
+
+
+
+Fig. 11-6	Components of Fuel Supply System
+图 11-6	燃油供给系统部件
+
+
+single-stage electric fuel pump 单 级电动燃油泵
+EFP = electric fuel pump  电动燃油泵
+vane pump  叶片泵
+pressure - control valve 压力调节阀
+gear  fuel  pump  （diagram）    齿轮燃油泵（图解）
+locking-vane  pump  （diagram）    锁止叶片泵（图解）
+fuel pump in a tandem pump 串联燃油泵
+fuel-cooling circuit 燃油冷却回路
+pump element 泵送元件
+electric motor 电动机
+connecting cover  连接盖
+pressure side   加压侧
+motor armature 电 枢
+pump element 泵送元件
+pressure limiter  压力限制器
+pressure limiting valve 限压阀
+suction side  进入侧，吸油侧
+non-return valve 单向阀
+inner pump chamber 泵内腔
+eccentric ring 偏心环
+sickle-shaped cell 镰状元件
+fuel inlet （suction cell）    进油口（吸入元件 ）
+pump housing [casing] 泵 壳
+fuel  outlet  （pressure  cell）	出油口
+（压力元件）
+woodruff key 半圆键
+drive shaft 驱动轴
+vane 叶 片
+
+impeller [vane wheel] 叶 轮
+valve body 阀 体
+screw 螺 钉
+compression spring 压缩弹簧
+edge seal 刃口密封
+accumulator plunger 蓄压柱塞
+accumulator volume [chamber]  蓄压室
+conical seat 锥形座
+drive gear 传动机构
+rotor 转 子
+locking vane  锁止叶片
+return to tank  返回燃油箱
+supply from tank 来自燃油箱供油
+throttling bore 节流孔
+filter 滤清器
+suction throttle 吸气节流
+pressure-relief valve 泄压阀
+connection for pressure measurement
+压力测量表接头
+supply， injector    供油至喷油器
+return， injector    来自喷油器回油
+bypass 旁 路
+fuel-supply [feed] pump 供油泵
+fuel-temperature  sensor	燃油温度传感器
+fuel cooler   燃油冷却器
+fuel tank 燃油箱
+expansion tank 膨胀水箱
+engine-cooling circuit[loop]  发动机冷却回路
+coolant pump 冷却液泵
+auxiliary cooler 辅助冷却器
+
+
+
+Fig. 11-7	Radial Plunger Pump
+图 11-7	径向柱塞泵
+
+
+common rail radial piston high pressure pump 共轨径向柱塞高压泵
+A 3 [three]-piston radial-high pressure pump
+3 径向柱塞高压泵
+B  1-plunger  radial-piston  pump   单径向柱塞泵
+1-piston radial-high pressure pump  单径向柱塞高压泵
+eccentric shaft 偏心驱动轴
+polygon （ring）    多边形环
+pump plunger  泵柱塞
+intake [inlet] valve 进油阀
+intake passage  进油道
+high-pressure port 高压出口
+
+outlet valve 出油阀
+plunger foot plate 柱塞底板
+metering unit 计量单元
+cylinder 缸 筒
+pump flange 泵法兰
+bearing 轴 承
+drive shaft 驱动轴
+shaft seal 轴油封
+cylinder head 缸 盖
+non-return valve   单向阀
+roller tappet   滚子式挺柱
+roller support 滚子式支撑
+roller 滚 子
+double [dual] cam 双凸轮
